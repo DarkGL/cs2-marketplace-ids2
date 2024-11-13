@@ -104,7 +104,7 @@ async function main() {
         const itemMoney = responseMoney.items[0];
 
         if(!itemMoney) {
-            console.log(`Item ${item} has no CSMoney sell orders`);
+            console.log(`Item ${item} ${currentItem.name} has no CSMoney sell orders`);
 
             continue;
         }
