@@ -1,0 +1,70 @@
+name: Download
+
+env:
+  CI: "true"
+
+on:
+  schedule:
+    - cron: '0 0 1,15 * *'
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/*.yml
+      - "*.ts"
+      - package.json
+      - package-lock.json
+
+jobs:
+  build:
+    name: "Node ${{ matrix.node-version }}"
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      max-parallel: 1
+      matrix:
+        node-version:
+          - 23.x
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Cache node modules
+        uses: actions/cache@v4
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: npm install
+        run: npm ci
+
+      - name: npm test
+        run: npm run start
+
+        ## FIX: https://github.com/github-actions-x/commit/issues/16
+      - name: Expose git commit data
+        uses: rlespinasse/git-commit-data-action@v1 ## https://github.com/rlespinasse/git-commit-data-action
+
+      - name: push
+        uses: github-actions-x/commit@v2.9
+        ## prevents forked repos from comitting results in PRs
+        if: github.repository == 'DarkGL/cs2-marketplace-ids2'
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: main
+          commit-message: 'feat: ${{ matrix.node-version }} auto downloaded ids'
+          rebase: 'true'
+          name: ${{ env.GIT_COMMIT_AUTHOR_NAME }}   ## FIX: https://github.com/github-actions-x/commit/issues/16
+          email: ${{ env.GIT_COMMIT_AUTHOR_EMAIL }} ## FIX: https://github.com/github-actions-x/commit/issues/16
