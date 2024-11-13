@@ -89,7 +89,7 @@ async function main() {
             continue;
         }
 
-        console.log(`Item ${item} has CSMoney sell orders`);
+        console.log(`Item ${currentItem.name} has CSMoney sell orders`, itemMoney.asset.names.identifier);
 
         csmoneyIds[currentItem.market_hash_name] = {
             name: currentItem.name,
