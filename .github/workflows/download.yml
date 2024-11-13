@@ -9,11 +9,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - .github/workflows/*.yml
-      - "*.ts"
-      - package.json
-      - package-lock.json
 
 jobs:
   build:
