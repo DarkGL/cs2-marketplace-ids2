@@ -75,7 +75,7 @@ async function main() {
 
         const responseMoney = await loadFromCSMoney(currentItem.market_hash_name);
 
-        if(!responseMoney || responseMoney?.items?.length === 0) {
+        if(!responseMoney || !responseMoney?.items || responseMoney?.items?.length === 0) {
             console.log(`Item ${item} has no CSMoney sell orders`);
 
             continue;
