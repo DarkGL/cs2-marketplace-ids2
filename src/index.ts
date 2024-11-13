@@ -54,6 +54,8 @@ async function main() {
 
     console.log('Loaded CSMoney ids', Object.keys(csmoneyIds).length);
 
+    let amountToDownload = 0;
+
     const csmoneyIdsKeys = Object.keys(csmoneyIds);
 
     for (const item in allCS2Items) {
@@ -64,8 +66,26 @@ async function main() {
         }
 
         if(!currentItem.market_hash_name) {
-            console.log(`Item ${item} has no market_hash_name`);
+            continue;
+        }
 
+        if(csmoneyIdsKeys.includes(currentItem.market_hash_name)) {
+            continue;
+        }
+
+        amountToDownload++;
+    }
+
+    console.log('Amount of items to download', amountToDownload);
+
+    for (const item in allCS2Items) {
+        const currentItem = allCS2Items[item];
+
+        if(!currentItem) {
+            continue;
+        }
+
+        if(!currentItem.market_hash_name) {
             continue;
         }
 
