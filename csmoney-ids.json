@@ -15998,5 +15998,2005 @@
   "StatTrak™ FAMAS | Hexane (Field-Tested)": {
     "name": "StatTrak™ FAMAS | Hexane (Field-Tested)",
     "nameId": 2960
+  },
+  "Trapper | Guerrilla Warfare": {
+    "name": "Trapper | Guerrilla Warfare",
+    "nameId": 1087353
+  },
+  "Gift Package": {
+    "name": "Gift Package",
+    "nameId": 14658
+  },
+  "Chroma Case": {
+    "name": "Chroma Case",
+    "nameId": 40
+  },
+  "Glove Case": {
+    "name": "Glove Case",
+    "nameId": 3
+  },
+  "Horizon Case": {
+    "name": "Horizon Case",
+    "nameId": 38434
+  },
+  "Katowice 2019 Dust II Souvenir Package": {
+    "name": "Katowice 2019 Dust II Souvenir Package",
+    "nameId": 199737
+  },
+  "Rio 2022 Inferno Souvenir Package": {
+    "name": "Rio 2022 Inferno Souvenir Package",
+    "nameId": 1109816
+  },
+  "Rio 2022 Nuke Souvenir Package": {
+    "name": "Rio 2022 Nuke Souvenir Package",
+    "nameId": 1109815
+  },
+  "Rio 2022 Vertigo Souvenir Package": {
+    "name": "Rio 2022 Vertigo Souvenir Package",
+    "nameId": 1109818
+  },
+  "Sealed Graffiti | Blood Boiler": {
+    "name": "Sealed Graffiti | Blood Boiler",
+    "nameId": 15742
+  },
+  "Sealed Graffiti | Chabo": {
+    "name": "Sealed Graffiti | Chabo",
+    "nameId": 4832
+  },
+  "Sealed Graffiti | Flickshot": {
+    "name": "Sealed Graffiti | Flickshot",
+    "nameId": 2375
+  },
+  "Sealed Graffiti | Hamster Hawk": {
+    "name": "Sealed Graffiti | Hamster Hawk",
+    "nameId": 15793
+  },
+  "Sealed Graffiti | Tamara": {
+    "name": "Sealed Graffiti | Tamara",
+    "nameId": 2663
+  },
+  "Sealed Graffiti | Unicorn": {
+    "name": "Sealed Graffiti | Unicorn",
+    "nameId": 14332
+  },
+  "Sealed Graffiti | EZ": {
+    "name": "Sealed Graffiti | EZ",
+    "nameId": 9578
+  },
+  "Sealed Graffiti | King Me (Blood Red)": {
+    "name": "Sealed Graffiti | King Me (Blood Red)",
+    "nameId": 8446
+  },
+  "Sealed Graffiti | Cheongsam": {
+    "name": "Sealed Graffiti | Cheongsam",
+    "nameId": 2712
+  },
+  "Sealed Graffiti | God of Fortune": {
+    "name": "Sealed Graffiti | God of Fortune",
+    "nameId": 92
+  },
+  "Sealed Graffiti | Fancy Koi": {
+    "name": "Sealed Graffiti | Fancy Koi",
+    "nameId": 4867
+  },
+  "Sealed Graffiti | Longevity": {
+    "name": "Sealed Graffiti | Longevity",
+    "nameId": 17166
+  },
+  "Sealed Graffiti | Non-Veg": {
+    "name": "Sealed Graffiti | Non-Veg",
+    "nameId": 3440
+  },
+  "Sealed Graffiti | Twin Koi": {
+    "name": "Sealed Graffiti | Twin Koi",
+    "nameId": 3925
+  },
+  "Sealed Graffiti | Rice Bomb": {
+    "name": "Sealed Graffiti | Rice Bomb",
+    "nameId": 13657
+  },
+  "Sealed Graffiti | Shaolin": {
+    "name": "Sealed Graffiti | Shaolin",
+    "nameId": 2170
+  },
+  "Sealed Graffiti | Cloud9 | Boston 2018": {
+    "name": "Sealed Graffiti | Cloud9 | Boston 2018",
+    "nameId": 2871
+  },
+  "Sealed Graffiti | 1G (Brick Red)": {
+    "name": "Sealed Graffiti | 1G (Brick Red)",
+    "nameId": 1074582
+  },
+  "Sealed Graffiti | 1G (Frog Green)": {
+    "name": "Sealed Graffiti | 1G (Frog Green)",
+    "nameId": 1073928
+  },
+  "Sealed Graffiti | 1G (Cash Green)": {
+    "name": "Sealed Graffiti | 1G (Cash Green)",
+    "nameId": 1074031
+  },
+  "Sealed Graffiti | 1G (Wire Blue)": {
+    "name": "Sealed Graffiti | 1G (Wire Blue)",
+    "nameId": 1074116
+  },
+  "Sealed Graffiti | 1G (Monster Purple)": {
+    "name": "Sealed Graffiti | 1G (Monster Purple)",
+    "nameId": 1074851
+  },
+  "Sealed Graffiti | 1G (Bazooka Pink)": {
+    "name": "Sealed Graffiti | 1G (Bazooka Pink)",
+    "nameId": 1074730
+  },
+  "Sealed Graffiti | 1G (Princess Pink)": {
+    "name": "Sealed Graffiti | 1G (Princess Pink)",
+    "nameId": 1074435
+  },
+  "Sealed Graffiti | 200 IQ (Tiger Orange)": {
+    "name": "Sealed Graffiti | 200 IQ (Tiger Orange)",
+    "nameId": 1074444
+  },
+  "Sealed Graffiti | 200 IQ (Jungle Green)": {
+    "name": "Sealed Graffiti | 200 IQ (Jungle Green)",
+    "nameId": 1074688
+  },
+  "Sealed Graffiti | 200 IQ (Frog Green)": {
+    "name": "Sealed Graffiti | 200 IQ (Frog Green)",
+    "nameId": 1073949
+  },
+  "Sealed Graffiti | 200 IQ (Cash Green)": {
+    "name": "Sealed Graffiti | 200 IQ (Cash Green)",
+    "nameId": 1074397
+  },
+  "Sealed Graffiti | 200 IQ (Violent Violet)": {
+    "name": "Sealed Graffiti | 200 IQ (Violent Violet)",
+    "nameId": 1074849
+  },
+  "Sealed Graffiti | 200 IQ (Monster Purple)": {
+    "name": "Sealed Graffiti | 200 IQ (Monster Purple)",
+    "nameId": 1074721
+  },
+  "Sealed Graffiti | 200 IQ (Bazooka Pink)": {
+    "name": "Sealed Graffiti | 200 IQ (Bazooka Pink)",
+    "nameId": 1074501
+  },
+  "Sealed Graffiti | 200 IQ (Shark White)": {
+    "name": "Sealed Graffiti | 200 IQ (Shark White)",
+    "nameId": 1074681
+  },
+  "Sealed Graffiti | Applause (Jungle Green)": {
+    "name": "Sealed Graffiti | Applause (Jungle Green)",
+    "nameId": 1074083
+  },
+  "Sealed Graffiti | Applause (Frog Green)": {
+    "name": "Sealed Graffiti | Applause (Frog Green)",
+    "nameId": 1073896
+  },
+  "Sealed Graffiti | Applause (Wire Blue)": {
+    "name": "Sealed Graffiti | Applause (Wire Blue)",
+    "nameId": 1074228
+  },
+  "Sealed Graffiti | Applause (Violent Violet)": {
+    "name": "Sealed Graffiti | Applause (Violent Violet)",
+    "nameId": 1074401
+  },
+  "Sealed Graffiti | Applause (War Pig Pink)": {
+    "name": "Sealed Graffiti | Applause (War Pig Pink)",
+    "nameId": 1074341
+  },
+  "Sealed Graffiti | Applause (Shark White)": {
+    "name": "Sealed Graffiti | Applause (Shark White)",
+    "nameId": 1074653
+  },
+  "Sealed Graffiti | BEEP (Dust Brown)": {
+    "name": "Sealed Graffiti | BEEP (Dust Brown)",
+    "nameId": 1074283
+  },
+  "Sealed Graffiti | BEEP (Desert Amber)": {
+    "name": "Sealed Graffiti | BEEP (Desert Amber)",
+    "nameId": 1074092
+  },
+  "Sealed Graffiti | BEEP (SWAT Blue)": {
+    "name": "Sealed Graffiti | BEEP (SWAT Blue)",
+    "nameId": 1074242
+  },
+  "Sealed Graffiti | BEEP (Violent Violet)": {
+    "name": "Sealed Graffiti | BEEP (Violent Violet)",
+    "nameId": 1074492
+  },
+  "Sealed Graffiti | BEEP (Bazooka Pink)": {
+    "name": "Sealed Graffiti | BEEP (Bazooka Pink)",
+    "nameId": 1074379
+  },
+  "Sealed Graffiti | BOOM (Blood Red)": {
+    "name": "Sealed Graffiti | BOOM (Blood Red)",
+    "nameId": 1074194
+  },
+  "Sealed Graffiti | BOOM (Tracer Yellow)": {
+    "name": "Sealed Graffiti | BOOM (Tracer Yellow)",
+    "nameId": 1074249
+  },
+  "Sealed Graffiti | BOOM (Jungle Green)": {
+    "name": "Sealed Graffiti | BOOM (Jungle Green)",
+    "nameId": 1074074
+  },
+  "Sealed Graffiti | BOOM (Frog Green)": {
+    "name": "Sealed Graffiti | BOOM (Frog Green)",
+    "nameId": 1074325
+  },
+  "Sealed Graffiti | BOOM (Violent Violet)": {
+    "name": "Sealed Graffiti | BOOM (Violent Violet)",
+    "nameId": 1074044
+  },
+  "Sealed Graffiti | Shining Star (Blood Red)": {
+    "name": "Sealed Graffiti | Shining Star (Blood Red)",
+    "nameId": 1074550
+  },
+  "Sealed Graffiti | Shining Star (Tiger Orange)": {
+    "name": "Sealed Graffiti | Shining Star (Tiger Orange)",
+    "nameId": 1074146
+  },
+  "Sealed Graffiti | Shining Star (Dust Brown)": {
+    "name": "Sealed Graffiti | Shining Star (Dust Brown)",
+    "nameId": 1074732
+  },
+  "Sealed Graffiti | Shining Star (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Shining Star (Tracer Yellow)",
+    "nameId": 1073874
+  },
+  "Sealed Graffiti | Shining Star (Bazooka Pink)": {
+    "name": "Sealed Graffiti | Shining Star (Bazooka Pink)",
+    "nameId": 1074123
+  },
+  "Sealed Graffiti | Broken Heart (Tiger Orange)": {
+    "name": "Sealed Graffiti | Broken Heart (Tiger Orange)",
+    "nameId": 1074419
+  },
+  "Sealed Graffiti | Broken Heart (Frog Green)": {
+    "name": "Sealed Graffiti | Broken Heart (Frog Green)",
+    "nameId": 1074523
+  },
+  "Sealed Graffiti | Broken Heart (Cash Green)": {
+    "name": "Sealed Graffiti | Broken Heart (Cash Green)",
+    "nameId": 1074238
+  },
+  "Sealed Graffiti | Broken Heart (Monarch Blue)": {
+    "name": "Sealed Graffiti | Broken Heart (Monarch Blue)",
+    "nameId": 1074606
+  },
+  "Sealed Graffiti | Broken Heart (War Pig Pink)": {
+    "name": "Sealed Graffiti | Broken Heart (War Pig Pink)",
+    "nameId": 1073905
+  },
+  "Sealed Graffiti | Denied (Dust Brown)": {
+    "name": "Sealed Graffiti | Denied (Dust Brown)",
+    "nameId": 1074294
+  },
+  "Sealed Graffiti | Denied (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Denied (Tracer Yellow)",
+    "nameId": 1074551
+  },
+  "Sealed Graffiti | Denied (Cash Green)": {
+    "name": "Sealed Graffiti | Denied (Cash Green)",
+    "nameId": 1074452
+  },
+  "Sealed Graffiti | Denied (Monarch Blue)": {
+    "name": "Sealed Graffiti | Denied (Monarch Blue)",
+    "nameId": 1074019
+  },
+  "Sealed Graffiti | Denied (Violent Violet)": {
+    "name": "Sealed Graffiti | Denied (Violent Violet)",
+    "nameId": 1074237
+  },
+  "Sealed Graffiti | Denied (Shark White)": {
+    "name": "Sealed Graffiti | Denied (Shark White)",
+    "nameId": 1074472
+  },
+  "Sealed Graffiti | Chef Kiss (Blood Red)": {
+    "name": "Sealed Graffiti | Chef Kiss (Blood Red)",
+    "nameId": 1074276
+  },
+  "Sealed Graffiti | Chef Kiss (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Chef Kiss (Tracer Yellow)",
+    "nameId": 1074751
+  },
+  "Sealed Graffiti | Chef Kiss (Frog Green)": {
+    "name": "Sealed Graffiti | Chef Kiss (Frog Green)",
+    "nameId": 1074519
+  },
+  "Sealed Graffiti | Chef Kiss (SWAT Blue)": {
+    "name": "Sealed Graffiti | Chef Kiss (SWAT Blue)",
+    "nameId": 1074400
+  },
+  "Sealed Graffiti | Chef Kiss (Bazooka Pink)": {
+    "name": "Sealed Graffiti | Chef Kiss (Bazooka Pink)",
+    "nameId": 1074417
+  },
+  "Sealed Graffiti | Chef Kiss (Shark White)": {
+    "name": "Sealed Graffiti | Chef Kiss (Shark White)",
+    "nameId": 1073954
+  },
+  "Sealed Graffiti | Little Bock (Blood Red)": {
+    "name": "Sealed Graffiti | Little Bock (Blood Red)",
+    "nameId": 1074599
+  },
+  "Sealed Graffiti | Little Bock (Dust Brown)": {
+    "name": "Sealed Graffiti | Little Bock (Dust Brown)",
+    "nameId": 1074270
+  },
+  "Sealed Graffiti | Little Bock (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Little Bock (Tracer Yellow)",
+    "nameId": 1074342
+  },
+  "Sealed Graffiti | Little Bock (Monarch Blue)": {
+    "name": "Sealed Graffiti | Little Bock (Monarch Blue)",
+    "nameId": 1074565
+  },
+  "Sealed Graffiti | Little Bock (War Pig Pink)": {
+    "name": "Sealed Graffiti | Little Bock (War Pig Pink)",
+    "nameId": 1074230
+  },
+  "Sealed Graffiti | Little Bock (Shark White)": {
+    "name": "Sealed Graffiti | Little Bock (Shark White)",
+    "nameId": 1074583
+  },
+  "Sealed Graffiti | Choke (Tiger Orange)": {
+    "name": "Sealed Graffiti | Choke (Tiger Orange)",
+    "nameId": 1074680
+  },
+  "Sealed Graffiti | Choke (Desert Amber)": {
+    "name": "Sealed Graffiti | Choke (Desert Amber)",
+    "nameId": 1074707
+  },
+  "Sealed Graffiti | Choke (Battle Green)": {
+    "name": "Sealed Graffiti | Choke (Battle Green)",
+    "nameId": 1074142
+  },
+  "Sealed Graffiti | Choke (Monster Purple)": {
+    "name": "Sealed Graffiti | Choke (Monster Purple)",
+    "nameId": 1074277
+  },
+  "Sealed Graffiti | Choke (Shark White)": {
+    "name": "Sealed Graffiti | Choke (Shark White)",
+    "nameId": 1074504
+  },
+  "Sealed Graffiti | Bock Bock (Tiger Orange)": {
+    "name": "Sealed Graffiti | Bock Bock (Tiger Orange)",
+    "nameId": 1074628
+  },
+  "Sealed Graffiti | Bock Bock (Dust Brown)": {
+    "name": "Sealed Graffiti | Bock Bock (Dust Brown)",
+    "nameId": 1074499
+  },
+  "Sealed Graffiti | Bock Bock (Desert Amber)": {
+    "name": "Sealed Graffiti | Bock Bock (Desert Amber)",
+    "nameId": 1074727
+  },
+  "Sealed Graffiti | Bock Bock (Battle Green)": {
+    "name": "Sealed Graffiti | Bock Bock (Battle Green)",
+    "nameId": 1074604
+  },
+  "Sealed Graffiti | Bock Bock (Monarch Blue)": {
+    "name": "Sealed Graffiti | Bock Bock (Monarch Blue)",
+    "nameId": 1074172
+  },
+  "Sealed Graffiti | Bock Bock (SWAT Blue)": {
+    "name": "Sealed Graffiti | Bock Bock (SWAT Blue)",
+    "nameId": 1074416
+  },
+  "Sealed Graffiti | Bock Bock (Monster Purple)": {
+    "name": "Sealed Graffiti | Bock Bock (Monster Purple)",
+    "nameId": 1073990
+  },
+  "Sealed Graffiti | Bock Bock (Princess Pink)": {
+    "name": "Sealed Graffiti | Bock Bock (Princess Pink)",
+    "nameId": 1074542
+  },
+  "Sealed Graffiti | Dead Now (Dust Brown)": {
+    "name": "Sealed Graffiti | Dead Now (Dust Brown)",
+    "nameId": 1074723
+  },
+  "Sealed Graffiti | Dead Now (Desert Amber)": {
+    "name": "Sealed Graffiti | Dead Now (Desert Amber)",
+    "nameId": 1074091
+  },
+  "Sealed Graffiti | Dead Now (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Dead Now (Tracer Yellow)",
+    "nameId": 1074206
+  },
+  "Sealed Graffiti | Dead Now (Battle Green)": {
+    "name": "Sealed Graffiti | Dead Now (Battle Green)",
+    "nameId": 1074426
+  },
+  "Sealed Graffiti | Dead Now (Frog Green)": {
+    "name": "Sealed Graffiti | Dead Now (Frog Green)",
+    "nameId": 1074529
+  },
+  "Sealed Graffiti | Dead Now (Wire Blue)": {
+    "name": "Sealed Graffiti | Dead Now (Wire Blue)",
+    "nameId": 1074189
+  },
+  "Sealed Graffiti | Dead Now (Princess Pink)": {
+    "name": "Sealed Graffiti | Dead Now (Princess Pink)",
+    "nameId": 1074697
+  },
+  "Sealed Graffiti | Dead Now (War Pig Pink)": {
+    "name": "Sealed Graffiti | Dead Now (War Pig Pink)",
+    "nameId": 1074766
+  },
+  "Sealed Graffiti | Fart (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Fart (Tracer Yellow)",
+    "nameId": 1074071
+  },
+  "Sealed Graffiti | Fart (Battle Green)": {
+    "name": "Sealed Graffiti | Fart (Battle Green)",
+    "nameId": 1074335
+  },
+  "Sealed Graffiti | Fart (Jungle Green)": {
+    "name": "Sealed Graffiti | Fart (Jungle Green)",
+    "nameId": 1074395
+  },
+  "Sealed Graffiti | Fart (Princess Pink)": {
+    "name": "Sealed Graffiti | Fart (Princess Pink)",
+    "nameId": 1074468
+  },
+  "Sealed Graffiti | Goofy (Tiger Orange)": {
+    "name": "Sealed Graffiti | Goofy (Tiger Orange)",
+    "nameId": 1074264
+  },
+  "Sealed Graffiti | Goofy (Desert Amber)": {
+    "name": "Sealed Graffiti | Goofy (Desert Amber)",
+    "nameId": 1073933
+  },
+  "Sealed Graffiti | Goofy (Frog Green)": {
+    "name": "Sealed Graffiti | Goofy (Frog Green)",
+    "nameId": 1074017
+  },
+  "Sealed Graffiti | Goofy (SWAT Blue)": {
+    "name": "Sealed Graffiti | Goofy (SWAT Blue)",
+    "nameId": 1074414
+  },
+  "Sealed Graffiti | Goofy (Violent Violet)": {
+    "name": "Sealed Graffiti | Goofy (Violent Violet)",
+    "nameId": 1074637
+  },
+  "Sealed Graffiti | Goofy (Monster Purple)": {
+    "name": "Sealed Graffiti | Goofy (Monster Purple)",
+    "nameId": 1074671
+  },
+  "Sealed Graffiti | Goofy (War Pig Pink)": {
+    "name": "Sealed Graffiti | Goofy (War Pig Pink)",
+    "nameId": 1074699
+  },
+  "Sealed Graffiti | Grimace (Brick Red)": {
+    "name": "Sealed Graffiti | Grimace (Brick Red)",
+    "nameId": 1074473
+  },
+  "Sealed Graffiti | Grimace (Tiger Orange)": {
+    "name": "Sealed Graffiti | Grimace (Tiger Orange)",
+    "nameId": 1074075
+  },
+  "Sealed Graffiti | Grimace (Desert Amber)": {
+    "name": "Sealed Graffiti | Grimace (Desert Amber)",
+    "nameId": 1074365
+  },
+  "Sealed Graffiti | Grimace (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Grimace (Tracer Yellow)",
+    "nameId": 1074394
+  },
+  "Sealed Graffiti | Grimace (Cash Green)": {
+    "name": "Sealed Graffiti | Grimace (Cash Green)",
+    "nameId": 1074167
+  },
+  "Sealed Graffiti | Grimace (Monarch Blue)": {
+    "name": "Sealed Graffiti | Grimace (Monarch Blue)",
+    "nameId": 1074755
+  },
+  "Sealed Graffiti | Grimace (Princess Pink)": {
+    "name": "Sealed Graffiti | Grimace (Princess Pink)",
+    "nameId": 1074571
+  },
+  "Sealed Graffiti | Grimace (War Pig Pink)": {
+    "name": "Sealed Graffiti | Grimace (War Pig Pink)",
+    "nameId": 1074759
+  },
+  "Sealed Graffiti | Grimace (Shark White)": {
+    "name": "Sealed Graffiti | Grimace (Shark White)",
+    "nameId": 1074060
+  },
+  "Sealed Graffiti | Happy Cat (Blood Red)": {
+    "name": "Sealed Graffiti | Happy Cat (Blood Red)",
+    "nameId": 1074332
+  },
+  "Sealed Graffiti | Happy Cat (Desert Amber)": {
+    "name": "Sealed Graffiti | Happy Cat (Desert Amber)",
+    "nameId": 1074768
+  },
+  "Sealed Graffiti | Happy Cat (Cash Green)": {
+    "name": "Sealed Graffiti | Happy Cat (Cash Green)",
+    "nameId": 1074295
+  },
+  "Sealed Graffiti | Happy Cat (Wire Blue)": {
+    "name": "Sealed Graffiti | Happy Cat (Wire Blue)",
+    "nameId": 1073924
+  },
+  "Sealed Graffiti | Happy Cat (Monarch Blue)": {
+    "name": "Sealed Graffiti | Happy Cat (Monarch Blue)",
+    "nameId": 1074763
+  },
+  "Sealed Graffiti | Hop (Brick Red)": {
+    "name": "Sealed Graffiti | Hop (Brick Red)",
+    "nameId": 1073881
+  },
+  "Sealed Graffiti | Hop (Blood Red)": {
+    "name": "Sealed Graffiti | Hop (Blood Red)",
+    "nameId": 1074317
+  },
+  "Sealed Graffiti | Hop (Tiger Orange)": {
+    "name": "Sealed Graffiti | Hop (Tiger Orange)",
+    "nameId": 1074239
+  },
+  "Sealed Graffiti | Hop (Dust Brown)": {
+    "name": "Sealed Graffiti | Hop (Dust Brown)",
+    "nameId": 1074652
+  },
+  "Sealed Graffiti | Hop (Jungle Green)": {
+    "name": "Sealed Graffiti | Hop (Jungle Green)",
+    "nameId": 1073864
+  },
+  "Sealed Graffiti | Hop (Frog Green)": {
+    "name": "Sealed Graffiti | Hop (Frog Green)",
+    "nameId": 1073970
+  },
+  "Sealed Graffiti | Hop (Monarch Blue)": {
+    "name": "Sealed Graffiti | Hop (Monarch Blue)",
+    "nameId": 1074347
+  },
+  "Sealed Graffiti | Hop (SWAT Blue)": {
+    "name": "Sealed Graffiti | Hop (SWAT Blue)",
+    "nameId": 1074543
+  },
+  "Sealed Graffiti | Kiss (Brick Red)": {
+    "name": "Sealed Graffiti | Kiss (Brick Red)",
+    "nameId": 1074398
+  },
+  "Sealed Graffiti | Kiss (Desert Amber)": {
+    "name": "Sealed Graffiti | Kiss (Desert Amber)",
+    "nameId": 1074654
+  },
+  "Sealed Graffiti | Kiss (Wire Blue)": {
+    "name": "Sealed Graffiti | Kiss (Wire Blue)",
+    "nameId": 1074442
+  },
+  "Sealed Graffiti | Kiss (Monster Purple)": {
+    "name": "Sealed Graffiti | Kiss (Monster Purple)",
+    "nameId": 1074336
+  },
+  "Sealed Graffiti | Kiss (Princess Pink)": {
+    "name": "Sealed Graffiti | Kiss (Princess Pink)",
+    "nameId": 1074057
+  },
+  "Sealed Graffiti | Kiss (War Pig Pink)": {
+    "name": "Sealed Graffiti | Kiss (War Pig Pink)",
+    "nameId": 1074002
+  },
+  "Sealed Graffiti | Little Crown (Brick Red)": {
+    "name": "Sealed Graffiti | Little Crown (Brick Red)",
+    "nameId": 1074585
+  },
+  "Sealed Graffiti | Little Crown (Dust Brown)": {
+    "name": "Sealed Graffiti | Little Crown (Dust Brown)",
+    "nameId": 1074299
+  },
+  "Sealed Graffiti | Little Crown (SWAT Blue)": {
+    "name": "Sealed Graffiti | Little Crown (SWAT Blue)",
+    "nameId": 1074370
+  },
+  "Sealed Graffiti | Little Crown (Monster Purple)": {
+    "name": "Sealed Graffiti | Little Crown (Monster Purple)",
+    "nameId": 1074678
+  },
+  "Sealed Graffiti | Little Crown (Princess Pink)": {
+    "name": "Sealed Graffiti | Little Crown (Princess Pink)",
+    "nameId": 1073992
+  },
+  "Sealed Graffiti | Little Crown (War Pig Pink)": {
+    "name": "Sealed Graffiti | Little Crown (War Pig Pink)",
+    "nameId": 1074070
+  },
+  "Sealed Graffiti | Little EZ (Blood Red)": {
+    "name": "Sealed Graffiti | Little EZ (Blood Red)",
+    "nameId": 1074080
+  },
+  "Sealed Graffiti | Little EZ (Tiger Orange)": {
+    "name": "Sealed Graffiti | Little EZ (Tiger Orange)",
+    "nameId": 1073996
+  },
+  "Sealed Graffiti | Little EZ (Dust Brown)": {
+    "name": "Sealed Graffiti | Little EZ (Dust Brown)",
+    "nameId": 1074220
+  },
+  "Sealed Graffiti | Little EZ (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Little EZ (Tracer Yellow)",
+    "nameId": 1074247
+  },
+  "Sealed Graffiti | Little EZ (Battle Green)": {
+    "name": "Sealed Graffiti | Little EZ (Battle Green)",
+    "nameId": 1074124
+  },
+  "Sealed Graffiti | Little EZ (Jungle Green)": {
+    "name": "Sealed Graffiti | Little EZ (Jungle Green)",
+    "nameId": 1074456
+  },
+  "Sealed Graffiti | Little EZ (Frog Green)": {
+    "name": "Sealed Graffiti | Little EZ (Frog Green)",
+    "nameId": 1074689
+  },
+  "Sealed Graffiti | Little EZ (Wire Blue)": {
+    "name": "Sealed Graffiti | Little EZ (Wire Blue)",
+    "nameId": 1074822
+  },
+  "Sealed Graffiti | Little EZ (Monster Purple)": {
+    "name": "Sealed Graffiti | Little EZ (Monster Purple)",
+    "nameId": 1074511
+  },
+  "Sealed Graffiti | Little EZ (Princess Pink)": {
+    "name": "Sealed Graffiti | Little EZ (Princess Pink)",
+    "nameId": 1074265
+  },
+  "Sealed Graffiti | Dizzy (Tiger Orange)": {
+    "name": "Sealed Graffiti | Dizzy (Tiger Orange)",
+    "nameId": 1074813
+  },
+  "Sealed Graffiti | Dizzy (Monarch Blue)": {
+    "name": "Sealed Graffiti | Dizzy (Monarch Blue)",
+    "nameId": 1074326
+  },
+  "Sealed Graffiti | Dizzy (Monster Purple)": {
+    "name": "Sealed Graffiti | Dizzy (Monster Purple)",
+    "nameId": 1073983
+  },
+  "Sealed Graffiti | NT (Brick Red)": {
+    "name": "Sealed Graffiti | NT (Brick Red)",
+    "nameId": 1073885
+  },
+  "Sealed Graffiti | NT (Dust Brown)": {
+    "name": "Sealed Graffiti | NT (Dust Brown)",
+    "nameId": 1074139
+  },
+  "Sealed Graffiti | NT (Desert Amber)": {
+    "name": "Sealed Graffiti | NT (Desert Amber)",
+    "nameId": 1074464
+  },
+  "Sealed Graffiti | NT (Tracer Yellow)": {
+    "name": "Sealed Graffiti | NT (Tracer Yellow)",
+    "nameId": 1074386
+  },
+  "Sealed Graffiti | NT (Frog Green)": {
+    "name": "Sealed Graffiti | NT (Frog Green)",
+    "nameId": 1074024
+  },
+  "Sealed Graffiti | NT (Violent Violet)": {
+    "name": "Sealed Graffiti | NT (Violent Violet)",
+    "nameId": 1074617
+  },
+  "Sealed Graffiti | NT (Monster Purple)": {
+    "name": "Sealed Graffiti | NT (Monster Purple)",
+    "nameId": 1074573
+  },
+  "Sealed Graffiti | NT (Princess Pink)": {
+    "name": "Sealed Graffiti | NT (Princess Pink)",
+    "nameId": 1074443
+  },
+  "Sealed Graffiti | Okay (Brick Red)": {
+    "name": "Sealed Graffiti | Okay (Brick Red)",
+    "nameId": 1074572
+  },
+  "Sealed Graffiti | Okay (Tiger Orange)": {
+    "name": "Sealed Graffiti | Okay (Tiger Orange)",
+    "nameId": 1074684
+  },
+  "Sealed Graffiti | Okay (Dust Brown)": {
+    "name": "Sealed Graffiti | Okay (Dust Brown)",
+    "nameId": 1074704
+  },
+  "Sealed Graffiti | Okay (Desert Amber)": {
+    "name": "Sealed Graffiti | Okay (Desert Amber)",
+    "nameId": 1074100
+  },
+  "Sealed Graffiti | Okay (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Okay (Tracer Yellow)",
+    "nameId": 1074726
+  },
+  "Sealed Graffiti | Okay (Wire Blue)": {
+    "name": "Sealed Graffiti | Okay (Wire Blue)",
+    "nameId": 1073955
+  },
+  "Sealed Graffiti | Okay (Violent Violet)": {
+    "name": "Sealed Graffiti | Okay (Violent Violet)",
+    "nameId": 1074641
+  },
+  "Sealed Graffiti | Okay (Princess Pink)": {
+    "name": "Sealed Graffiti | Okay (Princess Pink)",
+    "nameId": 1074425
+  },
+  "Sealed Graffiti | Okay (War Pig Pink)": {
+    "name": "Sealed Graffiti | Okay (War Pig Pink)",
+    "nameId": 1074152
+  },
+  "Sealed Graffiti | OMG (Dust Brown)": {
+    "name": "Sealed Graffiti | OMG (Dust Brown)",
+    "nameId": 1074693
+  },
+  "Sealed Graffiti | OMG (Desert Amber)": {
+    "name": "Sealed Graffiti | OMG (Desert Amber)",
+    "nameId": 1074509
+  },
+  "Sealed Graffiti | OMG (Tracer Yellow)": {
+    "name": "Sealed Graffiti | OMG (Tracer Yellow)",
+    "nameId": 1074340
+  },
+  "Sealed Graffiti | OMG (Jungle Green)": {
+    "name": "Sealed Graffiti | OMG (Jungle Green)",
+    "nameId": 1074192
+  },
+  "Sealed Graffiti | OMG (Wire Blue)": {
+    "name": "Sealed Graffiti | OMG (Wire Blue)",
+    "nameId": 1074626
+  },
+  "Sealed Graffiti | OMG (Monarch Blue)": {
+    "name": "Sealed Graffiti | OMG (Monarch Blue)",
+    "nameId": 1074446
+  },
+  "Sealed Graffiti | OMG (Monster Purple)": {
+    "name": "Sealed Graffiti | OMG (Monster Purple)",
+    "nameId": 1074062
+  },
+  "Sealed Graffiti | OMG (Bazooka Pink)": {
+    "name": "Sealed Graffiti | OMG (Bazooka Pink)",
+    "nameId": 1074747
+  },
+  "Sealed Graffiti | Oops (Dust Brown)": {
+    "name": "Sealed Graffiti | Oops (Dust Brown)",
+    "nameId": 1074624
+  },
+  "Sealed Graffiti | Oops (Desert Amber)": {
+    "name": "Sealed Graffiti | Oops (Desert Amber)",
+    "nameId": 1074166
+  },
+  "Sealed Graffiti | Oops (Battle Green)": {
+    "name": "Sealed Graffiti | Oops (Battle Green)",
+    "nameId": 1074715
+  },
+  "Sealed Graffiti | Oops (Monster Purple)": {
+    "name": "Sealed Graffiti | Oops (Monster Purple)",
+    "nameId": 1074545
+  },
+  "Sealed Graffiti | Puke (Blood Red)": {
+    "name": "Sealed Graffiti | Puke (Blood Red)",
+    "nameId": 1073867
+  },
+  "Sealed Graffiti | Puke (Dust Brown)": {
+    "name": "Sealed Graffiti | Puke (Dust Brown)",
+    "nameId": 1074073
+  },
+  "Sealed Graffiti | Puke (Monster Purple)": {
+    "name": "Sealed Graffiti | Puke (Monster Purple)",
+    "nameId": 1074199
+  },
+  "Sealed Graffiti | Rly (Frog Green)": {
+    "name": "Sealed Graffiti | Rly (Frog Green)",
+    "nameId": 1074319
+  },
+  "Sealed Graffiti | Silver Bullet (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Silver Bullet (Tracer Yellow)",
+    "nameId": 1074463
+  },
+  "Sealed Graffiti | Silver Bullet (Jungle Green)": {
+    "name": "Sealed Graffiti | Silver Bullet (Jungle Green)",
+    "nameId": 1074034
+  },
+  "Sealed Graffiti | Silver Bullet (Wire Blue)": {
+    "name": "Sealed Graffiti | Silver Bullet (Wire Blue)",
+    "nameId": 1074569
+  },
+  "Sealed Graffiti | Silver Bullet (Monarch Blue)": {
+    "name": "Sealed Graffiti | Silver Bullet (Monarch Blue)",
+    "nameId": 1074591
+  },
+  "Sealed Graffiti | Silver Bullet (Bazooka Pink)": {
+    "name": "Sealed Graffiti | Silver Bullet (Bazooka Pink)",
+    "nameId": 1074497
+  },
+  "Sealed Graffiti | Silver Bullet (War Pig Pink)": {
+    "name": "Sealed Graffiti | Silver Bullet (War Pig Pink)",
+    "nameId": 1074825
+  },
+  "Sealed Graffiti | Silver Bullet (Shark White)": {
+    "name": "Sealed Graffiti | Silver Bullet (Shark White)",
+    "nameId": 1074399
+  },
+  "Sealed Graffiti | Smarmy (Dust Brown)": {
+    "name": "Sealed Graffiti | Smarmy (Dust Brown)",
+    "nameId": 1074588
+  },
+  "Sealed Graffiti | Smarmy (Cash Green)": {
+    "name": "Sealed Graffiti | Smarmy (Cash Green)",
+    "nameId": 1074285
+  },
+  "Sealed Graffiti | Smarmy (Princess Pink)": {
+    "name": "Sealed Graffiti | Smarmy (Princess Pink)",
+    "nameId": 1074297
+  },
+  "Sealed Graffiti | Smirk (Brick Red)": {
+    "name": "Sealed Graffiti | Smirk (Brick Red)",
+    "nameId": 1074812
+  },
+  "Sealed Graffiti | Smirk (Blood Red)": {
+    "name": "Sealed Graffiti | Smirk (Blood Red)",
+    "nameId": 1074004
+  },
+  "Sealed Graffiti | Smirk (Dust Brown)": {
+    "name": "Sealed Graffiti | Smirk (Dust Brown)",
+    "nameId": 1074236
+  },
+  "Sealed Graffiti | Smirk (Jungle Green)": {
+    "name": "Sealed Graffiti | Smirk (Jungle Green)",
+    "nameId": 1074289
+  },
+  "Sealed Graffiti | Smirk (Cash Green)": {
+    "name": "Sealed Graffiti | Smirk (Cash Green)",
+    "nameId": 1074534
+  },
+  "Sealed Graffiti | Smirk (SWAT Blue)": {
+    "name": "Sealed Graffiti | Smirk (SWAT Blue)",
+    "nameId": 1074590
+  },
+  "Sealed Graffiti | Smirk (Monster Purple)": {
+    "name": "Sealed Graffiti | Smirk (Monster Purple)",
+    "nameId": 1073869
+  },
+  "Sealed Graffiti | Smirk (Bazooka Pink)": {
+    "name": "Sealed Graffiti | Smirk (Bazooka Pink)",
+    "nameId": 1074609
+  },
+  "Sealed Graffiti | Smirk (Princess Pink)": {
+    "name": "Sealed Graffiti | Smirk (Princess Pink)",
+    "nameId": 1074423
+  },
+  "Sealed Graffiti | Smooch (Desert Amber)": {
+    "name": "Sealed Graffiti | Smooch (Desert Amber)",
+    "nameId": 1074662
+  },
+  "Sealed Graffiti | Smooch (Jungle Green)": {
+    "name": "Sealed Graffiti | Smooch (Jungle Green)",
+    "nameId": 1073942
+  },
+  "Sealed Graffiti | Smooch (Monarch Blue)": {
+    "name": "Sealed Graffiti | Smooch (Monarch Blue)",
+    "nameId": 1074036
+  },
+  "Sealed Graffiti | Thoughtfull (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Thoughtfull (Tracer Yellow)",
+    "nameId": 1074154
+  },
+  "Sealed Graffiti | Thoughtfull (Frog Green)": {
+    "name": "Sealed Graffiti | Thoughtfull (Frog Green)",
+    "nameId": 1074168
+  },
+  "Sealed Graffiti | Thoughtfull (Wire Blue)": {
+    "name": "Sealed Graffiti | Thoughtfull (Wire Blue)",
+    "nameId": 1073886
+  },
+  "Sealed Graffiti | Thoughtfull (Monster Purple)": {
+    "name": "Sealed Graffiti | Thoughtfull (Monster Purple)",
+    "nameId": 1074382
+  },
+  "Sealed Graffiti | Thoughtfull (Bazooka Pink)": {
+    "name": "Sealed Graffiti | Thoughtfull (Bazooka Pink)",
+    "nameId": 1074441
+  },
+  "Sealed Graffiti | Thoughtfull (War Pig Pink)": {
+    "name": "Sealed Graffiti | Thoughtfull (War Pig Pink)",
+    "nameId": 1074580
+  },
+  "Sealed Graffiti | Uh Oh (Desert Amber)": {
+    "name": "Sealed Graffiti | Uh Oh (Desert Amber)",
+    "nameId": 1073979
+  },
+  "Sealed Graffiti | Uh Oh (Frog Green)": {
+    "name": "Sealed Graffiti | Uh Oh (Frog Green)",
+    "nameId": 1074392
+  },
+  "Sealed Graffiti | Uh Oh (Violent Violet)": {
+    "name": "Sealed Graffiti | Uh Oh (Violent Violet)",
+    "nameId": 1074834
+  },
+  "CS:GO Capsule Key": {
+    "name": "CS:GO Capsule Key",
+    "nameId": 14328
+  },
+  "Music Kit | Skog, Metal": {
+    "name": "Music Kit | Skog, Metal",
+    "nameId": 1383
+  },
+  "StatTrak™ Music Kit | Jesse Harlin, Astro Bellum": {
+    "name": "StatTrak™ Music Kit | Jesse Harlin, Astro Bellum",
+    "nameId": 1086496
+  },
+  "StatTrak™ Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!": {
+    "name": "StatTrak™ Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",
+    "nameId": 2597681
+  },
+  "Patch | Dragon": {
+    "name": "Patch | Dragon",
+    "nameId": 1078750
+  },
+  "Patch | Easy Peasy": {
+    "name": "Patch | Easy Peasy",
+    "nameId": 1078738
+  },
+  "Patch | Koi": {
+    "name": "Patch | Koi",
+    "nameId": 1078733
+  },
+  "Patch | Metal Distinguished Master Guardian ★": {
+    "name": "Patch | Metal Distinguished Master Guardian ★",
+    "nameId": 1084106
+  },
+  "Patch | Alyx": {
+    "name": "Patch | Alyx",
+    "nameId": 1079231
+  },
+  "Patch | Sustenance!": {
+    "name": "Patch | Sustenance!",
+    "nameId": 1079221
+  },
+  "Patch | Copper Lambda": {
+    "name": "Patch | Copper Lambda",
+    "nameId": 1079230
+  },
+  "Patch | Health": {
+    "name": "Patch | Health",
+    "nameId": 1079229
+  },
+  "Patch | Black Mesa": {
+    "name": "Patch | Black Mesa",
+    "nameId": 1079228
+  },
+  "Patch | Lambda": {
+    "name": "Patch | Lambda",
+    "nameId": 1079214
+  },
+  "Patch | Metal Gold Nova": {
+    "name": "Patch | Metal Gold Nova",
+    "nameId": 1084108
+  },
+  "Patch | Sunset Wave": {
+    "name": "Patch | Sunset Wave",
+    "nameId": 1087389
+  },
+  "Patch | BIG (Gold) | Stockholm 2021": {
+    "name": "Patch | BIG (Gold) | Stockholm 2021",
+    "nameId": 1088483
+  },
+  "Patch | Sharks Esports (Gold) | Stockholm 2021": {
+    "name": "Patch | Sharks Esports (Gold) | Stockholm 2021",
+    "nameId": 1088466
+  },
+  "Desert Eagle | Pilot (Well-Worn)": {
+    "name": "Desert Eagle | Pilot (Well-Worn)",
+    "nameId": 9310
+  },
+  "Desert Eagle | Mecha Industries (Field-Tested)": {
+    "name": "Desert Eagle | Mecha Industries (Field-Tested)",
+    "nameId": 171509
+  },
+  "Desert Eagle | Blue Ply (Battle-Scarred)": {
+    "name": "Desert Eagle | Blue Ply (Battle-Scarred)",
+    "nameId": 1079411
+  },
+  "Desert Eagle | Night Heist (Well-Worn)": {
+    "name": "Desert Eagle | Night Heist (Well-Worn)",
+    "nameId": 1083844
+  },
+  "Desert Eagle | Trigger Discipline (Field-Tested)": {
+    "name": "Desert Eagle | Trigger Discipline (Field-Tested)",
+    "nameId": 1085436
+  },
+  "Five-SeveN | Coolant (Field-Tested)": {
+    "name": "Five-SeveN | Coolant (Field-Tested)",
+    "nameId": 170424
+  },
+  "AUG | Colony (Battle-Scarred)": {
+    "name": "AUG | Colony (Battle-Scarred)",
+    "nameId": 3279
+  },
+  "AUG | Lil' Pig (Minimal Wear)": {
+    "name": "AUG | Lil' Pig (Minimal Wear)",
+    "nameId": 2598161
+  },
+  "AUG | Lil' Pig (Well-Worn)": {
+    "name": "AUG | Lil' Pig (Well-Worn)",
+    "nameId": 2598261
+  },
+  "StatTrak™ AWP | Containment Breach (Well-Worn)": {
+    "name": "StatTrak™ AWP | Containment Breach (Well-Worn)",
+    "nameId": 1074963
+  },
+  "FAMAS | CaliCamo (Factory New)": {
+    "name": "FAMAS | CaliCamo (Factory New)",
+    "nameId": 1086904
+  },
+  "FAMAS | CaliCamo (Minimal Wear)": {
+    "name": "FAMAS | CaliCamo (Minimal Wear)",
+    "nameId": 1086905
+  },
+  "FAMAS | CaliCamo (Field-Tested)": {
+    "name": "FAMAS | CaliCamo (Field-Tested)",
+    "nameId": 1086892
+  },
+  "FAMAS | CaliCamo (Well-Worn)": {
+    "name": "FAMAS | CaliCamo (Well-Worn)",
+    "nameId": 1087157
+  },
+  "FAMAS | CaliCamo (Battle-Scarred)": {
+    "name": "FAMAS | CaliCamo (Battle-Scarred)",
+    "nameId": 1087070
+  },
+  "Souvenir FAMAS | CaliCamo (Factory New)": {
+    "name": "Souvenir FAMAS | CaliCamo (Factory New)",
+    "nameId": 1088610
+  },
+  "Souvenir FAMAS | CaliCamo (Minimal Wear)": {
+    "name": "Souvenir FAMAS | CaliCamo (Minimal Wear)",
+    "nameId": 1088551
+  },
+  "Souvenir FAMAS | CaliCamo (Field-Tested)": {
+    "name": "Souvenir FAMAS | CaliCamo (Field-Tested)",
+    "nameId": 1088554
+  },
+  "Souvenir FAMAS | CaliCamo (Well-Worn)": {
+    "name": "Souvenir FAMAS | CaliCamo (Well-Worn)",
+    "nameId": 1088599
+  },
+  "Souvenir FAMAS | CaliCamo (Battle-Scarred)": {
+    "name": "Souvenir FAMAS | CaliCamo (Battle-Scarred)",
+    "nameId": 1088565
+  },
+  "FAMAS | Teardown (Factory New)": {
+    "name": "FAMAS | Teardown (Factory New)",
+    "nameId": 1606
+  },
+  "FAMAS | Teardown (Minimal Wear)": {
+    "name": "FAMAS | Teardown (Minimal Wear)",
+    "nameId": 1469
+  },
+  "FAMAS | Teardown (Field-Tested)": {
+    "name": "FAMAS | Teardown (Field-Tested)",
+    "nameId": 4995
+  },
+  "FAMAS | Teardown (Well-Worn)": {
+    "name": "FAMAS | Teardown (Well-Worn)",
+    "nameId": 285
+  },
+  "FAMAS | Teardown (Battle-Scarred)": {
+    "name": "FAMAS | Teardown (Battle-Scarred)",
+    "nameId": 8447
+  },
+  "Souvenir FAMAS | Teardown (Factory New)": {
+    "name": "Souvenir FAMAS | Teardown (Factory New)",
+    "nameId": 23915
+  },
+  "Souvenir FAMAS | Teardown (Well-Worn)": {
+    "name": "Souvenir FAMAS | Teardown (Well-Worn)",
+    "nameId": 28313
+  },
+  "Souvenir FAMAS | Teardown (Battle-Scarred)": {
+    "name": "Souvenir FAMAS | Teardown (Battle-Scarred)",
+    "nameId": 28543
+  },
+  "FAMAS | Pulse (Factory New)": {
+    "name": "FAMAS | Pulse (Factory New)",
+    "nameId": 79
+  },
+  "FAMAS | Pulse (Minimal Wear)": {
+    "name": "FAMAS | Pulse (Minimal Wear)",
+    "nameId": 1980
+  },
+  "FAMAS | Pulse (Field-Tested)": {
+    "name": "FAMAS | Pulse (Field-Tested)",
+    "nameId": 4024
+  },
+  "StatTrak™ FAMAS | Pulse (Factory New)": {
+    "name": "StatTrak™ FAMAS | Pulse (Factory New)",
+    "nameId": 361
+  },
+  "StatTrak™ FAMAS | Pulse (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Pulse (Minimal Wear)",
+    "nameId": 9623
+  },
+  "StatTrak™ FAMAS | Pulse (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Pulse (Field-Tested)",
+    "nameId": 3133
+  },
+  "FAMAS | Sergeant (Minimal Wear)": {
+    "name": "FAMAS | Sergeant (Minimal Wear)",
+    "nameId": 7808
+  },
+  "FAMAS | Sergeant (Field-Tested)": {
+    "name": "FAMAS | Sergeant (Field-Tested)",
+    "nameId": 9251
+  },
+  "FAMAS | Sergeant (Well-Worn)": {
+    "name": "FAMAS | Sergeant (Well-Worn)",
+    "nameId": 2171
+  },
+  "FAMAS | Sergeant (Battle-Scarred)": {
+    "name": "FAMAS | Sergeant (Battle-Scarred)",
+    "nameId": 2914
+  },
+  "StatTrak™ FAMAS | Sergeant (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Sergeant (Minimal Wear)",
+    "nameId": 3073
+  },
+  "StatTrak™ FAMAS | Sergeant (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Sergeant (Field-Tested)",
+    "nameId": 2117
+  },
+  "StatTrak™ FAMAS | Sergeant (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Sergeant (Well-Worn)",
+    "nameId": 4951
+  },
+  "StatTrak™ FAMAS | Sergeant (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Sergeant (Battle-Scarred)",
+    "nameId": 14679
+  },
+  "FAMAS | Styx (Factory New)": {
+    "name": "FAMAS | Styx (Factory New)",
+    "nameId": 7796
+  },
+  "FAMAS | Styx (Minimal Wear)": {
+    "name": "FAMAS | Styx (Minimal Wear)",
+    "nameId": 13660
+  },
+  "FAMAS | Styx (Field-Tested)": {
+    "name": "FAMAS | Styx (Field-Tested)",
+    "nameId": 6309
+  },
+  "FAMAS | Styx (Well-Worn)": {
+    "name": "FAMAS | Styx (Well-Worn)",
+    "nameId": 2659
+  },
+  "Souvenir FAMAS | Styx (Factory New)": {
+    "name": "Souvenir FAMAS | Styx (Factory New)",
+    "nameId": 9709
+  },
+  "Souvenir FAMAS | Styx (Minimal Wear)": {
+    "name": "Souvenir FAMAS | Styx (Minimal Wear)",
+    "nameId": 10480
+  },
+  "Souvenir FAMAS | Styx (Field-Tested)": {
+    "name": "Souvenir FAMAS | Styx (Field-Tested)",
+    "nameId": 8810
+  },
+  "Souvenir FAMAS | Styx (Well-Worn)": {
+    "name": "Souvenir FAMAS | Styx (Well-Worn)",
+    "nameId": 20110
+  },
+  "Souvenir FAMAS | Styx (Battle-Scarred)": {
+    "name": "Souvenir FAMAS | Styx (Battle-Scarred)",
+    "nameId": 4830
+  },
+  "FAMAS | Djinn (Factory New)": {
+    "name": "FAMAS | Djinn (Factory New)",
+    "nameId": 911
+  },
+  "FAMAS | Djinn (Minimal Wear)": {
+    "name": "FAMAS | Djinn (Minimal Wear)",
+    "nameId": 7357
+  },
+  "FAMAS | Djinn (Field-Tested)": {
+    "name": "FAMAS | Djinn (Field-Tested)",
+    "nameId": 870
+  },
+  "FAMAS | Djinn (Well-Worn)": {
+    "name": "FAMAS | Djinn (Well-Worn)",
+    "nameId": 176
+  },
+  "FAMAS | Djinn (Battle-Scarred)": {
+    "name": "FAMAS | Djinn (Battle-Scarred)",
+    "nameId": 9208
+  },
+  "StatTrak™ FAMAS | Djinn (Factory New)": {
+    "name": "StatTrak™ FAMAS | Djinn (Factory New)",
+    "nameId": 18286
+  },
+  "StatTrak™ FAMAS | Djinn (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Djinn (Minimal Wear)",
+    "nameId": 15785
+  },
+  "StatTrak™ FAMAS | Djinn (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Djinn (Field-Tested)",
+    "nameId": 7376
+  },
+  "StatTrak™ FAMAS | Djinn (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Djinn (Battle-Scarred)",
+    "nameId": 7137
+  },
+  "FAMAS | Half Sleeve (Factory New)": {
+    "name": "FAMAS | Half Sleeve (Factory New)",
+    "nameId": 2597740
+  },
+  "FAMAS | Half Sleeve (Minimal Wear)": {
+    "name": "FAMAS | Half Sleeve (Minimal Wear)",
+    "nameId": 2597705
+  },
+  "FAMAS | Half Sleeve (Field-Tested)": {
+    "name": "FAMAS | Half Sleeve (Field-Tested)",
+    "nameId": 2597711
+  },
+  "FAMAS | Half Sleeve (Well-Worn)": {
+    "name": "FAMAS | Half Sleeve (Well-Worn)",
+    "nameId": 2597716
+  },
+  "FAMAS | Half Sleeve (Battle-Scarred)": {
+    "name": "FAMAS | Half Sleeve (Battle-Scarred)",
+    "nameId": 2597845
+  },
+  "FAMAS | Neural Net (Factory New)": {
+    "name": "FAMAS | Neural Net (Factory New)",
+    "nameId": 1972
+  },
+  "FAMAS | Neural Net (Minimal Wear)": {
+    "name": "FAMAS | Neural Net (Minimal Wear)",
+    "nameId": 3739
+  },
+  "FAMAS | Neural Net (Field-Tested)": {
+    "name": "FAMAS | Neural Net (Field-Tested)",
+    "nameId": 3490
+  },
+  "FAMAS | Neural Net (Well-Worn)": {
+    "name": "FAMAS | Neural Net (Well-Worn)",
+    "nameId": 4108
+  },
+  "FAMAS | Neural Net (Battle-Scarred)": {
+    "name": "FAMAS | Neural Net (Battle-Scarred)",
+    "nameId": 3128
+  },
+  "StatTrak™ FAMAS | Neural Net (Factory New)": {
+    "name": "StatTrak™ FAMAS | Neural Net (Factory New)",
+    "nameId": 4062
+  },
+  "StatTrak™ FAMAS | Neural Net (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Neural Net (Minimal Wear)",
+    "nameId": 4952
+  },
+  "StatTrak™ FAMAS | Neural Net (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Neural Net (Field-Tested)",
+    "nameId": 1326
+  },
+  "StatTrak™ FAMAS | Neural Net (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Neural Net (Well-Worn)",
+    "nameId": 968
+  },
+  "StatTrak™ FAMAS | Neural Net (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Neural Net (Battle-Scarred)",
+    "nameId": 1000
+  },
+  "FAMAS | Survivor Z (Factory New)": {
+    "name": "FAMAS | Survivor Z (Factory New)",
+    "nameId": 891
+  },
+  "FAMAS | Survivor Z (Minimal Wear)": {
+    "name": "FAMAS | Survivor Z (Minimal Wear)",
+    "nameId": 1016
+  },
+  "FAMAS | Survivor Z (Field-Tested)": {
+    "name": "FAMAS | Survivor Z (Field-Tested)",
+    "nameId": 83
+  },
+  "FAMAS | Survivor Z (Well-Worn)": {
+    "name": "FAMAS | Survivor Z (Well-Worn)",
+    "nameId": 9424
+  },
+  "FAMAS | Survivor Z (Battle-Scarred)": {
+    "name": "FAMAS | Survivor Z (Battle-Scarred)",
+    "nameId": 393
+  },
+  "StatTrak™ FAMAS | Survivor Z (Factory New)": {
+    "name": "StatTrak™ FAMAS | Survivor Z (Factory New)",
+    "nameId": 1999
+  },
+  "StatTrak™ FAMAS | Survivor Z (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Survivor Z (Minimal Wear)",
+    "nameId": 7224
+  },
+  "StatTrak™ FAMAS | Survivor Z (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Survivor Z (Field-Tested)",
+    "nameId": 26
+  },
+  "StatTrak™ FAMAS | Survivor Z (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Survivor Z (Well-Worn)",
+    "nameId": 160
+  },
+  "StatTrak™ FAMAS | Survivor Z (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Survivor Z (Battle-Scarred)",
+    "nameId": 2148
+  },
+  "FAMAS | Valence (Factory New)": {
+    "name": "FAMAS | Valence (Factory New)",
+    "nameId": 1395
+  },
+  "FAMAS | Valence (Minimal Wear)": {
+    "name": "FAMAS | Valence (Minimal Wear)",
+    "nameId": 1822
+  },
+  "FAMAS | Valence (Field-Tested)": {
+    "name": "FAMAS | Valence (Field-Tested)",
+    "nameId": 2842
+  },
+  "FAMAS | Valence (Well-Worn)": {
+    "name": "FAMAS | Valence (Well-Worn)",
+    "nameId": 103
+  },
+  "FAMAS | Valence (Battle-Scarred)": {
+    "name": "FAMAS | Valence (Battle-Scarred)",
+    "nameId": 2323
+  },
+  "StatTrak™ FAMAS | Valence (Factory New)": {
+    "name": "StatTrak™ FAMAS | Valence (Factory New)",
+    "nameId": 5005
+  },
+  "StatTrak™ FAMAS | Valence (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Valence (Minimal Wear)",
+    "nameId": 853
+  },
+  "StatTrak™ FAMAS | Valence (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Valence (Field-Tested)",
+    "nameId": 9325
+  },
+  "StatTrak™ FAMAS | Valence (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Valence (Well-Worn)",
+    "nameId": 9254
+  },
+  "StatTrak™ FAMAS | Valence (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Valence (Battle-Scarred)",
+    "nameId": 7387
+  },
+  "FAMAS | Roll Cage (Factory New)": {
+    "name": "FAMAS | Roll Cage (Factory New)",
+    "nameId": 1539
+  },
+  "FAMAS | Roll Cage (Minimal Wear)": {
+    "name": "FAMAS | Roll Cage (Minimal Wear)",
+    "nameId": 4802
+  },
+  "FAMAS | Roll Cage (Field-Tested)": {
+    "name": "FAMAS | Roll Cage (Field-Tested)",
+    "nameId": 2828
+  },
+  "FAMAS | Roll Cage (Well-Worn)": {
+    "name": "FAMAS | Roll Cage (Well-Worn)",
+    "nameId": 1675
+  },
+  "FAMAS | Roll Cage (Battle-Scarred)": {
+    "name": "FAMAS | Roll Cage (Battle-Scarred)",
+    "nameId": 3301
+  },
+  "StatTrak™ FAMAS | Roll Cage (Factory New)": {
+    "name": "StatTrak™ FAMAS | Roll Cage (Factory New)",
+    "nameId": 13821
+  },
+  "StatTrak™ FAMAS | Roll Cage (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Roll Cage (Minimal Wear)",
+    "nameId": 7278
+  },
+  "StatTrak™ FAMAS | Roll Cage (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Roll Cage (Field-Tested)",
+    "nameId": 251
+  },
+  "StatTrak™ FAMAS | Roll Cage (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Roll Cage (Well-Worn)",
+    "nameId": 506
+  },
+  "StatTrak™ FAMAS | Roll Cage (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Roll Cage (Battle-Scarred)",
+    "nameId": 4988
+  },
+  "FAMAS | Mecha Industries (Factory New)": {
+    "name": "FAMAS | Mecha Industries (Factory New)",
+    "nameId": 1289
+  },
+  "FAMAS | Mecha Industries (Minimal Wear)": {
+    "name": "FAMAS | Mecha Industries (Minimal Wear)",
+    "nameId": 646
+  },
+  "FAMAS | Mecha Industries (Field-Tested)": {
+    "name": "FAMAS | Mecha Industries (Field-Tested)",
+    "nameId": 2499
+  },
+  "FAMAS | Mecha Industries (Well-Worn)": {
+    "name": "FAMAS | Mecha Industries (Well-Worn)",
+    "nameId": 2979
+  },
+  "FAMAS | Mecha Industries (Battle-Scarred)": {
+    "name": "FAMAS | Mecha Industries (Battle-Scarred)",
+    "nameId": 235
+  },
+  "StatTrak™ FAMAS | Mecha Industries (Factory New)": {
+    "name": "StatTrak™ FAMAS | Mecha Industries (Factory New)",
+    "nameId": 4859
+  },
+  "StatTrak™ FAMAS | Mecha Industries (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Mecha Industries (Minimal Wear)",
+    "nameId": 4897
+  },
+  "StatTrak™ FAMAS | Mecha Industries (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Mecha Industries (Field-Tested)",
+    "nameId": 13378
+  },
+  "StatTrak™ FAMAS | Mecha Industries (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Mecha Industries (Well-Worn)",
+    "nameId": 4141
+  },
+  "StatTrak™ FAMAS | Mecha Industries (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Mecha Industries (Battle-Scarred)",
+    "nameId": 2190
+  },
+  "FAMAS | Macabre (Factory New)": {
+    "name": "FAMAS | Macabre (Factory New)",
+    "nameId": 7098
+  },
+  "FAMAS | Macabre (Minimal Wear)": {
+    "name": "FAMAS | Macabre (Minimal Wear)",
+    "nameId": 969
+  },
+  "FAMAS | Macabre (Field-Tested)": {
+    "name": "FAMAS | Macabre (Field-Tested)",
+    "nameId": 3621
+  },
+  "StatTrak™ FAMAS | Macabre (Factory New)": {
+    "name": "StatTrak™ FAMAS | Macabre (Factory New)",
+    "nameId": 2154
+  },
+  "StatTrak™ FAMAS | Macabre (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Macabre (Field-Tested)",
+    "nameId": 12134
+  },
+  "StatTrak™ FAMAS | Macabre (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Macabre (Battle-Scarred)",
+    "nameId": 1786
+  },
+  "FAMAS | Eye of Athena (Factory New)": {
+    "name": "FAMAS | Eye of Athena (Factory New)",
+    "nameId": 38474
+  },
+  "FAMAS | Eye of Athena (Minimal Wear)": {
+    "name": "FAMAS | Eye of Athena (Minimal Wear)",
+    "nameId": 38483
+  },
+  "FAMAS | Eye of Athena (Field-Tested)": {
+    "name": "FAMAS | Eye of Athena (Field-Tested)",
+    "nameId": 38455
+  },
+  "FAMAS | Eye of Athena (Well-Worn)": {
+    "name": "FAMAS | Eye of Athena (Well-Worn)",
+    "nameId": 38677
+  },
+  "FAMAS | Eye of Athena (Battle-Scarred)": {
+    "name": "FAMAS | Eye of Athena (Battle-Scarred)",
+    "nameId": 38554
+  },
+  "StatTrak™ FAMAS | Eye of Athena (Factory New)": {
+    "name": "StatTrak™ FAMAS | Eye of Athena (Factory New)",
+    "nameId": 38759
+  },
+  "StatTrak™ FAMAS | Eye of Athena (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Eye of Athena (Minimal Wear)",
+    "nameId": 38538
+  },
+  "StatTrak™ FAMAS | Eye of Athena (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Eye of Athena (Field-Tested)",
+    "nameId": 38583
+  },
+  "StatTrak™ FAMAS | Eye of Athena (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Eye of Athena (Well-Worn)",
+    "nameId": 38666
+  },
+  "StatTrak™ FAMAS | Eye of Athena (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Eye of Athena (Battle-Scarred)",
+    "nameId": 38691
+  },
+  "FAMAS | Crypsis (Factory New)": {
+    "name": "FAMAS | Crypsis (Factory New)",
+    "nameId": 201753
+  },
+  "FAMAS | Crypsis (Minimal Wear)": {
+    "name": "FAMAS | Crypsis (Minimal Wear)",
+    "nameId": 201760
+  },
+  "FAMAS | Crypsis (Field-Tested)": {
+    "name": "FAMAS | Crypsis (Field-Tested)",
+    "nameId": 201794
+  },
+  "FAMAS | Crypsis (Well-Worn)": {
+    "name": "FAMAS | Crypsis (Well-Worn)",
+    "nameId": 201876
+  },
+  "FAMAS | Crypsis (Battle-Scarred)": {
+    "name": "FAMAS | Crypsis (Battle-Scarred)",
+    "nameId": 201771
+  },
+  "StatTrak™ FAMAS | Crypsis (Factory New)": {
+    "name": "StatTrak™ FAMAS | Crypsis (Factory New)",
+    "nameId": 201840
+  },
+  "StatTrak™ FAMAS | Crypsis (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Crypsis (Minimal Wear)",
+    "nameId": 201811
+  },
+  "StatTrak™ FAMAS | Crypsis (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Crypsis (Field-Tested)",
+    "nameId": 201761
+  },
+  "StatTrak™ FAMAS | Crypsis (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Crypsis (Well-Worn)",
+    "nameId": 201871
+  },
+  "StatTrak™ FAMAS | Crypsis (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Crypsis (Battle-Scarred)",
+    "nameId": 201954
+  },
+  "FAMAS | Night Borre (Factory New)": {
+    "name": "FAMAS | Night Borre (Factory New)",
+    "nameId": 1073862
+  },
+  "FAMAS | Night Borre (Minimal Wear)": {
+    "name": "FAMAS | Night Borre (Minimal Wear)",
+    "nameId": 1073907
+  },
+  "FAMAS | Night Borre (Field-Tested)": {
+    "name": "FAMAS | Night Borre (Field-Tested)",
+    "nameId": 1074120
+  },
+  "FAMAS | Night Borre (Well-Worn)": {
+    "name": "FAMAS | Night Borre (Well-Worn)",
+    "nameId": 1074682
+  },
+  "FAMAS | Night Borre (Battle-Scarred)": {
+    "name": "FAMAS | Night Borre (Battle-Scarred)",
+    "nameId": 1074373
+  },
+  "FAMAS | Sundown (Factory New)": {
+    "name": "FAMAS | Sundown (Factory New)",
+    "nameId": 1074838
+  },
+  "FAMAS | Sundown (Minimal Wear)": {
+    "name": "FAMAS | Sundown (Minimal Wear)",
+    "nameId": 1073993
+  },
+  "FAMAS | Sundown (Field-Tested)": {
+    "name": "FAMAS | Sundown (Field-Tested)",
+    "nameId": 1074757
+  },
+  "FAMAS | Halftone Wash (Factory New)": {
+    "name": "FAMAS | Halftone Wash (Factory New)",
+    "nameId": 2598104
+  },
+  "FAMAS | Halftone Wash (Minimal Wear)": {
+    "name": "FAMAS | Halftone Wash (Minimal Wear)",
+    "nameId": 2597785
+  },
+  "FAMAS | Halftone Wash (Field-Tested)": {
+    "name": "FAMAS | Halftone Wash (Field-Tested)",
+    "nameId": 2598043
+  },
+  "FAMAS | Halftone Wash (Well-Worn)": {
+    "name": "FAMAS | Halftone Wash (Well-Worn)",
+    "nameId": 2598208
+  },
+  "FAMAS | Decommissioned (Factory New)": {
+    "name": "FAMAS | Decommissioned (Factory New)",
+    "nameId": 1073196
+  },
+  "FAMAS | Decommissioned (Minimal Wear)": {
+    "name": "FAMAS | Decommissioned (Minimal Wear)",
+    "nameId": 1073151
+  },
+  "FAMAS | Decommissioned (Field-Tested)": {
+    "name": "FAMAS | Decommissioned (Field-Tested)",
+    "nameId": 1073164
+  },
+  "FAMAS | Decommissioned (Well-Worn)": {
+    "name": "FAMAS | Decommissioned (Well-Worn)",
+    "nameId": 1073153
+  },
+  "FAMAS | Decommissioned (Battle-Scarred)": {
+    "name": "FAMAS | Decommissioned (Battle-Scarred)",
+    "nameId": 1073152
+  },
+  "StatTrak™ FAMAS | Decommissioned (Factory New)": {
+    "name": "StatTrak™ FAMAS | Decommissioned (Factory New)",
+    "nameId": 1073297
+  },
+  "StatTrak™ FAMAS | Decommissioned (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Decommissioned (Minimal Wear)",
+    "nameId": 1073192
+  },
+  "StatTrak™ FAMAS | Decommissioned (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Decommissioned (Field-Tested)",
+    "nameId": 1073117
+  },
+  "StatTrak™ FAMAS | Decommissioned (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Decommissioned (Well-Worn)",
+    "nameId": 1073205
+  },
+  "StatTrak™ FAMAS | Decommissioned (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Decommissioned (Battle-Scarred)",
+    "nameId": 1073155
+  },
+  "FAMAS | Commemoration (Factory New)": {
+    "name": "FAMAS | Commemoration (Factory New)",
+    "nameId": 1073215
+  },
+  "FAMAS | Commemoration (Minimal Wear)": {
+    "name": "FAMAS | Commemoration (Minimal Wear)",
+    "nameId": 1073198
+  },
+  "FAMAS | Commemoration (Field-Tested)": {
+    "name": "FAMAS | Commemoration (Field-Tested)",
+    "nameId": 1073219
+  },
+  "FAMAS | Commemoration (Well-Worn)": {
+    "name": "FAMAS | Commemoration (Well-Worn)",
+    "nameId": 1073279
+  },
+  "FAMAS | Commemoration (Battle-Scarred)": {
+    "name": "FAMAS | Commemoration (Battle-Scarred)",
+    "nameId": 1073246
+  },
+  "StatTrak™ FAMAS | Commemoration (Factory New)": {
+    "name": "StatTrak™ FAMAS | Commemoration (Factory New)",
+    "nameId": 1073275
+  },
+  "StatTrak™ FAMAS | Commemoration (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Commemoration (Minimal Wear)",
+    "nameId": 1073293
+  },
+  "StatTrak™ FAMAS | Commemoration (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Commemoration (Field-Tested)",
+    "nameId": 1073287
+  },
+  "StatTrak™ FAMAS | Commemoration (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Commemoration (Well-Worn)",
+    "nameId": 1073492
+  },
+  "StatTrak™ FAMAS | Commemoration (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Commemoration (Battle-Scarred)",
+    "nameId": 1073366
+  },
+  "FAMAS | Prime Conspiracy (Factory New)": {
+    "name": "FAMAS | Prime Conspiracy (Factory New)",
+    "nameId": 1083775
+  },
+  "FAMAS | Prime Conspiracy (Minimal Wear)": {
+    "name": "FAMAS | Prime Conspiracy (Minimal Wear)",
+    "nameId": 1083607
+  },
+  "FAMAS | Prime Conspiracy (Field-Tested)": {
+    "name": "FAMAS | Prime Conspiracy (Field-Tested)",
+    "nameId": 1083623
+  },
+  "FAMAS | Prime Conspiracy (Well-Worn)": {
+    "name": "FAMAS | Prime Conspiracy (Well-Worn)",
+    "nameId": 1083805
+  },
+  "FAMAS | Meltdown (Factory New)": {
+    "name": "FAMAS | Meltdown (Factory New)",
+    "nameId": 1086981
+  },
+  "FAMAS | Meltdown (Minimal Wear)": {
+    "name": "FAMAS | Meltdown (Minimal Wear)",
+    "nameId": 1086900
+  },
+  "FAMAS | Meltdown (Field-Tested)": {
+    "name": "FAMAS | Meltdown (Field-Tested)",
+    "nameId": 1086881
+  },
+  "FAMAS | Meltdown (Well-Worn)": {
+    "name": "FAMAS | Meltdown (Well-Worn)",
+    "nameId": 1087446
+  },
+  "FAMAS | Faulty Wiring (Factory New)": {
+    "name": "FAMAS | Faulty Wiring (Factory New)",
+    "nameId": 1087177
+  },
+  "FAMAS | Faulty Wiring (Minimal Wear)": {
+    "name": "FAMAS | Faulty Wiring (Minimal Wear)",
+    "nameId": 1087026
+  },
+  "FAMAS | Faulty Wiring (Field-Tested)": {
+    "name": "FAMAS | Faulty Wiring (Field-Tested)",
+    "nameId": 1087063
+  },
+  "FAMAS | Faulty Wiring (Well-Worn)": {
+    "name": "FAMAS | Faulty Wiring (Well-Worn)",
+    "nameId": 1087372
+  },
+  "FAMAS | Faulty Wiring (Battle-Scarred)": {
+    "name": "FAMAS | Faulty Wiring (Battle-Scarred)",
+    "nameId": 1087367
+  },
+  "Souvenir FAMAS | Faulty Wiring (Factory New)": {
+    "name": "Souvenir FAMAS | Faulty Wiring (Factory New)",
+    "nameId": 1088542
+  },
+  "Souvenir FAMAS | Faulty Wiring (Minimal Wear)": {
+    "name": "Souvenir FAMAS | Faulty Wiring (Minimal Wear)",
+    "nameId": 1088575
+  },
+  "Souvenir FAMAS | Faulty Wiring (Field-Tested)": {
+    "name": "Souvenir FAMAS | Faulty Wiring (Field-Tested)",
+    "nameId": 1088543
+  },
+  "Souvenir FAMAS | Faulty Wiring (Well-Worn)": {
+    "name": "Souvenir FAMAS | Faulty Wiring (Well-Worn)",
+    "nameId": 1088691
+  },
+  "Souvenir FAMAS | Faulty Wiring (Battle-Scarred)": {
+    "name": "Souvenir FAMAS | Faulty Wiring (Battle-Scarred)",
+    "nameId": 1088658
+  },
+  "FAMAS | ZX Spectron (Factory New)": {
+    "name": "FAMAS | ZX Spectron (Factory New)",
+    "nameId": 1087074
+  },
+  "FAMAS | ZX Spectron (Minimal Wear)": {
+    "name": "FAMAS | ZX Spectron (Minimal Wear)",
+    "nameId": 1087051
+  },
+  "FAMAS | ZX Spectron (Field-Tested)": {
+    "name": "FAMAS | ZX Spectron (Field-Tested)",
+    "nameId": 1087147
+  },
+  "FAMAS | ZX Spectron (Well-Worn)": {
+    "name": "FAMAS | ZX Spectron (Well-Worn)",
+    "nameId": 1087022
+  },
+  "FAMAS | ZX Spectron (Battle-Scarred)": {
+    "name": "FAMAS | ZX Spectron (Battle-Scarred)",
+    "nameId": 1087113
+  },
+  "StatTrak™ FAMAS | ZX Spectron (Factory New)": {
+    "name": "StatTrak™ FAMAS | ZX Spectron (Factory New)",
+    "nameId": 1087377
+  },
+  "StatTrak™ FAMAS | ZX Spectron (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | ZX Spectron (Minimal Wear)",
+    "nameId": 1087304
+  },
+  "StatTrak™ FAMAS | ZX Spectron (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | ZX Spectron (Field-Tested)",
+    "nameId": 1087189
+  },
+  "StatTrak™ FAMAS | ZX Spectron (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | ZX Spectron (Well-Worn)",
+    "nameId": 1087210
+  },
+  "StatTrak™ FAMAS | ZX Spectron (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | ZX Spectron (Battle-Scarred)",
+    "nameId": 1087284
+  },
+  "FAMAS | Rapid Eye Movement (Factory New)": {
+    "name": "FAMAS | Rapid Eye Movement (Factory New)",
+    "nameId": 1090201
+  },
+  "FAMAS | Rapid Eye Movement (Minimal Wear)": {
+    "name": "FAMAS | Rapid Eye Movement (Minimal Wear)",
+    "nameId": 1090200
+  },
+  "FAMAS | Rapid Eye Movement (Field-Tested)": {
+    "name": "FAMAS | Rapid Eye Movement (Field-Tested)",
+    "nameId": 1090141
+  },
+  "FAMAS | Rapid Eye Movement (Well-Worn)": {
+    "name": "FAMAS | Rapid Eye Movement (Well-Worn)",
+    "nameId": 1090094
+  },
+  "FAMAS | Rapid Eye Movement (Battle-Scarred)": {
+    "name": "FAMAS | Rapid Eye Movement (Battle-Scarred)",
+    "nameId": 1090198
+  },
+  "StatTrak™ FAMAS | Rapid Eye Movement (Factory New)": {
+    "name": "StatTrak™ FAMAS | Rapid Eye Movement (Factory New)",
+    "nameId": 1090286
+  },
+  "StatTrak™ FAMAS | Rapid Eye Movement (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Rapid Eye Movement (Minimal Wear)",
+    "nameId": 1090248
+  },
+  "StatTrak™ FAMAS | Rapid Eye Movement (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Rapid Eye Movement (Field-Tested)",
+    "nameId": 1090255
+  },
+  "StatTrak™ FAMAS | Rapid Eye Movement (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Rapid Eye Movement (Well-Worn)",
+    "nameId": 1090249
+  },
+  "StatTrak™ FAMAS | Rapid Eye Movement (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Rapid Eye Movement (Battle-Scarred)",
+    "nameId": 1090180
+  },
+  "FAMAS | Meow 36 (Factory New)": {
+    "name": "FAMAS | Meow 36 (Factory New)",
+    "nameId": 1092315
+  },
+  "FAMAS | Meow 36 (Minimal Wear)": {
+    "name": "FAMAS | Meow 36 (Minimal Wear)",
+    "nameId": 1092288
+  },
+  "FAMAS | Meow 36 (Field-Tested)": {
+    "name": "FAMAS | Meow 36 (Field-Tested)",
+    "nameId": 1092285
+  },
+  "FAMAS | Meow 36 (Well-Worn)": {
+    "name": "FAMAS | Meow 36 (Well-Worn)",
+    "nameId": 1092286
+  },
+  "FAMAS | Meow 36 (Battle-Scarred)": {
+    "name": "FAMAS | Meow 36 (Battle-Scarred)",
+    "nameId": 1092320
+  },
+  "StatTrak™ FAMAS | Meow 36 (Factory New)": {
+    "name": "StatTrak™ FAMAS | Meow 36 (Factory New)",
+    "nameId": 1092416
+  },
+  "StatTrak™ FAMAS | Meow 36 (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Meow 36 (Minimal Wear)",
+    "nameId": 1092375
+  },
+  "StatTrak™ FAMAS | Meow 36 (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Meow 36 (Field-Tested)",
+    "nameId": 1092378
+  },
+  "StatTrak™ FAMAS | Meow 36 (Well-Worn)": {
+    "name": "StatTrak™ FAMAS | Meow 36 (Well-Worn)",
+    "nameId": 1092373
+  },
+  "StatTrak™ FAMAS | Meow 36 (Battle-Scarred)": {
+    "name": "StatTrak™ FAMAS | Meow 36 (Battle-Scarred)",
+    "nameId": 1092332
+  },
+  "FAMAS | Waters of Nephthys (Factory New)": {
+    "name": "FAMAS | Waters of Nephthys (Factory New)",
+    "nameId": 1309902
+  },
+  "FAMAS | Waters of Nephthys (Minimal Wear)": {
+    "name": "FAMAS | Waters of Nephthys (Minimal Wear)",
+    "nameId": 1309844
+  },
+  "FAMAS | Waters of Nephthys (Field-Tested)": {
+    "name": "FAMAS | Waters of Nephthys (Field-Tested)",
+    "nameId": 1309906
+  },
+  "FAMAS | Waters of Nephthys (Well-Worn)": {
+    "name": "FAMAS | Waters of Nephthys (Well-Worn)",
+    "nameId": 1310373
+  },
+  "FAMAS | Waters of Nephthys (Battle-Scarred)": {
+    "name": "FAMAS | Waters of Nephthys (Battle-Scarred)",
+    "nameId": 1310333
+  },
+  "Souvenir FAMAS | Waters of Nephthys (Field-Tested)": {
+    "name": "Souvenir FAMAS | Waters of Nephthys (Field-Tested)",
+    "nameId": 1332520
+  },
+  "Souvenir FAMAS | Waters of Nephthys (Battle-Scarred)": {
+    "name": "Souvenir FAMAS | Waters of Nephthys (Battle-Scarred)",
+    "nameId": 1338623
+  },
+  "G3SG1 | Arctic Camo (Minimal Wear)": {
+    "name": "G3SG1 | Arctic Camo (Minimal Wear)",
+    "nameId": 7666
+  },
+  "G3SG1 | Arctic Camo (Field-Tested)": {
+    "name": "G3SG1 | Arctic Camo (Field-Tested)",
+    "nameId": 337
+  },
+  "G3SG1 | Arctic Camo (Well-Worn)": {
+    "name": "G3SG1 | Arctic Camo (Well-Worn)",
+    "nameId": 19816
+  },
+  "G3SG1 | Desert Storm (Factory New)": {
+    "name": "G3SG1 | Desert Storm (Factory New)",
+    "nameId": 9477
+  },
+  "G3SG1 | Desert Storm (Minimal Wear)": {
+    "name": "G3SG1 | Desert Storm (Minimal Wear)",
+    "nameId": 2565
+  },
+  "G3SG1 | Desert Storm (Field-Tested)": {
+    "name": "G3SG1 | Desert Storm (Field-Tested)",
+    "nameId": 6295
+  },
+  "G3SG1 | Desert Storm (Well-Worn)": {
+    "name": "G3SG1 | Desert Storm (Well-Worn)",
+    "nameId": 9197
+  },
+  "G3SG1 | Desert Storm (Battle-Scarred)": {
+    "name": "G3SG1 | Desert Storm (Battle-Scarred)",
+    "nameId": 2075
+  },
+  "Souvenir G3SG1 | Desert Storm (Minimal Wear)": {
+    "name": "Souvenir G3SG1 | Desert Storm (Minimal Wear)",
+    "nameId": 8402
+  },
+  "Souvenir G3SG1 | Desert Storm (Field-Tested)": {
+    "name": "Souvenir G3SG1 | Desert Storm (Field-Tested)",
+    "nameId": 6704
+  },
+  "Souvenir G3SG1 | Desert Storm (Well-Worn)": {
+    "name": "Souvenir G3SG1 | Desert Storm (Well-Worn)",
+    "nameId": 7766
+  },
+  "Souvenir G3SG1 | Desert Storm (Battle-Scarred)": {
+    "name": "Souvenir G3SG1 | Desert Storm (Battle-Scarred)",
+    "nameId": 18478
+  },
+  "G3SG1 | Contractor (Minimal Wear)": {
+    "name": "G3SG1 | Contractor (Minimal Wear)",
+    "nameId": 18554
+  },
+  "G3SG1 | Contractor (Field-Tested)": {
+    "name": "G3SG1 | Contractor (Field-Tested)",
+    "nameId": 19223
+  },
+  "G3SG1 | Contractor (Well-Worn)": {
+    "name": "G3SG1 | Contractor (Well-Worn)",
+    "nameId": 19162
+  },
+  "G3SG1 | Safari Mesh (Factory New)": {
+    "name": "G3SG1 | Safari Mesh (Factory New)",
+    "nameId": 18659
+  },
+  "G3SG1 | Safari Mesh (Minimal Wear)": {
+    "name": "G3SG1 | Safari Mesh (Minimal Wear)",
+    "nameId": 8506
+  },
+  "G3SG1 | Safari Mesh (Battle-Scarred)": {
+    "name": "G3SG1 | Safari Mesh (Battle-Scarred)",
+    "nameId": 19165
+  },
+  "Souvenir G3SG1 | Safari Mesh (Minimal Wear)": {
+    "name": "Souvenir G3SG1 | Safari Mesh (Minimal Wear)",
+    "nameId": 3725
+  },
+  "Souvenir G3SG1 | Safari Mesh (Field-Tested)": {
+    "name": "Souvenir G3SG1 | Safari Mesh (Field-Tested)",
+    "nameId": 3196
+  },
+  "Souvenir G3SG1 | Safari Mesh (Well-Worn)": {
+    "name": "Souvenir G3SG1 | Safari Mesh (Well-Worn)",
+    "nameId": 9165
+  },
+  "Souvenir G3SG1 | Safari Mesh (Battle-Scarred)": {
+    "name": "Souvenir G3SG1 | Safari Mesh (Battle-Scarred)",
+    "nameId": 12517
+  },
+  "G3SG1 | Polar Camo (Factory New)": {
+    "name": "G3SG1 | Polar Camo (Factory New)",
+    "nameId": 6735
+  },
+  "G3SG1 | Polar Camo (Minimal Wear)": {
+    "name": "G3SG1 | Polar Camo (Minimal Wear)",
+    "nameId": 3187
+  },
+  "G3SG1 | Polar Camo (Field-Tested)": {
+    "name": "G3SG1 | Polar Camo (Field-Tested)",
+    "nameId": 3773
+  },
+  "G3SG1 | Polar Camo (Well-Worn)": {
+    "name": "G3SG1 | Polar Camo (Well-Worn)",
+    "nameId": 3819
   }
 }
