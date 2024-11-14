@@ -254,5 +254,45 @@
   "Operation Payback Pass": {
     "name": "Operation Payback Pass",
     "nameId": 19216
+  },
+  "Operation Bloodhound Access Pass": {
+    "name": "Operation Bloodhound Access Pass",
+    "nameId": 14375
+  },
+  "Operation Hydra Access Pass": {
+    "name": "Operation Hydra Access Pass",
+    "nameId": 3512
+  },
+  "Operation Shattered Web Premium Pass": {
+    "name": "Operation Shattered Web Premium Pass",
+    "nameId": 1073859
+  },
+  "Katowice 2019 Viewer Pass": {
+    "name": "Katowice 2019 Viewer Pass",
+    "nameId": 194862
+  },
+  "Berlin 2019 Viewer Pass": {
+    "name": "Berlin 2019 Viewer Pass",
+    "nameId": 874615
+  },
+  "Berlin 2019 Viewer Pass + 3 Souvenir Tokens": {
+    "name": "Berlin 2019 Viewer Pass + 3 Souvenir Tokens",
+    "nameId": 874615
+  },
+  "Berlin 2019 Souvenir Token": {
+    "name": "Berlin 2019 Souvenir Token",
+    "nameId": 874615
+  },
+  "Civil Protection Pin": {
+    "name": "Civil Protection Pin",
+    "nameId": 1079212
+  },
+  "Sustenance! Pin": {
+    "name": "Sustenance! Pin",
+    "nameId": 1079224
+  },
+  "Vortigaunt Pin": {
+    "name": "Vortigaunt Pin",
+    "nameId": 1079203
   }
 }
