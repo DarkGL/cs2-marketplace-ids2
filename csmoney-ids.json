@@ -9998,5 +9998,6005 @@
   "Five-SeveN | Flame Test (Factory New)": {
     "name": "Five-SeveN | Flame Test (Factory New)",
     "nameId": 20325
+  },
+  "Sealed Graffiti | Cerberus": {
+    "name": "Sealed Graffiti | Cerberus",
+    "nameId": 14989
+  },
+  "Sealed Graffiti | Take Flight (Shark White)": {
+    "name": "Sealed Graffiti | Take Flight (Shark White)",
+    "nameId": 7263
+  },
+  "Music Kit | Daniel Sadowski, Crimson Assault": {
+    "name": "Music Kit | Daniel Sadowski, Crimson Assault",
+    "nameId": 2815
+  },
+  "Desert Eagle | Light Rail (Field-Tested)": {
+    "name": "Desert Eagle | Light Rail (Field-Tested)",
+    "nameId": 201772
+  },
+  "StatTrak™ Dual Berettas | Hydro Strike (Factory New)": {
+    "name": "StatTrak™ Dual Berettas | Hydro Strike (Factory New)",
+    "nameId": 2598145
+  },
+  "Five-SeveN | Flame Test (Minimal Wear)": {
+    "name": "Five-SeveN | Flame Test (Minimal Wear)",
+    "nameId": 20046
+  },
+  "Five-SeveN | Flame Test (Field-Tested)": {
+    "name": "Five-SeveN | Flame Test (Field-Tested)",
+    "nameId": 19960
+  },
+  "Five-SeveN | Flame Test (Well-Worn)": {
+    "name": "Five-SeveN | Flame Test (Well-Worn)",
+    "nameId": 20358
+  },
+  "Five-SeveN | Flame Test (Battle-Scarred)": {
+    "name": "Five-SeveN | Flame Test (Battle-Scarred)",
+    "nameId": 21061
+  },
+  "StatTrak™ Five-SeveN | Flame Test (Factory New)": {
+    "name": "StatTrak™ Five-SeveN | Flame Test (Factory New)",
+    "nameId": 20858
+  },
+  "StatTrak™ Five-SeveN | Flame Test (Minimal Wear)": {
+    "name": "StatTrak™ Five-SeveN | Flame Test (Minimal Wear)",
+    "nameId": 21917
+  },
+  "StatTrak™ Five-SeveN | Flame Test (Field-Tested)": {
+    "name": "StatTrak™ Five-SeveN | Flame Test (Field-Tested)",
+    "nameId": 20544
+  },
+  "StatTrak™ Five-SeveN | Flame Test (Well-Worn)": {
+    "name": "StatTrak™ Five-SeveN | Flame Test (Well-Worn)",
+    "nameId": 23392
+  },
+  "StatTrak™ Five-SeveN | Flame Test (Battle-Scarred)": {
+    "name": "StatTrak™ Five-SeveN | Flame Test (Battle-Scarred)",
+    "nameId": 20508
+  },
+  "Five-SeveN | Crimson Blossom (Factory New)": {
+    "name": "Five-SeveN | Crimson Blossom (Factory New)",
+    "nameId": 1074174
+  },
+  "Five-SeveN | Crimson Blossom (Minimal Wear)": {
+    "name": "Five-SeveN | Crimson Blossom (Minimal Wear)",
+    "nameId": 1074902
+  },
+  "Five-SeveN | Coolant (Factory New)": {
+    "name": "Five-SeveN | Coolant (Factory New)",
+    "nameId": 170434
+  },
+  "Five-SeveN | Coolant (Minimal Wear)": {
+    "name": "Five-SeveN | Coolant (Minimal Wear)",
+    "nameId": 170419
+  },
+  "Five-SeveN | Coolant (Well-Worn)": {
+    "name": "Five-SeveN | Coolant (Well-Worn)",
+    "nameId": 170462
+  },
+  "Five-SeveN | Coolant (Battle-Scarred)": {
+    "name": "Five-SeveN | Coolant (Battle-Scarred)",
+    "nameId": 170517
+  },
+  "Souvenir Five-SeveN | Coolant (Factory New)": {
+    "name": "Souvenir Five-SeveN | Coolant (Factory New)",
+    "nameId": 168887
+  },
+  "Souvenir Five-SeveN | Coolant (Minimal Wear)": {
+    "name": "Souvenir Five-SeveN | Coolant (Minimal Wear)",
+    "nameId": 168906
+  },
+  "Souvenir Five-SeveN | Coolant (Field-Tested)": {
+    "name": "Souvenir Five-SeveN | Coolant (Field-Tested)",
+    "nameId": 168890
+  },
+  "Souvenir Five-SeveN | Coolant (Well-Worn)": {
+    "name": "Souvenir Five-SeveN | Coolant (Well-Worn)",
+    "nameId": 168922
+  },
+  "Souvenir Five-SeveN | Coolant (Battle-Scarred)": {
+    "name": "Souvenir Five-SeveN | Coolant (Battle-Scarred)",
+    "nameId": 168896
+  },
+  "Five-SeveN | Heat Treated (Factory New)": {
+    "name": "Five-SeveN | Heat Treated (Factory New)",
+    "nameId": 2598191
+  },
+  "Five-SeveN | Heat Treated (Minimal Wear)": {
+    "name": "Five-SeveN | Heat Treated (Minimal Wear)",
+    "nameId": 2597885
+  },
+  "Five-SeveN | Heat Treated (Field-Tested)": {
+    "name": "Five-SeveN | Heat Treated (Field-Tested)",
+    "nameId": 2598093
+  },
+  "Five-SeveN | Heat Treated (Well-Worn)": {
+    "name": "Five-SeveN | Heat Treated (Well-Worn)",
+    "nameId": 2597828
+  },
+  "Five-SeveN | Heat Treated (Battle-Scarred)": {
+    "name": "Five-SeveN | Heat Treated (Battle-Scarred)",
+    "nameId": 2598026
+  },
+  "Five-SeveN | Angry Mob (Factory New)": {
+    "name": "Five-SeveN | Angry Mob (Factory New)",
+    "nameId": 201899
+  },
+  "Five-SeveN | Angry Mob (Minimal Wear)": {
+    "name": "Five-SeveN | Angry Mob (Minimal Wear)",
+    "nameId": 201847
+  },
+  "Five-SeveN | Angry Mob (Field-Tested)": {
+    "name": "Five-SeveN | Angry Mob (Field-Tested)",
+    "nameId": 201793
+  },
+  "Five-SeveN | Angry Mob (Well-Worn)": {
+    "name": "Five-SeveN | Angry Mob (Well-Worn)",
+    "nameId": 201949
+  },
+  "Five-SeveN | Angry Mob (Battle-Scarred)": {
+    "name": "Five-SeveN | Angry Mob (Battle-Scarred)",
+    "nameId": 201921
+  },
+  "StatTrak™ Five-SeveN | Angry Mob (Factory New)": {
+    "name": "StatTrak™ Five-SeveN | Angry Mob (Factory New)",
+    "nameId": 201981
+  },
+  "StatTrak™ Five-SeveN | Angry Mob (Minimal Wear)": {
+    "name": "StatTrak™ Five-SeveN | Angry Mob (Minimal Wear)",
+    "nameId": 201942
+  },
+  "StatTrak™ Five-SeveN | Angry Mob (Field-Tested)": {
+    "name": "StatTrak™ Five-SeveN | Angry Mob (Field-Tested)",
+    "nameId": 201885
+  },
+  "StatTrak™ Five-SeveN | Angry Mob (Well-Worn)": {
+    "name": "StatTrak™ Five-SeveN | Angry Mob (Well-Worn)",
+    "nameId": 203585
+  },
+  "StatTrak™ Five-SeveN | Angry Mob (Battle-Scarred)": {
+    "name": "StatTrak™ Five-SeveN | Angry Mob (Battle-Scarred)",
+    "nameId": 201950
+  },
+  "Five-SeveN | Buddy (Factory New)": {
+    "name": "Five-SeveN | Buddy (Factory New)",
+    "nameId": 1073178
+  },
+  "Five-SeveN | Buddy (Minimal Wear)": {
+    "name": "Five-SeveN | Buddy (Minimal Wear)",
+    "nameId": 1073201
+  },
+  "Five-SeveN | Buddy (Field-Tested)": {
+    "name": "Five-SeveN | Buddy (Field-Tested)",
+    "nameId": 1073127
+  },
+  "Five-SeveN | Buddy (Well-Worn)": {
+    "name": "Five-SeveN | Buddy (Well-Worn)",
+    "nameId": 1073212
+  },
+  "Five-SeveN | Buddy (Battle-Scarred)": {
+    "name": "Five-SeveN | Buddy (Battle-Scarred)",
+    "nameId": 1073199
+  },
+  "StatTrak™ Five-SeveN | Buddy (Factory New)": {
+    "name": "StatTrak™ Five-SeveN | Buddy (Factory New)",
+    "nameId": 1073286
+  },
+  "StatTrak™ Five-SeveN | Buddy (Minimal Wear)": {
+    "name": "StatTrak™ Five-SeveN | Buddy (Minimal Wear)",
+    "nameId": 1073232
+  },
+  "StatTrak™ Five-SeveN | Buddy (Field-Tested)": {
+    "name": "StatTrak™ Five-SeveN | Buddy (Field-Tested)",
+    "nameId": 1073225
+  },
+  "StatTrak™ Five-SeveN | Buddy (Well-Worn)": {
+    "name": "StatTrak™ Five-SeveN | Buddy (Well-Worn)",
+    "nameId": 1073291
+  },
+  "StatTrak™ Five-SeveN | Buddy (Battle-Scarred)": {
+    "name": "StatTrak™ Five-SeveN | Buddy (Battle-Scarred)",
+    "nameId": 1073262
+  },
+  "Five-SeveN | Withered Vine (Factory New)": {
+    "name": "Five-SeveN | Withered Vine (Factory New)",
+    "nameId": 1086964
+  },
+  "Five-SeveN | Withered Vine (Minimal Wear)": {
+    "name": "Five-SeveN | Withered Vine (Minimal Wear)",
+    "nameId": 1086902
+  },
+  "Five-SeveN | Withered Vine (Field-Tested)": {
+    "name": "Five-SeveN | Withered Vine (Field-Tested)",
+    "nameId": 1086819
+  },
+  "Five-SeveN | Withered Vine (Well-Worn)": {
+    "name": "Five-SeveN | Withered Vine (Well-Worn)",
+    "nameId": 1087089
+  },
+  "Five-SeveN | Withered Vine (Battle-Scarred)": {
+    "name": "Five-SeveN | Withered Vine (Battle-Scarred)",
+    "nameId": 1087102
+  },
+  "Souvenir Five-SeveN | Withered Vine (Factory New)": {
+    "name": "Souvenir Five-SeveN | Withered Vine (Factory New)",
+    "nameId": 1088777
+  },
+  "Souvenir Five-SeveN | Withered Vine (Minimal Wear)": {
+    "name": "Souvenir Five-SeveN | Withered Vine (Minimal Wear)",
+    "nameId": 1088779
+  },
+  "Souvenir Five-SeveN | Withered Vine (Field-Tested)": {
+    "name": "Souvenir Five-SeveN | Withered Vine (Field-Tested)",
+    "nameId": 1088780
+  },
+  "Souvenir Five-SeveN | Withered Vine (Well-Worn)": {
+    "name": "Souvenir Five-SeveN | Withered Vine (Well-Worn)",
+    "nameId": 1088813
+  },
+  "Souvenir Five-SeveN | Withered Vine (Battle-Scarred)": {
+    "name": "Souvenir Five-SeveN | Withered Vine (Battle-Scarred)",
+    "nameId": 1088841
+  },
+  "Five-SeveN | Fairy Tale (Factory New)": {
+    "name": "Five-SeveN | Fairy Tale (Factory New)",
+    "nameId": 1083762
+  },
+  "Five-SeveN | Fairy Tale (Minimal Wear)": {
+    "name": "Five-SeveN | Fairy Tale (Minimal Wear)",
+    "nameId": 1083594
+  },
+  "Five-SeveN | Fairy Tale (Field-Tested)": {
+    "name": "Five-SeveN | Fairy Tale (Field-Tested)",
+    "nameId": 1083556
+  },
+  "Five-SeveN | Fairy Tale (Well-Worn)": {
+    "name": "Five-SeveN | Fairy Tale (Well-Worn)",
+    "nameId": 1083694
+  },
+  "Five-SeveN | Fairy Tale (Battle-Scarred)": {
+    "name": "Five-SeveN | Fairy Tale (Battle-Scarred)",
+    "nameId": 1083589
+  },
+  "StatTrak™ Five-SeveN | Fairy Tale (Field-Tested)": {
+    "name": "StatTrak™ Five-SeveN | Fairy Tale (Field-Tested)",
+    "nameId": 1083770
+  },
+  "StatTrak™ Five-SeveN | Fairy Tale (Well-Worn)": {
+    "name": "StatTrak™ Five-SeveN | Fairy Tale (Well-Worn)",
+    "nameId": 1083634
+  },
+  "StatTrak™ Five-SeveN | Fairy Tale (Battle-Scarred)": {
+    "name": "StatTrak™ Five-SeveN | Fairy Tale (Battle-Scarred)",
+    "nameId": 1083917
+  },
+  "Five-SeveN | Berries And Cherries (Factory New)": {
+    "name": "Five-SeveN | Berries And Cherries (Factory New)",
+    "nameId": 1083602
+  },
+  "Five-SeveN | Berries And Cherries (Minimal Wear)": {
+    "name": "Five-SeveN | Berries And Cherries (Minimal Wear)",
+    "nameId": 1083726
+  },
+  "Five-SeveN | Midnight Paintover (Factory New)": {
+    "name": "Five-SeveN | Midnight Paintover (Factory New)",
+    "nameId": 2597839
+  },
+  "Five-SeveN | Midnight Paintover (Minimal Wear)": {
+    "name": "Five-SeveN | Midnight Paintover (Minimal Wear)",
+    "nameId": 2597875
+  },
+  "Five-SeveN | Midnight Paintover (Field-Tested)": {
+    "name": "Five-SeveN | Midnight Paintover (Field-Tested)",
+    "nameId": 2597853
+  },
+  "Five-SeveN | Midnight Paintover (Well-Worn)": {
+    "name": "Five-SeveN | Midnight Paintover (Well-Worn)",
+    "nameId": 2598136
+  },
+  "Five-SeveN | Midnight Paintover (Battle-Scarred)": {
+    "name": "Five-SeveN | Midnight Paintover (Battle-Scarred)",
+    "nameId": 2598033
+  },
+  "Five-SeveN | Fall Hazard (Factory New)": {
+    "name": "Five-SeveN | Fall Hazard (Factory New)",
+    "nameId": 1087459
+  },
+  "Five-SeveN | Fall Hazard (Minimal Wear)": {
+    "name": "Five-SeveN | Fall Hazard (Minimal Wear)",
+    "nameId": 1087561
+  },
+  "Five-SeveN | Fall Hazard (Field-Tested)": {
+    "name": "Five-SeveN | Fall Hazard (Field-Tested)",
+    "nameId": 1087453
+  },
+  "Souvenir Five-SeveN | Fall Hazard (Minimal Wear)": {
+    "name": "Souvenir Five-SeveN | Fall Hazard (Minimal Wear)",
+    "nameId": 1088842
+  },
+  "Souvenir Five-SeveN | Fall Hazard (Field-Tested)": {
+    "name": "Souvenir Five-SeveN | Fall Hazard (Field-Tested)",
+    "nameId": 1088750
+  },
+  "Five-SeveN | Boost Protocol (Factory New)": {
+    "name": "Five-SeveN | Boost Protocol (Factory New)",
+    "nameId": 1087116
+  },
+  "Five-SeveN | Boost Protocol (Minimal Wear)": {
+    "name": "Five-SeveN | Boost Protocol (Minimal Wear)",
+    "nameId": 1086984
+  },
+  "Five-SeveN | Boost Protocol (Field-Tested)": {
+    "name": "Five-SeveN | Boost Protocol (Field-Tested)",
+    "nameId": 1086915
+  },
+  "Five-SeveN | Boost Protocol (Well-Worn)": {
+    "name": "Five-SeveN | Boost Protocol (Well-Worn)",
+    "nameId": 1087417
+  },
+  "StatTrak™ Five-SeveN | Boost Protocol (Factory New)": {
+    "name": "StatTrak™ Five-SeveN | Boost Protocol (Factory New)",
+    "nameId": 1087200
+  },
+  "StatTrak™ Five-SeveN | Boost Protocol (Minimal Wear)": {
+    "name": "StatTrak™ Five-SeveN | Boost Protocol (Minimal Wear)",
+    "nameId": 1086922
+  },
+  "StatTrak™ Five-SeveN | Boost Protocol (Field-Tested)": {
+    "name": "StatTrak™ Five-SeveN | Boost Protocol (Field-Tested)",
+    "nameId": 1087341
+  },
+  "StatTrak™ Five-SeveN | Boost Protocol (Well-Worn)": {
+    "name": "StatTrak™ Five-SeveN | Boost Protocol (Well-Worn)",
+    "nameId": 1087529
+  },
+  "Five-SeveN | Scrawl (Factory New)": {
+    "name": "Five-SeveN | Scrawl (Factory New)",
+    "nameId": 1090159
+  },
+  "Five-SeveN | Scrawl (Minimal Wear)": {
+    "name": "Five-SeveN | Scrawl (Minimal Wear)",
+    "nameId": 1090099
+  },
+  "Five-SeveN | Scrawl (Field-Tested)": {
+    "name": "Five-SeveN | Scrawl (Field-Tested)",
+    "nameId": 1090075
+  },
+  "Five-SeveN | Scrawl (Well-Worn)": {
+    "name": "Five-SeveN | Scrawl (Well-Worn)",
+    "nameId": 1090133
+  },
+  "Five-SeveN | Scrawl (Battle-Scarred)": {
+    "name": "Five-SeveN | Scrawl (Battle-Scarred)",
+    "nameId": 1090088
+  },
+  "StatTrak™ Five-SeveN | Scrawl (Factory New)": {
+    "name": "StatTrak™ Five-SeveN | Scrawl (Factory New)",
+    "nameId": 1090167
+  },
+  "StatTrak™ Five-SeveN | Scrawl (Minimal Wear)": {
+    "name": "StatTrak™ Five-SeveN | Scrawl (Minimal Wear)",
+    "nameId": 1090147
+  },
+  "StatTrak™ Five-SeveN | Scrawl (Field-Tested)": {
+    "name": "StatTrak™ Five-SeveN | Scrawl (Field-Tested)",
+    "nameId": 1090077
+  },
+  "StatTrak™ Five-SeveN | Scrawl (Well-Worn)": {
+    "name": "StatTrak™ Five-SeveN | Scrawl (Well-Worn)",
+    "nameId": 1090196
+  },
+  "StatTrak™ Five-SeveN | Scrawl (Battle-Scarred)": {
+    "name": "StatTrak™ Five-SeveN | Scrawl (Battle-Scarred)",
+    "nameId": 1090183
+  },
+  "Five-SeveN | Hybrid (Factory New)": {
+    "name": "Five-SeveN | Hybrid (Factory New)",
+    "nameId": 2522387
+  },
+  "Five-SeveN | Hybrid (Minimal Wear)": {
+    "name": "Five-SeveN | Hybrid (Minimal Wear)",
+    "nameId": 2521800
+  },
+  "Five-SeveN | Hybrid (Field-Tested)": {
+    "name": "Five-SeveN | Hybrid (Field-Tested)",
+    "nameId": 2521922
+  },
+  "Five-SeveN | Hybrid (Well-Worn)": {
+    "name": "Five-SeveN | Hybrid (Well-Worn)",
+    "nameId": 2521470
+  },
+  "Five-SeveN | Hybrid (Battle-Scarred)": {
+    "name": "Five-SeveN | Hybrid (Battle-Scarred)",
+    "nameId": 2521960
+  },
+  "StatTrak™ Five-SeveN | Hybrid (Factory New)": {
+    "name": "StatTrak™ Five-SeveN | Hybrid (Factory New)",
+    "nameId": 2533197
+  },
+  "StatTrak™ Five-SeveN | Hybrid (Minimal Wear)": {
+    "name": "StatTrak™ Five-SeveN | Hybrid (Minimal Wear)",
+    "nameId": 2522792
+  },
+  "StatTrak™ Five-SeveN | Hybrid (Field-Tested)": {
+    "name": "StatTrak™ Five-SeveN | Hybrid (Field-Tested)",
+    "nameId": 2521476
+  },
+  "StatTrak™ Five-SeveN | Hybrid (Well-Worn)": {
+    "name": "StatTrak™ Five-SeveN | Hybrid (Well-Worn)",
+    "nameId": 2523329
+  },
+  "StatTrak™ Five-SeveN | Hybrid (Battle-Scarred)": {
+    "name": "StatTrak™ Five-SeveN | Hybrid (Battle-Scarred)",
+    "nameId": 2523694
+  },
+  "Glock-18 | Groundwater (Factory New)": {
+    "name": "Glock-18 | Groundwater (Factory New)",
+    "nameId": 3629
+  },
+  "Glock-18 | Groundwater (Minimal Wear)": {
+    "name": "Glock-18 | Groundwater (Minimal Wear)",
+    "nameId": 1322
+  },
+  "Glock-18 | Groundwater (Field-Tested)": {
+    "name": "Glock-18 | Groundwater (Field-Tested)",
+    "nameId": 272
+  },
+  "Glock-18 | Groundwater (Well-Worn)": {
+    "name": "Glock-18 | Groundwater (Well-Worn)",
+    "nameId": 3434
+  },
+  "Glock-18 | Groundwater (Battle-Scarred)": {
+    "name": "Glock-18 | Groundwater (Battle-Scarred)",
+    "nameId": 849
+  },
+  "Souvenir Glock-18 | Groundwater (Factory New)": {
+    "name": "Souvenir Glock-18 | Groundwater (Factory New)",
+    "nameId": 20311
+  },
+  "Souvenir Glock-18 | Groundwater (Minimal Wear)": {
+    "name": "Souvenir Glock-18 | Groundwater (Minimal Wear)",
+    "nameId": 8746
+  },
+  "Souvenir Glock-18 | Groundwater (Field-Tested)": {
+    "name": "Souvenir Glock-18 | Groundwater (Field-Tested)",
+    "nameId": 6748
+  },
+  "Souvenir Glock-18 | Groundwater (Well-Worn)": {
+    "name": "Souvenir Glock-18 | Groundwater (Well-Worn)",
+    "nameId": 12131
+  },
+  "Souvenir Glock-18 | Groundwater (Battle-Scarred)": {
+    "name": "Souvenir Glock-18 | Groundwater (Battle-Scarred)",
+    "nameId": 198
+  },
+  "Glock-18 | Candy Apple (Factory New)": {
+    "name": "Glock-18 | Candy Apple (Factory New)",
+    "nameId": 2277
+  },
+  "Glock-18 | Candy Apple (Minimal Wear)": {
+    "name": "Glock-18 | Candy Apple (Minimal Wear)",
+    "nameId": 2282
+  },
+  "Glock-18 | Candy Apple (Field-Tested)": {
+    "name": "Glock-18 | Candy Apple (Field-Tested)",
+    "nameId": 9496
+  },
+  "Souvenir Glock-18 | Candy Apple (Factory New)": {
+    "name": "Souvenir Glock-18 | Candy Apple (Factory New)",
+    "nameId": 20582
+  },
+  "Souvenir Glock-18 | Candy Apple (Minimal Wear)": {
+    "name": "Souvenir Glock-18 | Candy Apple (Minimal Wear)",
+    "nameId": 18870
+  },
+  "Souvenir Glock-18 | Candy Apple (Field-Tested)": {
+    "name": "Souvenir Glock-18 | Candy Apple (Field-Tested)",
+    "nameId": 27810
+  },
+  "Glock-18 | Fade (Factory New)": {
+    "name": "Glock-18 | Fade (Factory New)",
+    "nameId": 900
+  },
+  "Glock-18 | Night (Factory New)": {
+    "name": "Glock-18 | Night (Factory New)",
+    "nameId": 1391
+  },
+  "Glock-18 | Night (Minimal Wear)": {
+    "name": "Glock-18 | Night (Minimal Wear)",
+    "nameId": 1108
+  },
+  "Glock-18 | Night (Well-Worn)": {
+    "name": "Glock-18 | Night (Well-Worn)",
+    "nameId": 1049
+  },
+  "Glock-18 | Night (Battle-Scarred)": {
+    "name": "Glock-18 | Night (Battle-Scarred)",
+    "nameId": 1424
+  },
+  "Souvenir Glock-18 | Night (Factory New)": {
+    "name": "Souvenir Glock-18 | Night (Factory New)",
+    "nameId": 1951
+  },
+  "Souvenir Glock-18 | Night (Minimal Wear)": {
+    "name": "Souvenir Glock-18 | Night (Minimal Wear)",
+    "nameId": 2021
+  },
+  "Souvenir Glock-18 | Night (Field-Tested)": {
+    "name": "Souvenir Glock-18 | Night (Field-Tested)",
+    "nameId": 3024
+  },
+  "Souvenir Glock-18 | Night (Well-Worn)": {
+    "name": "Souvenir Glock-18 | Night (Well-Worn)",
+    "nameId": 9585
+  },
+  "Souvenir Glock-18 | Night (Battle-Scarred)": {
+    "name": "Souvenir Glock-18 | Night (Battle-Scarred)",
+    "nameId": 11139
+  },
+  "Glock-18 | Dragon Tattoo (Factory New)": {
+    "name": "Glock-18 | Dragon Tattoo (Factory New)",
+    "nameId": 2614
+  },
+  "Glock-18 | Dragon Tattoo (Minimal Wear)": {
+    "name": "Glock-18 | Dragon Tattoo (Minimal Wear)",
+    "nameId": 788
+  },
+  "StatTrak™ Glock-18 | Dragon Tattoo (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Dragon Tattoo (Factory New)",
+    "nameId": 722
+  },
+  "Glock-18 | Pink DDPAT (Factory New)": {
+    "name": "Glock-18 | Pink DDPAT (Factory New)",
+    "nameId": 1087375
+  },
+  "Glock-18 | Pink DDPAT (Minimal Wear)": {
+    "name": "Glock-18 | Pink DDPAT (Minimal Wear)",
+    "nameId": 1087145
+  },
+  "Glock-18 | Pink DDPAT (Field-Tested)": {
+    "name": "Glock-18 | Pink DDPAT (Field-Tested)",
+    "nameId": 1086934
+  },
+  "Glock-18 | Pink DDPAT (Battle-Scarred)": {
+    "name": "Glock-18 | Pink DDPAT (Battle-Scarred)",
+    "nameId": 1086909
+  },
+  "Souvenir Glock-18 | Pink DDPAT (Factory New)": {
+    "name": "Souvenir Glock-18 | Pink DDPAT (Factory New)",
+    "nameId": 1088815
+  },
+  "Souvenir Glock-18 | Pink DDPAT (Minimal Wear)": {
+    "name": "Souvenir Glock-18 | Pink DDPAT (Minimal Wear)",
+    "nameId": 1088673
+  },
+  "Souvenir Glock-18 | Pink DDPAT (Field-Tested)": {
+    "name": "Souvenir Glock-18 | Pink DDPAT (Field-Tested)",
+    "nameId": 1088535
+  },
+  "Souvenir Glock-18 | Pink DDPAT (Well-Worn)": {
+    "name": "Souvenir Glock-18 | Pink DDPAT (Well-Worn)",
+    "nameId": 1088743
+  },
+  "Souvenir Glock-18 | Pink DDPAT (Battle-Scarred)": {
+    "name": "Souvenir Glock-18 | Pink DDPAT (Battle-Scarred)",
+    "nameId": 1088625
+  },
+  "Glock-18 | Gold Toof (Factory New)": {
+    "name": "Glock-18 | Gold Toof (Factory New)",
+    "nameId": 2598144
+  },
+  "Glock-18 | Gold Toof (Minimal Wear)": {
+    "name": "Glock-18 | Gold Toof (Minimal Wear)",
+    "nameId": 2598080
+  },
+  "Glock-18 | Gold Toof (Field-Tested)": {
+    "name": "Glock-18 | Gold Toof (Field-Tested)",
+    "nameId": 2597751
+  },
+  "Glock-18 | Gold Toof (Battle-Scarred)": {
+    "name": "Glock-18 | Gold Toof (Battle-Scarred)",
+    "nameId": 2597930
+  },
+  "StatTrak™ Glock-18 | Gold Toof (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Gold Toof (Minimal Wear)",
+    "nameId": 2598201
+  },
+  "StatTrak™ Glock-18 | Gold Toof (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Gold Toof (Well-Worn)",
+    "nameId": 2598255
+  },
+  "StatTrak™ Glock-18 | Gold Toof (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Gold Toof (Battle-Scarred)",
+    "nameId": 2598241
+  },
+  "Glock-18 | Teal Graf (Factory New)": {
+    "name": "Glock-18 | Teal Graf (Factory New)",
+    "nameId": 2598027
+  },
+  "Glock-18 | Teal Graf (Minimal Wear)": {
+    "name": "Glock-18 | Teal Graf (Minimal Wear)",
+    "nameId": 2597811
+  },
+  "Glock-18 | Teal Graf (Field-Tested)": {
+    "name": "Glock-18 | Teal Graf (Field-Tested)",
+    "nameId": 2597924
+  },
+  "Glock-18 | Teal Graf (Well-Worn)": {
+    "name": "Glock-18 | Teal Graf (Well-Worn)",
+    "nameId": 2598096
+  },
+  "Glock-18 | Teal Graf (Battle-Scarred)": {
+    "name": "Glock-18 | Teal Graf (Battle-Scarred)",
+    "nameId": 2597748
+  },
+  "Glock-18 | Brass (Factory New)": {
+    "name": "Glock-18 | Brass (Factory New)",
+    "nameId": 10489
+  },
+  "Glock-18 | Brass (Minimal Wear)": {
+    "name": "Glock-18 | Brass (Minimal Wear)",
+    "nameId": 10454
+  },
+  "Glock-18 | Brass (Field-Tested)": {
+    "name": "Glock-18 | Brass (Field-Tested)",
+    "nameId": 7805
+  },
+  "Glock-18 | Brass (Well-Worn)": {
+    "name": "Glock-18 | Brass (Well-Worn)",
+    "nameId": 1003
+  },
+  "Glock-18 | Brass (Battle-Scarred)": {
+    "name": "Glock-18 | Brass (Battle-Scarred)",
+    "nameId": 9523
+  },
+  "Glock-18 | Sand Dune (Factory New)": {
+    "name": "Glock-18 | Sand Dune (Factory New)",
+    "nameId": 3077
+  },
+  "Glock-18 | Sand Dune (Minimal Wear)": {
+    "name": "Glock-18 | Sand Dune (Minimal Wear)",
+    "nameId": 1368
+  },
+  "Glock-18 | Sand Dune (Field-Tested)": {
+    "name": "Glock-18 | Sand Dune (Field-Tested)",
+    "nameId": 12877
+  },
+  "Glock-18 | Sand Dune (Well-Worn)": {
+    "name": "Glock-18 | Sand Dune (Well-Worn)",
+    "nameId": 4031
+  },
+  "Glock-18 | Sand Dune (Battle-Scarred)": {
+    "name": "Glock-18 | Sand Dune (Battle-Scarred)",
+    "nameId": 2309
+  },
+  "Glock-18 | Steel Disruption (Factory New)": {
+    "name": "Glock-18 | Steel Disruption (Factory New)",
+    "nameId": 7328
+  },
+  "Glock-18 | Steel Disruption (Minimal Wear)": {
+    "name": "Glock-18 | Steel Disruption (Minimal Wear)",
+    "nameId": 13446
+  },
+  "Glock-18 | Steel Disruption (Field-Tested)": {
+    "name": "Glock-18 | Steel Disruption (Field-Tested)",
+    "nameId": 8420
+  },
+  "StatTrak™ Glock-18 | Steel Disruption (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Steel Disruption (Factory New)",
+    "nameId": 7817
+  },
+  "StatTrak™ Glock-18 | Steel Disruption (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Steel Disruption (Minimal Wear)",
+    "nameId": 7389
+  },
+  "StatTrak™ Glock-18 | Steel Disruption (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Steel Disruption (Field-Tested)",
+    "nameId": 3964
+  },
+  "Glock-18 | Blue Fissure (Factory New)": {
+    "name": "Glock-18 | Blue Fissure (Factory New)",
+    "nameId": 1808
+  },
+  "Glock-18 | Blue Fissure (Minimal Wear)": {
+    "name": "Glock-18 | Blue Fissure (Minimal Wear)",
+    "nameId": 2850
+  },
+  "Glock-18 | Blue Fissure (Field-Tested)": {
+    "name": "Glock-18 | Blue Fissure (Field-Tested)",
+    "nameId": 988
+  },
+  "Glock-18 | Blue Fissure (Well-Worn)": {
+    "name": "Glock-18 | Blue Fissure (Well-Worn)",
+    "nameId": 7239
+  },
+  "Glock-18 | Blue Fissure (Battle-Scarred)": {
+    "name": "Glock-18 | Blue Fissure (Battle-Scarred)",
+    "nameId": 7800
+  },
+  "StatTrak™ Glock-18 | Blue Fissure (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Blue Fissure (Minimal Wear)",
+    "nameId": 7291
+  },
+  "StatTrak™ Glock-18 | Blue Fissure (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Blue Fissure (Field-Tested)",
+    "nameId": 258
+  },
+  "StatTrak™ Glock-18 | Blue Fissure (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Blue Fissure (Well-Worn)",
+    "nameId": 3101
+  },
+  "StatTrak™ Glock-18 | Blue Fissure (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Blue Fissure (Battle-Scarred)",
+    "nameId": 9566
+  },
+  "Glock-18 | Death Rattle (Minimal Wear)": {
+    "name": "Glock-18 | Death Rattle (Minimal Wear)",
+    "nameId": 5753
+  },
+  "Glock-18 | Death Rattle (Field-Tested)": {
+    "name": "Glock-18 | Death Rattle (Field-Tested)",
+    "nameId": 4787
+  },
+  "Glock-18 | Death Rattle (Well-Worn)": {
+    "name": "Glock-18 | Death Rattle (Well-Worn)",
+    "nameId": 15483
+  },
+  "Glock-18 | Death Rattle (Battle-Scarred)": {
+    "name": "Glock-18 | Death Rattle (Battle-Scarred)",
+    "nameId": 10543
+  },
+  "Glock-18 | Water Elemental (Factory New)": {
+    "name": "Glock-18 | Water Elemental (Factory New)",
+    "nameId": 3684
+  },
+  "Glock-18 | Water Elemental (Minimal Wear)": {
+    "name": "Glock-18 | Water Elemental (Minimal Wear)",
+    "nameId": 1392
+  },
+  "Glock-18 | Water Elemental (Field-Tested)": {
+    "name": "Glock-18 | Water Elemental (Field-Tested)",
+    "nameId": 2206
+  },
+  "Glock-18 | Water Elemental (Well-Worn)": {
+    "name": "Glock-18 | Water Elemental (Well-Worn)",
+    "nameId": 4980
+  },
+  "Glock-18 | Water Elemental (Battle-Scarred)": {
+    "name": "Glock-18 | Water Elemental (Battle-Scarred)",
+    "nameId": 1483
+  },
+  "StatTrak™ Glock-18 | Water Elemental (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Water Elemental (Factory New)",
+    "nameId": 277
+  },
+  "StatTrak™ Glock-18 | Water Elemental (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Water Elemental (Minimal Wear)",
+    "nameId": 8125
+  },
+  "StatTrak™ Glock-18 | Water Elemental (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Water Elemental (Field-Tested)",
+    "nameId": 3287
+  },
+  "StatTrak™ Glock-18 | Water Elemental (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Water Elemental (Well-Worn)",
+    "nameId": 13817
+  },
+  "StatTrak™ Glock-18 | Water Elemental (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Water Elemental (Battle-Scarred)",
+    "nameId": 2482
+  },
+  "Glock-18 | Reactor (Factory New)": {
+    "name": "Glock-18 | Reactor (Factory New)",
+    "nameId": 1010
+  },
+  "Glock-18 | Reactor (Minimal Wear)": {
+    "name": "Glock-18 | Reactor (Minimal Wear)",
+    "nameId": 950
+  },
+  "Glock-18 | Reactor (Field-Tested)": {
+    "name": "Glock-18 | Reactor (Field-Tested)",
+    "nameId": 9352
+  },
+  "Glock-18 | Reactor (Well-Worn)": {
+    "name": "Glock-18 | Reactor (Well-Worn)",
+    "nameId": 9429
+  },
+  "Glock-18 | Reactor (Battle-Scarred)": {
+    "name": "Glock-18 | Reactor (Battle-Scarred)",
+    "nameId": 2029
+  },
+  "Souvenir Glock-18 | Reactor (Factory New)": {
+    "name": "Souvenir Glock-18 | Reactor (Factory New)",
+    "nameId": 792
+  },
+  "Souvenir Glock-18 | Reactor (Minimal Wear)": {
+    "name": "Souvenir Glock-18 | Reactor (Minimal Wear)",
+    "nameId": 10513
+  },
+  "Souvenir Glock-18 | Reactor (Field-Tested)": {
+    "name": "Souvenir Glock-18 | Reactor (Field-Tested)",
+    "nameId": 1703
+  },
+  "Souvenir Glock-18 | Reactor (Well-Worn)": {
+    "name": "Souvenir Glock-18 | Reactor (Well-Worn)",
+    "nameId": 1592
+  },
+  "Souvenir Glock-18 | Reactor (Battle-Scarred)": {
+    "name": "Souvenir Glock-18 | Reactor (Battle-Scarred)",
+    "nameId": 10392
+  },
+  "Glock-18 | Grinder (Factory New)": {
+    "name": "Glock-18 | Grinder (Factory New)",
+    "nameId": 5721
+  },
+  "Glock-18 | Grinder (Minimal Wear)": {
+    "name": "Glock-18 | Grinder (Minimal Wear)",
+    "nameId": 2552
+  },
+  "Glock-18 | Grinder (Field-Tested)": {
+    "name": "Glock-18 | Grinder (Field-Tested)",
+    "nameId": 12191
+  },
+  "StatTrak™ Glock-18 | Grinder (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Grinder (Factory New)",
+    "nameId": 680
+  },
+  "StatTrak™ Glock-18 | Grinder (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Grinder (Minimal Wear)",
+    "nameId": 2011
+  },
+  "StatTrak™ Glock-18 | Grinder (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Grinder (Field-Tested)",
+    "nameId": 10342
+  },
+  "Glock-18 | Catacombs (Factory New)": {
+    "name": "Glock-18 | Catacombs (Factory New)",
+    "nameId": 9213
+  },
+  "Glock-18 | Catacombs (Minimal Wear)": {
+    "name": "Glock-18 | Catacombs (Minimal Wear)",
+    "nameId": 2576
+  },
+  "Glock-18 | Catacombs (Well-Worn)": {
+    "name": "Glock-18 | Catacombs (Well-Worn)",
+    "nameId": 3245
+  },
+  "Glock-18 | Catacombs (Battle-Scarred)": {
+    "name": "Glock-18 | Catacombs (Battle-Scarred)",
+    "nameId": 1871
+  },
+  "StatTrak™ Glock-18 | Catacombs (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Catacombs (Factory New)",
+    "nameId": 1354
+  },
+  "StatTrak™ Glock-18 | Catacombs (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Catacombs (Minimal Wear)",
+    "nameId": 3562
+  },
+  "StatTrak™ Glock-18 | Catacombs (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Catacombs (Field-Tested)",
+    "nameId": 2360
+  },
+  "StatTrak™ Glock-18 | Catacombs (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Catacombs (Well-Worn)",
+    "nameId": 4895
+  },
+  "StatTrak™ Glock-18 | Catacombs (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Catacombs (Battle-Scarred)",
+    "nameId": 2902
+  },
+  "Glock-18 | Twilight Galaxy (Factory New)": {
+    "name": "Glock-18 | Twilight Galaxy (Factory New)",
+    "nameId": 3660
+  },
+  "Glock-18 | Twilight Galaxy (Minimal Wear)": {
+    "name": "Glock-18 | Twilight Galaxy (Minimal Wear)",
+    "nameId": 8475
+  },
+  "Glock-18 | Twilight Galaxy (Field-Tested)": {
+    "name": "Glock-18 | Twilight Galaxy (Field-Tested)",
+    "nameId": 7797
+  },
+  "Glock-18 | Bunsen Burner (Factory New)": {
+    "name": "Glock-18 | Bunsen Burner (Factory New)",
+    "nameId": 69
+  },
+  "Glock-18 | Bunsen Burner (Minimal Wear)": {
+    "name": "Glock-18 | Bunsen Burner (Minimal Wear)",
+    "nameId": 1473
+  },
+  "Glock-18 | Bunsen Burner (Well-Worn)": {
+    "name": "Glock-18 | Bunsen Burner (Well-Worn)",
+    "nameId": 151
+  },
+  "Glock-18 | Bunsen Burner (Battle-Scarred)": {
+    "name": "Glock-18 | Bunsen Burner (Battle-Scarred)",
+    "nameId": 3953
+  },
+  "StatTrak™ Glock-18 | Bunsen Burner (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Bunsen Burner (Factory New)",
+    "nameId": 7274
+  },
+  "StatTrak™ Glock-18 | Bunsen Burner (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Bunsen Burner (Minimal Wear)",
+    "nameId": 4881
+  },
+  "StatTrak™ Glock-18 | Bunsen Burner (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Bunsen Burner (Field-Tested)",
+    "nameId": 1123
+  },
+  "StatTrak™ Glock-18 | Bunsen Burner (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Bunsen Burner (Well-Worn)",
+    "nameId": 12754
+  },
+  "StatTrak™ Glock-18 | Bunsen Burner (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Bunsen Burner (Battle-Scarred)",
+    "nameId": 305
+  },
+  "Glock-18 | Wraiths (Factory New)": {
+    "name": "Glock-18 | Wraiths (Factory New)",
+    "nameId": 1107
+  },
+  "Glock-18 | Wraiths (Minimal Wear)": {
+    "name": "Glock-18 | Wraiths (Minimal Wear)",
+    "nameId": 9668
+  },
+  "Glock-18 | Wraiths (Field-Tested)": {
+    "name": "Glock-18 | Wraiths (Field-Tested)",
+    "nameId": 6734
+  },
+  "Glock-18 | Wraiths (Well-Worn)": {
+    "name": "Glock-18 | Wraiths (Well-Worn)",
+    "nameId": 328
+  },
+  "Glock-18 | Wraiths (Battle-Scarred)": {
+    "name": "Glock-18 | Wraiths (Battle-Scarred)",
+    "nameId": 1176
+  },
+  "StatTrak™ Glock-18 | Wraiths (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Wraiths (Factory New)",
+    "nameId": 9581
+  },
+  "StatTrak™ Glock-18 | Wraiths (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Wraiths (Minimal Wear)",
+    "nameId": 7210
+  },
+  "StatTrak™ Glock-18 | Wraiths (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Wraiths (Field-Tested)",
+    "nameId": 107
+  },
+  "StatTrak™ Glock-18 | Wraiths (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Wraiths (Well-Worn)",
+    "nameId": 4998
+  },
+  "StatTrak™ Glock-18 | Wraiths (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Wraiths (Battle-Scarred)",
+    "nameId": 7143
+  },
+  "Glock-18 | Royal Legion (Factory New)": {
+    "name": "Glock-18 | Royal Legion (Factory New)",
+    "nameId": 4948
+  },
+  "Glock-18 | Royal Legion (Minimal Wear)": {
+    "name": "Glock-18 | Royal Legion (Minimal Wear)",
+    "nameId": 2060
+  },
+  "Glock-18 | Royal Legion (Field-Tested)": {
+    "name": "Glock-18 | Royal Legion (Field-Tested)",
+    "nameId": 3861
+  },
+  "Glock-18 | Royal Legion (Well-Worn)": {
+    "name": "Glock-18 | Royal Legion (Well-Worn)",
+    "nameId": 8719
+  },
+  "Glock-18 | Royal Legion (Battle-Scarred)": {
+    "name": "Glock-18 | Royal Legion (Battle-Scarred)",
+    "nameId": 3258
+  },
+  "StatTrak™ Glock-18 | Royal Legion (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Royal Legion (Factory New)",
+    "nameId": 185
+  },
+  "StatTrak™ Glock-18 | Royal Legion (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Royal Legion (Minimal Wear)",
+    "nameId": 771
+  },
+  "StatTrak™ Glock-18 | Royal Legion (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Royal Legion (Field-Tested)",
+    "nameId": 7405
+  },
+  "StatTrak™ Glock-18 | Royal Legion (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Royal Legion (Well-Worn)",
+    "nameId": 7370
+  },
+  "StatTrak™ Glock-18 | Royal Legion (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Royal Legion (Battle-Scarred)",
+    "nameId": 3183
+  },
+  "Glock-18 | Wasteland Rebel (Factory New)": {
+    "name": "Glock-18 | Wasteland Rebel (Factory New)",
+    "nameId": 1411
+  },
+  "Glock-18 | Wasteland Rebel (Minimal Wear)": {
+    "name": "Glock-18 | Wasteland Rebel (Minimal Wear)",
+    "nameId": 1151
+  },
+  "Glock-18 | Wasteland Rebel (Field-Tested)": {
+    "name": "Glock-18 | Wasteland Rebel (Field-Tested)",
+    "nameId": 3487
+  },
+  "Glock-18 | Wasteland Rebel (Well-Worn)": {
+    "name": "Glock-18 | Wasteland Rebel (Well-Worn)",
+    "nameId": 3583
+  },
+  "Glock-18 | Wasteland Rebel (Battle-Scarred)": {
+    "name": "Glock-18 | Wasteland Rebel (Battle-Scarred)",
+    "nameId": 4097
+  },
+  "StatTrak™ Glock-18 | Wasteland Rebel (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Wasteland Rebel (Factory New)",
+    "nameId": 1022
+  },
+  "StatTrak™ Glock-18 | Wasteland Rebel (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Wasteland Rebel (Minimal Wear)",
+    "nameId": 1623
+  },
+  "StatTrak™ Glock-18 | Wasteland Rebel (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Wasteland Rebel (Field-Tested)",
+    "nameId": 11092
+  },
+  "StatTrak™ Glock-18 | Wasteland Rebel (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Wasteland Rebel (Well-Worn)",
+    "nameId": 16232
+  },
+  "StatTrak™ Glock-18 | Wasteland Rebel (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Wasteland Rebel (Battle-Scarred)",
+    "nameId": 12918
+  },
+  "Glock-18 | Weasel (Factory New)": {
+    "name": "Glock-18 | Weasel (Factory New)",
+    "nameId": 1171
+  },
+  "Glock-18 | Weasel (Minimal Wear)": {
+    "name": "Glock-18 | Weasel (Minimal Wear)",
+    "nameId": 229
+  },
+  "Glock-18 | Weasel (Field-Tested)": {
+    "name": "Glock-18 | Weasel (Field-Tested)",
+    "nameId": 233
+  },
+  "Glock-18 | Weasel (Well-Worn)": {
+    "name": "Glock-18 | Weasel (Well-Worn)",
+    "nameId": 9240
+  },
+  "Glock-18 | Weasel (Battle-Scarred)": {
+    "name": "Glock-18 | Weasel (Battle-Scarred)",
+    "nameId": 270
+  },
+  "StatTrak™ Glock-18 | Weasel (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Weasel (Factory New)",
+    "nameId": 3868
+  },
+  "StatTrak™ Glock-18 | Weasel (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Weasel (Minimal Wear)",
+    "nameId": 8410
+  },
+  "StatTrak™ Glock-18 | Weasel (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Weasel (Field-Tested)",
+    "nameId": 2925
+  },
+  "StatTrak™ Glock-18 | Weasel (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Weasel (Well-Worn)",
+    "nameId": 10555
+  },
+  "StatTrak™ Glock-18 | Weasel (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Weasel (Battle-Scarred)",
+    "nameId": 17
+  },
+  "Glock-18 | Ironwork (Factory New)": {
+    "name": "Glock-18 | Ironwork (Factory New)",
+    "nameId": 1377
+  },
+  "Glock-18 | Ironwork (Minimal Wear)": {
+    "name": "Glock-18 | Ironwork (Minimal Wear)",
+    "nameId": 616
+  },
+  "Glock-18 | Ironwork (Field-Tested)": {
+    "name": "Glock-18 | Ironwork (Field-Tested)",
+    "nameId": 3090
+  },
+  "Glock-18 | Ironwork (Well-Worn)": {
+    "name": "Glock-18 | Ironwork (Well-Worn)",
+    "nameId": 1243
+  },
+  "Glock-18 | Ironwork (Battle-Scarred)": {
+    "name": "Glock-18 | Ironwork (Battle-Scarred)",
+    "nameId": 4776
+  },
+  "StatTrak™ Glock-18 | Ironwork (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Ironwork (Factory New)",
+    "nameId": 9311
+  },
+  "StatTrak™ Glock-18 | Ironwork (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Ironwork (Minimal Wear)",
+    "nameId": 2903
+  },
+  "StatTrak™ Glock-18 | Ironwork (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Ironwork (Field-Tested)",
+    "nameId": 2945
+  },
+  "StatTrak™ Glock-18 | Ironwork (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Ironwork (Well-Worn)",
+    "nameId": 2336
+  },
+  "StatTrak™ Glock-18 | Ironwork (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Ironwork (Battle-Scarred)",
+    "nameId": 7313
+  },
+  "Glock-18 | Off World (Factory New)": {
+    "name": "Glock-18 | Off World (Factory New)",
+    "nameId": 2568
+  },
+  "Glock-18 | Off World (Minimal Wear)": {
+    "name": "Glock-18 | Off World (Minimal Wear)",
+    "nameId": 880
+  },
+  "Glock-18 | Off World (Battle-Scarred)": {
+    "name": "Glock-18 | Off World (Battle-Scarred)",
+    "nameId": 61
+  },
+  "StatTrak™ Glock-18 | Off World (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Off World (Factory New)",
+    "nameId": 567
+  },
+  "StatTrak™ Glock-18 | Off World (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Off World (Minimal Wear)",
+    "nameId": 1378
+  },
+  "StatTrak™ Glock-18 | Off World (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Off World (Field-Tested)",
+    "nameId": 1406
+  },
+  "StatTrak™ Glock-18 | Off World (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Off World (Well-Worn)",
+    "nameId": 2258
+  },
+  "StatTrak™ Glock-18 | Off World (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Off World (Battle-Scarred)",
+    "nameId": 1222
+  },
+  "Glock-18 | Moonrise (Factory New)": {
+    "name": "Glock-18 | Moonrise (Factory New)",
+    "nameId": 20503
+  },
+  "Glock-18 | Moonrise (Minimal Wear)": {
+    "name": "Glock-18 | Moonrise (Minimal Wear)",
+    "nameId": 20371
+  },
+  "Glock-18 | Moonrise (Field-Tested)": {
+    "name": "Glock-18 | Moonrise (Field-Tested)",
+    "nameId": 20269
+  },
+  "Glock-18 | Moonrise (Well-Worn)": {
+    "name": "Glock-18 | Moonrise (Well-Worn)",
+    "nameId": 21465
+  },
+  "Glock-18 | Moonrise (Battle-Scarred)": {
+    "name": "Glock-18 | Moonrise (Battle-Scarred)",
+    "nameId": 20784
+  },
+  "StatTrak™ Glock-18 | Moonrise (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Moonrise (Factory New)",
+    "nameId": 22546
+  },
+  "StatTrak™ Glock-18 | Moonrise (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Moonrise (Minimal Wear)",
+    "nameId": 20813
+  },
+  "StatTrak™ Glock-18 | Moonrise (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Moonrise (Field-Tested)",
+    "nameId": 20722
+  },
+  "StatTrak™ Glock-18 | Moonrise (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Moonrise (Well-Worn)",
+    "nameId": 26344
+  },
+  "StatTrak™ Glock-18 | Moonrise (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Moonrise (Battle-Scarred)",
+    "nameId": 20375
+  },
+  "Glock-18 | Warhawk (Factory New)": {
+    "name": "Glock-18 | Warhawk (Factory New)",
+    "nameId": 38471
+  },
+  "Glock-18 | Warhawk (Minimal Wear)": {
+    "name": "Glock-18 | Warhawk (Minimal Wear)",
+    "nameId": 38456
+  },
+  "Glock-18 | Warhawk (Field-Tested)": {
+    "name": "Glock-18 | Warhawk (Field-Tested)",
+    "nameId": 38478
+  },
+  "Glock-18 | Warhawk (Well-Worn)": {
+    "name": "Glock-18 | Warhawk (Well-Worn)",
+    "nameId": 38452
+  },
+  "Glock-18 | Warhawk (Battle-Scarred)": {
+    "name": "Glock-18 | Warhawk (Battle-Scarred)",
+    "nameId": 38516
+  },
+  "StatTrak™ Glock-18 | Warhawk (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Warhawk (Factory New)",
+    "nameId": 38588
+  },
+  "StatTrak™ Glock-18 | Warhawk (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Warhawk (Minimal Wear)",
+    "nameId": 38521
+  },
+  "StatTrak™ Glock-18 | Warhawk (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Warhawk (Field-Tested)",
+    "nameId": 38498
+  },
+  "StatTrak™ Glock-18 | Warhawk (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Warhawk (Well-Worn)",
+    "nameId": 38537
+  },
+  "StatTrak™ Glock-18 | Warhawk (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Warhawk (Battle-Scarred)",
+    "nameId": 38477
+  },
+  "Glock-18 | Synth Leaf (Factory New)": {
+    "name": "Glock-18 | Synth Leaf (Factory New)",
+    "nameId": 1075004
+  },
+  "Glock-18 | Synth Leaf (Minimal Wear)": {
+    "name": "Glock-18 | Synth Leaf (Minimal Wear)",
+    "nameId": 1074291
+  },
+  "Glock-18 | Synth Leaf (Field-Tested)": {
+    "name": "Glock-18 | Synth Leaf (Field-Tested)",
+    "nameId": 1074853
+  },
+  "Glock-18 | Nuclear Garden (Factory New)": {
+    "name": "Glock-18 | Nuclear Garden (Factory New)",
+    "nameId": 170531
+  },
+  "Glock-18 | Nuclear Garden (Minimal Wear)": {
+    "name": "Glock-18 | Nuclear Garden (Minimal Wear)",
+    "nameId": 170511
+  },
+  "Glock-18 | Nuclear Garden (Field-Tested)": {
+    "name": "Glock-18 | Nuclear Garden (Field-Tested)",
+    "nameId": 170535
+  },
+  "Glock-18 | Nuclear Garden (Well-Worn)": {
+    "name": "Glock-18 | Nuclear Garden (Well-Worn)",
+    "nameId": 170624
+  },
+  "Glock-18 | Nuclear Garden (Battle-Scarred)": {
+    "name": "Glock-18 | Nuclear Garden (Battle-Scarred)",
+    "nameId": 170578
+  },
+  "Souvenir Glock-18 | Nuclear Garden (Factory New)": {
+    "name": "Souvenir Glock-18 | Nuclear Garden (Factory New)",
+    "nameId": 168925
+  },
+  "Souvenir Glock-18 | Nuclear Garden (Minimal Wear)": {
+    "name": "Souvenir Glock-18 | Nuclear Garden (Minimal Wear)",
+    "nameId": 168997
+  },
+  "Souvenir Glock-18 | Nuclear Garden (Field-Tested)": {
+    "name": "Souvenir Glock-18 | Nuclear Garden (Field-Tested)",
+    "nameId": 168931
+  },
+  "Souvenir Glock-18 | Nuclear Garden (Well-Worn)": {
+    "name": "Souvenir Glock-18 | Nuclear Garden (Well-Worn)",
+    "nameId": 170228
+  },
+  "Souvenir Glock-18 | Nuclear Garden (Battle-Scarred)": {
+    "name": "Souvenir Glock-18 | Nuclear Garden (Battle-Scarred)",
+    "nameId": 169027
+  },
+  "Glock-18 | High Beam (Minimal Wear)": {
+    "name": "Glock-18 | High Beam (Minimal Wear)",
+    "nameId": 170486
+  },
+  "Souvenir Glock-18 | High Beam (Factory New)": {
+    "name": "Souvenir Glock-18 | High Beam (Factory New)",
+    "nameId": 168787
+  },
+  "Souvenir Glock-18 | High Beam (Minimal Wear)": {
+    "name": "Souvenir Glock-18 | High Beam (Minimal Wear)",
+    "nameId": 168841
+  },
+  "Glock-18 | Oxide Blaze (Factory New)": {
+    "name": "Glock-18 | Oxide Blaze (Factory New)",
+    "nameId": 171535
+  },
+  "Glock-18 | Oxide Blaze (Minimal Wear)": {
+    "name": "Glock-18 | Oxide Blaze (Minimal Wear)",
+    "nameId": 171477
+  },
+  "Glock-18 | Oxide Blaze (Field-Tested)": {
+    "name": "Glock-18 | Oxide Blaze (Field-Tested)",
+    "nameId": 171464
+  },
+  "Glock-18 | Oxide Blaze (Well-Worn)": {
+    "name": "Glock-18 | Oxide Blaze (Well-Worn)",
+    "nameId": 171510
+  },
+  "StatTrak™ Glock-18 | Oxide Blaze (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Oxide Blaze (Factory New)",
+    "nameId": 171552
+  },
+  "StatTrak™ Glock-18 | Oxide Blaze (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Oxide Blaze (Minimal Wear)",
+    "nameId": 171523
+  },
+  "StatTrak™ Glock-18 | Oxide Blaze (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Oxide Blaze (Field-Tested)",
+    "nameId": 171479
+  },
+  "StatTrak™ Glock-18 | Oxide Blaze (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Oxide Blaze (Well-Worn)",
+    "nameId": 171548
+  },
+  "StatTrak™ Glock-18 | Oxide Blaze (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Oxide Blaze (Battle-Scarred)",
+    "nameId": 171520
+  },
+  "Glock-18 | AXIA (Factory New)": {
+    "name": "Glock-18 | AXIA (Factory New)",
+    "nameId": 2597722
+  },
+  "Glock-18 | AXIA (Minimal Wear)": {
+    "name": "Glock-18 | AXIA (Minimal Wear)",
+    "nameId": 2597976
+  },
+  "Glock-18 | AXIA (Field-Tested)": {
+    "name": "Glock-18 | AXIA (Field-Tested)",
+    "nameId": 2597880
+  },
+  "Glock-18 | AXIA (Well-Worn)": {
+    "name": "Glock-18 | AXIA (Well-Worn)",
+    "nameId": 2597991
+  },
+  "Glock-18 | AXIA (Battle-Scarred)": {
+    "name": "Glock-18 | AXIA (Battle-Scarred)",
+    "nameId": 2598219
+  },
+  "Glock-18 | Sacrifice (Factory New)": {
+    "name": "Glock-18 | Sacrifice (Factory New)",
+    "nameId": 1073131
+  },
+  "Glock-18 | Sacrifice (Minimal Wear)": {
+    "name": "Glock-18 | Sacrifice (Minimal Wear)",
+    "nameId": 1073107
+  },
+  "Glock-18 | Sacrifice (Field-Tested)": {
+    "name": "Glock-18 | Sacrifice (Field-Tested)",
+    "nameId": 1073124
+  },
+  "Glock-18 | Sacrifice (Well-Worn)": {
+    "name": "Glock-18 | Sacrifice (Well-Worn)",
+    "nameId": 1073116
+  },
+  "Glock-18 | Sacrifice (Battle-Scarred)": {
+    "name": "Glock-18 | Sacrifice (Battle-Scarred)",
+    "nameId": 1073176
+  },
+  "StatTrak™ Glock-18 | Sacrifice (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Sacrifice (Factory New)",
+    "nameId": 1073284
+  },
+  "StatTrak™ Glock-18 | Sacrifice (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Sacrifice (Minimal Wear)",
+    "nameId": 1073217
+  },
+  "StatTrak™ Glock-18 | Sacrifice (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Sacrifice (Field-Tested)",
+    "nameId": 1073135
+  },
+  "StatTrak™ Glock-18 | Sacrifice (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Sacrifice (Well-Worn)",
+    "nameId": 1073165
+  },
+  "StatTrak™ Glock-18 | Sacrifice (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Sacrifice (Battle-Scarred)",
+    "nameId": 1073208
+  },
+  "Glock-18 | Bullet Queen (Factory New)": {
+    "name": "Glock-18 | Bullet Queen (Factory New)",
+    "nameId": 1079582
+  },
+  "Glock-18 | Bullet Queen (Minimal Wear)": {
+    "name": "Glock-18 | Bullet Queen (Minimal Wear)",
+    "nameId": 1079539
+  },
+  "Glock-18 | Bullet Queen (Field-Tested)": {
+    "name": "Glock-18 | Bullet Queen (Field-Tested)",
+    "nameId": 1079546
+  },
+  "Glock-18 | Bullet Queen (Well-Worn)": {
+    "name": "Glock-18 | Bullet Queen (Well-Worn)",
+    "nameId": 1079550
+  },
+  "Glock-18 | Bullet Queen (Battle-Scarred)": {
+    "name": "Glock-18 | Bullet Queen (Battle-Scarred)",
+    "nameId": 1079558
+  },
+  "StatTrak™ Glock-18 | Bullet Queen (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Bullet Queen (Factory New)",
+    "nameId": 1079393
+  },
+  "StatTrak™ Glock-18 | Bullet Queen (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Bullet Queen (Minimal Wear)",
+    "nameId": 1079524
+  },
+  "StatTrak™ Glock-18 | Bullet Queen (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Bullet Queen (Field-Tested)",
+    "nameId": 1079534
+  },
+  "StatTrak™ Glock-18 | Bullet Queen (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Bullet Queen (Well-Worn)",
+    "nameId": 1079520
+  },
+  "StatTrak™ Glock-18 | Bullet Queen (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Bullet Queen (Battle-Scarred)",
+    "nameId": 1079544
+  },
+  "Glock-18 | Vogue (Factory New)": {
+    "name": "Glock-18 | Vogue (Factory New)",
+    "nameId": 1081415
+  },
+  "Glock-18 | Vogue (Minimal Wear)": {
+    "name": "Glock-18 | Vogue (Minimal Wear)",
+    "nameId": 1081424
+  },
+  "Glock-18 | Vogue (Field-Tested)": {
+    "name": "Glock-18 | Vogue (Field-Tested)",
+    "nameId": 1081440
+  },
+  "Glock-18 | Vogue (Well-Worn)": {
+    "name": "Glock-18 | Vogue (Well-Worn)",
+    "nameId": 1081526
+  },
+  "Glock-18 | Vogue (Battle-Scarred)": {
+    "name": "Glock-18 | Vogue (Battle-Scarred)",
+    "nameId": 1081490
+  },
+  "StatTrak™ Glock-18 | Vogue (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Vogue (Factory New)",
+    "nameId": 1081508
+  },
+  "StatTrak™ Glock-18 | Vogue (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Vogue (Minimal Wear)",
+    "nameId": 1081476
+  },
+  "StatTrak™ Glock-18 | Vogue (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Vogue (Field-Tested)",
+    "nameId": 1081452
+  },
+  "StatTrak™ Glock-18 | Vogue (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Vogue (Well-Worn)",
+    "nameId": 1081548
+  },
+  "StatTrak™ Glock-18 | Vogue (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Vogue (Battle-Scarred)",
+    "nameId": 1081538
+  },
+  "Glock-18 | Neo-Noir (Factory New)": {
+    "name": "Glock-18 | Neo-Noir (Factory New)",
+    "nameId": 1083925
+  },
+  "Glock-18 | Neo-Noir (Minimal Wear)": {
+    "name": "Glock-18 | Neo-Noir (Minimal Wear)",
+    "nameId": 1083614
+  },
+  "Glock-18 | Neo-Noir (Field-Tested)": {
+    "name": "Glock-18 | Neo-Noir (Field-Tested)",
+    "nameId": 1083657
+  },
+  "Glock-18 | Neo-Noir (Well-Worn)": {
+    "name": "Glock-18 | Neo-Noir (Well-Worn)",
+    "nameId": 1083680
+  },
+  "Glock-18 | Neo-Noir (Battle-Scarred)": {
+    "name": "Glock-18 | Neo-Noir (Battle-Scarred)",
+    "nameId": 1083664
+  },
+  "StatTrak™ Glock-18 | Neo-Noir (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Neo-Noir (Factory New)",
+    "nameId": 1083948
+  },
+  "StatTrak™ Glock-18 | Neo-Noir (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Neo-Noir (Minimal Wear)",
+    "nameId": 1083758
+  },
+  "StatTrak™ Glock-18 | Neo-Noir (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Neo-Noir (Field-Tested)",
+    "nameId": 1083731
+  },
+  "StatTrak™ Glock-18 | Neo-Noir (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Neo-Noir (Well-Worn)",
+    "nameId": 1083400
+  },
+  "StatTrak™ Glock-18 | Neo-Noir (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Neo-Noir (Battle-Scarred)",
+    "nameId": 1083890
+  },
+  "Glock-18 | Franklin (Factory New)": {
+    "name": "Glock-18 | Franklin (Factory New)",
+    "nameId": 1083570
+  },
+  "Glock-18 | Franklin (Minimal Wear)": {
+    "name": "Glock-18 | Franklin (Minimal Wear)",
+    "nameId": 1083885
+  },
+  "Glock-18 | Franklin (Field-Tested)": {
+    "name": "Glock-18 | Franklin (Field-Tested)",
+    "nameId": 1083747
+  },
+  "Glock-18 | Franklin (Well-Worn)": {
+    "name": "Glock-18 | Franklin (Well-Worn)",
+    "nameId": 1084016
+  },
+  "Glock-18 | Clear Polymer (Factory New)": {
+    "name": "Glock-18 | Clear Polymer (Factory New)",
+    "nameId": 1085500
+  },
+  "Glock-18 | Clear Polymer (Minimal Wear)": {
+    "name": "Glock-18 | Clear Polymer (Minimal Wear)",
+    "nameId": 1085435
+  },
+  "Glock-18 | Clear Polymer (Field-Tested)": {
+    "name": "Glock-18 | Clear Polymer (Field-Tested)",
+    "nameId": 1085429
+  },
+  "Glock-18 | Clear Polymer (Well-Worn)": {
+    "name": "Glock-18 | Clear Polymer (Well-Worn)",
+    "nameId": 1085469
+  },
+  "Glock-18 | Clear Polymer (Battle-Scarred)": {
+    "name": "Glock-18 | Clear Polymer (Battle-Scarred)",
+    "nameId": 1085489
+  },
+  "StatTrak™ Glock-18 | Clear Polymer (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Clear Polymer (Factory New)",
+    "nameId": 1085576
+  },
+  "StatTrak™ Glock-18 | Clear Polymer (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Clear Polymer (Minimal Wear)",
+    "nameId": 1085454
+  },
+  "StatTrak™ Glock-18 | Clear Polymer (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Clear Polymer (Field-Tested)",
+    "nameId": 1085443
+  },
+  "StatTrak™ Glock-18 | Clear Polymer (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Clear Polymer (Well-Worn)",
+    "nameId": 1085555
+  },
+  "StatTrak™ Glock-18 | Clear Polymer (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Clear Polymer (Battle-Scarred)",
+    "nameId": 1085491
+  },
+  "Glock-18 | Red Tire (Factory New)": {
+    "name": "Glock-18 | Red Tire (Factory New)",
+    "nameId": 1087142
+  },
+  "Glock-18 | Red Tire (Minimal Wear)": {
+    "name": "Glock-18 | Red Tire (Minimal Wear)",
+    "nameId": 1087213
+  },
+  "Glock-18 | Red Tire (Field-Tested)": {
+    "name": "Glock-18 | Red Tire (Field-Tested)",
+    "nameId": 1087216
+  },
+  "Glock-18 | Red Tire (Well-Worn)": {
+    "name": "Glock-18 | Red Tire (Well-Worn)",
+    "nameId": 1087449
+  },
+  "Glock-18 | Red Tire (Battle-Scarred)": {
+    "name": "Glock-18 | Red Tire (Battle-Scarred)",
+    "nameId": 1087174
+  },
+  "Souvenir Glock-18 | Red Tire (Factory New)": {
+    "name": "Souvenir Glock-18 | Red Tire (Factory New)",
+    "nameId": 1088689
+  },
+  "Souvenir Glock-18 | Red Tire (Minimal Wear)": {
+    "name": "Souvenir Glock-18 | Red Tire (Minimal Wear)",
+    "nameId": 1088618
+  },
+  "Souvenir Glock-18 | Red Tire (Field-Tested)": {
+    "name": "Souvenir Glock-18 | Red Tire (Field-Tested)",
+    "nameId": 1088571
+  },
+  "Souvenir Glock-18 | Red Tire (Well-Worn)": {
+    "name": "Souvenir Glock-18 | Red Tire (Well-Worn)",
+    "nameId": 1088627
+  },
+  "Souvenir Glock-18 | Red Tire (Battle-Scarred)": {
+    "name": "Souvenir Glock-18 | Red Tire (Battle-Scarred)",
+    "nameId": 1088616
+  },
+  "Glock-18 | Snack Attack (Factory New)": {
+    "name": "Glock-18 | Snack Attack (Factory New)",
+    "nameId": 1087378
+  },
+  "Glock-18 | Snack Attack (Minimal Wear)": {
+    "name": "Glock-18 | Snack Attack (Minimal Wear)",
+    "nameId": 1087183
+  },
+  "Glock-18 | Snack Attack (Field-Tested)": {
+    "name": "Glock-18 | Snack Attack (Field-Tested)",
+    "nameId": 1087118
+  },
+  "Glock-18 | Snack Attack (Well-Worn)": {
+    "name": "Glock-18 | Snack Attack (Well-Worn)",
+    "nameId": 1087097
+  },
+  "Glock-18 | Snack Attack (Battle-Scarred)": {
+    "name": "Glock-18 | Snack Attack (Battle-Scarred)",
+    "nameId": 1087300
+  },
+  "StatTrak™ Glock-18 | Snack Attack (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Snack Attack (Minimal Wear)",
+    "nameId": 1087257
+  },
+  "StatTrak™ Glock-18 | Snack Attack (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Snack Attack (Field-Tested)",
+    "nameId": 1087427
+  },
+  "StatTrak™ Glock-18 | Snack Attack (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Snack Attack (Well-Worn)",
+    "nameId": 1087385
+  },
+  "StatTrak™ Glock-18 | Snack Attack (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Snack Attack (Battle-Scarred)",
+    "nameId": 1087401
+  },
+  "Glock-18 | Winterized (Factory New)": {
+    "name": "Glock-18 | Winterized (Factory New)",
+    "nameId": 1092359
+  },
+  "Glock-18 | Winterized (Well-Worn)": {
+    "name": "Glock-18 | Winterized (Well-Worn)",
+    "nameId": 1092313
+  },
+  "Glock-18 | Winterized (Battle-Scarred)": {
+    "name": "Glock-18 | Winterized (Battle-Scarred)",
+    "nameId": 1092284
+  },
+  "StatTrak™ Glock-18 | Winterized (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Winterized (Factory New)",
+    "nameId": 1092410
+  },
+  "StatTrak™ Glock-18 | Winterized (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Winterized (Minimal Wear)",
+    "nameId": 1092357
+  },
+  "StatTrak™ Glock-18 | Winterized (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Winterized (Field-Tested)",
+    "nameId": 1092323
+  },
+  "StatTrak™ Glock-18 | Winterized (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Winterized (Well-Worn)",
+    "nameId": 1092364
+  },
+  "StatTrak™ Glock-18 | Winterized (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Winterized (Battle-Scarred)",
+    "nameId": 1092331
+  },
+  "Glock-18 | Block-18 (Factory New)": {
+    "name": "Glock-18 | Block-18 (Factory New)",
+    "nameId": 2521646
+  },
+  "Glock-18 | Block-18 (Minimal Wear)": {
+    "name": "Glock-18 | Block-18 (Minimal Wear)",
+    "nameId": 2521623
+  },
+  "Glock-18 | Block-18 (Field-Tested)": {
+    "name": "Glock-18 | Block-18 (Field-Tested)",
+    "nameId": 2521496
+  },
+  "Glock-18 | Block-18 (Well-Worn)": {
+    "name": "Glock-18 | Block-18 (Well-Worn)",
+    "nameId": 2523129
+  },
+  "Glock-18 | Block-18 (Battle-Scarred)": {
+    "name": "Glock-18 | Block-18 (Battle-Scarred)",
+    "nameId": 2521993
+  },
+  "StatTrak™ Glock-18 | Block-18 (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Block-18 (Factory New)",
+    "nameId": 2524168
+  },
+  "StatTrak™ Glock-18 | Block-18 (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Block-18 (Minimal Wear)",
+    "nameId": 2523062
+  },
+  "StatTrak™ Glock-18 | Block-18 (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Block-18 (Field-Tested)",
+    "nameId": 2523210
+  },
+  "StatTrak™ Glock-18 | Block-18 (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Block-18 (Well-Worn)",
+    "nameId": 2527059
+  },
+  "StatTrak™ Glock-18 | Block-18 (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Block-18 (Battle-Scarred)",
+    "nameId": 2526528
+  },
+  "Glock-18 | Umbral Rabbit (Factory New)": {
+    "name": "Glock-18 | Umbral Rabbit (Factory New)",
+    "nameId": 1158929
+  },
+  "Glock-18 | Umbral Rabbit (Minimal Wear)": {
+    "name": "Glock-18 | Umbral Rabbit (Minimal Wear)",
+    "nameId": 1159132
+  },
+  "Glock-18 | Umbral Rabbit (Field-Tested)": {
+    "name": "Glock-18 | Umbral Rabbit (Field-Tested)",
+    "nameId": 1158993
+  },
+  "Glock-18 | Umbral Rabbit (Well-Worn)": {
+    "name": "Glock-18 | Umbral Rabbit (Well-Worn)",
+    "nameId": 1160734
+  },
+  "Glock-18 | Umbral Rabbit (Battle-Scarred)": {
+    "name": "Glock-18 | Umbral Rabbit (Battle-Scarred)",
+    "nameId": 1160085
+  },
+  "StatTrak™ Glock-18 | Umbral Rabbit (Factory New)": {
+    "name": "StatTrak™ Glock-18 | Umbral Rabbit (Factory New)",
+    "nameId": 1162367
+  },
+  "StatTrak™ Glock-18 | Umbral Rabbit (Minimal Wear)": {
+    "name": "StatTrak™ Glock-18 | Umbral Rabbit (Minimal Wear)",
+    "nameId": 1159257
+  },
+  "StatTrak™ Glock-18 | Umbral Rabbit (Field-Tested)": {
+    "name": "StatTrak™ Glock-18 | Umbral Rabbit (Field-Tested)",
+    "nameId": 1159130
+  },
+  "StatTrak™ Glock-18 | Umbral Rabbit (Well-Worn)": {
+    "name": "StatTrak™ Glock-18 | Umbral Rabbit (Well-Worn)",
+    "nameId": 1172983
+  },
+  "StatTrak™ Glock-18 | Umbral Rabbit (Battle-Scarred)": {
+    "name": "StatTrak™ Glock-18 | Umbral Rabbit (Battle-Scarred)",
+    "nameId": 1161612
+  },
+  "Glock-18 | Ramese's Reach (Factory New)": {
+    "name": "Glock-18 | Ramese's Reach (Factory New)",
+    "nameId": 1309909
+  },
+  "Glock-18 | Ramese's Reach (Minimal Wear)": {
+    "name": "Glock-18 | Ramese's Reach (Minimal Wear)",
+    "nameId": 1309835
+  },
+  "Glock-18 | Ramese's Reach (Field-Tested)": {
+    "name": "Glock-18 | Ramese's Reach (Field-Tested)",
+    "nameId": 1309815
+  },
+  "Glock-18 | Ramese's Reach (Well-Worn)": {
+    "name": "Glock-18 | Ramese's Reach (Well-Worn)",
+    "nameId": 1309841
+  },
+  "Glock-18 | Ramese's Reach (Battle-Scarred)": {
+    "name": "Glock-18 | Ramese's Reach (Battle-Scarred)",
+    "nameId": 1309862
+  },
+  "Souvenir Glock-18 | Ramese's Reach (Factory New)": {
+    "name": "Souvenir Glock-18 | Ramese's Reach (Factory New)",
+    "nameId": 1358284
+  },
+  "Souvenir Glock-18 | Ramese's Reach (Minimal Wear)": {
+    "name": "Souvenir Glock-18 | Ramese's Reach (Minimal Wear)",
+    "nameId": 1332312
+  },
+  "Souvenir Glock-18 | Ramese's Reach (Field-Tested)": {
+    "name": "Souvenir Glock-18 | Ramese's Reach (Field-Tested)",
+    "nameId": 1331051
+  },
+  "Souvenir Glock-18 | Ramese's Reach (Well-Worn)": {
+    "name": "Souvenir Glock-18 | Ramese's Reach (Well-Worn)",
+    "nameId": 1332705
+  },
+  "Souvenir Glock-18 | Ramese's Reach (Battle-Scarred)": {
+    "name": "Souvenir Glock-18 | Ramese's Reach (Battle-Scarred)",
+    "nameId": 1332571
+  },
+  "AK-47 | Red Laminate (Factory New)": {
+    "name": "AK-47 | Red Laminate (Factory New)",
+    "nameId": 4111
+  },
+  "AK-47 | Red Laminate (Minimal Wear)": {
+    "name": "AK-47 | Red Laminate (Minimal Wear)",
+    "nameId": 1740
+  },
+  "AK-47 | Red Laminate (Field-Tested)": {
+    "name": "AK-47 | Red Laminate (Field-Tested)",
+    "nameId": 2071
+  },
+  "AK-47 | Red Laminate (Well-Worn)": {
+    "name": "AK-47 | Red Laminate (Well-Worn)",
+    "nameId": 3243
+  },
+  "AK-47 | Red Laminate (Battle-Scarred)": {
+    "name": "AK-47 | Red Laminate (Battle-Scarred)",
+    "nameId": 2035
+  },
+  "StatTrak™ AK-47 | Red Laminate (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Red Laminate (Minimal Wear)",
+    "nameId": 1990
+  },
+  "StatTrak™ AK-47 | Red Laminate (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Red Laminate (Field-Tested)",
+    "nameId": 1747
+  },
+  "StatTrak™ AK-47 | Red Laminate (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Red Laminate (Well-Worn)",
+    "nameId": 13393
+  },
+  "StatTrak™ AK-47 | Red Laminate (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Red Laminate (Battle-Scarred)",
+    "nameId": 3476
+  },
+  "AK-47 | Case Hardened (Factory New)": {
+    "name": "AK-47 | Case Hardened (Factory New)",
+    "nameId": 4098
+  },
+  "AK-47 | Case Hardened (Minimal Wear)": {
+    "name": "AK-47 | Case Hardened (Minimal Wear)",
+    "nameId": 498
+  },
+  "AK-47 | Case Hardened (Field-Tested)": {
+    "name": "AK-47 | Case Hardened (Field-Tested)",
+    "nameId": 2095
+  },
+  "AK-47 | Case Hardened (Well-Worn)": {
+    "name": "AK-47 | Case Hardened (Well-Worn)",
+    "nameId": 3295
+  },
+  "AK-47 | Case Hardened (Battle-Scarred)": {
+    "name": "AK-47 | Case Hardened (Battle-Scarred)",
+    "nameId": 9408
+  },
+  "StatTrak™ AK-47 | Case Hardened (Factory New)": {
+    "name": "StatTrak™ AK-47 | Case Hardened (Factory New)",
+    "nameId": 14685
+  },
+  "StatTrak™ AK-47 | Case Hardened (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Case Hardened (Minimal Wear)",
+    "nameId": 1591
+  },
+  "StatTrak™ AK-47 | Case Hardened (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Case Hardened (Field-Tested)",
+    "nameId": 7624
+  },
+  "StatTrak™ AK-47 | Case Hardened (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Case Hardened (Well-Worn)",
+    "nameId": 18453
+  },
+  "StatTrak™ AK-47 | Case Hardened (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Case Hardened (Battle-Scarred)",
+    "nameId": 2891
+  },
+  "AK-47 | Safari Mesh (Factory New)": {
+    "name": "AK-47 | Safari Mesh (Factory New)",
+    "nameId": 904
+  },
+  "AK-47 | Safari Mesh (Minimal Wear)": {
+    "name": "AK-47 | Safari Mesh (Minimal Wear)",
+    "nameId": 2707
+  },
+  "AK-47 | Safari Mesh (Field-Tested)": {
+    "name": "AK-47 | Safari Mesh (Field-Tested)",
+    "nameId": 2294
+  },
+  "AK-47 | Safari Mesh (Well-Worn)": {
+    "name": "AK-47 | Safari Mesh (Well-Worn)",
+    "nameId": 2475
+  },
+  "AK-47 | Safari Mesh (Battle-Scarred)": {
+    "name": "AK-47 | Safari Mesh (Battle-Scarred)",
+    "nameId": 2022
+  },
+  "Souvenir AK-47 | Safari Mesh (Factory New)": {
+    "name": "Souvenir AK-47 | Safari Mesh (Factory New)",
+    "nameId": 20315
+  },
+  "Souvenir AK-47 | Safari Mesh (Minimal Wear)": {
+    "name": "Souvenir AK-47 | Safari Mesh (Minimal Wear)",
+    "nameId": 1770
+  },
+  "Souvenir AK-47 | Safari Mesh (Field-Tested)": {
+    "name": "Souvenir AK-47 | Safari Mesh (Field-Tested)",
+    "nameId": 7406
+  },
+  "Souvenir AK-47 | Safari Mesh (Well-Worn)": {
+    "name": "Souvenir AK-47 | Safari Mesh (Well-Worn)",
+    "nameId": 19768
+  },
+  "Souvenir AK-47 | Safari Mesh (Battle-Scarred)": {
+    "name": "Souvenir AK-47 | Safari Mesh (Battle-Scarred)",
+    "nameId": 12866
+  },
+  "AK-47 | The Outsiders (Factory New)": {
+    "name": "AK-47 | The Outsiders (Factory New)",
+    "nameId": 2598051
+  },
+  "AK-47 | The Outsiders (Minimal Wear)": {
+    "name": "AK-47 | The Outsiders (Minimal Wear)",
+    "nameId": 2597826
+  },
+  "AK-47 | The Outsiders (Field-Tested)": {
+    "name": "AK-47 | The Outsiders (Field-Tested)",
+    "nameId": 2597884
+  },
+  "AK-47 | The Outsiders (Well-Worn)": {
+    "name": "AK-47 | The Outsiders (Well-Worn)",
+    "nameId": 2598131
+  },
+  "AK-47 | The Outsiders (Battle-Scarred)": {
+    "name": "AK-47 | The Outsiders (Battle-Scarred)",
+    "nameId": 2597706
+  },
+  "StatTrak™ AK-47 | The Outsiders (Factory New)": {
+    "name": "StatTrak™ AK-47 | The Outsiders (Factory New)",
+    "nameId": 2597958
+  },
+  "StatTrak™ AK-47 | The Outsiders (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | The Outsiders (Minimal Wear)",
+    "nameId": 2598198
+  },
+  "StatTrak™ AK-47 | The Outsiders (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | The Outsiders (Field-Tested)",
+    "nameId": 2597997
+  },
+  "StatTrak™ AK-47 | The Outsiders (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | The Outsiders (Battle-Scarred)",
+    "nameId": 2598200
+  },
+  "AK-47 | Jungle Spray (Factory New)": {
+    "name": "AK-47 | Jungle Spray (Factory New)",
+    "nameId": 16250
+  },
+  "AK-47 | Jungle Spray (Minimal Wear)": {
+    "name": "AK-47 | Jungle Spray (Minimal Wear)",
+    "nameId": 1166
+  },
+  "AK-47 | Jungle Spray (Field-Tested)": {
+    "name": "AK-47 | Jungle Spray (Field-Tested)",
+    "nameId": 3223
+  },
+  "AK-47 | Jungle Spray (Well-Worn)": {
+    "name": "AK-47 | Jungle Spray (Well-Worn)",
+    "nameId": 1250
+  },
+  "AK-47 | Jungle Spray (Battle-Scarred)": {
+    "name": "AK-47 | Jungle Spray (Battle-Scarred)",
+    "nameId": 8541
+  },
+  "AK-47 | B the Monster (Factory New)": {
+    "name": "AK-47 | B the Monster (Factory New)",
+    "nameId": 2598099
+  },
+  "AK-47 | B the Monster (Minimal Wear)": {
+    "name": "AK-47 | B the Monster (Minimal Wear)",
+    "nameId": 2598071
+  },
+  "AK-47 | B the Monster (Field-Tested)": {
+    "name": "AK-47 | B the Monster (Field-Tested)",
+    "nameId": 2598048
+  },
+  "AK-47 | B the Monster (Battle-Scarred)": {
+    "name": "AK-47 | B the Monster (Battle-Scarred)",
+    "nameId": 2598072
+  },
+  "AK-47 | Predator (Factory New)": {
+    "name": "AK-47 | Predator (Factory New)",
+    "nameId": 7283
+  },
+  "AK-47 | Predator (Minimal Wear)": {
+    "name": "AK-47 | Predator (Minimal Wear)",
+    "nameId": 2660
+  },
+  "AK-47 | Predator (Field-Tested)": {
+    "name": "AK-47 | Predator (Field-Tested)",
+    "nameId": 4102
+  },
+  "AK-47 | Predator (Well-Worn)": {
+    "name": "AK-47 | Predator (Well-Worn)",
+    "nameId": 1365
+  },
+  "AK-47 | Predator (Battle-Scarred)": {
+    "name": "AK-47 | Predator (Battle-Scarred)",
+    "nameId": 1164
+  },
+  "AK-47 | Black Laminate (Factory New)": {
+    "name": "AK-47 | Black Laminate (Factory New)",
+    "nameId": 18176
+  },
+  "AK-47 | Black Laminate (Minimal Wear)": {
+    "name": "AK-47 | Black Laminate (Minimal Wear)",
+    "nameId": 584
+  },
+  "AK-47 | Black Laminate (Field-Tested)": {
+    "name": "AK-47 | Black Laminate (Field-Tested)",
+    "nameId": 2222
+  },
+  "AK-47 | Black Laminate (Well-Worn)": {
+    "name": "AK-47 | Black Laminate (Well-Worn)",
+    "nameId": 13520
+  },
+  "AK-47 | Black Laminate (Battle-Scarred)": {
+    "name": "AK-47 | Black Laminate (Battle-Scarred)",
+    "nameId": 3144
+  },
+  "Souvenir AK-47 | Black Laminate (Factory New)": {
+    "name": "Souvenir AK-47 | Black Laminate (Factory New)",
+    "nameId": 1071627
+  },
+  "Souvenir AK-47 | Black Laminate (Minimal Wear)": {
+    "name": "Souvenir AK-47 | Black Laminate (Minimal Wear)",
+    "nameId": 1071563
+  },
+  "Souvenir AK-47 | Black Laminate (Field-Tested)": {
+    "name": "Souvenir AK-47 | Black Laminate (Field-Tested)",
+    "nameId": 1071559
+  },
+  "Souvenir AK-47 | Black Laminate (Battle-Scarred)": {
+    "name": "Souvenir AK-47 | Black Laminate (Battle-Scarred)",
+    "nameId": 1071562
+  },
+  "AK-47 | Fire Serpent (Factory New)": {
+    "name": "AK-47 | Fire Serpent (Factory New)",
+    "nameId": 2087
+  },
+  "AK-47 | Fire Serpent (Minimal Wear)": {
+    "name": "AK-47 | Fire Serpent (Minimal Wear)",
+    "nameId": 8773
+  },
+  "AK-47 | Fire Serpent (Field-Tested)": {
+    "name": "AK-47 | Fire Serpent (Field-Tested)",
+    "nameId": 2575
+  },
+  "AK-47 | Fire Serpent (Well-Worn)": {
+    "name": "AK-47 | Fire Serpent (Well-Worn)",
+    "nameId": 3606
+  },
+  "AK-47 | Fire Serpent (Battle-Scarred)": {
+    "name": "AK-47 | Fire Serpent (Battle-Scarred)",
+    "nameId": 1404
+  },
+  "StatTrak™ AK-47 | Fire Serpent (Factory New)": {
+    "name": "StatTrak™ AK-47 | Fire Serpent (Factory New)",
+    "nameId": 909
+  },
+  "StatTrak™ AK-47 | Fire Serpent (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Fire Serpent (Minimal Wear)",
+    "nameId": 3314
+  },
+  "StatTrak™ AK-47 | Fire Serpent (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Fire Serpent (Field-Tested)",
+    "nameId": 2048
+  },
+  "StatTrak™ AK-47 | Fire Serpent (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Fire Serpent (Well-Worn)",
+    "nameId": 19821
+  },
+  "StatTrak™ AK-47 | Fire Serpent (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Fire Serpent (Battle-Scarred)",
+    "nameId": 14343
+  },
+  "AK-47 | Blue Laminate (Factory New)": {
+    "name": "AK-47 | Blue Laminate (Factory New)",
+    "nameId": 664
+  },
+  "AK-47 | Blue Laminate (Minimal Wear)": {
+    "name": "AK-47 | Blue Laminate (Minimal Wear)",
+    "nameId": 2571
+  },
+  "AK-47 | Blue Laminate (Field-Tested)": {
+    "name": "AK-47 | Blue Laminate (Field-Tested)",
+    "nameId": 874
+  },
+  "AK-47 | Blue Laminate (Well-Worn)": {
+    "name": "AK-47 | Blue Laminate (Well-Worn)",
+    "nameId": 1047
+  },
+  "StatTrak™ AK-47 | Blue Laminate (Factory New)": {
+    "name": "StatTrak™ AK-47 | Blue Laminate (Factory New)",
+    "nameId": 1973
+  },
+  "StatTrak™ AK-47 | Blue Laminate (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Blue Laminate (Minimal Wear)",
+    "nameId": 9038
+  },
+  "StatTrak™ AK-47 | Blue Laminate (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Blue Laminate (Field-Tested)",
+    "nameId": 1
+  },
+  "StatTrak™ AK-47 | Blue Laminate (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Blue Laminate (Well-Worn)",
+    "nameId": 12627
+  },
+  "AK-47 | Redline (Minimal Wear)": {
+    "name": "AK-47 | Redline (Minimal Wear)",
+    "nameId": 1211
+  },
+  "AK-47 | Redline (Field-Tested)": {
+    "name": "AK-47 | Redline (Field-Tested)",
+    "nameId": 77
+  },
+  "AK-47 | Redline (Well-Worn)": {
+    "name": "AK-47 | Redline (Well-Worn)",
+    "nameId": 1260
+  },
+  "AK-47 | Redline (Battle-Scarred)": {
+    "name": "AK-47 | Redline (Battle-Scarred)",
+    "nameId": 9664
+  },
+  "StatTrak™ AK-47 | Redline (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Redline (Minimal Wear)",
+    "nameId": 9848
+  },
+  "StatTrak™ AK-47 | Redline (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Redline (Field-Tested)",
+    "nameId": 2630
+  },
+  "StatTrak™ AK-47 | Redline (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Redline (Well-Worn)",
+    "nameId": 4005
+  },
+  "StatTrak™ AK-47 | Redline (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Redline (Battle-Scarred)",
+    "nameId": 1415
+  },
+  "AK-47 | Emerald Pinstripe (Factory New)": {
+    "name": "AK-47 | Emerald Pinstripe (Factory New)",
+    "nameId": 1144
+  },
+  "AK-47 | Emerald Pinstripe (Minimal Wear)": {
+    "name": "AK-47 | Emerald Pinstripe (Minimal Wear)",
+    "nameId": 5012
+  },
+  "AK-47 | Emerald Pinstripe (Field-Tested)": {
+    "name": "AK-47 | Emerald Pinstripe (Field-Tested)",
+    "nameId": 1671
+  },
+  "AK-47 | Emerald Pinstripe (Well-Worn)": {
+    "name": "AK-47 | Emerald Pinstripe (Well-Worn)",
+    "nameId": 1379
+  },
+  "AK-47 | Emerald Pinstripe (Battle-Scarred)": {
+    "name": "AK-47 | Emerald Pinstripe (Battle-Scarred)",
+    "nameId": 2367
+  },
+  "AK-47 | Vulcan (Factory New)": {
+    "name": "AK-47 | Vulcan (Factory New)",
+    "nameId": 12243
+  },
+  "AK-47 | Vulcan (Minimal Wear)": {
+    "name": "AK-47 | Vulcan (Minimal Wear)",
+    "nameId": 1485
+  },
+  "AK-47 | Vulcan (Field-Tested)": {
+    "name": "AK-47 | Vulcan (Field-Tested)",
+    "nameId": 207
+  },
+  "AK-47 | Vulcan (Well-Worn)": {
+    "name": "AK-47 | Vulcan (Well-Worn)",
+    "nameId": 7064
+  },
+  "AK-47 | Vulcan (Battle-Scarred)": {
+    "name": "AK-47 | Vulcan (Battle-Scarred)",
+    "nameId": 4965
+  },
+  "StatTrak™ AK-47 | Vulcan (Factory New)": {
+    "name": "StatTrak™ AK-47 | Vulcan (Factory New)",
+    "nameId": 14389
+  },
+  "StatTrak™ AK-47 | Vulcan (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Vulcan (Minimal Wear)",
+    "nameId": 13869
+  },
+  "StatTrak™ AK-47 | Vulcan (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Vulcan (Field-Tested)",
+    "nameId": 13685
+  },
+  "StatTrak™ AK-47 | Vulcan (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Vulcan (Well-Worn)",
+    "nameId": 3416
+  },
+  "StatTrak™ AK-47 | Vulcan (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Vulcan (Battle-Scarred)",
+    "nameId": 13375
+  },
+  "AK-47 | Jaguar (Factory New)": {
+    "name": "AK-47 | Jaguar (Factory New)",
+    "nameId": 17463
+  },
+  "AK-47 | Jaguar (Minimal Wear)": {
+    "name": "AK-47 | Jaguar (Minimal Wear)",
+    "nameId": 10368
+  },
+  "AK-47 | Jaguar (Field-Tested)": {
+    "name": "AK-47 | Jaguar (Field-Tested)",
+    "nameId": 9357
+  },
+  "AK-47 | Jaguar (Well-Worn)": {
+    "name": "AK-47 | Jaguar (Well-Worn)",
+    "nameId": 9448
+  },
+  "AK-47 | Jaguar (Battle-Scarred)": {
+    "name": "AK-47 | Jaguar (Battle-Scarred)",
+    "nameId": 2839
+  },
+  "StatTrak™ AK-47 | Jaguar (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Jaguar (Minimal Wear)",
+    "nameId": 3439
+  },
+  "StatTrak™ AK-47 | Jaguar (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Jaguar (Field-Tested)",
+    "nameId": 13399
+  },
+  "StatTrak™ AK-47 | Jaguar (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Jaguar (Well-Worn)",
+    "nameId": 1372
+  },
+  "StatTrak™ AK-47 | Jaguar (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Jaguar (Battle-Scarred)",
+    "nameId": 7684
+  },
+  "AK-47 | Jet Set (Factory New)": {
+    "name": "AK-47 | Jet Set (Factory New)",
+    "nameId": 18314
+  },
+  "AK-47 | Jet Set (Minimal Wear)": {
+    "name": "AK-47 | Jet Set (Minimal Wear)",
+    "nameId": 2295
+  },
+  "AK-47 | Jet Set (Field-Tested)": {
+    "name": "AK-47 | Jet Set (Field-Tested)",
+    "nameId": 5435
+  },
+  "AK-47 | Jet Set (Well-Worn)": {
+    "name": "AK-47 | Jet Set (Well-Worn)",
+    "nameId": 9830
+  },
+  "AK-47 | Jet Set (Battle-Scarred)": {
+    "name": "AK-47 | Jet Set (Battle-Scarred)",
+    "nameId": 4849
+  },
+  "AK-47 | First Class (Factory New)": {
+    "name": "AK-47 | First Class (Factory New)",
+    "nameId": 781
+  },
+  "AK-47 | First Class (Minimal Wear)": {
+    "name": "AK-47 | First Class (Minimal Wear)",
+    "nameId": 8612
+  },
+  "AK-47 | First Class (Field-Tested)": {
+    "name": "AK-47 | First Class (Field-Tested)",
+    "nameId": 2832
+  },
+  "AK-47 | First Class (Well-Worn)": {
+    "name": "AK-47 | First Class (Well-Worn)",
+    "nameId": 18079
+  },
+  "AK-47 | First Class (Battle-Scarred)": {
+    "name": "AK-47 | First Class (Battle-Scarred)",
+    "nameId": 3441
+  },
+  "AK-47 | Wasteland Rebel (Factory New)": {
+    "name": "AK-47 | Wasteland Rebel (Factory New)",
+    "nameId": 18380
+  },
+  "AK-47 | Wasteland Rebel (Minimal Wear)": {
+    "name": "AK-47 | Wasteland Rebel (Minimal Wear)",
+    "nameId": 3148
+  },
+  "AK-47 | Wasteland Rebel (Field-Tested)": {
+    "name": "AK-47 | Wasteland Rebel (Field-Tested)",
+    "nameId": 2814
+  },
+  "AK-47 | Wasteland Rebel (Well-Worn)": {
+    "name": "AK-47 | Wasteland Rebel (Well-Worn)",
+    "nameId": 2537
+  },
+  "AK-47 | Wasteland Rebel (Battle-Scarred)": {
+    "name": "AK-47 | Wasteland Rebel (Battle-Scarred)",
+    "nameId": 13397
+  },
+  "StatTrak™ AK-47 | Wasteland Rebel (Factory New)": {
+    "name": "StatTrak™ AK-47 | Wasteland Rebel (Factory New)",
+    "nameId": 16243
+  },
+  "StatTrak™ AK-47 | Wasteland Rebel (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Wasteland Rebel (Minimal Wear)",
+    "nameId": 18092
+  },
+  "StatTrak™ AK-47 | Wasteland Rebel (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Wasteland Rebel (Field-Tested)",
+    "nameId": 1600
+  },
+  "StatTrak™ AK-47 | Wasteland Rebel (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Wasteland Rebel (Well-Worn)",
+    "nameId": 19603
+  },
+  "StatTrak™ AK-47 | Wasteland Rebel (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Wasteland Rebel (Battle-Scarred)",
+    "nameId": 3843
+  },
+  "AK-47 | Cartel (Factory New)": {
+    "name": "AK-47 | Cartel (Factory New)",
+    "nameId": 1124
+  },
+  "AK-47 | Cartel (Minimal Wear)": {
+    "name": "AK-47 | Cartel (Minimal Wear)",
+    "nameId": 920
+  },
+  "AK-47 | Cartel (Field-Tested)": {
+    "name": "AK-47 | Cartel (Field-Tested)",
+    "nameId": 913
+  },
+  "AK-47 | Cartel (Well-Worn)": {
+    "name": "AK-47 | Cartel (Well-Worn)",
+    "nameId": 1114
+  },
+  "AK-47 | Cartel (Battle-Scarred)": {
+    "name": "AK-47 | Cartel (Battle-Scarred)",
+    "nameId": 959
+  },
+  "StatTrak™ AK-47 | Cartel (Factory New)": {
+    "name": "StatTrak™ AK-47 | Cartel (Factory New)",
+    "nameId": 12133
+  },
+  "StatTrak™ AK-47 | Cartel (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Cartel (Minimal Wear)",
+    "nameId": 1457
+  },
+  "StatTrak™ AK-47 | Cartel (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Cartel (Field-Tested)",
+    "nameId": 9287
+  },
+  "StatTrak™ AK-47 | Cartel (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Cartel (Well-Worn)",
+    "nameId": 2837
+  },
+  "StatTrak™ AK-47 | Cartel (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Cartel (Battle-Scarred)",
+    "nameId": 9460
+  },
+  "AK-47 | Elite Build (Factory New)": {
+    "name": "AK-47 | Elite Build (Factory New)",
+    "nameId": 990
+  },
+  "AK-47 | Elite Build (Minimal Wear)": {
+    "name": "AK-47 | Elite Build (Minimal Wear)",
+    "nameId": 4773
+  },
+  "AK-47 | Elite Build (Field-Tested)": {
+    "name": "AK-47 | Elite Build (Field-Tested)",
+    "nameId": 892
+  },
+  "StatTrak™ AK-47 | Elite Build (Factory New)": {
+    "name": "StatTrak™ AK-47 | Elite Build (Factory New)",
+    "nameId": 12139
+  },
+  "StatTrak™ AK-47 | Elite Build (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Elite Build (Minimal Wear)",
+    "nameId": 2005
+  },
+  "StatTrak™ AK-47 | Elite Build (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Elite Build (Field-Tested)",
+    "nameId": 7812
+  },
+  "StatTrak™ AK-47 | Elite Build (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Elite Build (Well-Worn)",
+    "nameId": 6260
+  },
+  "StatTrak™ AK-47 | Elite Build (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Elite Build (Battle-Scarred)",
+    "nameId": 7802
+  },
+  "AK-47 | Hydroponic (Factory New)": {
+    "name": "AK-47 | Hydroponic (Factory New)",
+    "nameId": 10450
+  },
+  "AK-47 | Hydroponic (Minimal Wear)": {
+    "name": "AK-47 | Hydroponic (Minimal Wear)",
+    "nameId": 9407
+  },
+  "AK-47 | Hydroponic (Field-Tested)": {
+    "name": "AK-47 | Hydroponic (Field-Tested)",
+    "nameId": 1358
+  },
+  "AK-47 | Hydroponic (Well-Worn)": {
+    "name": "AK-47 | Hydroponic (Well-Worn)",
+    "nameId": 7122
+  },
+  "AK-47 | Aquamarine Revenge (Factory New)": {
+    "name": "AK-47 | Aquamarine Revenge (Factory New)",
+    "nameId": 7007
+  },
+  "AK-47 | Aquamarine Revenge (Minimal Wear)": {
+    "name": "AK-47 | Aquamarine Revenge (Minimal Wear)",
+    "nameId": 1430
+  },
+  "AK-47 | Aquamarine Revenge (Field-Tested)": {
+    "name": "AK-47 | Aquamarine Revenge (Field-Tested)",
+    "nameId": 1382
+  },
+  "AK-47 | Aquamarine Revenge (Well-Worn)": {
+    "name": "AK-47 | Aquamarine Revenge (Well-Worn)",
+    "nameId": 8440
+  },
+  "AK-47 | Aquamarine Revenge (Battle-Scarred)": {
+    "name": "AK-47 | Aquamarine Revenge (Battle-Scarred)",
+    "nameId": 9832
+  },
+  "StatTrak™ AK-47 | Aquamarine Revenge (Factory New)": {
+    "name": "StatTrak™ AK-47 | Aquamarine Revenge (Factory New)",
+    "nameId": 4115
+  },
+  "StatTrak™ AK-47 | Aquamarine Revenge (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Aquamarine Revenge (Minimal Wear)",
+    "nameId": 1137
+  },
+  "StatTrak™ AK-47 | Aquamarine Revenge (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Aquamarine Revenge (Field-Tested)",
+    "nameId": 13099
+  },
+  "StatTrak™ AK-47 | Aquamarine Revenge (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Aquamarine Revenge (Well-Worn)",
+    "nameId": 10549
+  },
+  "StatTrak™ AK-47 | Aquamarine Revenge (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Aquamarine Revenge (Battle-Scarred)",
+    "nameId": 4915
+  },
+  "AK-47 | Frontside Misty (Factory New)": {
+    "name": "AK-47 | Frontside Misty (Factory New)",
+    "nameId": 9602
+  },
+  "AK-47 | Frontside Misty (Minimal Wear)": {
+    "name": "AK-47 | Frontside Misty (Minimal Wear)",
+    "nameId": 1218
+  },
+  "AK-47 | Frontside Misty (Field-Tested)": {
+    "name": "AK-47 | Frontside Misty (Field-Tested)",
+    "nameId": 906
+  },
+  "AK-47 | Frontside Misty (Well-Worn)": {
+    "name": "AK-47 | Frontside Misty (Well-Worn)",
+    "nameId": 639
+  },
+  "AK-47 | Frontside Misty (Battle-Scarred)": {
+    "name": "AK-47 | Frontside Misty (Battle-Scarred)",
+    "nameId": 3867
+  },
+  "StatTrak™ AK-47 | Frontside Misty (Factory New)": {
+    "name": "StatTrak™ AK-47 | Frontside Misty (Factory New)",
+    "nameId": 12809
+  },
+  "StatTrak™ AK-47 | Frontside Misty (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Frontside Misty (Minimal Wear)",
+    "nameId": 13860
+  },
+  "StatTrak™ AK-47 | Frontside Misty (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Frontside Misty (Field-Tested)",
+    "nameId": 1197
+  },
+  "StatTrak™ AK-47 | Frontside Misty (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Frontside Misty (Well-Worn)",
+    "nameId": 11160
+  },
+  "StatTrak™ AK-47 | Frontside Misty (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Frontside Misty (Battle-Scarred)",
+    "nameId": 1850
+  },
+  "AK-47 | Point Disarray (Factory New)": {
+    "name": "AK-47 | Point Disarray (Factory New)",
+    "nameId": 4889
+  },
+  "AK-47 | Point Disarray (Minimal Wear)": {
+    "name": "AK-47 | Point Disarray (Minimal Wear)",
+    "nameId": 1199
+  },
+  "AK-47 | Point Disarray (Field-Tested)": {
+    "name": "AK-47 | Point Disarray (Field-Tested)",
+    "nameId": 1263
+  },
+  "AK-47 | Point Disarray (Well-Worn)": {
+    "name": "AK-47 | Point Disarray (Well-Worn)",
+    "nameId": 2357
+  },
+  "AK-47 | Point Disarray (Battle-Scarred)": {
+    "name": "AK-47 | Point Disarray (Battle-Scarred)",
+    "nameId": 2431
+  },
+  "StatTrak™ AK-47 | Point Disarray (Factory New)": {
+    "name": "StatTrak™ AK-47 | Point Disarray (Factory New)",
+    "nameId": 3586
+  },
+  "StatTrak™ AK-47 | Point Disarray (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Point Disarray (Minimal Wear)",
+    "nameId": 2997
+  },
+  "StatTrak™ AK-47 | Point Disarray (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Point Disarray (Field-Tested)",
+    "nameId": 1007
+  },
+  "StatTrak™ AK-47 | Point Disarray (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Point Disarray (Well-Worn)",
+    "nameId": 2794
+  },
+  "StatTrak™ AK-47 | Point Disarray (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Point Disarray (Battle-Scarred)",
+    "nameId": 1725
+  },
+  "AK-47 | Fuel Injector (Factory New)": {
+    "name": "AK-47 | Fuel Injector (Factory New)",
+    "nameId": 834
+  },
+  "AK-47 | Fuel Injector (Minimal Wear)": {
+    "name": "AK-47 | Fuel Injector (Minimal Wear)",
+    "nameId": 762
+  },
+  "AK-47 | Fuel Injector (Field-Tested)": {
+    "name": "AK-47 | Fuel Injector (Field-Tested)",
+    "nameId": 949
+  },
+  "AK-47 | Fuel Injector (Well-Worn)": {
+    "name": "AK-47 | Fuel Injector (Well-Worn)",
+    "nameId": 1897
+  },
+  "AK-47 | Fuel Injector (Battle-Scarred)": {
+    "name": "AK-47 | Fuel Injector (Battle-Scarred)",
+    "nameId": 2086
+  },
+  "StatTrak™ AK-47 | Fuel Injector (Factory New)": {
+    "name": "StatTrak™ AK-47 | Fuel Injector (Factory New)",
+    "nameId": 19276
+  },
+  "StatTrak™ AK-47 | Fuel Injector (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Fuel Injector (Minimal Wear)",
+    "nameId": 7771
+  },
+  "StatTrak™ AK-47 | Fuel Injector (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Fuel Injector (Field-Tested)",
+    "nameId": 10444
+  },
+  "StatTrak™ AK-47 | Fuel Injector (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Fuel Injector (Well-Worn)",
+    "nameId": 422
+  },
+  "StatTrak™ AK-47 | Fuel Injector (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Fuel Injector (Battle-Scarred)",
+    "nameId": 780
+  },
+  "AK-47 | Neon Revolution (Factory New)": {
+    "name": "AK-47 | Neon Revolution (Factory New)",
+    "nameId": 1422
+  },
+  "AK-47 | Neon Revolution (Minimal Wear)": {
+    "name": "AK-47 | Neon Revolution (Minimal Wear)",
+    "nameId": 1104
+  },
+  "AK-47 | Neon Revolution (Field-Tested)": {
+    "name": "AK-47 | Neon Revolution (Field-Tested)",
+    "nameId": 5021
+  },
+  "AK-47 | Neon Revolution (Well-Worn)": {
+    "name": "AK-47 | Neon Revolution (Well-Worn)",
+    "nameId": 8131
+  },
+  "AK-47 | Neon Revolution (Battle-Scarred)": {
+    "name": "AK-47 | Neon Revolution (Battle-Scarred)",
+    "nameId": 7272
+  },
+  "StatTrak™ AK-47 | Neon Revolution (Factory New)": {
+    "name": "StatTrak™ AK-47 | Neon Revolution (Factory New)",
+    "nameId": 8684
+  },
+  "StatTrak™ AK-47 | Neon Revolution (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Neon Revolution (Minimal Wear)",
+    "nameId": 9554
+  },
+  "StatTrak™ AK-47 | Neon Revolution (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Neon Revolution (Field-Tested)",
+    "nameId": 5764
+  },
+  "StatTrak™ AK-47 | Neon Revolution (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Neon Revolution (Well-Worn)",
+    "nameId": 12820
+  },
+  "StatTrak™ AK-47 | Neon Revolution (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Neon Revolution (Battle-Scarred)",
+    "nameId": 3423
+  },
+  "AK-47 | Bloodsport (Factory New)": {
+    "name": "AK-47 | Bloodsport (Factory New)",
+    "nameId": 1069
+  },
+  "AK-47 | Bloodsport (Minimal Wear)": {
+    "name": "AK-47 | Bloodsport (Minimal Wear)",
+    "nameId": 51
+  },
+  "AK-47 | Bloodsport (Field-Tested)": {
+    "name": "AK-47 | Bloodsport (Field-Tested)",
+    "nameId": 580
+  },
+  "AK-47 | Bloodsport (Well-Worn)": {
+    "name": "AK-47 | Bloodsport (Well-Worn)",
+    "nameId": 3682
+  },
+  "StatTrak™ AK-47 | Bloodsport (Factory New)": {
+    "name": "StatTrak™ AK-47 | Bloodsport (Factory New)",
+    "nameId": 12667
+  },
+  "StatTrak™ AK-47 | Bloodsport (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Bloodsport (Minimal Wear)",
+    "nameId": 899
+  },
+  "StatTrak™ AK-47 | Bloodsport (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Bloodsport (Field-Tested)",
+    "nameId": 1663
+  },
+  "StatTrak™ AK-47 | Bloodsport (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Bloodsport (Well-Worn)",
+    "nameId": 765
+  },
+  "AK-47 | Orbit Mk01 (Factory New)": {
+    "name": "AK-47 | Orbit Mk01 (Factory New)",
+    "nameId": 10174
+  },
+  "AK-47 | Orbit Mk01 (Minimal Wear)": {
+    "name": "AK-47 | Orbit Mk01 (Minimal Wear)",
+    "nameId": 7622
+  },
+  "AK-47 | Orbit Mk01 (Field-Tested)": {
+    "name": "AK-47 | Orbit Mk01 (Field-Tested)",
+    "nameId": 5758
+  },
+  "AK-47 | Orbit Mk01 (Well-Worn)": {
+    "name": "AK-47 | Orbit Mk01 (Well-Worn)",
+    "nameId": 4932
+  },
+  "AK-47 | Orbit Mk01 (Battle-Scarred)": {
+    "name": "AK-47 | Orbit Mk01 (Battle-Scarred)",
+    "nameId": 9356
+  },
+  "StatTrak™ AK-47 | Orbit Mk01 (Factory New)": {
+    "name": "StatTrak™ AK-47 | Orbit Mk01 (Factory New)",
+    "nameId": 7320
+  },
+  "StatTrak™ AK-47 | Orbit Mk01 (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Orbit Mk01 (Minimal Wear)",
+    "nameId": 3450
+  },
+  "StatTrak™ AK-47 | Orbit Mk01 (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Orbit Mk01 (Field-Tested)",
+    "nameId": 3189
+  },
+  "StatTrak™ AK-47 | Orbit Mk01 (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Orbit Mk01 (Well-Worn)",
+    "nameId": 9818
+  },
+  "StatTrak™ AK-47 | Orbit Mk01 (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Orbit Mk01 (Battle-Scarred)",
+    "nameId": 1194
+  },
+  "AK-47 | The Empress (Factory New)": {
+    "name": "AK-47 | The Empress (Factory New)",
+    "nameId": 9831
+  },
+  "AK-47 | The Empress (Minimal Wear)": {
+    "name": "AK-47 | The Empress (Minimal Wear)",
+    "nameId": 3167
+  },
+  "AK-47 | The Empress (Field-Tested)": {
+    "name": "AK-47 | The Empress (Field-Tested)",
+    "nameId": 3055
+  },
+  "AK-47 | The Empress (Well-Worn)": {
+    "name": "AK-47 | The Empress (Well-Worn)",
+    "nameId": 7322
+  },
+  "AK-47 | The Empress (Battle-Scarred)": {
+    "name": "AK-47 | The Empress (Battle-Scarred)",
+    "nameId": 1465
+  },
+  "StatTrak™ AK-47 | The Empress (Factory New)": {
+    "name": "StatTrak™ AK-47 | The Empress (Factory New)",
+    "nameId": 16719
+  },
+  "StatTrak™ AK-47 | The Empress (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | The Empress (Minimal Wear)",
+    "nameId": 4006
+  },
+  "StatTrak™ AK-47 | The Empress (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | The Empress (Field-Tested)",
+    "nameId": 10530
+  },
+  "StatTrak™ AK-47 | The Empress (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | The Empress (Well-Worn)",
+    "nameId": 13471
+  },
+  "StatTrak™ AK-47 | The Empress (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | The Empress (Battle-Scarred)",
+    "nameId": 5456
+  },
+  "AK-47 | Neon Rider (Factory New)": {
+    "name": "AK-47 | Neon Rider (Factory New)",
+    "nameId": 38535
+  },
+  "AK-47 | Neon Rider (Minimal Wear)": {
+    "name": "AK-47 | Neon Rider (Minimal Wear)",
+    "nameId": 38524
+  },
+  "AK-47 | Neon Rider (Field-Tested)": {
+    "name": "AK-47 | Neon Rider (Field-Tested)",
+    "nameId": 38528
+  },
+  "AK-47 | Neon Rider (Well-Worn)": {
+    "name": "AK-47 | Neon Rider (Well-Worn)",
+    "nameId": 38654
+  },
+  "AK-47 | Neon Rider (Battle-Scarred)": {
+    "name": "AK-47 | Neon Rider (Battle-Scarred)",
+    "nameId": 38600
+  },
+  "StatTrak™ AK-47 | Neon Rider (Factory New)": {
+    "name": "StatTrak™ AK-47 | Neon Rider (Factory New)",
+    "nameId": 38686
+  },
+  "StatTrak™ AK-47 | Neon Rider (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Neon Rider (Minimal Wear)",
+    "nameId": 38603
+  },
+  "StatTrak™ AK-47 | Neon Rider (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Neon Rider (Field-Tested)",
+    "nameId": 38562
+  },
+  "StatTrak™ AK-47 | Neon Rider (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Neon Rider (Well-Worn)",
+    "nameId": 39018
+  },
+  "StatTrak™ AK-47 | Neon Rider (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Neon Rider (Battle-Scarred)",
+    "nameId": 38629
+  },
+  "AK-47 | Wild Lotus (Field-Tested)": {
+    "name": "AK-47 | Wild Lotus (Field-Tested)",
+    "nameId": 1075043
+  },
+  "AK-47 | Wild Lotus (Well-Worn)": {
+    "name": "AK-47 | Wild Lotus (Well-Worn)",
+    "nameId": 1075026
+  },
+  "AK-47 | Wild Lotus (Battle-Scarred)": {
+    "name": "AK-47 | Wild Lotus (Battle-Scarred)",
+    "nameId": 1075117
+  },
+  "AK-47 | Baroque Purple (Factory New)": {
+    "name": "AK-47 | Baroque Purple (Factory New)",
+    "nameId": 1074875
+  },
+  "AK-47 | Baroque Purple (Minimal Wear)": {
+    "name": "AK-47 | Baroque Purple (Minimal Wear)",
+    "nameId": 1074746
+  },
+  "AK-47 | Baroque Purple (Field-Tested)": {
+    "name": "AK-47 | Baroque Purple (Field-Tested)",
+    "nameId": 1074327
+  },
+  "AK-47 | Baroque Purple (Well-Worn)": {
+    "name": "AK-47 | Baroque Purple (Well-Worn)",
+    "nameId": 1074251
+  },
+  "AK-47 | Baroque Purple (Battle-Scarred)": {
+    "name": "AK-47 | Baroque Purple (Battle-Scarred)",
+    "nameId": 1074816
+  },
+  "AK-47 | Safety Net (Factory New)": {
+    "name": "AK-47 | Safety Net (Factory New)",
+    "nameId": 170524
+  },
+  "AK-47 | Safety Net (Minimal Wear)": {
+    "name": "AK-47 | Safety Net (Minimal Wear)",
+    "nameId": 170563
+  },
+  "AK-47 | Safety Net (Field-Tested)": {
+    "name": "AK-47 | Safety Net (Field-Tested)",
+    "nameId": 170506
+  },
+  "AK-47 | Safety Net (Well-Worn)": {
+    "name": "AK-47 | Safety Net (Well-Worn)",
+    "nameId": 170490
+  },
+  "AK-47 | Safety Net (Battle-Scarred)": {
+    "name": "AK-47 | Safety Net (Battle-Scarred)",
+    "nameId": 170553
+  },
+  "Souvenir AK-47 | Safety Net (Factory New)": {
+    "name": "Souvenir AK-47 | Safety Net (Factory New)",
+    "nameId": 168899
+  },
+  "Souvenir AK-47 | Safety Net (Minimal Wear)": {
+    "name": "Souvenir AK-47 | Safety Net (Minimal Wear)",
+    "nameId": 168831
+  },
+  "Souvenir AK-47 | Safety Net (Field-Tested)": {
+    "name": "Souvenir AK-47 | Safety Net (Field-Tested)",
+    "nameId": 168840
+  },
+  "Souvenir AK-47 | Safety Net (Well-Worn)": {
+    "name": "Souvenir AK-47 | Safety Net (Well-Worn)",
+    "nameId": 168974
+  },
+  "Souvenir AK-47 | Safety Net (Battle-Scarred)": {
+    "name": "Souvenir AK-47 | Safety Net (Battle-Scarred)",
+    "nameId": 168821
+  },
+  "AK-47 | Asiimov (Factory New)": {
+    "name": "AK-47 | Asiimov (Factory New)",
+    "nameId": 171576
+  },
+  "AK-47 | Asiimov (Minimal Wear)": {
+    "name": "AK-47 | Asiimov (Minimal Wear)",
+    "nameId": 171481
+  },
+  "AK-47 | Asiimov (Field-Tested)": {
+    "name": "AK-47 | Asiimov (Field-Tested)",
+    "nameId": 171508
+  },
+  "AK-47 | Asiimov (Well-Worn)": {
+    "name": "AK-47 | Asiimov (Well-Worn)",
+    "nameId": 171582
+  },
+  "AK-47 | Asiimov (Battle-Scarred)": {
+    "name": "AK-47 | Asiimov (Battle-Scarred)",
+    "nameId": 171517
+  },
+  "StatTrak™ AK-47 | Asiimov (Factory New)": {
+    "name": "StatTrak™ AK-47 | Asiimov (Factory New)",
+    "nameId": 171581
+  },
+  "StatTrak™ AK-47 | Asiimov (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Asiimov (Minimal Wear)",
+    "nameId": 171594
+  },
+  "StatTrak™ AK-47 | Asiimov (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Asiimov (Field-Tested)",
+    "nameId": 171525
+  },
+  "StatTrak™ AK-47 | Asiimov (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Asiimov (Well-Worn)",
+    "nameId": 171608
+  },
+  "StatTrak™ AK-47 | Asiimov (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Asiimov (Battle-Scarred)",
+    "nameId": 171580
+  },
+  "AK-47 | Uncharted (Factory New)": {
+    "name": "AK-47 | Uncharted (Factory New)",
+    "nameId": 201789
+  },
+  "AK-47 | Uncharted (Minimal Wear)": {
+    "name": "AK-47 | Uncharted (Minimal Wear)",
+    "nameId": 201787
+  },
+  "AK-47 | Uncharted (Field-Tested)": {
+    "name": "AK-47 | Uncharted (Field-Tested)",
+    "nameId": 201774
+  },
+  "AK-47 | Uncharted (Well-Worn)": {
+    "name": "AK-47 | Uncharted (Well-Worn)",
+    "nameId": 201882
+  },
+  "AK-47 | Uncharted (Battle-Scarred)": {
+    "name": "AK-47 | Uncharted (Battle-Scarred)",
+    "nameId": 201816
+  },
+  "StatTrak™ AK-47 | Uncharted (Factory New)": {
+    "name": "StatTrak™ AK-47 | Uncharted (Factory New)",
+    "nameId": 201782
+  },
+  "StatTrak™ AK-47 | Uncharted (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Uncharted (Minimal Wear)",
+    "nameId": 201860
+  },
+  "StatTrak™ AK-47 | Uncharted (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Uncharted (Field-Tested)",
+    "nameId": 201779
+  },
+  "StatTrak™ AK-47 | Uncharted (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Uncharted (Well-Worn)",
+    "nameId": 201886
+  },
+  "StatTrak™ AK-47 | Uncharted (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Uncharted (Battle-Scarred)",
+    "nameId": 201823
+  },
+  "AK-47 | Rat Rod (Factory New)": {
+    "name": "AK-47 | Rat Rod (Factory New)",
+    "nameId": 1074286
+  },
+  "AK-47 | Rat Rod (Minimal Wear)": {
+    "name": "AK-47 | Rat Rod (Minimal Wear)",
+    "nameId": 1074429
+  },
+  "AK-47 | Rat Rod (Field-Tested)": {
+    "name": "AK-47 | Rat Rod (Field-Tested)",
+    "nameId": 1074140
+  },
+  "AK-47 | Rat Rod (Well-Worn)": {
+    "name": "AK-47 | Rat Rod (Well-Worn)",
+    "nameId": 1074369
+  },
+  "AK-47 | Rat Rod (Battle-Scarred)": {
+    "name": "AK-47 | Rat Rod (Battle-Scarred)",
+    "nameId": 1074361
+  },
+  "StatTrak™ AK-47 | Rat Rod (Factory New)": {
+    "name": "StatTrak™ AK-47 | Rat Rod (Factory New)",
+    "nameId": 1074989
+  },
+  "StatTrak™ AK-47 | Rat Rod (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Rat Rod (Minimal Wear)",
+    "nameId": 1074821
+  },
+  "StatTrak™ AK-47 | Rat Rod (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Rat Rod (Field-Tested)",
+    "nameId": 1074740
+  },
+  "StatTrak™ AK-47 | Rat Rod (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Rat Rod (Well-Worn)",
+    "nameId": 1074860
+  },
+  "StatTrak™ AK-47 | Rat Rod (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Rat Rod (Battle-Scarred)",
+    "nameId": 1074859
+  },
+  "AK-47 | Crossfade (Factory New)": {
+    "name": "AK-47 | Crossfade (Factory New)",
+    "nameId": 2598098
+  },
+  "AK-47 | Crossfade (Minimal Wear)": {
+    "name": "AK-47 | Crossfade (Minimal Wear)",
+    "nameId": 2598140
+  },
+  "AK-47 | Crossfade (Field-Tested)": {
+    "name": "AK-47 | Crossfade (Field-Tested)",
+    "nameId": 2597862
+  },
+  "AK-47 | Crossfade (Well-Worn)": {
+    "name": "AK-47 | Crossfade (Well-Worn)",
+    "nameId": 2598243
+  },
+  "AK-47 | Crossfade (Battle-Scarred)": {
+    "name": "AK-47 | Crossfade (Battle-Scarred)",
+    "nameId": 2598220
+  },
+  "AK-47 | Gold Arabesque (Factory New)": {
+    "name": "AK-47 | Gold Arabesque (Factory New)",
+    "nameId": 1087507
+  },
+  "AK-47 | Gold Arabesque (Minimal Wear)": {
+    "name": "AK-47 | Gold Arabesque (Minimal Wear)",
+    "nameId": 1087224
+  },
+  "AK-47 | Gold Arabesque (Field-Tested)": {
+    "name": "AK-47 | Gold Arabesque (Field-Tested)",
+    "nameId": 1087416
+  },
+  "AK-47 | Gold Arabesque (Well-Worn)": {
+    "name": "AK-47 | Gold Arabesque (Well-Worn)",
+    "nameId": 1087474
+  },
+  "AK-47 | Gold Arabesque (Battle-Scarred)": {
+    "name": "AK-47 | Gold Arabesque (Battle-Scarred)",
+    "nameId": 1087424
+  },
+  "Souvenir AK-47 | Gold Arabesque (Factory New)": {
+    "name": "Souvenir AK-47 | Gold Arabesque (Factory New)",
+    "nameId": 1088958
+  },
+  "Souvenir AK-47 | Gold Arabesque (Field-Tested)": {
+    "name": "Souvenir AK-47 | Gold Arabesque (Field-Tested)",
+    "nameId": 1088860
+  },
+  "Souvenir AK-47 | Gold Arabesque (Battle-Scarred)": {
+    "name": "Souvenir AK-47 | Gold Arabesque (Battle-Scarred)",
+    "nameId": 1088984
+  },
+  "AK-47 | Phantom Disruptor (Factory New)": {
+    "name": "AK-47 | Phantom Disruptor (Factory New)",
+    "nameId": 1079425
+  },
+  "AK-47 | Phantom Disruptor (Minimal Wear)": {
+    "name": "AK-47 | Phantom Disruptor (Minimal Wear)",
+    "nameId": 1079454
+  },
+  "AK-47 | Phantom Disruptor (Field-Tested)": {
+    "name": "AK-47 | Phantom Disruptor (Field-Tested)",
+    "nameId": 1079412
+  },
+  "AK-47 | Phantom Disruptor (Well-Worn)": {
+    "name": "AK-47 | Phantom Disruptor (Well-Worn)",
+    "nameId": 1079464
+  },
+  "AK-47 | Phantom Disruptor (Battle-Scarred)": {
+    "name": "AK-47 | Phantom Disruptor (Battle-Scarred)",
+    "nameId": 1079517
+  },
+  "StatTrak™ AK-47 | Phantom Disruptor (Factory New)": {
+    "name": "StatTrak™ AK-47 | Phantom Disruptor (Factory New)",
+    "nameId": 1079556
+  },
+  "StatTrak™ AK-47 | Phantom Disruptor (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Phantom Disruptor (Minimal Wear)",
+    "nameId": 1079579
+  },
+  "StatTrak™ AK-47 | Phantom Disruptor (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Phantom Disruptor (Field-Tested)",
+    "nameId": 1079460
+  },
+  "StatTrak™ AK-47 | Phantom Disruptor (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Phantom Disruptor (Well-Worn)",
+    "nameId": 1079601
+  },
+  "StatTrak™ AK-47 | Phantom Disruptor (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Phantom Disruptor (Battle-Scarred)",
+    "nameId": 1079540
+  },
+  "AK-47 | Legion of Anubis (Factory New)": {
+    "name": "AK-47 | Legion of Anubis (Factory New)",
+    "nameId": 1081436
+  },
+  "AK-47 | Legion of Anubis (Minimal Wear)": {
+    "name": "AK-47 | Legion of Anubis (Minimal Wear)",
+    "nameId": 1081481
+  },
+  "AK-47 | Legion of Anubis (Field-Tested)": {
+    "name": "AK-47 | Legion of Anubis (Field-Tested)",
+    "nameId": 1081489
+  },
+  "AK-47 | Legion of Anubis (Well-Worn)": {
+    "name": "AK-47 | Legion of Anubis (Well-Worn)",
+    "nameId": 1081505
+  },
+  "AK-47 | Legion of Anubis (Battle-Scarred)": {
+    "name": "AK-47 | Legion of Anubis (Battle-Scarred)",
+    "nameId": 1081494
+  },
+  "StatTrak™ AK-47 | Legion of Anubis (Factory New)": {
+    "name": "StatTrak™ AK-47 | Legion of Anubis (Factory New)",
+    "nameId": 1081546
+  },
+  "StatTrak™ AK-47 | Legion of Anubis (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Legion of Anubis (Minimal Wear)",
+    "nameId": 1081523
+  },
+  "StatTrak™ AK-47 | Legion of Anubis (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Legion of Anubis (Field-Tested)",
+    "nameId": 1081509
+  },
+  "StatTrak™ AK-47 | Legion of Anubis (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Legion of Anubis (Well-Worn)",
+    "nameId": 1081556
+  },
+  "StatTrak™ AK-47 | Legion of Anubis (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Legion of Anubis (Battle-Scarred)",
+    "nameId": 1081592
+  },
+  "AK-47 | X-Ray (Factory New)": {
+    "name": "AK-47 | X-Ray (Factory New)",
+    "nameId": 1083988
+  },
+  "AK-47 | X-Ray (Minimal Wear)": {
+    "name": "AK-47 | X-Ray (Minimal Wear)",
+    "nameId": 1083889
+  },
+  "AK-47 | X-Ray (Field-Tested)": {
+    "name": "AK-47 | X-Ray (Field-Tested)",
+    "nameId": 1083930
+  },
+  "AK-47 | X-Ray (Battle-Scarred)": {
+    "name": "AK-47 | X-Ray (Battle-Scarred)",
+    "nameId": 1084005
+  },
+  "AK-47 | Panthera onca (Factory New)": {
+    "name": "AK-47 | Panthera onca (Factory New)",
+    "nameId": 1083996
+  },
+  "AK-47 | Panthera onca (Minimal Wear)": {
+    "name": "AK-47 | Panthera onca (Minimal Wear)",
+    "nameId": 1083946
+  },
+  "AK-47 | Panthera onca (Field-Tested)": {
+    "name": "AK-47 | Panthera onca (Field-Tested)",
+    "nameId": 1083967
+  },
+  "AK-47 | Panthera onca (Well-Worn)": {
+    "name": "AK-47 | Panthera onca (Well-Worn)",
+    "nameId": 1083985
+  },
+  "AK-47 | Panthera onca (Battle-Scarred)": {
+    "name": "AK-47 | Panthera onca (Battle-Scarred)",
+    "nameId": 1084004
+  },
+  "Souvenir AK-47 | Panthera onca (Minimal Wear)": {
+    "name": "Souvenir AK-47 | Panthera onca (Minimal Wear)",
+    "nameId": 1088715
+  },
+  "Souvenir AK-47 | Panthera onca (Field-Tested)": {
+    "name": "Souvenir AK-47 | Panthera onca (Field-Tested)",
+    "nameId": 1088719
+  },
+  "Souvenir AK-47 | Panthera onca (Well-Worn)": {
+    "name": "Souvenir AK-47 | Panthera onca (Well-Worn)",
+    "nameId": 1088668
+  },
+  "Souvenir AK-47 | Panthera onca (Battle-Scarred)": {
+    "name": "Souvenir AK-47 | Panthera onca (Battle-Scarred)",
+    "nameId": 1088739
+  },
+  "AK-47 | Slate (Field-Tested)": {
+    "name": "AK-47 | Slate (Field-Tested)",
+    "nameId": 1085470
+  },
+  "AK-47 | Slate (Well-Worn)": {
+    "name": "AK-47 | Slate (Well-Worn)",
+    "nameId": 1085480
+  },
+  "StatTrak™ AK-47 | Slate (Factory New)": {
+    "name": "StatTrak™ AK-47 | Slate (Factory New)",
+    "nameId": 1085537
+  },
+  "StatTrak™ AK-47 | Slate (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Slate (Minimal Wear)",
+    "nameId": 1085501
+  },
+  "StatTrak™ AK-47 | Slate (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Slate (Field-Tested)",
+    "nameId": 1085453
+  },
+  "StatTrak™ AK-47 | Slate (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Slate (Well-Worn)",
+    "nameId": 1085563
+  },
+  "StatTrak™ AK-47 | Slate (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Slate (Battle-Scarred)",
+    "nameId": 1085466
+  },
+  "AK-47 | Green Laminate (Factory New)": {
+    "name": "AK-47 | Green Laminate (Factory New)",
+    "nameId": 1087169
+  },
+  "AK-47 | Green Laminate (Minimal Wear)": {
+    "name": "AK-47 | Green Laminate (Minimal Wear)",
+    "nameId": 1087267
+  },
+  "AK-47 | Green Laminate (Field-Tested)": {
+    "name": "AK-47 | Green Laminate (Field-Tested)",
+    "nameId": 1087412
+  },
+  "AK-47 | Green Laminate (Well-Worn)": {
+    "name": "AK-47 | Green Laminate (Well-Worn)",
+    "nameId": 1087428
+  },
+  "Souvenir AK-47 | Green Laminate (Factory New)": {
+    "name": "Souvenir AK-47 | Green Laminate (Factory New)",
+    "nameId": 1088716
+  },
+  "Souvenir AK-47 | Green Laminate (Minimal Wear)": {
+    "name": "Souvenir AK-47 | Green Laminate (Minimal Wear)",
+    "nameId": 1088615
+  },
+  "Souvenir AK-47 | Green Laminate (Field-Tested)": {
+    "name": "Souvenir AK-47 | Green Laminate (Field-Tested)",
+    "nameId": 1088680
+  },
+  "Souvenir AK-47 | Green Laminate (Well-Worn)": {
+    "name": "Souvenir AK-47 | Green Laminate (Well-Worn)",
+    "nameId": 1088797
+  },
+  "AK-47 | Leet Museo (Factory New)": {
+    "name": "AK-47 | Leet Museo (Factory New)",
+    "nameId": 1087003
+  },
+  "AK-47 | Leet Museo (Minimal Wear)": {
+    "name": "AK-47 | Leet Museo (Minimal Wear)",
+    "nameId": 1087321
+  },
+  "AK-47 | Leet Museo (Field-Tested)": {
+    "name": "AK-47 | Leet Museo (Field-Tested)",
+    "nameId": 1087093
+  },
+  "AK-47 | Leet Museo (Well-Worn)": {
+    "name": "AK-47 | Leet Museo (Well-Worn)",
+    "nameId": 1087454
+  },
+  "AK-47 | Leet Museo (Battle-Scarred)": {
+    "name": "AK-47 | Leet Museo (Battle-Scarred)",
+    "nameId": 1087419
+  },
+  "StatTrak™ AK-47 | Leet Museo (Factory New)": {
+    "name": "StatTrak™ AK-47 | Leet Museo (Factory New)",
+    "nameId": 1087456
+  },
+  "StatTrak™ AK-47 | Leet Museo (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Leet Museo (Minimal Wear)",
+    "nameId": 1087148
+  },
+  "StatTrak™ AK-47 | Leet Museo (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Leet Museo (Field-Tested)",
+    "nameId": 1087387
+  },
+  "StatTrak™ AK-47 | Leet Museo (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Leet Museo (Well-Worn)",
+    "nameId": 1087639
+  },
+  "StatTrak™ AK-47 | Leet Museo (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Leet Museo (Battle-Scarred)",
+    "nameId": 1087501
+  },
+  "AK-47 | Nightwish (Factory New)": {
+    "name": "AK-47 | Nightwish (Factory New)",
+    "nameId": 1090222
+  },
+  "AK-47 | Nightwish (Minimal Wear)": {
+    "name": "AK-47 | Nightwish (Minimal Wear)",
+    "nameId": 1090187
+  },
+  "AK-47 | Nightwish (Field-Tested)": {
+    "name": "AK-47 | Nightwish (Field-Tested)",
+    "nameId": 1090188
+  },
+  "AK-47 | Nightwish (Well-Worn)": {
+    "name": "AK-47 | Nightwish (Well-Worn)",
+    "nameId": 1090156
+  },
+  "AK-47 | Nightwish (Battle-Scarred)": {
+    "name": "AK-47 | Nightwish (Battle-Scarred)",
+    "nameId": 1090221
+  },
+  "StatTrak™ AK-47 | Nightwish (Factory New)": {
+    "name": "StatTrak™ AK-47 | Nightwish (Factory New)",
+    "nameId": 1090258
+  },
+  "StatTrak™ AK-47 | Nightwish (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Nightwish (Minimal Wear)",
+    "nameId": 1090247
+  },
+  "StatTrak™ AK-47 | Nightwish (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Nightwish (Field-Tested)",
+    "nameId": 1090254
+  },
+  "StatTrak™ AK-47 | Nightwish (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Nightwish (Well-Worn)",
+    "nameId": 1090257
+  },
+  "StatTrak™ AK-47 | Nightwish (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Nightwish (Battle-Scarred)",
+    "nameId": 1090237
+  },
+  "AK-47 | Ice Coaled (Factory New)": {
+    "name": "AK-47 | Ice Coaled (Factory New)",
+    "nameId": 1092358
+  },
+  "AK-47 | Ice Coaled (Minimal Wear)": {
+    "name": "AK-47 | Ice Coaled (Minimal Wear)",
+    "nameId": 1092328
+  },
+  "AK-47 | Ice Coaled (Field-Tested)": {
+    "name": "AK-47 | Ice Coaled (Field-Tested)",
+    "nameId": 1092343
+  },
+  "AK-47 | Ice Coaled (Well-Worn)": {
+    "name": "AK-47 | Ice Coaled (Well-Worn)",
+    "nameId": 1092282
+  },
+  "AK-47 | Ice Coaled (Battle-Scarred)": {
+    "name": "AK-47 | Ice Coaled (Battle-Scarred)",
+    "nameId": 1092406
+  },
+  "StatTrak™ AK-47 | Ice Coaled (Factory New)": {
+    "name": "StatTrak™ AK-47 | Ice Coaled (Factory New)",
+    "nameId": 1092412
+  },
+  "StatTrak™ AK-47 | Ice Coaled (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Ice Coaled (Minimal Wear)",
+    "nameId": 1092417
+  },
+  "StatTrak™ AK-47 | Ice Coaled (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Ice Coaled (Field-Tested)",
+    "nameId": 1092380
+  },
+  "StatTrak™ AK-47 | Ice Coaled (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Ice Coaled (Well-Worn)",
+    "nameId": 1092517
+  },
+  "StatTrak™ AK-47 | Ice Coaled (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Ice Coaled (Battle-Scarred)",
+    "nameId": 1092443
+  },
+  "AK-47 | Inheritance (Factory New)": {
+    "name": "AK-47 | Inheritance (Factory New)",
+    "nameId": 2521592
+  },
+  "AK-47 | Inheritance (Minimal Wear)": {
+    "name": "AK-47 | Inheritance (Minimal Wear)",
+    "nameId": 2521832
+  },
+  "AK-47 | Inheritance (Field-Tested)": {
+    "name": "AK-47 | Inheritance (Field-Tested)",
+    "nameId": 2521799
+  },
+  "AK-47 | Inheritance (Well-Worn)": {
+    "name": "AK-47 | Inheritance (Well-Worn)",
+    "nameId": 2537741
+  },
+  "AK-47 | Inheritance (Battle-Scarred)": {
+    "name": "AK-47 | Inheritance (Battle-Scarred)",
+    "nameId": 2523265
+  },
+  "StatTrak™ AK-47 | Inheritance (Factory New)": {
+    "name": "StatTrak™ AK-47 | Inheritance (Factory New)",
+    "nameId": 2544123
+  },
+  "StatTrak™ AK-47 | Inheritance (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Inheritance (Minimal Wear)",
+    "nameId": 2523271
+  },
+  "StatTrak™ AK-47 | Inheritance (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Inheritance (Field-Tested)",
+    "nameId": 2523251
+  },
+  "StatTrak™ AK-47 | Inheritance (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Inheritance (Well-Worn)",
+    "nameId": 2522001
+  },
+  "StatTrak™ AK-47 | Inheritance (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Inheritance (Battle-Scarred)",
+    "nameId": 2524277
+  },
+  "AK-47 | Olive Polycam (Factory New)": {
+    "name": "AK-47 | Olive Polycam (Factory New)",
+    "nameId": 2597721
+  },
+  "AK-47 | Olive Polycam (Minimal Wear)": {
+    "name": "AK-47 | Olive Polycam (Minimal Wear)",
+    "nameId": 2597854
+  },
+  "AK-47 | Olive Polycam (Field-Tested)": {
+    "name": "AK-47 | Olive Polycam (Field-Tested)",
+    "nameId": 2597734
+  },
+  "AK-47 | Olive Polycam (Well-Worn)": {
+    "name": "AK-47 | Olive Polycam (Well-Worn)",
+    "nameId": 2597830
+  },
+  "AK-47 | Olive Polycam (Battle-Scarred)": {
+    "name": "AK-47 | Olive Polycam (Battle-Scarred)",
+    "nameId": 2598009
+  },
+  "AK-47 | Head Shot (Factory New)": {
+    "name": "AK-47 | Head Shot (Factory New)",
+    "nameId": 1160873
+  },
+  "AK-47 | Head Shot (Minimal Wear)": {
+    "name": "AK-47 | Head Shot (Minimal Wear)",
+    "nameId": 1159657
+  },
+  "AK-47 | Head Shot (Field-Tested)": {
+    "name": "AK-47 | Head Shot (Field-Tested)",
+    "nameId": 1159742
+  },
+  "AK-47 | Head Shot (Well-Worn)": {
+    "name": "AK-47 | Head Shot (Well-Worn)",
+    "nameId": 1160579
+  },
+  "AK-47 | Head Shot (Battle-Scarred)": {
+    "name": "AK-47 | Head Shot (Battle-Scarred)",
+    "nameId": 1159645
+  },
+  "StatTrak™ AK-47 | Head Shot (Factory New)": {
+    "name": "StatTrak™ AK-47 | Head Shot (Factory New)",
+    "nameId": 1178938
+  },
+  "StatTrak™ AK-47 | Head Shot (Minimal Wear)": {
+    "name": "StatTrak™ AK-47 | Head Shot (Minimal Wear)",
+    "nameId": 1159008
+  },
+  "StatTrak™ AK-47 | Head Shot (Field-Tested)": {
+    "name": "StatTrak™ AK-47 | Head Shot (Field-Tested)",
+    "nameId": 1159978
+  },
+  "StatTrak™ AK-47 | Head Shot (Well-Worn)": {
+    "name": "StatTrak™ AK-47 | Head Shot (Well-Worn)",
+    "nameId": 1160239
+  },
+  "StatTrak™ AK-47 | Head Shot (Battle-Scarred)": {
+    "name": "StatTrak™ AK-47 | Head Shot (Battle-Scarred)",
+    "nameId": 1163243
+  },
+  "AK-47 | Steel Delta (Factory New)": {
+    "name": "AK-47 | Steel Delta (Factory New)",
+    "nameId": 1309858
+  },
+  "AK-47 | Steel Delta (Minimal Wear)": {
+    "name": "AK-47 | Steel Delta (Minimal Wear)",
+    "nameId": 1309810
+  },
+  "AK-47 | Steel Delta (Field-Tested)": {
+    "name": "AK-47 | Steel Delta (Field-Tested)",
+    "nameId": 1309842
+  },
+  "AK-47 | Steel Delta (Well-Worn)": {
+    "name": "AK-47 | Steel Delta (Well-Worn)",
+    "nameId": 1309904
+  },
+  "AK-47 | Steel Delta (Battle-Scarred)": {
+    "name": "AK-47 | Steel Delta (Battle-Scarred)",
+    "nameId": 1309817
+  },
+  "Souvenir AK-47 | Steel Delta (Factory New)": {
+    "name": "Souvenir AK-47 | Steel Delta (Factory New)",
+    "nameId": 1330988
+  },
+  "Souvenir AK-47 | Steel Delta (Minimal Wear)": {
+    "name": "Souvenir AK-47 | Steel Delta (Minimal Wear)",
+    "nameId": 1331281
+  },
+  "Souvenir AK-47 | Steel Delta (Field-Tested)": {
+    "name": "Souvenir AK-47 | Steel Delta (Field-Tested)",
+    "nameId": 1331008
+  },
+  "Souvenir AK-47 | Steel Delta (Battle-Scarred)": {
+    "name": "Souvenir AK-47 | Steel Delta (Battle-Scarred)",
+    "nameId": 1334047
+  },
+  "AUG | Bengal Tiger (Factory New)": {
+    "name": "AUG | Bengal Tiger (Factory New)",
+    "nameId": 7656
+  },
+  "AUG | Bengal Tiger (Minimal Wear)": {
+    "name": "AUG | Bengal Tiger (Minimal Wear)",
+    "nameId": 856
+  },
+  "AUG | Bengal Tiger (Field-Tested)": {
+    "name": "AUG | Bengal Tiger (Field-Tested)",
+    "nameId": 10461
+  },
+  "AUG | Bengal Tiger (Well-Worn)": {
+    "name": "AUG | Bengal Tiger (Well-Worn)",
+    "nameId": 2089
+  },
+  "AUG | Bengal Tiger (Battle-Scarred)": {
+    "name": "AUG | Bengal Tiger (Battle-Scarred)",
+    "nameId": 12892
+  },
+  "StatTrak™ AUG | Bengal Tiger (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Bengal Tiger (Minimal Wear)",
+    "nameId": 8134
+  },
+  "StatTrak™ AUG | Bengal Tiger (Field-Tested)": {
+    "name": "StatTrak™ AUG | Bengal Tiger (Field-Tested)",
+    "nameId": 9343
+  },
+  "StatTrak™ AUG | Bengal Tiger (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Bengal Tiger (Battle-Scarred)",
+    "nameId": 3604
+  },
+  "AUG | Copperhead (Minimal Wear)": {
+    "name": "AUG | Copperhead (Minimal Wear)",
+    "nameId": 7640
+  },
+  "AUG | Copperhead (Field-Tested)": {
+    "name": "AUG | Copperhead (Field-Tested)",
+    "nameId": 13381
+  },
+  "AUG | Hot Rod (Factory New)": {
+    "name": "AUG | Hot Rod (Factory New)",
+    "nameId": 1497
+  },
+  "AUG | Contractor (Factory New)": {
+    "name": "AUG | Contractor (Factory New)",
+    "nameId": 13874
+  },
+  "AUG | Contractor (Minimal Wear)": {
+    "name": "AUG | Contractor (Minimal Wear)",
+    "nameId": 6293
+  },
+  "AUG | Contractor (Field-Tested)": {
+    "name": "AUG | Contractor (Field-Tested)",
+    "nameId": 4803
+  },
+  "AUG | Contractor (Well-Worn)": {
+    "name": "AUG | Contractor (Well-Worn)",
+    "nameId": 11884
+  },
+  "AUG | Contractor (Battle-Scarred)": {
+    "name": "AUG | Contractor (Battle-Scarred)",
+    "nameId": 7601
+  },
+  "Souvenir AUG | Contractor (Field-Tested)": {
+    "name": "Souvenir AUG | Contractor (Field-Tested)",
+    "nameId": 18471
+  },
+  "Souvenir AUG | Contractor (Well-Worn)": {
+    "name": "Souvenir AUG | Contractor (Well-Worn)",
+    "nameId": 19181
+  },
+  "AUG | Colony (Minimal Wear)": {
+    "name": "AUG | Colony (Minimal Wear)",
+    "nameId": 3897
+  },
+  "AUG | Colony (Field-Tested)": {
+    "name": "AUG | Colony (Field-Tested)",
+    "nameId": 6689
+  },
+  "AUG | Colony (Well-Worn)": {
+    "name": "AUG | Colony (Well-Worn)",
+    "nameId": 17600
+  },
+  "Souvenir AUG | Colony (Factory New)": {
+    "name": "Souvenir AUG | Colony (Factory New)",
+    "nameId": 12086
+  },
+  "Souvenir AUG | Colony (Minimal Wear)": {
+    "name": "Souvenir AUG | Colony (Minimal Wear)",
+    "nameId": 546
+  },
+  "Souvenir AUG | Colony (Field-Tested)": {
+    "name": "Souvenir AUG | Colony (Field-Tested)",
+    "nameId": 1721
+  },
+  "Souvenir AUG | Colony (Well-Worn)": {
+    "name": "Souvenir AUG | Colony (Well-Worn)",
+    "nameId": 399
+  },
+  "Souvenir AUG | Colony (Battle-Scarred)": {
+    "name": "Souvenir AUG | Colony (Battle-Scarred)",
+    "nameId": 3003
+  },
+  "AUG | Wings (Factory New)": {
+    "name": "AUG | Wings (Factory New)",
+    "nameId": 4095
+  },
+  "AUG | Wings (Minimal Wear)": {
+    "name": "AUG | Wings (Minimal Wear)",
+    "nameId": 3460
+  },
+  "StatTrak™ AUG | Wings (Factory New)": {
+    "name": "StatTrak™ AUG | Wings (Factory New)",
+    "nameId": 5010
+  },
+  "StatTrak™ AUG | Wings (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Wings (Minimal Wear)",
+    "nameId": 9432
+  },
+  "AUG | Storm (Factory New)": {
+    "name": "AUG | Storm (Factory New)",
+    "nameId": 3221
+  },
+  "AUG | Storm (Minimal Wear)": {
+    "name": "AUG | Storm (Minimal Wear)",
+    "nameId": 5706
+  },
+  "AUG | Storm (Field-Tested)": {
+    "name": "AUG | Storm (Field-Tested)",
+    "nameId": 678
+  },
+  "AUG | Storm (Well-Worn)": {
+    "name": "AUG | Storm (Well-Worn)",
+    "nameId": 5710
+  },
+  "AUG | Storm (Battle-Scarred)": {
+    "name": "AUG | Storm (Battle-Scarred)",
+    "nameId": 3285
+  },
+  "Souvenir AUG | Storm (Minimal Wear)": {
+    "name": "Souvenir AUG | Storm (Minimal Wear)",
+    "nameId": 12130
+  },
+  "Souvenir AUG | Storm (Field-Tested)": {
+    "name": "Souvenir AUG | Storm (Field-Tested)",
+    "nameId": 17804
+  },
+  "Souvenir AUG | Storm (Well-Worn)": {
+    "name": "Souvenir AUG | Storm (Well-Worn)",
+    "nameId": 20378
+  },
+  "Souvenir AUG | Storm (Battle-Scarred)": {
+    "name": "Souvenir AUG | Storm (Battle-Scarred)",
+    "nameId": 21589
+  },
+  "AUG | Condemned (Factory New)": {
+    "name": "AUG | Condemned (Factory New)",
+    "nameId": 987
+  },
+  "AUG | Condemned (Minimal Wear)": {
+    "name": "AUG | Condemned (Minimal Wear)",
+    "nameId": 12182
+  },
+  "AUG | Condemned (Field-Tested)": {
+    "name": "AUG | Condemned (Field-Tested)",
+    "nameId": 10
+  },
+  "AUG | Condemned (Well-Worn)": {
+    "name": "AUG | Condemned (Well-Worn)",
+    "nameId": 9172
+  },
+  "AUG | Condemned (Battle-Scarred)": {
+    "name": "AUG | Condemned (Battle-Scarred)",
+    "nameId": 7605
+  },
+  "Souvenir AUG | Condemned (Field-Tested)": {
+    "name": "Souvenir AUG | Condemned (Field-Tested)",
+    "nameId": 20185
+  },
+  "AUG | Luxe Trim (Factory New)": {
+    "name": "AUG | Luxe Trim (Factory New)",
+    "nameId": 2598228
+  },
+  "AUG | Luxe Trim (Minimal Wear)": {
+    "name": "AUG | Luxe Trim (Minimal Wear)",
+    "nameId": 2597752
+  },
+  "AUG | Luxe Trim (Field-Tested)": {
+    "name": "AUG | Luxe Trim (Field-Tested)",
+    "nameId": 2597810
+  },
+  "AUG | Luxe Trim (Well-Worn)": {
+    "name": "AUG | Luxe Trim (Well-Worn)",
+    "nameId": 2597825
+  },
+  "AUG | Luxe Trim (Battle-Scarred)": {
+    "name": "AUG | Luxe Trim (Battle-Scarred)",
+    "nameId": 2597910
+  },
+  "StatTrak™ AUG | Luxe Trim (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Luxe Trim (Minimal Wear)",
+    "nameId": 2598123
+  },
+  "StatTrak™ AUG | Luxe Trim (Field-Tested)": {
+    "name": "StatTrak™ AUG | Luxe Trim (Field-Tested)",
+    "nameId": 2597836
+  },
+  "StatTrak™ AUG | Luxe Trim (Well-Worn)": {
+    "name": "StatTrak™ AUG | Luxe Trim (Well-Worn)",
+    "nameId": 2598187
+  },
+  "StatTrak™ AUG | Luxe Trim (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Luxe Trim (Battle-Scarred)",
+    "nameId": 2598037
+  },
+  "AUG | Eye of Zapems (Factory New)": {
+    "name": "AUG | Eye of Zapems (Factory New)",
+    "nameId": 2598211
+  },
+  "AUG | Eye of Zapems (Minimal Wear)": {
+    "name": "AUG | Eye of Zapems (Minimal Wear)",
+    "nameId": 2597956
+  },
+  "AUG | Eye of Zapems (Field-Tested)": {
+    "name": "AUG | Eye of Zapems (Field-Tested)",
+    "nameId": 2597934
+  },
+  "AUG | Eye of Zapems (Well-Worn)": {
+    "name": "AUG | Eye of Zapems (Well-Worn)",
+    "nameId": 2598213
+  },
+  "AUG | Eye of Zapems (Battle-Scarred)": {
+    "name": "AUG | Eye of Zapems (Battle-Scarred)",
+    "nameId": 2597985
+  },
+  "AUG | Lil' Pig (Factory New)": {
+    "name": "AUG | Lil' Pig (Factory New)",
+    "nameId": 2598225
+  },
+  "AUG | Lil' Pig (Field-Tested)": {
+    "name": "AUG | Lil' Pig (Field-Tested)",
+    "nameId": 2597954
+  },
+  "AUG | Lil' Pig (Battle-Scarred)": {
+    "name": "AUG | Lil' Pig (Battle-Scarred)",
+    "nameId": 2598186
+  },
+  "AUG | Anodized Navy (Factory New)": {
+    "name": "AUG | Anodized Navy (Factory New)",
+    "nameId": 10373
+  },
+  "AUG | Amber Fade (Factory New)": {
+    "name": "AUG | Amber Fade (Factory New)",
+    "nameId": 1087170
+  },
+  "AUG | Amber Fade (Minimal Wear)": {
+    "name": "AUG | Amber Fade (Minimal Wear)",
+    "nameId": 1086884
+  },
+  "AUG | Amber Fade (Field-Tested)": {
+    "name": "AUG | Amber Fade (Field-Tested)",
+    "nameId": 1086854
+  },
+  "AUG | Amber Fade (Well-Worn)": {
+    "name": "AUG | Amber Fade (Well-Worn)",
+    "nameId": 1087339
+  },
+  "AUG | Chameleon (Factory New)": {
+    "name": "AUG | Chameleon (Factory New)",
+    "nameId": 4810
+  },
+  "AUG | Chameleon (Minimal Wear)": {
+    "name": "AUG | Chameleon (Minimal Wear)",
+    "nameId": 9380
+  },
+  "AUG | Chameleon (Field-Tested)": {
+    "name": "AUG | Chameleon (Field-Tested)",
+    "nameId": 7260
+  },
+  "AUG | Chameleon (Well-Worn)": {
+    "name": "AUG | Chameleon (Well-Worn)",
+    "nameId": 4790
+  },
+  "AUG | Chameleon (Battle-Scarred)": {
+    "name": "AUG | Chameleon (Battle-Scarred)",
+    "nameId": 12876
+  },
+  "StatTrak™ AUG | Chameleon (Factory New)": {
+    "name": "StatTrak™ AUG | Chameleon (Factory New)",
+    "nameId": 3661
+  },
+  "StatTrak™ AUG | Chameleon (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Chameleon (Minimal Wear)",
+    "nameId": 17635
+  },
+  "StatTrak™ AUG | Chameleon (Field-Tested)": {
+    "name": "StatTrak™ AUG | Chameleon (Field-Tested)",
+    "nameId": 9209
+  },
+  "StatTrak™ AUG | Chameleon (Well-Worn)": {
+    "name": "StatTrak™ AUG | Chameleon (Well-Worn)",
+    "nameId": 1844
+  },
+  "StatTrak™ AUG | Chameleon (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Chameleon (Battle-Scarred)",
+    "nameId": 14674
+  },
+  "AUG | Torque (Factory New)": {
+    "name": "AUG | Torque (Factory New)",
+    "nameId": 549
+  },
+  "AUG | Torque (Minimal Wear)": {
+    "name": "AUG | Torque (Minimal Wear)",
+    "nameId": 2455
+  },
+  "AUG | Torque (Field-Tested)": {
+    "name": "AUG | Torque (Field-Tested)",
+    "nameId": 10361
+  },
+  "AUG | Torque (Well-Worn)": {
+    "name": "AUG | Torque (Well-Worn)",
+    "nameId": 7233
+  },
+  "AUG | Torque (Battle-Scarred)": {
+    "name": "AUG | Torque (Battle-Scarred)",
+    "nameId": 191
+  },
+  "StatTrak™ AUG | Torque (Factory New)": {
+    "name": "StatTrak™ AUG | Torque (Factory New)",
+    "nameId": 662
+  },
+  "StatTrak™ AUG | Torque (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Torque (Minimal Wear)",
+    "nameId": 9522
+  },
+  "StatTrak™ AUG | Torque (Field-Tested)": {
+    "name": "StatTrak™ AUG | Torque (Field-Tested)",
+    "nameId": 9469
+  },
+  "StatTrak™ AUG | Torque (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Torque (Battle-Scarred)",
+    "nameId": 10379
+  },
+  "AUG | Radiation Hazard (Factory New)": {
+    "name": "AUG | Radiation Hazard (Factory New)",
+    "nameId": 7123
+  },
+  "AUG | Radiation Hazard (Minimal Wear)": {
+    "name": "AUG | Radiation Hazard (Minimal Wear)",
+    "nameId": 9692
+  },
+  "AUG | Radiation Hazard (Field-Tested)": {
+    "name": "AUG | Radiation Hazard (Field-Tested)",
+    "nameId": 1059
+  },
+  "AUG | Radiation Hazard (Well-Worn)": {
+    "name": "AUG | Radiation Hazard (Well-Worn)",
+    "nameId": 3432
+  },
+  "AUG | Radiation Hazard (Battle-Scarred)": {
+    "name": "AUG | Radiation Hazard (Battle-Scarred)",
+    "nameId": 13891
+  },
+  "Souvenir AUG | Radiation Hazard (Factory New)": {
+    "name": "Souvenir AUG | Radiation Hazard (Factory New)",
+    "nameId": 3158
+  },
+  "Souvenir AUG | Radiation Hazard (Minimal Wear)": {
+    "name": "Souvenir AUG | Radiation Hazard (Minimal Wear)",
+    "nameId": 7238
+  },
+  "Souvenir AUG | Radiation Hazard (Field-Tested)": {
+    "name": "Souvenir AUG | Radiation Hazard (Field-Tested)",
+    "nameId": 4016
+  },
+  "Souvenir AUG | Radiation Hazard (Well-Worn)": {
+    "name": "Souvenir AUG | Radiation Hazard (Well-Worn)",
+    "nameId": 371
+  },
+  "Souvenir AUG | Radiation Hazard (Battle-Scarred)": {
+    "name": "Souvenir AUG | Radiation Hazard (Battle-Scarred)",
+    "nameId": 1527
+  },
+  "AUG | Daedalus (Factory New)": {
+    "name": "AUG | Daedalus (Factory New)",
+    "nameId": 3121
+  },
+  "AUG | Daedalus (Minimal Wear)": {
+    "name": "AUG | Daedalus (Minimal Wear)",
+    "nameId": 7008
+  },
+  "AUG | Daedalus (Field-Tested)": {
+    "name": "AUG | Daedalus (Field-Tested)",
+    "nameId": 8490
+  },
+  "AUG | Daedalus (Well-Worn)": {
+    "name": "AUG | Daedalus (Well-Worn)",
+    "nameId": 471
+  },
+  "AUG | Daedalus (Battle-Scarred)": {
+    "name": "AUG | Daedalus (Battle-Scarred)",
+    "nameId": 577
+  },
+  "AUG | Akihabara Accept (Factory New)": {
+    "name": "AUG | Akihabara Accept (Factory New)",
+    "nameId": 15847
+  },
+  "AUG | Akihabara Accept (Minimal Wear)": {
+    "name": "AUG | Akihabara Accept (Minimal Wear)",
+    "nameId": 15827
+  },
+  "AUG | Akihabara Accept (Field-Tested)": {
+    "name": "AUG | Akihabara Accept (Field-Tested)",
+    "nameId": 14453
+  },
+  "AUG | Akihabara Accept (Well-Worn)": {
+    "name": "AUG | Akihabara Accept (Well-Worn)",
+    "nameId": 18093
+  },
+  "AUG | Akihabara Accept (Battle-Scarred)": {
+    "name": "AUG | Akihabara Accept (Battle-Scarred)",
+    "nameId": 10472
+  },
+  "AUG | Ricochet (Factory New)": {
+    "name": "AUG | Ricochet (Factory New)",
+    "nameId": 65
+  },
+  "AUG | Ricochet (Minimal Wear)": {
+    "name": "AUG | Ricochet (Minimal Wear)",
+    "nameId": 3707
+  },
+  "AUG | Ricochet (Field-Tested)": {
+    "name": "AUG | Ricochet (Field-Tested)",
+    "nameId": 1172
+  },
+  "AUG | Ricochet (Well-Worn)": {
+    "name": "AUG | Ricochet (Well-Worn)",
+    "nameId": 1052
+  },
+  "AUG | Ricochet (Battle-Scarred)": {
+    "name": "AUG | Ricochet (Battle-Scarred)",
+    "nameId": 1659
+  },
+  "StatTrak™ AUG | Ricochet (Factory New)": {
+    "name": "StatTrak™ AUG | Ricochet (Factory New)",
+    "nameId": 1067
+  },
+  "StatTrak™ AUG | Ricochet (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Ricochet (Minimal Wear)",
+    "nameId": 7276
+  },
+  "StatTrak™ AUG | Ricochet (Field-Tested)": {
+    "name": "StatTrak™ AUG | Ricochet (Field-Tested)",
+    "nameId": 4086
+  },
+  "StatTrak™ AUG | Ricochet (Well-Worn)": {
+    "name": "StatTrak™ AUG | Ricochet (Well-Worn)",
+    "nameId": 3153
+  },
+  "StatTrak™ AUG | Ricochet (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Ricochet (Battle-Scarred)",
+    "nameId": 14359
+  },
+  "AUG | Fleet Flock (Factory New)": {
+    "name": "AUG | Fleet Flock (Factory New)",
+    "nameId": 7302
+  },
+  "AUG | Fleet Flock (Minimal Wear)": {
+    "name": "AUG | Fleet Flock (Minimal Wear)",
+    "nameId": 2676
+  },
+  "AUG | Fleet Flock (Field-Tested)": {
+    "name": "AUG | Fleet Flock (Field-Tested)",
+    "nameId": 9336
+  },
+  "AUG | Fleet Flock (Well-Worn)": {
+    "name": "AUG | Fleet Flock (Well-Worn)",
+    "nameId": 12923
+  },
+  "AUG | Fleet Flock (Battle-Scarred)": {
+    "name": "AUG | Fleet Flock (Battle-Scarred)",
+    "nameId": 9185
+  },
+  "StatTrak™ AUG | Fleet Flock (Factory New)": {
+    "name": "StatTrak™ AUG | Fleet Flock (Factory New)",
+    "nameId": 18619
+  },
+  "StatTrak™ AUG | Fleet Flock (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Fleet Flock (Minimal Wear)",
+    "nameId": 2926
+  },
+  "StatTrak™ AUG | Fleet Flock (Field-Tested)": {
+    "name": "StatTrak™ AUG | Fleet Flock (Field-Tested)",
+    "nameId": 3093
+  },
+  "StatTrak™ AUG | Fleet Flock (Well-Worn)": {
+    "name": "StatTrak™ AUG | Fleet Flock (Well-Worn)",
+    "nameId": 1318
+  },
+  "StatTrak™ AUG | Fleet Flock (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Fleet Flock (Battle-Scarred)",
+    "nameId": 8387
+  },
+  "AUG | Aristocrat (Factory New)": {
+    "name": "AUG | Aristocrat (Factory New)",
+    "nameId": 259
+  },
+  "AUG | Aristocrat (Minimal Wear)": {
+    "name": "AUG | Aristocrat (Minimal Wear)",
+    "nameId": 3701
+  },
+  "AUG | Aristocrat (Field-Tested)": {
+    "name": "AUG | Aristocrat (Field-Tested)",
+    "nameId": 2732
+  },
+  "AUG | Aristocrat (Well-Worn)": {
+    "name": "AUG | Aristocrat (Well-Worn)",
+    "nameId": 2915
+  },
+  "AUG | Aristocrat (Battle-Scarred)": {
+    "name": "AUG | Aristocrat (Battle-Scarred)",
+    "nameId": 2283
+  },
+  "StatTrak™ AUG | Aristocrat (Factory New)": {
+    "name": "StatTrak™ AUG | Aristocrat (Factory New)",
+    "nameId": 15894
+  },
+  "StatTrak™ AUG | Aristocrat (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Aristocrat (Minimal Wear)",
+    "nameId": 7659
+  },
+  "StatTrak™ AUG | Aristocrat (Field-Tested)": {
+    "name": "StatTrak™ AUG | Aristocrat (Field-Tested)",
+    "nameId": 1384
+  },
+  "StatTrak™ AUG | Aristocrat (Well-Worn)": {
+    "name": "StatTrak™ AUG | Aristocrat (Well-Worn)",
+    "nameId": 3184
+  },
+  "StatTrak™ AUG | Aristocrat (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Aristocrat (Battle-Scarred)",
+    "nameId": 5423
+  },
+  "AUG | Syd Mead (Factory New)": {
+    "name": "AUG | Syd Mead (Factory New)",
+    "nameId": 14390
+  },
+  "AUG | Syd Mead (Minimal Wear)": {
+    "name": "AUG | Syd Mead (Minimal Wear)",
+    "nameId": 8474
+  },
+  "AUG | Syd Mead (Field-Tested)": {
+    "name": "AUG | Syd Mead (Field-Tested)",
+    "nameId": 2816
+  },
+  "AUG | Syd Mead (Well-Worn)": {
+    "name": "AUG | Syd Mead (Well-Worn)",
+    "nameId": 7310
+  },
+  "AUG | Syd Mead (Battle-Scarred)": {
+    "name": "AUG | Syd Mead (Battle-Scarred)",
+    "nameId": 7220
+  },
+  "StatTrak™ AUG | Syd Mead (Factory New)": {
+    "name": "StatTrak™ AUG | Syd Mead (Factory New)",
+    "nameId": 2615
+  },
+  "StatTrak™ AUG | Syd Mead (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Syd Mead (Minimal Wear)",
+    "nameId": 861
+  },
+  "StatTrak™ AUG | Syd Mead (Field-Tested)": {
+    "name": "StatTrak™ AUG | Syd Mead (Field-Tested)",
+    "nameId": 9677
+  },
+  "StatTrak™ AUG | Syd Mead (Well-Worn)": {
+    "name": "StatTrak™ AUG | Syd Mead (Well-Worn)",
+    "nameId": 13796
+  },
+  "StatTrak™ AUG | Syd Mead (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Syd Mead (Battle-Scarred)",
+    "nameId": 9416
+  },
+  "AUG | Triqua (Factory New)": {
+    "name": "AUG | Triqua (Factory New)",
+    "nameId": 1612
+  },
+  "AUG | Triqua (Minimal Wear)": {
+    "name": "AUG | Triqua (Minimal Wear)",
+    "nameId": 1295
+  },
+  "AUG | Triqua (Field-Tested)": {
+    "name": "AUG | Triqua (Field-Tested)",
+    "nameId": 6287
+  },
+  "AUG | Triqua (Well-Worn)": {
+    "name": "AUG | Triqua (Well-Worn)",
+    "nameId": 4775
+  },
+  "AUG | Triqua (Battle-Scarred)": {
+    "name": "AUG | Triqua (Battle-Scarred)",
+    "nameId": 8514
+  },
+  "StatTrak™ AUG | Triqua (Factory New)": {
+    "name": "StatTrak™ AUG | Triqua (Factory New)",
+    "nameId": 1985
+  },
+  "StatTrak™ AUG | Triqua (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Triqua (Minimal Wear)",
+    "nameId": 7201
+  },
+  "StatTrak™ AUG | Triqua (Field-Tested)": {
+    "name": "StatTrak™ AUG | Triqua (Field-Tested)",
+    "nameId": 1147
+  },
+  "StatTrak™ AUG | Triqua (Well-Worn)": {
+    "name": "StatTrak™ AUG | Triqua (Well-Worn)",
+    "nameId": 9455
+  },
+  "StatTrak™ AUG | Triqua (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Triqua (Battle-Scarred)",
+    "nameId": 7107
+  },
+  "AUG | Stymphalian (Factory New)": {
+    "name": "AUG | Stymphalian (Factory New)",
+    "nameId": 21372
+  },
+  "AUG | Stymphalian (Minimal Wear)": {
+    "name": "AUG | Stymphalian (Minimal Wear)",
+    "nameId": 20577
+  },
+  "AUG | Stymphalian (Field-Tested)": {
+    "name": "AUG | Stymphalian (Field-Tested)",
+    "nameId": 20403
+  },
+  "AUG | Stymphalian (Well-Worn)": {
+    "name": "AUG | Stymphalian (Well-Worn)",
+    "nameId": 23909
+  },
+  "AUG | Stymphalian (Battle-Scarred)": {
+    "name": "AUG | Stymphalian (Battle-Scarred)",
+    "nameId": 21174
+  },
+  "StatTrak™ AUG | Stymphalian (Factory New)": {
+    "name": "StatTrak™ AUG | Stymphalian (Factory New)",
+    "nameId": 23668
+  },
+  "StatTrak™ AUG | Stymphalian (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Stymphalian (Minimal Wear)",
+    "nameId": 22564
+  },
+  "StatTrak™ AUG | Stymphalian (Field-Tested)": {
+    "name": "StatTrak™ AUG | Stymphalian (Field-Tested)",
+    "nameId": 22807
+  },
+  "StatTrak™ AUG | Stymphalian (Well-Worn)": {
+    "name": "StatTrak™ AUG | Stymphalian (Well-Worn)",
+    "nameId": 26667
+  },
+  "StatTrak™ AUG | Stymphalian (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Stymphalian (Battle-Scarred)",
+    "nameId": 23431
+  },
+  "AUG | Amber Slipstream (Factory New)": {
+    "name": "AUG | Amber Slipstream (Factory New)",
+    "nameId": 38470
+  },
+  "AUG | Amber Slipstream (Minimal Wear)": {
+    "name": "AUG | Amber Slipstream (Minimal Wear)",
+    "nameId": 38448
+  },
+  "AUG | Amber Slipstream (Field-Tested)": {
+    "name": "AUG | Amber Slipstream (Field-Tested)",
+    "nameId": 38441
+  },
+  "AUG | Amber Slipstream (Well-Worn)": {
+    "name": "AUG | Amber Slipstream (Well-Worn)",
+    "nameId": 38465
+  },
+  "AUG | Amber Slipstream (Battle-Scarred)": {
+    "name": "AUG | Amber Slipstream (Battle-Scarred)",
+    "nameId": 38511
+  },
+  "StatTrak™ AUG | Amber Slipstream (Factory New)": {
+    "name": "StatTrak™ AUG | Amber Slipstream (Factory New)",
+    "nameId": 38500
+  },
+  "StatTrak™ AUG | Amber Slipstream (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Amber Slipstream (Minimal Wear)",
+    "nameId": 38499
+  },
+  "StatTrak™ AUG | Amber Slipstream (Field-Tested)": {
+    "name": "StatTrak™ AUG | Amber Slipstream (Field-Tested)",
+    "nameId": 38496
+  },
+  "StatTrak™ AUG | Amber Slipstream (Well-Worn)": {
+    "name": "StatTrak™ AUG | Amber Slipstream (Well-Worn)",
+    "nameId": 38547
+  },
+  "StatTrak™ AUG | Amber Slipstream (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Amber Slipstream (Battle-Scarred)",
+    "nameId": 38574
+  },
+  "AUG | Midnight Lily (Factory New)": {
+    "name": "AUG | Midnight Lily (Factory New)",
+    "nameId": 1074952
+  },
+  "AUG | Midnight Lily (Minimal Wear)": {
+    "name": "AUG | Midnight Lily (Minimal Wear)",
+    "nameId": 1074620
+  },
+  "AUG | Midnight Lily (Field-Tested)": {
+    "name": "AUG | Midnight Lily (Field-Tested)",
+    "nameId": 1074578
+  },
+  "AUG | Navy Murano (Factory New)": {
+    "name": "AUG | Navy Murano (Factory New)",
+    "nameId": 1074090
+  },
+  "AUG | Navy Murano (Minimal Wear)": {
+    "name": "AUG | Navy Murano (Minimal Wear)",
+    "nameId": 1074018
+  },
+  "AUG | Navy Murano (Field-Tested)": {
+    "name": "AUG | Navy Murano (Field-Tested)",
+    "nameId": 1073883
+  },
+  "AUG | Navy Murano (Well-Worn)": {
+    "name": "AUG | Navy Murano (Well-Worn)",
+    "nameId": 1073917
+  },
+  "AUG | Navy Murano (Battle-Scarred)": {
+    "name": "AUG | Navy Murano (Battle-Scarred)",
+    "nameId": 1074258
+  },
+  "AUG | Flame Jörmungandr (Factory New)": {
+    "name": "AUG | Flame Jörmungandr (Factory New)",
+    "nameId": 1074898
+  },
+  "AUG | Flame Jörmungandr (Minimal Wear)": {
+    "name": "AUG | Flame Jörmungandr (Minimal Wear)",
+    "nameId": 1074646
+  },
+  "AUG | Random Access (Factory New)": {
+    "name": "AUG | Random Access (Factory New)",
+    "nameId": 170550
+  },
+  "AUG | Random Access (Minimal Wear)": {
+    "name": "AUG | Random Access (Minimal Wear)",
+    "nameId": 170542
+  },
+  "AUG | Random Access (Field-Tested)": {
+    "name": "AUG | Random Access (Field-Tested)",
+    "nameId": 170508
+  },
+  "AUG | Random Access (Well-Worn)": {
+    "name": "AUG | Random Access (Well-Worn)",
+    "nameId": 170527
+  },
+  "Souvenir AUG | Random Access (Factory New)": {
+    "name": "Souvenir AUG | Random Access (Factory New)",
+    "nameId": 168975
+  },
+  "Souvenir AUG | Random Access (Minimal Wear)": {
+    "name": "Souvenir AUG | Random Access (Minimal Wear)",
+    "nameId": 168936
+  },
+  "Souvenir AUG | Random Access (Field-Tested)": {
+    "name": "Souvenir AUG | Random Access (Field-Tested)",
+    "nameId": 168996
+  },
+  "Souvenir AUG | Random Access (Well-Worn)": {
+    "name": "Souvenir AUG | Random Access (Well-Worn)",
+    "nameId": 170957
+  },
+  "Souvenir AUG | Random Access (Battle-Scarred)": {
+    "name": "Souvenir AUG | Random Access (Battle-Scarred)",
+    "nameId": 170932
+  },
+  "AUG | Sweeper (Factory New)": {
+    "name": "AUG | Sweeper (Factory New)",
+    "nameId": 170414
+  },
+  "AUG | Sweeper (Minimal Wear)": {
+    "name": "AUG | Sweeper (Minimal Wear)",
+    "nameId": 170427
+  },
+  "AUG | Sweeper (Field-Tested)": {
+    "name": "AUG | Sweeper (Field-Tested)",
+    "nameId": 170429
+  },
+  "AUG | Sweeper (Well-Worn)": {
+    "name": "AUG | Sweeper (Well-Worn)",
+    "nameId": 170438
+  },
+  "AUG | Sweeper (Battle-Scarred)": {
+    "name": "AUG | Sweeper (Battle-Scarred)",
+    "nameId": 170446
+  },
+  "Souvenir AUG | Sweeper (Factory New)": {
+    "name": "Souvenir AUG | Sweeper (Factory New)",
+    "nameId": 168794
+  },
+  "Souvenir AUG | Sweeper (Minimal Wear)": {
+    "name": "Souvenir AUG | Sweeper (Minimal Wear)",
+    "nameId": 168810
+  },
+  "Souvenir AUG | Sweeper (Field-Tested)": {
+    "name": "Souvenir AUG | Sweeper (Field-Tested)",
+    "nameId": 168770
+  },
+  "Souvenir AUG | Sweeper (Well-Worn)": {
+    "name": "Souvenir AUG | Sweeper (Well-Worn)",
+    "nameId": 168836
+  },
+  "Souvenir AUG | Sweeper (Battle-Scarred)": {
+    "name": "Souvenir AUG | Sweeper (Battle-Scarred)",
+    "nameId": 168842
+  },
+  "AUG | Sand Storm (Factory New)": {
+    "name": "AUG | Sand Storm (Factory New)",
+    "nameId": 1086973
+  },
+  "AUG | Sand Storm (Minimal Wear)": {
+    "name": "AUG | Sand Storm (Minimal Wear)",
+    "nameId": 1087073
+  },
+  "Souvenir AUG | Sand Storm (Factory New)": {
+    "name": "Souvenir AUG | Sand Storm (Factory New)",
+    "nameId": 1088711
+  },
+  "Souvenir AUG | Sand Storm (Minimal Wear)": {
+    "name": "Souvenir AUG | Sand Storm (Minimal Wear)",
+    "nameId": 1088570
+  },
+  "Souvenir AUG | Sand Storm (Field-Tested)": {
+    "name": "Souvenir AUG | Sand Storm (Field-Tested)",
+    "nameId": 1088633
+  },
+  "Souvenir AUG | Sand Storm (Well-Worn)": {
+    "name": "Souvenir AUG | Sand Storm (Well-Worn)",
+    "nameId": 1088632
+  },
+  "Souvenir AUG | Sand Storm (Battle-Scarred)": {
+    "name": "Souvenir AUG | Sand Storm (Battle-Scarred)",
+    "nameId": 1088830
+  },
+  "AUG | Momentum (Factory New)": {
+    "name": "AUG | Momentum (Factory New)",
+    "nameId": 201958
+  },
+  "AUG | Momentum (Minimal Wear)": {
+    "name": "AUG | Momentum (Minimal Wear)",
+    "nameId": 201843
+  },
+  "AUG | Momentum (Field-Tested)": {
+    "name": "AUG | Momentum (Field-Tested)",
+    "nameId": 201765
+  },
+  "AUG | Momentum (Well-Worn)": {
+    "name": "AUG | Momentum (Well-Worn)",
+    "nameId": 201763
+  },
+  "AUG | Momentum (Battle-Scarred)": {
+    "name": "AUG | Momentum (Battle-Scarred)",
+    "nameId": 201854
+  },
+  "StatTrak™ AUG | Momentum (Factory New)": {
+    "name": "StatTrak™ AUG | Momentum (Factory New)",
+    "nameId": 203798
+  },
+  "StatTrak™ AUG | Momentum (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Momentum (Minimal Wear)",
+    "nameId": 201947
+  },
+  "StatTrak™ AUG | Momentum (Field-Tested)": {
+    "name": "StatTrak™ AUG | Momentum (Field-Tested)",
+    "nameId": 201936
+  },
+  "StatTrak™ AUG | Momentum (Well-Worn)": {
+    "name": "StatTrak™ AUG | Momentum (Well-Worn)",
+    "nameId": 201894
+  },
+  "StatTrak™ AUG | Momentum (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Momentum (Battle-Scarred)",
+    "nameId": 201980
+  },
+  "AUG | Arctic Wolf (Factory New)": {
+    "name": "AUG | Arctic Wolf (Factory New)",
+    "nameId": 1074474
+  },
+  "AUG | Arctic Wolf (Minimal Wear)": {
+    "name": "AUG | Arctic Wolf (Minimal Wear)",
+    "nameId": 1074093
+  },
+  "AUG | Arctic Wolf (Field-Tested)": {
+    "name": "AUG | Arctic Wolf (Field-Tested)",
+    "nameId": 1074010
+  },
+  "AUG | Arctic Wolf (Well-Worn)": {
+    "name": "AUG | Arctic Wolf (Well-Worn)",
+    "nameId": 1074808
+  },
+  "AUG | Arctic Wolf (Battle-Scarred)": {
+    "name": "AUG | Arctic Wolf (Battle-Scarred)",
+    "nameId": 1074797
+  },
+  "StatTrak™ AUG | Arctic Wolf (Factory New)": {
+    "name": "StatTrak™ AUG | Arctic Wolf (Factory New)",
+    "nameId": 1074918
+  },
+  "StatTrak™ AUG | Arctic Wolf (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Arctic Wolf (Minimal Wear)",
+    "nameId": 1074619
+  },
+  "StatTrak™ AUG | Arctic Wolf (Field-Tested)": {
+    "name": "StatTrak™ AUG | Arctic Wolf (Field-Tested)",
+    "nameId": 1074315
+  },
+  "StatTrak™ AUG | Arctic Wolf (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Arctic Wolf (Battle-Scarred)",
+    "nameId": 1074972
+  },
+  "AUG | Death by Puppy (Factory New)": {
+    "name": "AUG | Death by Puppy (Factory New)",
+    "nameId": 1073144
+  },
+  "AUG | Death by Puppy (Minimal Wear)": {
+    "name": "AUG | Death by Puppy (Minimal Wear)",
+    "nameId": 1073141
+  },
+  "AUG | Death by Puppy (Field-Tested)": {
+    "name": "AUG | Death by Puppy (Field-Tested)",
+    "nameId": 1073197
+  },
+  "AUG | Death by Puppy (Well-Worn)": {
+    "name": "AUG | Death by Puppy (Well-Worn)",
+    "nameId": 1073268
+  },
+  "StatTrak™ AUG | Death by Puppy (Factory New)": {
+    "name": "StatTrak™ AUG | Death by Puppy (Factory New)",
+    "nameId": 1073305
+  },
+  "StatTrak™ AUG | Death by Puppy (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Death by Puppy (Minimal Wear)",
+    "nameId": 1073265
+  },
+  "StatTrak™ AUG | Death by Puppy (Field-Tested)": {
+    "name": "StatTrak™ AUG | Death by Puppy (Field-Tested)",
+    "nameId": 1073280
+  },
+  "AUG | Spalted Wood (Factory New)": {
+    "name": "AUG | Spalted Wood (Factory New)",
+    "nameId": 1087048
+  },
+  "AUG | Spalted Wood (Minimal Wear)": {
+    "name": "AUG | Spalted Wood (Minimal Wear)",
+    "nameId": 1086945
+  },
+  "AUG | Spalted Wood (Field-Tested)": {
+    "name": "AUG | Spalted Wood (Field-Tested)",
+    "nameId": 1086940
+  },
+  "AUG | Spalted Wood (Well-Worn)": {
+    "name": "AUG | Spalted Wood (Well-Worn)",
+    "nameId": 1087305
+  },
+  "Souvenir AUG | Spalted Wood (Factory New)": {
+    "name": "Souvenir AUG | Spalted Wood (Factory New)",
+    "nameId": 1088792
+  },
+  "Souvenir AUG | Spalted Wood (Minimal Wear)": {
+    "name": "Souvenir AUG | Spalted Wood (Minimal Wear)",
+    "nameId": 1088769
+  },
+  "Souvenir AUG | Spalted Wood (Field-Tested)": {
+    "name": "Souvenir AUG | Spalted Wood (Field-Tested)",
+    "nameId": 1088774
+  },
+  "Souvenir AUG | Spalted Wood (Well-Worn)": {
+    "name": "Souvenir AUG | Spalted Wood (Well-Worn)",
+    "nameId": 1088804
+  },
+  "Souvenir AUG | Spalted Wood (Battle-Scarred)": {
+    "name": "Souvenir AUG | Spalted Wood (Battle-Scarred)",
+    "nameId": 1088812
+  },
+  "AUG | Tom Cat (Factory New)": {
+    "name": "AUG | Tom Cat (Factory New)",
+    "nameId": 1079474
+  },
+  "AUG | Tom Cat (Minimal Wear)": {
+    "name": "AUG | Tom Cat (Minimal Wear)",
+    "nameId": 1079401
+  },
+  "AUG | Tom Cat (Field-Tested)": {
+    "name": "AUG | Tom Cat (Field-Tested)",
+    "nameId": 1079433
+  },
+  "AUG | Tom Cat (Well-Worn)": {
+    "name": "AUG | Tom Cat (Well-Worn)",
+    "nameId": 1079452
+  },
+  "AUG | Tom Cat (Battle-Scarred)": {
+    "name": "AUG | Tom Cat (Battle-Scarred)",
+    "nameId": 1079445
+  },
+  "StatTrak™ AUG | Tom Cat (Factory New)": {
+    "name": "StatTrak™ AUG | Tom Cat (Factory New)",
+    "nameId": 1079559
+  },
+  "StatTrak™ AUG | Tom Cat (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Tom Cat (Minimal Wear)",
+    "nameId": 1079453
+  },
+  "StatTrak™ AUG | Tom Cat (Field-Tested)": {
+    "name": "StatTrak™ AUG | Tom Cat (Field-Tested)",
+    "nameId": 1079422
+  },
+  "StatTrak™ AUG | Tom Cat (Well-Worn)": {
+    "name": "StatTrak™ AUG | Tom Cat (Well-Worn)",
+    "nameId": 1079427
+  },
+  "StatTrak™ AUG | Tom Cat (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Tom Cat (Battle-Scarred)",
+    "nameId": 1079410
+  },
+  "AUG | Surveillance (Factory New)": {
+    "name": "AUG | Surveillance (Factory New)",
+    "nameId": 1083416
+  },
+  "AUG | Surveillance (Minimal Wear)": {
+    "name": "AUG | Surveillance (Minimal Wear)",
+    "nameId": 1083415
+  },
+  "AUG | Surveillance (Field-Tested)": {
+    "name": "AUG | Surveillance (Field-Tested)",
+    "nameId": 1083425
+  },
+  "AUG | Surveillance (Well-Worn)": {
+    "name": "AUG | Surveillance (Well-Worn)",
+    "nameId": 1083472
+  },
+  "AUG | Surveillance (Battle-Scarred)": {
+    "name": "AUG | Surveillance (Battle-Scarred)",
+    "nameId": 1083491
+  },
+  "AUG | Carved Jade (Factory New)": {
+    "name": "AUG | Carved Jade (Factory New)",
+    "nameId": 1083432
+  },
+  "AUG | Carved Jade (Minimal Wear)": {
+    "name": "AUG | Carved Jade (Minimal Wear)",
+    "nameId": 1083699
+  },
+  "AUG | Carved Jade (Field-Tested)": {
+    "name": "AUG | Carved Jade (Field-Tested)",
+    "nameId": 1083908
+  },
+  "Souvenir AUG | Carved Jade (Factory New)": {
+    "name": "Souvenir AUG | Carved Jade (Factory New)",
+    "nameId": 1088703
+  },
+  "Souvenir AUG | Carved Jade (Minimal Wear)": {
+    "name": "Souvenir AUG | Carved Jade (Minimal Wear)",
+    "nameId": 1088705
+  },
+  "Souvenir AUG | Carved Jade (Field-Tested)": {
+    "name": "Souvenir AUG | Carved Jade (Field-Tested)",
+    "nameId": 1088726
+  },
+  "AUG | Plague (Factory New)": {
+    "name": "AUG | Plague (Factory New)",
+    "nameId": 1087242
+  },
+  "AUG | Plague (Minimal Wear)": {
+    "name": "AUG | Plague (Minimal Wear)",
+    "nameId": 1086813
+  },
+  "AUG | Plague (Field-Tested)": {
+    "name": "AUG | Plague (Field-Tested)",
+    "nameId": 1086932
+  },
+  "AUG | Plague (Well-Worn)": {
+    "name": "AUG | Plague (Well-Worn)",
+    "nameId": 1087268
+  },
+  "AUG | Plague (Battle-Scarred)": {
+    "name": "AUG | Plague (Battle-Scarred)",
+    "nameId": 1087052
+  },
+  "StatTrak™ AUG | Plague (Factory New)": {
+    "name": "StatTrak™ AUG | Plague (Factory New)",
+    "nameId": 1086880
+  },
+  "StatTrak™ AUG | Plague (Minimal Wear)": {
+    "name": "StatTrak™ AUG | Plague (Minimal Wear)",
+    "nameId": 1087049
+  },
+  "StatTrak™ AUG | Plague (Field-Tested)": {
+    "name": "StatTrak™ AUG | Plague (Field-Tested)",
+    "nameId": 1087127
+  },
+  "StatTrak™ AUG | Plague (Well-Worn)": {
+    "name": "StatTrak™ AUG | Plague (Well-Worn)",
+    "nameId": 1087329
+  },
+  "StatTrak™ AUG | Plague (Battle-Scarred)": {
+    "name": "StatTrak™ AUG | Plague (Battle-Scarred)",
+    "nameId": 1087293
+  },
+  "AUG | Snake Pit (Factory New)": {
+    "name": "AUG | Snake Pit (Factory New)",
+    "nameId": 1309790
+  },
+  "AUG | Snake Pit (Minimal Wear)": {
+    "name": "AUG | Snake Pit (Minimal Wear)",
+    "nameId": 1309784
+  },
+  "AUG | Snake Pit (Field-Tested)": {
+    "name": "AUG | Snake Pit (Field-Tested)",
+    "nameId": 1309783
+  },
+  "AUG | Snake Pit (Well-Worn)": {
+    "name": "AUG | Snake Pit (Well-Worn)",
+    "nameId": 1309805
+  },
+  "AUG | Snake Pit (Battle-Scarred)": {
+    "name": "AUG | Snake Pit (Battle-Scarred)",
+    "nameId": 1309787
+  },
+  "Souvenir AUG | Snake Pit (Factory New)": {
+    "name": "Souvenir AUG | Snake Pit (Factory New)",
+    "nameId": 1330973
+  },
+  "Souvenir AUG | Snake Pit (Minimal Wear)": {
+    "name": "Souvenir AUG | Snake Pit (Minimal Wear)",
+    "nameId": 1330972
+  },
+  "Souvenir AUG | Snake Pit (Field-Tested)": {
+    "name": "Souvenir AUG | Snake Pit (Field-Tested)",
+    "nameId": 1330911
+  },
+  "Souvenir AUG | Snake Pit (Well-Worn)": {
+    "name": "Souvenir AUG | Snake Pit (Well-Worn)",
+    "nameId": 1331491
+  },
+  "AWP | Snake Camo (Factory New)": {
+    "name": "AWP | Snake Camo (Factory New)",
+    "nameId": 4109
+  },
+  "AWP | Snake Camo (Minimal Wear)": {
+    "name": "AWP | Snake Camo (Minimal Wear)",
+    "nameId": 13839
+  },
+  "AWP | Snake Camo (Field-Tested)": {
+    "name": "AWP | Snake Camo (Field-Tested)",
+    "nameId": 2458
+  },
+  "AWP | Snake Camo (Battle-Scarred)": {
+    "name": "AWP | Snake Camo (Battle-Scarred)",
+    "nameId": 1649
+  },
+  "AWP | Lightning Strike (Factory New)": {
+    "name": "AWP | Lightning Strike (Factory New)",
+    "nameId": 1435
+  },
+  "AWP | Lightning Strike (Minimal Wear)": {
+    "name": "AWP | Lightning Strike (Minimal Wear)",
+    "nameId": 3066
+  },
+  "StatTrak™ AWP | Lightning Strike (Factory New)": {
+    "name": "StatTrak™ AWP | Lightning Strike (Factory New)",
+    "nameId": 287
+  },
+  "StatTrak™ AWP | Lightning Strike (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Lightning Strike (Minimal Wear)",
+    "nameId": 20623
+  },
+  "AWP | Safari Mesh (Factory New)": {
+    "name": "AWP | Safari Mesh (Factory New)",
+    "nameId": 7792
+  },
+  "AWP | Safari Mesh (Minimal Wear)": {
+    "name": "AWP | Safari Mesh (Minimal Wear)",
+    "nameId": 2242
+  },
+  "AWP | Safari Mesh (Field-Tested)": {
+    "name": "AWP | Safari Mesh (Field-Tested)",
+    "nameId": 5
+  },
+  "AWP | Safari Mesh (Well-Worn)": {
+    "name": "AWP | Safari Mesh (Well-Worn)",
+    "nameId": 1381
+  },
+  "AWP | Safari Mesh (Battle-Scarred)": {
+    "name": "AWP | Safari Mesh (Battle-Scarred)",
+    "nameId": 54
+  },
+  "Souvenir AWP | Safari Mesh (Factory New)": {
+    "name": "Souvenir AWP | Safari Mesh (Factory New)",
+    "nameId": 36498
+  },
+  "Souvenir AWP | Safari Mesh (Minimal Wear)": {
+    "name": "Souvenir AWP | Safari Mesh (Minimal Wear)",
+    "nameId": 20662
+  },
+  "Souvenir AWP | Safari Mesh (Field-Tested)": {
+    "name": "Souvenir AWP | Safari Mesh (Field-Tested)",
+    "nameId": 379
+  },
+  "AWP | Pink DDPAT (Factory New)": {
+    "name": "AWP | Pink DDPAT (Factory New)",
+    "nameId": 558
+  },
+  "AWP | Pink DDPAT (Minimal Wear)": {
+    "name": "AWP | Pink DDPAT (Minimal Wear)",
+    "nameId": 8118
+  },
+  "AWP | Pink DDPAT (Field-Tested)": {
+    "name": "AWP | Pink DDPAT (Field-Tested)",
+    "nameId": 9170
+  },
+  "AWP | Pink DDPAT (Well-Worn)": {
+    "name": "AWP | Pink DDPAT (Well-Worn)",
+    "nameId": 1004
+  },
+  "AWP | Pink DDPAT (Battle-Scarred)": {
+    "name": "AWP | Pink DDPAT (Battle-Scarred)",
+    "nameId": 2433
+  },
+  "Souvenir AWP | Pink DDPAT (Factory New)": {
+    "name": "Souvenir AWP | Pink DDPAT (Factory New)",
+    "nameId": 28329
+  },
+  "Souvenir AWP | Pink DDPAT (Minimal Wear)": {
+    "name": "Souvenir AWP | Pink DDPAT (Minimal Wear)",
+    "nameId": 18418
+  },
+  "Souvenir AWP | Pink DDPAT (Field-Tested)": {
+    "name": "Souvenir AWP | Pink DDPAT (Field-Tested)",
+    "nameId": 12671
+  },
+  "Souvenir AWP | Pink DDPAT (Well-Worn)": {
+    "name": "Souvenir AWP | Pink DDPAT (Well-Worn)",
+    "nameId": 19060
+  },
+  "Souvenir AWP | Pink DDPAT (Battle-Scarred)": {
+    "name": "Souvenir AWP | Pink DDPAT (Battle-Scarred)",
+    "nameId": 694
+  },
+  "AWP | Crakow! (Factory New)": {
+    "name": "AWP | Crakow! (Factory New)",
+    "nameId": 2598149
+  },
+  "AWP | Crakow! (Minimal Wear)": {
+    "name": "AWP | Crakow! (Minimal Wear)",
+    "nameId": 2598045
+  },
+  "AWP | Crakow! (Field-Tested)": {
+    "name": "AWP | Crakow! (Field-Tested)",
+    "nameId": 2597986
+  },
+  "AWP | Crakow! (Well-Worn)": {
+    "name": "AWP | Crakow! (Well-Worn)",
+    "nameId": 2598105
+  },
+  "AWP | Crakow! (Battle-Scarred)": {
+    "name": "AWP | Crakow! (Battle-Scarred)",
+    "nameId": 2597737
+  },
+  "AWP | CMYK (Factory New)": {
+    "name": "AWP | CMYK (Factory New)",
+    "nameId": 2598232
+  },
+  "AWP | CMYK (Minimal Wear)": {
+    "name": "AWP | CMYK (Minimal Wear)",
+    "nameId": 2598231
+  },
+  "AWP | CMYK (Field-Tested)": {
+    "name": "AWP | CMYK (Field-Tested)",
+    "nameId": 2598197
+  },
+  "AWP | CMYK (Battle-Scarred)": {
+    "name": "AWP | CMYK (Battle-Scarred)",
+    "nameId": 2598227
+  },
+  "AWP | BOOM (Factory New)": {
+    "name": "AWP | BOOM (Factory New)",
+    "nameId": 1831
+  },
+  "AWP | BOOM (Minimal Wear)": {
+    "name": "AWP | BOOM (Minimal Wear)",
+    "nameId": 2849
+  },
+  "AWP | BOOM (Field-Tested)": {
+    "name": "AWP | BOOM (Field-Tested)",
+    "nameId": 1015
+  },
+  "StatTrak™ AWP | BOOM (Factory New)": {
+    "name": "StatTrak™ AWP | BOOM (Factory New)",
+    "nameId": 16214
+  },
+  "StatTrak™ AWP | BOOM (Minimal Wear)": {
+    "name": "StatTrak™ AWP | BOOM (Minimal Wear)",
+    "nameId": 4984
+  },
+  "StatTrak™ AWP | BOOM (Field-Tested)": {
+    "name": "StatTrak™ AWP | BOOM (Field-Tested)",
+    "nameId": 12928
+  },
+  "AWP | Corticera (Factory New)": {
+    "name": "AWP | Corticera (Factory New)",
+    "nameId": 1337
+  },
+  "AWP | Corticera (Minimal Wear)": {
+    "name": "AWP | Corticera (Minimal Wear)",
+    "nameId": 2534
+  },
+  "AWP | Corticera (Field-Tested)": {
+    "name": "AWP | Corticera (Field-Tested)",
+    "nameId": 1363
+  },
+  "StatTrak™ AWP | Corticera (Factory New)": {
+    "name": "StatTrak™ AWP | Corticera (Factory New)",
+    "nameId": 3320
+  },
+  "StatTrak™ AWP | Corticera (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Corticera (Minimal Wear)",
+    "nameId": 3489
+  },
+  "StatTrak™ AWP | Corticera (Field-Tested)": {
+    "name": "StatTrak™ AWP | Corticera (Field-Tested)",
+    "nameId": 11162
+  },
+  "AWP | Graphite (Factory New)": {
+    "name": "AWP | Graphite (Factory New)",
+    "nameId": 8814
+  },
+  "AWP | Graphite (Minimal Wear)": {
+    "name": "AWP | Graphite (Minimal Wear)",
+    "nameId": 1459
+  },
+  "StatTrak™ AWP | Graphite (Factory New)": {
+    "name": "StatTrak™ AWP | Graphite (Factory New)",
+    "nameId": 458
+  },
+  "StatTrak™ AWP | Graphite (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Graphite (Minimal Wear)",
+    "nameId": 9576
+  },
+  "AWP | Electric Hive (Factory New)": {
+    "name": "AWP | Electric Hive (Factory New)",
+    "nameId": 50
+  },
+  "AWP | Electric Hive (Minimal Wear)": {
+    "name": "AWP | Electric Hive (Minimal Wear)",
+    "nameId": 1273
+  },
+  "AWP | Electric Hive (Field-Tested)": {
+    "name": "AWP | Electric Hive (Field-Tested)",
+    "nameId": 9303
+  },
+  "AWP | Electric Hive (Well-Worn)": {
+    "name": "AWP | Electric Hive (Well-Worn)",
+    "nameId": 3854
+  },
+  "StatTrak™ AWP | Electric Hive (Factory New)": {
+    "name": "StatTrak™ AWP | Electric Hive (Factory New)",
+    "nameId": 2049
+  },
+  "StatTrak™ AWP | Electric Hive (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Electric Hive (Minimal Wear)",
+    "nameId": 12529
+  },
+  "StatTrak™ AWP | Electric Hive (Field-Tested)": {
+    "name": "StatTrak™ AWP | Electric Hive (Field-Tested)",
+    "nameId": 3499
+  },
+  "StatTrak™ AWP | Electric Hive (Well-Worn)": {
+    "name": "StatTrak™ AWP | Electric Hive (Well-Worn)",
+    "nameId": 3935
+  },
+  "AWP | Pit Viper (Minimal Wear)": {
+    "name": "AWP | Pit Viper (Minimal Wear)",
+    "nameId": 1138
+  },
+  "AWP | Pit Viper (Field-Tested)": {
+    "name": "AWP | Pit Viper (Field-Tested)",
+    "nameId": 2250
+  },
+  "AWP | Pit Viper (Well-Worn)": {
+    "name": "AWP | Pit Viper (Well-Worn)",
+    "nameId": 2205
+  },
+  "AWP | Pit Viper (Battle-Scarred)": {
+    "name": "AWP | Pit Viper (Battle-Scarred)",
+    "nameId": 7186
+  },
+  "Souvenir AWP | Pit Viper (Minimal Wear)": {
+    "name": "Souvenir AWP | Pit Viper (Minimal Wear)",
+    "nameId": 20314
+  },
+  "AWP | Redline (Minimal Wear)": {
+    "name": "AWP | Redline (Minimal Wear)",
+    "nameId": 1195
+  },
+  "AWP | Redline (Field-Tested)": {
+    "name": "AWP | Redline (Field-Tested)",
+    "nameId": 1953
+  },
+  "AWP | Redline (Well-Worn)": {
+    "name": "AWP | Redline (Well-Worn)",
+    "nameId": 2840
+  },
+  "StatTrak™ AWP | Redline (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Redline (Minimal Wear)",
+    "nameId": 13001
+  },
+  "StatTrak™ AWP | Redline (Field-Tested)": {
+    "name": "StatTrak™ AWP | Redline (Field-Tested)",
+    "nameId": 9580
+  },
+  "StatTrak™ AWP | Redline (Well-Worn)": {
+    "name": "StatTrak™ AWP | Redline (Well-Worn)",
+    "nameId": 104
+  },
+  "AWP | Asiimov (Field-Tested)": {
+    "name": "AWP | Asiimov (Field-Tested)",
+    "nameId": 898
+  },
+  "AWP | Asiimov (Well-Worn)": {
+    "name": "AWP | Asiimov (Well-Worn)",
+    "nameId": 281
+  },
+  "AWP | Asiimov (Battle-Scarred)": {
+    "name": "AWP | Asiimov (Battle-Scarred)",
+    "nameId": 2515
+  },
+  "StatTrak™ AWP | Asiimov (Field-Tested)": {
+    "name": "StatTrak™ AWP | Asiimov (Field-Tested)",
+    "nameId": 8634
+  },
+  "StatTrak™ AWP | Asiimov (Well-Worn)": {
+    "name": "StatTrak™ AWP | Asiimov (Well-Worn)",
+    "nameId": 9823
+  },
+  "StatTrak™ AWP | Asiimov (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Asiimov (Battle-Scarred)",
+    "nameId": 12920
+  },
+  "AWP | Dragon Lore (Factory New)": {
+    "name": "AWP | Dragon Lore (Factory New)",
+    "nameId": 908
+  },
+  "AWP | Dragon Lore (Minimal Wear)": {
+    "name": "AWP | Dragon Lore (Minimal Wear)",
+    "nameId": 14413
+  },
+  "AWP | Dragon Lore (Field-Tested)": {
+    "name": "AWP | Dragon Lore (Field-Tested)",
+    "nameId": 2820
+  },
+  "AWP | Dragon Lore (Well-Worn)": {
+    "name": "AWP | Dragon Lore (Well-Worn)",
+    "nameId": 296
+  },
+  "AWP | Dragon Lore (Battle-Scarred)": {
+    "name": "AWP | Dragon Lore (Battle-Scarred)",
+    "nameId": 11853
+  },
+  "Souvenir AWP | Dragon Lore (Battle-Scarred)": {
+    "name": "Souvenir AWP | Dragon Lore (Battle-Scarred)",
+    "nameId": 23395
+  },
+  "AWP | Man-o'-war (Minimal Wear)": {
+    "name": "AWP | Man-o'-war (Minimal Wear)",
+    "nameId": 627
+  },
+  "AWP | Man-o'-war (Field-Tested)": {
+    "name": "AWP | Man-o'-war (Field-Tested)",
+    "nameId": 978
+  },
+  "StatTrak™ AWP | Man-o'-war (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Man-o'-war (Minimal Wear)",
+    "nameId": 9673
+  },
+  "StatTrak™ AWP | Man-o'-war (Field-Tested)": {
+    "name": "StatTrak™ AWP | Man-o'-war (Field-Tested)",
+    "nameId": 3837
+  },
+  "AWP | Worm God (Factory New)": {
+    "name": "AWP | Worm God (Factory New)",
+    "nameId": 3410
+  },
+  "AWP | Worm God (Minimal Wear)": {
+    "name": "AWP | Worm God (Minimal Wear)",
+    "nameId": 2247
+  },
+  "AWP | Worm God (Well-Worn)": {
+    "name": "AWP | Worm God (Well-Worn)",
+    "nameId": 1134
+  },
+  "StatTrak™ AWP | Worm God (Factory New)": {
+    "name": "StatTrak™ AWP | Worm God (Factory New)",
+    "nameId": 2853
+  },
+  "StatTrak™ AWP | Worm God (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Worm God (Minimal Wear)",
+    "nameId": 3186
+  },
+  "StatTrak™ AWP | Worm God (Field-Tested)": {
+    "name": "StatTrak™ AWP | Worm God (Field-Tested)",
+    "nameId": 4028
+  },
+  "StatTrak™ AWP | Worm God (Well-Worn)": {
+    "name": "StatTrak™ AWP | Worm God (Well-Worn)",
+    "nameId": 1268
+  },
+  "AWP | Medusa (Factory New)": {
+    "name": "AWP | Medusa (Factory New)",
+    "nameId": 12290
+  },
+  "AWP | Medusa (Minimal Wear)": {
+    "name": "AWP | Medusa (Minimal Wear)",
+    "nameId": 509
+  },
+  "AWP | Medusa (Field-Tested)": {
+    "name": "AWP | Medusa (Field-Tested)",
+    "nameId": 12289
+  },
+  "AWP | Medusa (Well-Worn)": {
+    "name": "AWP | Medusa (Well-Worn)",
+    "nameId": 10158
+  },
+  "AWP | Medusa (Battle-Scarred)": {
+    "name": "AWP | Medusa (Battle-Scarred)",
+    "nameId": 12537
+  },
+  "AWP | Sun in Leo (Factory New)": {
+    "name": "AWP | Sun in Leo (Factory New)",
+    "nameId": 66
+  },
+  "AWP | Sun in Leo (Minimal Wear)": {
+    "name": "AWP | Sun in Leo (Minimal Wear)",
+    "nameId": 4763
+  },
+  "AWP | Sun in Leo (Field-Tested)": {
+    "name": "AWP | Sun in Leo (Field-Tested)",
+    "nameId": 2058
+  },
+  "AWP | Sun in Leo (Well-Worn)": {
+    "name": "AWP | Sun in Leo (Well-Worn)",
+    "nameId": 2688
+  },
+  "AWP | Sun in Leo (Battle-Scarred)": {
+    "name": "AWP | Sun in Leo (Battle-Scarred)",
+    "nameId": 7793
+  },
+  "AWP | Hyper Beast (Factory New)": {
+    "name": "AWP | Hyper Beast (Factory New)",
+    "nameId": 8383
+  },
+  "AWP | Hyper Beast (Minimal Wear)": {
+    "name": "AWP | Hyper Beast (Minimal Wear)",
+    "nameId": 1269
+  },
+  "AWP | Hyper Beast (Field-Tested)": {
+    "name": "AWP | Hyper Beast (Field-Tested)",
+    "nameId": 1308
+  },
+  "AWP | Hyper Beast (Well-Worn)": {
+    "name": "AWP | Hyper Beast (Well-Worn)",
+    "nameId": 9494
+  },
+  "AWP | Hyper Beast (Battle-Scarred)": {
+    "name": "AWP | Hyper Beast (Battle-Scarred)",
+    "nameId": 1188
+  },
+  "StatTrak™ AWP | Hyper Beast (Factory New)": {
+    "name": "StatTrak™ AWP | Hyper Beast (Factory New)",
+    "nameId": 9374
+  },
+  "StatTrak™ AWP | Hyper Beast (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Hyper Beast (Minimal Wear)",
+    "nameId": 4842
+  },
+  "StatTrak™ AWP | Hyper Beast (Field-Tested)": {
+    "name": "StatTrak™ AWP | Hyper Beast (Field-Tested)",
+    "nameId": 10270
+  },
+  "StatTrak™ AWP | Hyper Beast (Well-Worn)": {
+    "name": "StatTrak™ AWP | Hyper Beast (Well-Worn)",
+    "nameId": 7066
+  },
+  "StatTrak™ AWP | Hyper Beast (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Hyper Beast (Battle-Scarred)",
+    "nameId": 2195
+  },
+  "AWP | Elite Build (Factory New)": {
+    "name": "AWP | Elite Build (Factory New)",
+    "nameId": 7287
+  },
+  "AWP | Elite Build (Minimal Wear)": {
+    "name": "AWP | Elite Build (Minimal Wear)",
+    "nameId": 1021
+  },
+  "AWP | Elite Build (Field-Tested)": {
+    "name": "AWP | Elite Build (Field-Tested)",
+    "nameId": 6302
+  },
+  "AWP | Elite Build (Well-Worn)": {
+    "name": "AWP | Elite Build (Well-Worn)",
+    "nameId": 7810
+  },
+  "AWP | Elite Build (Battle-Scarred)": {
+    "name": "AWP | Elite Build (Battle-Scarred)",
+    "nameId": 4997
+  },
+  "StatTrak™ AWP | Elite Build (Factory New)": {
+    "name": "StatTrak™ AWP | Elite Build (Factory New)",
+    "nameId": 713
+  },
+  "StatTrak™ AWP | Elite Build (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Elite Build (Minimal Wear)",
+    "nameId": 3480
+  },
+  "StatTrak™ AWP | Elite Build (Field-Tested)": {
+    "name": "StatTrak™ AWP | Elite Build (Field-Tested)",
+    "nameId": 2693
+  },
+  "StatTrak™ AWP | Elite Build (Well-Worn)": {
+    "name": "StatTrak™ AWP | Elite Build (Well-Worn)",
+    "nameId": 7252
+  },
+  "StatTrak™ AWP | Elite Build (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Elite Build (Battle-Scarred)",
+    "nameId": 9667
+  },
+  "AWP | Phobos (Factory New)": {
+    "name": "AWP | Phobos (Factory New)",
+    "nameId": 2266
+  },
+  "AWP | Phobos (Minimal Wear)": {
+    "name": "AWP | Phobos (Minimal Wear)",
+    "nameId": 4957
+  },
+  "AWP | Phobos (Field-Tested)": {
+    "name": "AWP | Phobos (Field-Tested)",
+    "nameId": 1039
+  },
+  "AWP | Phobos (Well-Worn)": {
+    "name": "AWP | Phobos (Well-Worn)",
+    "nameId": 7410
+  },
+  "StatTrak™ AWP | Phobos (Factory New)": {
+    "name": "StatTrak™ AWP | Phobos (Factory New)",
+    "nameId": 9536
+  },
+  "StatTrak™ AWP | Phobos (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Phobos (Minimal Wear)",
+    "nameId": 878
+  },
+  "StatTrak™ AWP | Phobos (Field-Tested)": {
+    "name": "StatTrak™ AWP | Phobos (Field-Tested)",
+    "nameId": 10291
+  },
+  "StatTrak™ AWP | Phobos (Well-Worn)": {
+    "name": "StatTrak™ AWP | Phobos (Well-Worn)",
+    "nameId": 1237
+  },
+  "AWP | Fever Dream (Factory New)": {
+    "name": "AWP | Fever Dream (Factory New)",
+    "nameId": 3783
+  },
+  "AWP | Fever Dream (Minimal Wear)": {
+    "name": "AWP | Fever Dream (Minimal Wear)",
+    "nameId": 2223
+  },
+  "AWP | Fever Dream (Field-Tested)": {
+    "name": "AWP | Fever Dream (Field-Tested)",
+    "nameId": 1362
+  },
+  "AWP | Fever Dream (Well-Worn)": {
+    "name": "AWP | Fever Dream (Well-Worn)",
+    "nameId": 2398
+  },
+  "AWP | Fever Dream (Battle-Scarred)": {
+    "name": "AWP | Fever Dream (Battle-Scarred)",
+    "nameId": 2930
+  },
+  "StatTrak™ AWP | Fever Dream (Factory New)": {
+    "name": "StatTrak™ AWP | Fever Dream (Factory New)",
+    "nameId": 12676
+  },
+  "StatTrak™ AWP | Fever Dream (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Fever Dream (Minimal Wear)",
+    "nameId": 947
+  },
+  "StatTrak™ AWP | Fever Dream (Field-Tested)": {
+    "name": "StatTrak™ AWP | Fever Dream (Field-Tested)",
+    "nameId": 9443
+  },
+  "StatTrak™ AWP | Fever Dream (Well-Worn)": {
+    "name": "StatTrak™ AWP | Fever Dream (Well-Worn)",
+    "nameId": 11170
+  },
+  "StatTrak™ AWP | Fever Dream (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Fever Dream (Battle-Scarred)",
+    "nameId": 1309
+  },
+  "AWP | Oni Taiji (Factory New)": {
+    "name": "AWP | Oni Taiji (Factory New)",
+    "nameId": 1142
+  },
+  "AWP | Oni Taiji (Minimal Wear)": {
+    "name": "AWP | Oni Taiji (Minimal Wear)",
+    "nameId": 4766
+  },
+  "AWP | Oni Taiji (Field-Tested)": {
+    "name": "AWP | Oni Taiji (Field-Tested)",
+    "nameId": 1160
+  },
+  "AWP | Oni Taiji (Well-Worn)": {
+    "name": "AWP | Oni Taiji (Well-Worn)",
+    "nameId": 469
+  },
+  "AWP | Oni Taiji (Battle-Scarred)": {
+    "name": "AWP | Oni Taiji (Battle-Scarred)",
+    "nameId": 377
+  },
+  "StatTrak™ AWP | Oni Taiji (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Oni Taiji (Minimal Wear)",
+    "nameId": 14970
+  },
+  "StatTrak™ AWP | Oni Taiji (Field-Tested)": {
+    "name": "StatTrak™ AWP | Oni Taiji (Field-Tested)",
+    "nameId": 1101
+  },
+  "StatTrak™ AWP | Oni Taiji (Well-Worn)": {
+    "name": "StatTrak™ AWP | Oni Taiji (Well-Worn)",
+    "nameId": 20117
+  },
+  "AWP | Mortis (Factory New)": {
+    "name": "AWP | Mortis (Factory New)",
+    "nameId": 20760
+  },
+  "AWP | Mortis (Minimal Wear)": {
+    "name": "AWP | Mortis (Minimal Wear)",
+    "nameId": 20361
+  },
+  "AWP | Mortis (Well-Worn)": {
+    "name": "AWP | Mortis (Well-Worn)",
+    "nameId": 20400
+  },
+  "AWP | Mortis (Battle-Scarred)": {
+    "name": "AWP | Mortis (Battle-Scarred)",
+    "nameId": 21707
+  },
+  "StatTrak™ AWP | Mortis (Factory New)": {
+    "name": "StatTrak™ AWP | Mortis (Factory New)",
+    "nameId": 22137
+  },
+  "StatTrak™ AWP | Mortis (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Mortis (Minimal Wear)",
+    "nameId": 20324
+  },
+  "StatTrak™ AWP | Mortis (Field-Tested)": {
+    "name": "StatTrak™ AWP | Mortis (Field-Tested)",
+    "nameId": 20852
+  },
+  "StatTrak™ AWP | Mortis (Well-Worn)": {
+    "name": "StatTrak™ AWP | Mortis (Well-Worn)",
+    "nameId": 23885
+  },
+  "StatTrak™ AWP | Mortis (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Mortis (Battle-Scarred)",
+    "nameId": 23076
+  },
+  "AWP | PAW (Factory New)": {
+    "name": "AWP | PAW (Factory New)",
+    "nameId": 38443
+  },
+  "AWP | PAW (Minimal Wear)": {
+    "name": "AWP | PAW (Minimal Wear)",
+    "nameId": 38463
+  },
+  "AWP | PAW (Field-Tested)": {
+    "name": "AWP | PAW (Field-Tested)",
+    "nameId": 38449
+  },
+  "AWP | PAW (Well-Worn)": {
+    "name": "AWP | PAW (Well-Worn)",
+    "nameId": 38553
+  },
+  "AWP | PAW (Battle-Scarred)": {
+    "name": "AWP | PAW (Battle-Scarred)",
+    "nameId": 38566
+  },
+  "StatTrak™ AWP | PAW (Factory New)": {
+    "name": "StatTrak™ AWP | PAW (Factory New)",
+    "nameId": 38598
+  },
+  "StatTrak™ AWP | PAW (Minimal Wear)": {
+    "name": "StatTrak™ AWP | PAW (Minimal Wear)",
+    "nameId": 38580
+  },
+  "StatTrak™ AWP | PAW (Field-Tested)": {
+    "name": "StatTrak™ AWP | PAW (Field-Tested)",
+    "nameId": 38555
+  },
+  "StatTrak™ AWP | PAW (Well-Worn)": {
+    "name": "StatTrak™ AWP | PAW (Well-Worn)",
+    "nameId": 38657
+  },
+  "StatTrak™ AWP | PAW (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | PAW (Battle-Scarred)",
+    "nameId": 38632
+  },
+  "AWP | The Prince (Factory New)": {
+    "name": "AWP | The Prince (Factory New)",
+    "nameId": 1074890
+  },
+  "AWP | The Prince (Minimal Wear)": {
+    "name": "AWP | The Prince (Minimal Wear)",
+    "nameId": 1075078
+  },
+  "AWP | The Prince (Field-Tested)": {
+    "name": "AWP | The Prince (Field-Tested)",
+    "nameId": 1074981
+  },
+  "AWP | The Prince (Well-Worn)": {
+    "name": "AWP | The Prince (Well-Worn)",
+    "nameId": 1074941
+  },
+  "AWP | The Prince (Battle-Scarred)": {
+    "name": "AWP | The Prince (Battle-Scarred)",
+    "nameId": 1075167
+  },
+  "AWP | Gungnir (Factory New)": {
+    "name": "AWP | Gungnir (Factory New)",
+    "nameId": 1074896
+  },
+  "AWP | Gungnir (Field-Tested)": {
+    "name": "AWP | Gungnir (Field-Tested)",
+    "nameId": 1074830
+  },
+  "AWP | Gungnir (Battle-Scarred)": {
+    "name": "AWP | Gungnir (Battle-Scarred)",
+    "nameId": 1075065
+  },
+  "AWP | Acheron (Factory New)": {
+    "name": "AWP | Acheron (Factory New)",
+    "nameId": 170541
+  },
+  "AWP | Acheron (Minimal Wear)": {
+    "name": "AWP | Acheron (Minimal Wear)",
+    "nameId": 170449
+  },
+  "AWP | Acheron (Field-Tested)": {
+    "name": "AWP | Acheron (Field-Tested)",
+    "nameId": 170439
+  },
+  "AWP | Acheron (Well-Worn)": {
+    "name": "AWP | Acheron (Well-Worn)",
+    "nameId": 170569
+  },
+  "AWP | Acheron (Battle-Scarred)": {
+    "name": "AWP | Acheron (Battle-Scarred)",
+    "nameId": 170543
+  },
+  "Souvenir AWP | Acheron (Factory New)": {
+    "name": "Souvenir AWP | Acheron (Factory New)",
+    "nameId": 170036
+  },
+  "Souvenir AWP | Acheron (Minimal Wear)": {
+    "name": "Souvenir AWP | Acheron (Minimal Wear)",
+    "nameId": 168923
+  },
+  "Souvenir AWP | Acheron (Field-Tested)": {
+    "name": "Souvenir AWP | Acheron (Field-Tested)",
+    "nameId": 168903
+  },
+  "Souvenir AWP | Acheron (Well-Worn)": {
+    "name": "Souvenir AWP | Acheron (Well-Worn)",
+    "nameId": 170229
+  },
+  "Souvenir AWP | Acheron (Battle-Scarred)": {
+    "name": "Souvenir AWP | Acheron (Battle-Scarred)",
+    "nameId": 169083
+  },
+  "AWP | Neo-Noir (Factory New)": {
+    "name": "AWP | Neo-Noir (Factory New)",
+    "nameId": 171505
+  },
+  "AWP | Neo-Noir (Minimal Wear)": {
+    "name": "AWP | Neo-Noir (Minimal Wear)",
+    "nameId": 171570
+  },
+  "AWP | Neo-Noir (Field-Tested)": {
+    "name": "AWP | Neo-Noir (Field-Tested)",
+    "nameId": 171514
+  },
+  "AWP | Neo-Noir (Well-Worn)": {
+    "name": "AWP | Neo-Noir (Well-Worn)",
+    "nameId": 171588
+  },
+  "AWP | Neo-Noir (Battle-Scarred)": {
+    "name": "AWP | Neo-Noir (Battle-Scarred)",
+    "nameId": 171607
+  },
+  "StatTrak™ AWP | Neo-Noir (Factory New)": {
+    "name": "StatTrak™ AWP | Neo-Noir (Factory New)",
+    "nameId": 171566
+  },
+  "StatTrak™ AWP | Neo-Noir (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Neo-Noir (Minimal Wear)",
+    "nameId": 171598
+  },
+  "StatTrak™ AWP | Neo-Noir (Field-Tested)": {
+    "name": "StatTrak™ AWP | Neo-Noir (Field-Tested)",
+    "nameId": 171541
+  },
+  "StatTrak™ AWP | Neo-Noir (Well-Worn)": {
+    "name": "StatTrak™ AWP | Neo-Noir (Well-Worn)",
+    "nameId": 171614
+  },
+  "StatTrak™ AWP | Neo-Noir (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Neo-Noir (Battle-Scarred)",
+    "nameId": 171611
+  },
+  "AWP | Desert Hydra (Factory New)": {
+    "name": "AWP | Desert Hydra (Factory New)",
+    "nameId": 1087355
+  },
+  "AWP | Desert Hydra (Minimal Wear)": {
+    "name": "AWP | Desert Hydra (Minimal Wear)",
+    "nameId": 1087418
+  },
+  "AWP | Desert Hydra (Field-Tested)": {
+    "name": "AWP | Desert Hydra (Field-Tested)",
+    "nameId": 1086990
+  },
+  "AWP | Desert Hydra (Well-Worn)": {
+    "name": "AWP | Desert Hydra (Well-Worn)",
+    "nameId": 1087432
+  },
+  "AWP | Desert Hydra (Battle-Scarred)": {
+    "name": "AWP | Desert Hydra (Battle-Scarred)",
+    "nameId": 1087525
+  },
+  "Souvenir AWP | Desert Hydra (Factory New)": {
+    "name": "Souvenir AWP | Desert Hydra (Factory New)",
+    "nameId": 1088626
+  },
+  "Souvenir AWP | Desert Hydra (Minimal Wear)": {
+    "name": "Souvenir AWP | Desert Hydra (Minimal Wear)",
+    "nameId": 1088744
+  },
+  "Souvenir AWP | Desert Hydra (Field-Tested)": {
+    "name": "Souvenir AWP | Desert Hydra (Field-Tested)",
+    "nameId": 1088738
+  },
+  "Souvenir AWP | Desert Hydra (Well-Worn)": {
+    "name": "Souvenir AWP | Desert Hydra (Well-Worn)",
+    "nameId": 1089021
+  },
+  "Souvenir AWP | Desert Hydra (Battle-Scarred)": {
+    "name": "Souvenir AWP | Desert Hydra (Battle-Scarred)",
+    "nameId": 1088685
+  },
+  "AWP | Atheris (Factory New)": {
+    "name": "AWP | Atheris (Factory New)",
+    "nameId": 201803
+  },
+  "AWP | Atheris (Minimal Wear)": {
+    "name": "AWP | Atheris (Minimal Wear)",
+    "nameId": 201798
+  },
+  "AWP | Atheris (Field-Tested)": {
+    "name": "AWP | Atheris (Field-Tested)",
+    "nameId": 201801
+  },
+  "AWP | Atheris (Well-Worn)": {
+    "name": "AWP | Atheris (Well-Worn)",
+    "nameId": 201791
+  },
+  "AWP | Atheris (Battle-Scarred)": {
+    "name": "AWP | Atheris (Battle-Scarred)",
+    "nameId": 201762
+  },
+  "StatTrak™ AWP | Atheris (Factory New)": {
+    "name": "StatTrak™ AWP | Atheris (Factory New)",
+    "nameId": 201879
+  },
+  "StatTrak™ AWP | Atheris (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Atheris (Minimal Wear)",
+    "nameId": 201825
+  },
+  "StatTrak™ AWP | Atheris (Field-Tested)": {
+    "name": "StatTrak™ AWP | Atheris (Field-Tested)",
+    "nameId": 201853
+  },
+  "StatTrak™ AWP | Atheris (Well-Worn)": {
+    "name": "StatTrak™ AWP | Atheris (Well-Worn)",
+    "nameId": 201915
+  },
+  "StatTrak™ AWP | Atheris (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Atheris (Battle-Scarred)",
+    "nameId": 201837
+  },
+  "AWP | Containment Breach (Factory New)": {
+    "name": "AWP | Containment Breach (Factory New)",
+    "nameId": 1074409
+  },
+  "AWP | Containment Breach (Minimal Wear)": {
+    "name": "AWP | Containment Breach (Minimal Wear)",
+    "nameId": 1074589
+  },
+  "AWP | Containment Breach (Field-Tested)": {
+    "name": "AWP | Containment Breach (Field-Tested)",
+    "nameId": 1074557
+  },
+  "AWP | Containment Breach (Well-Worn)": {
+    "name": "AWP | Containment Breach (Well-Worn)",
+    "nameId": 1074035
+  },
+  "AWP | Containment Breach (Battle-Scarred)": {
+    "name": "AWP | Containment Breach (Battle-Scarred)",
+    "nameId": 1074642
+  },
+  "StatTrak™ AWP | Containment Breach (Factory New)": {
+    "name": "StatTrak™ AWP | Containment Breach (Factory New)",
+    "nameId": 1075068
+  },
+  "StatTrak™ AWP | Containment Breach (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Containment Breach (Minimal Wear)",
+    "nameId": 1075037
+  },
+  "StatTrak™ AWP | Containment Breach (Field-Tested)": {
+    "name": "StatTrak™ AWP | Containment Breach (Field-Tested)",
+    "nameId": 1074886
+  },
+  "StatTrak™ AWP | Containment Breach (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Containment Breach (Battle-Scarred)",
+    "nameId": 1074762
+  },
+  "AWP | Wildfire (Factory New)": {
+    "name": "AWP | Wildfire (Factory New)",
+    "nameId": 1073218
+  },
+  "AWP | Wildfire (Minimal Wear)": {
+    "name": "AWP | Wildfire (Minimal Wear)",
+    "nameId": 1073242
+  },
+  "AWP | Wildfire (Field-Tested)": {
+    "name": "AWP | Wildfire (Field-Tested)",
+    "nameId": 1073210
+  },
+  "AWP | Wildfire (Well-Worn)": {
+    "name": "AWP | Wildfire (Well-Worn)",
+    "nameId": 1073310
+  },
+  "AWP | Wildfire (Battle-Scarred)": {
+    "name": "AWP | Wildfire (Battle-Scarred)",
+    "nameId": 1073222
+  },
+  "StatTrak™ AWP | Wildfire (Factory New)": {
+    "name": "StatTrak™ AWP | Wildfire (Factory New)",
+    "nameId": 1073306
+  },
+  "StatTrak™ AWP | Wildfire (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Wildfire (Minimal Wear)",
+    "nameId": 1073193
+  },
+  "StatTrak™ AWP | Wildfire (Field-Tested)": {
+    "name": "StatTrak™ AWP | Wildfire (Field-Tested)",
+    "nameId": 1073213
+  },
+  "StatTrak™ AWP | Wildfire (Well-Worn)": {
+    "name": "StatTrak™ AWP | Wildfire (Well-Worn)",
+    "nameId": 1073355
+  },
+  "StatTrak™ AWP | Wildfire (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Wildfire (Battle-Scarred)",
+    "nameId": 1073273
+  },
+  "AWP | Capillary (Factory New)": {
+    "name": "AWP | Capillary (Factory New)",
+    "nameId": 1079391
+  },
+  "AWP | Capillary (Minimal Wear)": {
+    "name": "AWP | Capillary (Minimal Wear)",
+    "nameId": 1079408
+  },
+  "AWP | Capillary (Field-Tested)": {
+    "name": "AWP | Capillary (Field-Tested)",
+    "nameId": 1079414
+  },
+  "AWP | Capillary (Well-Worn)": {
+    "name": "AWP | Capillary (Well-Worn)",
+    "nameId": 1079505
+  },
+  "AWP | Capillary (Battle-Scarred)": {
+    "name": "AWP | Capillary (Battle-Scarred)",
+    "nameId": 1079473
+  },
+  "StatTrak™ AWP | Capillary (Factory New)": {
+    "name": "StatTrak™ AWP | Capillary (Factory New)",
+    "nameId": 1079580
+  },
+  "StatTrak™ AWP | Capillary (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Capillary (Minimal Wear)",
+    "nameId": 1079417
+  },
+  "StatTrak™ AWP | Capillary (Field-Tested)": {
+    "name": "StatTrak™ AWP | Capillary (Field-Tested)",
+    "nameId": 1079441
+  },
+  "StatTrak™ AWP | Capillary (Well-Worn)": {
+    "name": "StatTrak™ AWP | Capillary (Well-Worn)",
+    "nameId": 1079468
+  },
+  "StatTrak™ AWP | Capillary (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Capillary (Battle-Scarred)",
+    "nameId": 1079457
+  },
+  "AWP | Exoskeleton (Factory New)": {
+    "name": "AWP | Exoskeleton (Factory New)",
+    "nameId": 1083489
+  },
+  "AWP | Exoskeleton (Minimal Wear)": {
+    "name": "AWP | Exoskeleton (Minimal Wear)",
+    "nameId": 1083418
+  },
+  "AWP | Exoskeleton (Field-Tested)": {
+    "name": "AWP | Exoskeleton (Field-Tested)",
+    "nameId": 1083544
+  },
+  "AWP | Exoskeleton (Well-Worn)": {
+    "name": "AWP | Exoskeleton (Well-Worn)",
+    "nameId": 1083549
+  },
+  "AWP | Exoskeleton (Battle-Scarred)": {
+    "name": "AWP | Exoskeleton (Battle-Scarred)",
+    "nameId": 1083669
+  },
+  "StatTrak™ AWP | Exoskeleton (Factory New)": {
+    "name": "StatTrak™ AWP | Exoskeleton (Factory New)",
+    "nameId": 1083886
+  },
+  "StatTrak™ AWP | Exoskeleton (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Exoskeleton (Minimal Wear)",
+    "nameId": 1083792
+  },
+  "StatTrak™ AWP | Exoskeleton (Field-Tested)": {
+    "name": "StatTrak™ AWP | Exoskeleton (Field-Tested)",
+    "nameId": 1083728
+  },
+  "StatTrak™ AWP | Exoskeleton (Well-Worn)": {
+    "name": "StatTrak™ AWP | Exoskeleton (Well-Worn)",
+    "nameId": 1083812
+  },
+  "StatTrak™ AWP | Exoskeleton (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Exoskeleton (Battle-Scarred)",
+    "nameId": 1083875
+  },
+  "AWP | Fade (Factory New)": {
+    "name": "AWP | Fade (Factory New)",
+    "nameId": 1083626
+  },
+  "AWP | Fade (Minimal Wear)": {
+    "name": "AWP | Fade (Minimal Wear)",
+    "nameId": 1083830
+  },
+  "AWP | Silk Tiger (Factory New)": {
+    "name": "AWP | Silk Tiger (Factory New)",
+    "nameId": 1083977
+  },
+  "AWP | Silk Tiger (Minimal Wear)": {
+    "name": "AWP | Silk Tiger (Minimal Wear)",
+    "nameId": 1083654
+  },
+  "AWP | Silk Tiger (Field-Tested)": {
+    "name": "AWP | Silk Tiger (Field-Tested)",
+    "nameId": 1083871
+  },
+  "AWP | Silk Tiger (Battle-Scarred)": {
+    "name": "AWP | Silk Tiger (Battle-Scarred)",
+    "nameId": 1083928
+  },
+  "AWP | POP AWP (Factory New)": {
+    "name": "AWP | POP AWP (Factory New)",
+    "nameId": 1087163
+  },
+  "AWP | POP AWP (Minimal Wear)": {
+    "name": "AWP | POP AWP (Minimal Wear)",
+    "nameId": 1086839
+  },
+  "AWP | POP AWP (Field-Tested)": {
+    "name": "AWP | POP AWP (Field-Tested)",
+    "nameId": 1086918
+  },
+  "AWP | POP AWP (Well-Worn)": {
+    "name": "AWP | POP AWP (Well-Worn)",
+    "nameId": 1087312
+  },
+  "AWP | Chromatic Aberration (Factory New)": {
+    "name": "AWP | Chromatic Aberration (Factory New)",
+    "nameId": 1092400
+  },
+  "AWP | Chromatic Aberration (Minimal Wear)": {
+    "name": "AWP | Chromatic Aberration (Minimal Wear)",
+    "nameId": 1092393
+  },
+  "AWP | Chromatic Aberration (Field-Tested)": {
+    "name": "AWP | Chromatic Aberration (Field-Tested)",
+    "nameId": 1092325
+  },
+  "AWP | Chromatic Aberration (Well-Worn)": {
+    "name": "AWP | Chromatic Aberration (Well-Worn)",
+    "nameId": 1092466
+  },
+  "AWP | Chromatic Aberration (Battle-Scarred)": {
+    "name": "AWP | Chromatic Aberration (Battle-Scarred)",
+    "nameId": 1092421
+  },
+  "StatTrak™ AWP | Chromatic Aberration (Factory New)": {
+    "name": "StatTrak™ AWP | Chromatic Aberration (Factory New)",
+    "nameId": 1092465
+  },
+  "StatTrak™ AWP | Chromatic Aberration (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Chromatic Aberration (Minimal Wear)",
+    "nameId": 1092501
+  },
+  "StatTrak™ AWP | Chromatic Aberration (Field-Tested)": {
+    "name": "StatTrak™ AWP | Chromatic Aberration (Field-Tested)",
+    "nameId": 1092423
+  },
+  "StatTrak™ AWP | Chromatic Aberration (Well-Worn)": {
+    "name": "StatTrak™ AWP | Chromatic Aberration (Well-Worn)",
+    "nameId": 1092620
+  },
+  "StatTrak™ AWP | Chromatic Aberration (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Chromatic Aberration (Battle-Scarred)",
+    "nameId": 1092450
+  },
+  "AWP | Chrome Cannon (Factory New)": {
+    "name": "AWP | Chrome Cannon (Factory New)",
+    "nameId": 2531354
+  },
+  "AWP | Chrome Cannon (Minimal Wear)": {
+    "name": "AWP | Chrome Cannon (Minimal Wear)",
+    "nameId": 2521624
+  },
+  "AWP | Chrome Cannon (Field-Tested)": {
+    "name": "AWP | Chrome Cannon (Field-Tested)",
+    "nameId": 2523128
+  },
+  "AWP | Chrome Cannon (Well-Worn)": {
+    "name": "AWP | Chrome Cannon (Well-Worn)",
+    "nameId": 2521609
+  },
+  "AWP | Chrome Cannon (Battle-Scarred)": {
+    "name": "AWP | Chrome Cannon (Battle-Scarred)",
+    "nameId": 2521798
+  },
+  "StatTrak™ AWP | Chrome Cannon (Factory New)": {
+    "name": "StatTrak™ AWP | Chrome Cannon (Factory New)",
+    "nameId": 2542512
+  },
+  "StatTrak™ AWP | Chrome Cannon (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Chrome Cannon (Minimal Wear)",
+    "nameId": 2526358
+  },
+  "StatTrak™ AWP | Chrome Cannon (Field-Tested)": {
+    "name": "StatTrak™ AWP | Chrome Cannon (Field-Tested)",
+    "nameId": 2522652
+  },
+  "StatTrak™ AWP | Chrome Cannon (Well-Worn)": {
+    "name": "StatTrak™ AWP | Chrome Cannon (Well-Worn)",
+    "nameId": 2525242
+  },
+  "StatTrak™ AWP | Chrome Cannon (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Chrome Cannon (Battle-Scarred)",
+    "nameId": 2534413
+  },
+  "AWP | Duality (Factory New)": {
+    "name": "AWP | Duality (Factory New)",
+    "nameId": 1171786
+  },
+  "AWP | Duality (Minimal Wear)": {
+    "name": "AWP | Duality (Minimal Wear)",
+    "nameId": 1171753
+  },
+  "AWP | Duality (Field-Tested)": {
+    "name": "AWP | Duality (Field-Tested)",
+    "nameId": 1171734
+  },
+  "AWP | Duality (Well-Worn)": {
+    "name": "AWP | Duality (Well-Worn)",
+    "nameId": 1171969
+  },
+  "AWP | Duality (Battle-Scarred)": {
+    "name": "AWP | Duality (Battle-Scarred)",
+    "nameId": 1171702
+  },
+  "StatTrak™ AWP | Duality (Factory New)": {
+    "name": "StatTrak™ AWP | Duality (Factory New)",
+    "nameId": 1171826
+  },
+  "StatTrak™ AWP | Duality (Minimal Wear)": {
+    "name": "StatTrak™ AWP | Duality (Minimal Wear)",
+    "nameId": 1172225
+  },
+  "StatTrak™ AWP | Duality (Field-Tested)": {
+    "name": "StatTrak™ AWP | Duality (Field-Tested)",
+    "nameId": 1171785
+  },
+  "StatTrak™ AWP | Duality (Well-Worn)": {
+    "name": "StatTrak™ AWP | Duality (Well-Worn)",
+    "nameId": 1174074
+  },
+  "StatTrak™ AWP | Duality (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Duality (Battle-Scarred)",
+    "nameId": 1172404
+  },
+  "AWP | Black Nile (Factory New)": {
+    "name": "AWP | Black Nile (Factory New)",
+    "nameId": 1309828
+  },
+  "AWP | Black Nile (Minimal Wear)": {
+    "name": "AWP | Black Nile (Minimal Wear)",
+    "nameId": 1309852
+  },
+  "AWP | Black Nile (Field-Tested)": {
+    "name": "AWP | Black Nile (Field-Tested)",
+    "nameId": 1309811
+  },
+  "AWP | Black Nile (Well-Worn)": {
+    "name": "AWP | Black Nile (Well-Worn)",
+    "nameId": 1309896
+  },
+  "AWP | Black Nile (Battle-Scarred)": {
+    "name": "AWP | Black Nile (Battle-Scarred)",
+    "nameId": 1309872
+  },
+  "Souvenir AWP | Black Nile (Factory New)": {
+    "name": "Souvenir AWP | Black Nile (Factory New)",
+    "nameId": 1330969
+  },
+  "Souvenir AWP | Black Nile (Minimal Wear)": {
+    "name": "Souvenir AWP | Black Nile (Minimal Wear)",
+    "nameId": 1333180
+  },
+  "Souvenir AWP | Black Nile (Field-Tested)": {
+    "name": "Souvenir AWP | Black Nile (Field-Tested)",
+    "nameId": 1331060
+  },
+  "Souvenir AWP | Black Nile (Well-Worn)": {
+    "name": "Souvenir AWP | Black Nile (Well-Worn)",
+    "nameId": 1340140
+  },
+  "Souvenir AWP | Black Nile (Battle-Scarred)": {
+    "name": "Souvenir AWP | Black Nile (Battle-Scarred)",
+    "nameId": 1330839
+  },
+  "FAMAS | Contrast Spray (Minimal Wear)": {
+    "name": "FAMAS | Contrast Spray (Minimal Wear)",
+    "nameId": 2356
+  },
+  "FAMAS | Contrast Spray (Field-Tested)": {
+    "name": "FAMAS | Contrast Spray (Field-Tested)",
+    "nameId": 3855
+  },
+  "FAMAS | Contrast Spray (Well-Worn)": {
+    "name": "FAMAS | Contrast Spray (Well-Worn)",
+    "nameId": 17829
+  },
+  "FAMAS | Colony (Factory New)": {
+    "name": "FAMAS | Colony (Factory New)",
+    "nameId": 1516
+  },
+  "FAMAS | Colony (Minimal Wear)": {
+    "name": "FAMAS | Colony (Minimal Wear)",
+    "nameId": 7089
+  },
+  "FAMAS | Colony (Field-Tested)": {
+    "name": "FAMAS | Colony (Field-Tested)",
+    "nameId": 2728
+  },
+  "FAMAS | Colony (Well-Worn)": {
+    "name": "FAMAS | Colony (Well-Worn)",
+    "nameId": 12183
+  },
+  "FAMAS | Colony (Battle-Scarred)": {
+    "name": "FAMAS | Colony (Battle-Scarred)",
+    "nameId": 7268
+  },
+  "Souvenir FAMAS | Colony (Minimal Wear)": {
+    "name": "Souvenir FAMAS | Colony (Minimal Wear)",
+    "nameId": 20187
+  },
+  "Souvenir FAMAS | Colony (Field-Tested)": {
+    "name": "Souvenir FAMAS | Colony (Field-Tested)",
+    "nameId": 11135
+  },
+  "Souvenir FAMAS | Colony (Battle-Scarred)": {
+    "name": "Souvenir FAMAS | Colony (Battle-Scarred)",
+    "nameId": 19182
+  },
+  "FAMAS | Dark Water (Minimal Wear)": {
+    "name": "FAMAS | Dark Water (Minimal Wear)",
+    "nameId": 1083716
+  },
+  "Souvenir FAMAS | Dark Water (Minimal Wear)": {
+    "name": "Souvenir FAMAS | Dark Water (Minimal Wear)",
+    "nameId": 1088651
+  },
+  "Souvenir FAMAS | Dark Water (Field-Tested)": {
+    "name": "Souvenir FAMAS | Dark Water (Field-Tested)",
+    "nameId": 1088708
+  },
+  "FAMAS | Cyanospatter (Factory New)": {
+    "name": "FAMAS | Cyanospatter (Factory New)",
+    "nameId": 1231
+  },
+  "FAMAS | Cyanospatter (Minimal Wear)": {
+    "name": "FAMAS | Cyanospatter (Minimal Wear)",
+    "nameId": 2562
+  },
+  "FAMAS | Cyanospatter (Field-Tested)": {
+    "name": "FAMAS | Cyanospatter (Field-Tested)",
+    "nameId": 651
+  },
+  "FAMAS | Cyanospatter (Well-Worn)": {
+    "name": "FAMAS | Cyanospatter (Well-Worn)",
+    "nameId": 3526
+  },
+  "FAMAS | Cyanospatter (Battle-Scarred)": {
+    "name": "FAMAS | Cyanospatter (Battle-Scarred)",
+    "nameId": 12779
+  },
+  "Souvenir FAMAS | Cyanospatter (Minimal Wear)": {
+    "name": "Souvenir FAMAS | Cyanospatter (Minimal Wear)",
+    "nameId": 14983
+  },
+  "Souvenir FAMAS | Cyanospatter (Field-Tested)": {
+    "name": "Souvenir FAMAS | Cyanospatter (Field-Tested)",
+    "nameId": 19654
+  },
+  "FAMAS | Afterimage (Factory New)": {
+    "name": "FAMAS | Afterimage (Factory New)",
+    "nameId": 14672
+  },
+  "FAMAS | Afterimage (Minimal Wear)": {
+    "name": "FAMAS | Afterimage (Minimal Wear)",
+    "nameId": 5760
+  },
+  "FAMAS | Afterimage (Field-Tested)": {
+    "name": "FAMAS | Afterimage (Field-Tested)",
+    "nameId": 7321
+  },
+  "FAMAS | Afterimage (Well-Worn)": {
+    "name": "FAMAS | Afterimage (Well-Worn)",
+    "nameId": 21671
+  },
+  "StatTrak™ FAMAS | Afterimage (Factory New)": {
+    "name": "StatTrak™ FAMAS | Afterimage (Factory New)",
+    "nameId": 4066
+  },
+  "StatTrak™ FAMAS | Afterimage (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Afterimage (Minimal Wear)",
+    "nameId": 3341
+  },
+  "StatTrak™ FAMAS | Afterimage (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Afterimage (Field-Tested)",
+    "nameId": 13390
+  },
+  "FAMAS | Doomkitty (Minimal Wear)": {
+    "name": "FAMAS | Doomkitty (Minimal Wear)",
+    "nameId": 3048
+  },
+  "FAMAS | Doomkitty (Field-Tested)": {
+    "name": "FAMAS | Doomkitty (Field-Tested)",
+    "nameId": 1704
+  },
+  "StatTrak™ FAMAS | Doomkitty (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Doomkitty (Minimal Wear)",
+    "nameId": 9678
+  },
+  "StatTrak™ FAMAS | Doomkitty (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Doomkitty (Field-Tested)",
+    "nameId": 2319
+  },
+  "FAMAS | Spitfire (Factory New)": {
+    "name": "FAMAS | Spitfire (Factory New)",
+    "nameId": 19349
+  },
+  "FAMAS | Spitfire (Field-Tested)": {
+    "name": "FAMAS | Spitfire (Field-Tested)",
+    "nameId": 9225
+  },
+  "FAMAS | Spitfire (Well-Worn)": {
+    "name": "FAMAS | Spitfire (Well-Worn)",
+    "nameId": 19739
+  },
+  "FAMAS | Hexane (Factory New)": {
+    "name": "FAMAS | Hexane (Factory New)",
+    "nameId": 7207
+  },
+  "FAMAS | Hexane (Minimal Wear)": {
+    "name": "FAMAS | Hexane (Minimal Wear)",
+    "nameId": 926
+  },
+  "FAMAS | Hexane (Field-Tested)": {
+    "name": "FAMAS | Hexane (Field-Tested)",
+    "nameId": 7613
+  },
+  "StatTrak™ FAMAS | Hexane (Factory New)": {
+    "name": "StatTrak™ FAMAS | Hexane (Factory New)",
+    "nameId": 9840
+  },
+  "StatTrak™ FAMAS | Hexane (Minimal Wear)": {
+    "name": "StatTrak™ FAMAS | Hexane (Minimal Wear)",
+    "nameId": 2691
+  },
+  "StatTrak™ FAMAS | Hexane (Field-Tested)": {
+    "name": "StatTrak™ FAMAS | Hexane (Field-Tested)",
+    "nameId": 2960
   }
 }
