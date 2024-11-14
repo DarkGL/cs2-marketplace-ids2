@@ -46,7 +46,13 @@ async function loadFromCSMoneyTrade(name: string) {
         },
         "body": null,
         "method": "GET"
-      }).then((res) => res.json() as Promise<CSMoneyResponse>);
+      }).then((res) => res.json() as Promise<CSMoneyResponse>).catch((err) => {
+        console.log('loadFromCSMoneyTrade', err);
+
+        return Promise.resolve({
+          items: []
+        });
+      });
 }
 
 async function loadFromCSMoneyMarket(name: string) {
@@ -69,7 +75,13 @@ async function loadFromCSMoneyMarket(name: string) {
         },
         "body": null,
         "method": "GET"
-      }).then((res) => res.json() as Promise<CSMoneyMarketResponse>);
+      }).then((res) => res.json() as Promise<CSMoneyMarketResponse>).catch((err) => {
+        console.log('loadFromCSMoneyMarket', err);
+
+        return Promise.resolve({
+          items: []
+        });
+      });
     }
 
 function findItemTrade(name: string, items: ItemTrade[]) {
