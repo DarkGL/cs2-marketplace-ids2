@@ -12,6 +12,9 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write  # Allows write access for the 'contents' scope
+
 jobs:
   build:
     name: "Node ${{ matrix.node-version }}"

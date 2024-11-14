@@ -1,6 +1,7 @@
 .DS_Store
 src/test.ts
 cs2-marketplace-ids2.code-workspace
+dist/
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,visualstudiocode
