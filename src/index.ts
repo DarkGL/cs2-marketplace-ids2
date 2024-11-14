@@ -104,7 +104,7 @@ async function loadItemFromCSMoneyMarket(market_hash_name: string) {
     const responseMoney = await loadFromCSMoneyMarket(market_hash_name);
 
     if(!responseMoney || !responseMoney?.items || responseMoney?.items?.length === 0) {
-        console.log(`Item ${market_hash_name} has no CSMoney sell orders`);
+        console.log(`Item ${market_hash_name} has no CSMoney market trade`);
 
         return;
     }
@@ -112,7 +112,7 @@ async function loadItemFromCSMoneyMarket(market_hash_name: string) {
     const itemMoney = findItemMarket(market_hash_name, responseMoney.items);
 
     if(!itemMoney) {
-        console.log(`Item ${market_hash_name} has no CSMoney sell orders`);
+        console.log(`Item ${market_hash_name} has no CSMoney market trade`);
 
         return;
     }
@@ -180,7 +180,7 @@ async function main() {
             continue;
         }
 
-        console.log(`Item ${currentItem.market_hash_name} has CSMoney sell orders`, itemMoneyId);
+        console.log(`Item ${currentItem.market_hash_name} is on CSMoney`, itemMoneyId);
 
         csmoneyIds[currentItem.market_hash_name] = {
             name: currentItem.market_hash_name,
