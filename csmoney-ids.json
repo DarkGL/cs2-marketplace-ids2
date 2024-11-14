@@ -1,1 +1,2002 @@
-{}
+{
+  "Bloody Darryl The Strapped | The Professionals": {
+    "name": "Bloody Darryl The Strapped | The Professionals",
+    "nameId": 1087079
+  },
+  "'Blueberries' Buckshot | NSWC SEAL": {
+    "name": "'Blueberries' Buckshot | NSWC SEAL",
+    "nameId": 1083601
+  },
+  "'Two Times' McCoy | TACP Cavalry": {
+    "name": "'Two Times' McCoy | TACP Cavalry",
+    "nameId": 1083492
+  },
+  "Cmdr. Mae 'Dead Cold' Jamison | SWAT": {
+    "name": "Cmdr. Mae 'Dead Cold' Jamison | SWAT",
+    "nameId": 1083460
+  },
+  "1st Lieutenant Farlow | SWAT": {
+    "name": "1st Lieutenant Farlow | SWAT",
+    "nameId": 1083508
+  },
+  "John 'Van Healen' Kask | SWAT": {
+    "name": "John 'Van Healen' Kask | SWAT",
+    "nameId": 1083667
+  },
+  "Bio-Haz Specialist | SWAT": {
+    "name": "Bio-Haz Specialist | SWAT",
+    "nameId": 1083660
+  },
+  "Sergeant Bombson | SWAT": {
+    "name": "Sergeant Bombson | SWAT",
+    "nameId": 1083663
+  },
+  "Chem-Haz Specialist | SWAT": {
+    "name": "Chem-Haz Specialist | SWAT",
+    "nameId": 1083710
+  },
+  "Rezan the Redshirt | Sabre": {
+    "name": "Rezan the Redshirt | Sabre",
+    "nameId": 1083611
+  },
+  "Sir Bloody Miami Darryl | The Professionals": {
+    "name": "Sir Bloody Miami Darryl | The Professionals",
+    "nameId": 1083593
+  },
+  "Safecracker Voltzmann | The Professionals": {
+    "name": "Safecracker Voltzmann | The Professionals",
+    "nameId": 1083649
+  },
+  "Little Kev | The Professionals": {
+    "name": "Little Kev | The Professionals",
+    "nameId": 1083547
+  },
+  "Getaway Sally | The Professionals": {
+    "name": "Getaway Sally | The Professionals",
+    "nameId": 1083625
+  },
+  "Number K | The Professionals": {
+    "name": "Number K | The Professionals",
+    "nameId": 1083439
+  },
+  "Sir Bloody Silent Darryl | The Professionals": {
+    "name": "Sir Bloody Silent Darryl | The Professionals",
+    "nameId": 1083550
+  },
+  "Sir Bloody Skullhead Darryl | The Professionals": {
+    "name": "Sir Bloody Skullhead Darryl | The Professionals",
+    "nameId": 1083536
+  },
+  "Sir Bloody Darryl Royale | The Professionals": {
+    "name": "Sir Bloody Darryl Royale | The Professionals",
+    "nameId": 1083409
+  },
+  "Sir Bloody Loudmouth Darryl | The Professionals": {
+    "name": "Sir Bloody Loudmouth Darryl | The Professionals",
+    "nameId": 1083461
+  },
+  "Sous-Lieutenant Medic | Gendarmerie Nationale": {
+    "name": "Sous-Lieutenant Medic | Gendarmerie Nationale",
+    "nameId": 1087132
+  },
+  "Chem-Haz Capitaine | Gendarmerie Nationale": {
+    "name": "Chem-Haz Capitaine | Gendarmerie Nationale",
+    "nameId": 1086830
+  },
+  "Chef d'Escadron Rouchard | Gendarmerie Nationale": {
+    "name": "Chef d'Escadron Rouchard | Gendarmerie Nationale",
+    "nameId": 1086972
+  },
+  "Aspirant | Gendarmerie Nationale": {
+    "name": "Aspirant | Gendarmerie Nationale",
+    "nameId": 1087333
+  },
+  "Officer Jacques Beltram | Gendarmerie Nationale": {
+    "name": "Officer Jacques Beltram | Gendarmerie Nationale",
+    "nameId": 1087175
+  },
+  "Lieutenant 'Tree Hugger' Farlow | SWAT": {
+    "name": "Lieutenant 'Tree Hugger' Farlow | SWAT",
+    "nameId": 1087206
+  },
+  "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman": {
+    "name": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman",
+    "nameId": 1086948
+  },
+  "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman": {
+    "name": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman",
+    "nameId": 1087071
+  },
+  "Lieutenant Rex Krikey | SEAL Frogman": {
+    "name": "Lieutenant Rex Krikey | SEAL Frogman",
+    "nameId": 1087229
+  },
+  "Elite Trapper Solman | Guerrilla Warfare": {
+    "name": "Elite Trapper Solman | Guerrilla Warfare",
+    "nameId": 1087035
+  },
+  "Crasswater The Forgotten | Guerrilla Warfare": {
+    "name": "Crasswater The Forgotten | Guerrilla Warfare",
+    "nameId": 1087106
+  },
+  "Arno The Overgrown | Guerrilla Warfare": {
+    "name": "Arno The Overgrown | Guerrilla Warfare",
+    "nameId": 1087162
+  },
+  "Col. Mangos Dabisi | Guerrilla Warfare": {
+    "name": "Col. Mangos Dabisi | Guerrilla Warfare",
+    "nameId": 1086989
+  },
+  "Vypa Sista of the Revolution | Guerrilla Warfare": {
+    "name": "Vypa Sista of the Revolution | Guerrilla Warfare",
+    "nameId": 1086847
+  },
+  "Trapper Aggressor | Guerrilla Warfare": {
+    "name": "Trapper Aggressor | Guerrilla Warfare",
+    "nameId": 1087168
+  },
+  "'Medium Rare' Crasswater | Guerrilla Warfare": {
+    "name": "'Medium Rare' Crasswater | Guerrilla Warfare",
+    "nameId": 1086985
+  },
+  "Ground Rebel  | Elite Crew": {
+    "name": "Ground Rebel  | Elite Crew",
+    "nameId": 1073911
+  },
+  "Osiris | Elite Crew": {
+    "name": "Osiris | Elite Crew",
+    "nameId": 1073894
+  },
+  "Prof. Shahmat | Elite Crew": {
+    "name": "Prof. Shahmat | Elite Crew",
+    "nameId": 1074066
+  },
+  "The Elite Mr. Muhlik | Elite Crew": {
+    "name": "The Elite Mr. Muhlik | Elite Crew",
+    "nameId": 1073882
+  },
+  "Jungle Rebel | Elite Crew": {
+    "name": "Jungle Rebel | Elite Crew",
+    "nameId": 1087614
+  },
+  "Soldier | Phoenix": {
+    "name": "Soldier | Phoenix",
+    "nameId": 1074089
+  },
+  "Enforcer | Phoenix": {
+    "name": "Enforcer | Phoenix",
+    "nameId": 1073865
+  },
+  "Slingshot | Phoenix": {
+    "name": "Slingshot | Phoenix",
+    "nameId": 1074084
+  },
+  "Street Soldier | Phoenix": {
+    "name": "Street Soldier | Phoenix",
+    "nameId": 1083658
+  },
+  "Operator | FBI SWAT": {
+    "name": "Operator | FBI SWAT",
+    "nameId": 1074026
+  },
+  "Markus Delrow | FBI HRT": {
+    "name": "Markus Delrow | FBI HRT",
+    "nameId": 1073910
+  },
+  "Michael Syfers  | FBI Sniper": {
+    "name": "Michael Syfers  | FBI Sniper",
+    "nameId": 1074098
+  },
+  "Special Agent Ava | FBI": {
+    "name": "Special Agent Ava | FBI",
+    "nameId": 1074063
+  },
+  "3rd Commando Company | KSK": {
+    "name": "3rd Commando Company | KSK",
+    "nameId": 1073957
+  },
+  "Seal Team 6 Soldier | NSWC SEAL": {
+    "name": "Seal Team 6 Soldier | NSWC SEAL",
+    "nameId": 1074058
+  },
+  "Buckshot | NSWC SEAL": {
+    "name": "Buckshot | NSWC SEAL",
+    "nameId": 1073980
+  },
+  "'Two Times' McCoy | USAF TACP": {
+    "name": "'Two Times' McCoy | USAF TACP",
+    "nameId": 1073912
+  },
+  "Lt. Commander Ricksaw | NSWC SEAL": {
+    "name": "Lt. Commander Ricksaw | NSWC SEAL",
+    "nameId": 1073908
+  },
+  "Primeiro Tenente | Brazilian 1st Battalion": {
+    "name": "Primeiro Tenente | Brazilian 1st Battalion",
+    "nameId": 1087221
+  },
+  "Dragomir | Sabre": {
+    "name": "Dragomir | Sabre",
+    "nameId": 1074137
+  },
+  "Maximus | Sabre": {
+    "name": "Maximus | Sabre",
+    "nameId": 1073952
+  },
+  "Rezan The Ready | Sabre": {
+    "name": "Rezan The Ready | Sabre",
+    "nameId": 1073887
+  },
+  "Blackwolf | Sabre": {
+    "name": "Blackwolf | Sabre",
+    "nameId": 1074053
+  },
+  "'The Doctor' Romanov | Sabre": {
+    "name": "'The Doctor' Romanov | Sabre",
+    "nameId": 1073944
+  },
+  "Dragomir | Sabre Footsoldier": {
+    "name": "Dragomir | Sabre Footsoldier",
+    "nameId": 1083659
+  },
+  "B Squadron Officer | SAS": {
+    "name": "B Squadron Officer | SAS",
+    "nameId": 1073899
+  },
+  "D Squadron Officer | NZSAS": {
+    "name": "D Squadron Officer | NZSAS",
+    "nameId": 1087228
+  },
+  "Operation Payback Pass": {
+    "name": "Operation Payback Pass",
+    "nameId": 19216
+  },
+  "Operation Bloodhound Access Pass": {
+    "name": "Operation Bloodhound Access Pass",
+    "nameId": 14375
+  },
+  "Operation Hydra Access Pass": {
+    "name": "Operation Hydra Access Pass",
+    "nameId": 3512
+  },
+  "Operation Shattered Web Premium Pass": {
+    "name": "Operation Shattered Web Premium Pass",
+    "nameId": 1073859
+  },
+  "Katowice 2019 Viewer Pass": {
+    "name": "Katowice 2019 Viewer Pass",
+    "nameId": 194862
+  },
+  "Berlin 2019 Viewer Pass": {
+    "name": "Berlin 2019 Viewer Pass",
+    "nameId": 874562
+  },
+  "Berlin 2019 Viewer Pass + 3 Souvenir Tokens": {
+    "name": "Berlin 2019 Viewer Pass + 3 Souvenir Tokens",
+    "nameId": 874615
+  },
+  "Civil Protection Pin": {
+    "name": "Civil Protection Pin",
+    "nameId": 1079212
+  },
+  "Sustenance! Pin": {
+    "name": "Sustenance! Pin",
+    "nameId": 1079224
+  },
+  "Vortigaunt Pin": {
+    "name": "Vortigaunt Pin",
+    "nameId": 1079203
+  },
+  "Headcrab Glyph Pin": {
+    "name": "Headcrab Glyph Pin",
+    "nameId": 1079200
+  },
+  "Health Pin": {
+    "name": "Health Pin",
+    "nameId": 1079220
+  },
+  "Lambda Pin": {
+    "name": "Lambda Pin",
+    "nameId": 1079199
+  },
+  "Copper Lambda Pin": {
+    "name": "Copper Lambda Pin",
+    "nameId": 1079204
+  },
+  "CMB Pin": {
+    "name": "CMB Pin",
+    "nameId": 1079226
+  },
+  "Black Mesa Pin": {
+    "name": "Black Mesa Pin",
+    "nameId": 1079227
+  },
+  "Combine Helmet Pin": {
+    "name": "Combine Helmet Pin",
+    "nameId": 1079201
+  },
+  "City 17 Pin": {
+    "name": "City 17 Pin",
+    "nameId": 1079202
+  },
+  "Operation Broken Fang Premium Pass": {
+    "name": "Operation Broken Fang Premium Pass",
+    "nameId": 1083399
+  },
+  "Operation Riptide Premium Pass": {
+    "name": "Operation Riptide Premium Pass",
+    "nameId": 1087747
+  },
+  "Stockholm 2021 Viewer Pass": {
+    "name": "Stockholm 2021 Viewer Pass",
+    "nameId": 1088884
+  },
+  "Stockholm 2021 Viewer Pass + 3 Souvenir Tokens": {
+    "name": "Stockholm 2021 Viewer Pass + 3 Souvenir Tokens",
+    "nameId": 1088891
+  },
+  "Antwerp 2022 Viewer Pass": {
+    "name": "Antwerp 2022 Viewer Pass",
+    "nameId": 1091733
+  },
+  "Antwerp 2022 Viewer Pass + 3 Souvenir Tokens": {
+    "name": "Antwerp 2022 Viewer Pass + 3 Souvenir Tokens",
+    "nameId": 1091732
+  },
+  "Rio 2022 Viewer Pass": {
+    "name": "Rio 2022 Viewer Pass",
+    "nameId": 1101896
+  },
+  "Rio 2022 Viewer Pass + 3 Souvenir Tokens": {
+    "name": "Rio 2022 Viewer Pass + 3 Souvenir Tokens",
+    "nameId": 1101927
+  },
+  "Paris 2023 Viewer Pass": {
+    "name": "Paris 2023 Viewer Pass",
+    "nameId": 1341556
+  },
+  "Paris 2023 Viewer Pass + 3 Souvenir Tokens": {
+    "name": "Paris 2023 Viewer Pass + 3 Souvenir Tokens",
+    "nameId": 1341555
+  },
+  "Copenhagen 2024 Viewer Pass": {
+    "name": "Copenhagen 2024 Viewer Pass",
+    "nameId": 2596909
+  },
+  "Copenhagen 2024 Viewer Pass + 3 Souvenir Tokens": {
+    "name": "Copenhagen 2024 Viewer Pass + 3 Souvenir Tokens",
+    "nameId": 2596917
+  },
+  "Dust II Pin": {
+    "name": "Dust II Pin",
+    "nameId": 529
+  },
+  "Guardian Elite Pin": {
+    "name": "Guardian Elite Pin",
+    "nameId": 936
+  },
+  "Mirage Pin": {
+    "name": "Mirage Pin",
+    "nameId": 4798
+  },
+  "Inferno Pin": {
+    "name": "Inferno Pin",
+    "nameId": 1328
+  },
+  "Italy Pin": {
+    "name": "Italy Pin",
+    "nameId": 2716
+  },
+  "Victory Pin": {
+    "name": "Victory Pin",
+    "nameId": 1385
+  },
+  "Militia Pin": {
+    "name": "Militia Pin",
+    "nameId": 7327
+  },
+  "Nuke Pin": {
+    "name": "Nuke Pin",
+    "nameId": 1316
+  },
+  "Train Pin": {
+    "name": "Train Pin",
+    "nameId": 2708
+  },
+  "Guardian Pin": {
+    "name": "Guardian Pin",
+    "nameId": 3963
+  },
+  "Tactics Pin": {
+    "name": "Tactics Pin",
+    "nameId": 1371
+  },
+  "Guardian 2 Pin": {
+    "name": "Guardian 2 Pin",
+    "nameId": 3064
+  },
+  "Bravo Pin": {
+    "name": "Bravo Pin",
+    "nameId": 4913
+  },
+  "Baggage Pin": {
+    "name": "Baggage Pin",
+    "nameId": 4788
+  },
+  "Phoenix Pin": {
+    "name": "Phoenix Pin",
+    "nameId": 4817
+  },
+  "Office Pin": {
+    "name": "Office Pin",
+    "nameId": 4808
+  },
+  "Cobblestone Pin": {
+    "name": "Cobblestone Pin",
+    "nameId": 4806
+  },
+  "Overpass Pin": {
+    "name": "Overpass Pin",
+    "nameId": 2006
+  },
+  "Bloodhound Pin": {
+    "name": "Bloodhound Pin",
+    "nameId": 294
+  },
+  "Cache Pin": {
+    "name": "Cache Pin",
+    "nameId": 1807
+  },
+  "Valeria Phoenix Pin": {
+    "name": "Valeria Phoenix Pin",
+    "nameId": 3797
+  },
+  "Chroma Pin": {
+    "name": "Chroma Pin",
+    "nameId": 14400
+  },
+  "Guardian 3 Pin": {
+    "name": "Guardian 3 Pin",
+    "nameId": 27990
+  },
+  "Canals Pin": {
+    "name": "Canals Pin",
+    "nameId": 27986
+  },
+  "Welcome to the Clutch Pin": {
+    "name": "Welcome to the Clutch Pin",
+    "nameId": 27988
+  },
+  "Death Sentence Pin": {
+    "name": "Death Sentence Pin",
+    "nameId": 27987
+  },
+  "Inferno 2 Pin": {
+    "name": "Inferno 2 Pin",
+    "nameId": 27989
+  },
+  "Wildfire Pin": {
+    "name": "Wildfire Pin",
+    "nameId": 27983
+  },
+  "Easy Peasy Pin": {
+    "name": "Easy Peasy Pin",
+    "nameId": 27994
+  },
+  "Aces High Pin": {
+    "name": "Aces High Pin",
+    "nameId": 27997
+  },
+  "Hydra Pin": {
+    "name": "Hydra Pin",
+    "nameId": 27985
+  },
+  "Howl Pin": {
+    "name": "Howl Pin",
+    "nameId": 27996
+  },
+  "Brigadier General Pin": {
+    "name": "Brigadier General Pin",
+    "nameId": 27998
+  },
+  "Alyx Pin": {
+    "name": "Alyx Pin",
+    "nameId": 1079217
+  },
+  "Pallet of Presents": {
+    "name": "Pallet of Presents",
+    "nameId": 4159
+  },
+  "Audience Participation Parcel": {
+    "name": "Audience Participation Parcel",
+    "nameId": 16237
+  },
+  "CS:GO Weapon Case": {
+    "name": "CS:GO Weapon Case",
+    "nameId": 10162
+  },
+  "eSports 2013 Case": {
+    "name": "eSports 2013 Case",
+    "nameId": 17948
+  },
+  "Operation Bravo Case": {
+    "name": "Operation Bravo Case",
+    "nameId": 9655
+  },
+  "CS:GO Weapon Case 2": {
+    "name": "CS:GO Weapon Case 2",
+    "nameId": 13819
+  },
+  "eSports 2013 Winter Case": {
+    "name": "eSports 2013 Winter Case",
+    "nameId": 4724
+  },
+  "Winter Offensive Weapon Case": {
+    "name": "Winter Offensive Weapon Case",
+    "nameId": 12905
+  },
+  "CS:GO Weapon Case 3": {
+    "name": "CS:GO Weapon Case 3",
+    "nameId": 3726
+  },
+  "Operation Phoenix Weapon Case": {
+    "name": "Operation Phoenix Weapon Case",
+    "nameId": 3696
+  },
+  "Sticker Capsule 2": {
+    "name": "Sticker Capsule 2",
+    "nameId": 14673
+  },
+  "Community Sticker Capsule 1": {
+    "name": "Community Sticker Capsule 1",
+    "nameId": 12521
+  },
+  "Huntsman Weapon Case": {
+    "name": "Huntsman Weapon Case",
+    "nameId": 4752
+  },
+  "Operation Breakout Weapon Case": {
+    "name": "Operation Breakout Weapon Case",
+    "nameId": 635
+  },
+  "eSports 2014 Summer Case": {
+    "name": "eSports 2014 Summer Case",
+    "nameId": 3702
+  },
+  "ESL One Cologne 2014 Legends": {
+    "name": "ESL One Cologne 2014 Legends",
+    "nameId": 13405
+  },
+  "ESL One Cologne 2014 Challengers": {
+    "name": "ESL One Cologne 2014 Challengers",
+    "nameId": 14467
+  },
+  "ESL One Cologne 2014 Dust II Souvenir Package": {
+    "name": "ESL One Cologne 2014 Dust II Souvenir Package",
+    "nameId": 20186
+  },
+  "Operation Vanguard Weapon Case": {
+    "name": "Operation Vanguard Weapon Case",
+    "nameId": 3266
+  },
+  "DreamHack 2014 Mirage Souvenir Package": {
+    "name": "DreamHack 2014 Mirage Souvenir Package",
+    "nameId": 19619
+  },
+  "ESL One Katowice 2015 Cache Souvenir Package": {
+    "name": "ESL One Katowice 2015 Cache Souvenir Package",
+    "nameId": 19346
+  },
+  "ESL One Katowice 2015 Cobblestone Souvenir Package": {
+    "name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
+    "nameId": 14474
+  },
+  "ESL One Katowice 2015 Overpass Souvenir Package": {
+    "name": "ESL One Katowice 2015 Overpass Souvenir Package",
+    "nameId": 21518
+  },
+  "Chroma 2 Case": {
+    "name": "Chroma 2 Case",
+    "nameId": 614
+  },
+  "Falchion Case": {
+    "name": "Falchion Case",
+    "nameId": 631
+  },
+  "ESL One Cologne 2015 Challengers (Foil)": {
+    "name": "ESL One Cologne 2015 Challengers (Foil)",
+    "nameId": 19785
+  },
+  "Autograph Capsule | Group B (Foil) | Cologne 2015": {
+    "name": "Autograph Capsule | Group B (Foil) | Cologne 2015",
+    "nameId": 19641
+  },
+  "Autograph Capsule | Group C (Foil) | Cologne 2015": {
+    "name": "Autograph Capsule | Group C (Foil) | Cologne 2015",
+    "nameId": 19642
+  },
+  "Autograph Capsule | Group D (Foil) | Cologne 2015": {
+    "name": "Autograph Capsule | Group D (Foil) | Cologne 2015",
+    "nameId": 18644
+  },
+  "Autograph Capsule | Fnatic | Cologne 2015": {
+    "name": "Autograph Capsule | Fnatic | Cologne 2015",
+    "nameId": 16263
+  },
+  "Autograph Capsule | Luminosity Gaming | Cologne 2015": {
+    "name": "Autograph Capsule | Luminosity Gaming | Cologne 2015",
+    "nameId": 19703
+  },
+  "Autograph Capsule | Natus Vincere | Cologne 2015": {
+    "name": "Autograph Capsule | Natus Vincere | Cologne 2015",
+    "nameId": 14670
+  },
+  "Autograph Capsule | Ninjas in Pyjamas | Cologne 2015": {
+    "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2015",
+    "nameId": 19627
+  },
+  "Autograph Capsule | Team EnVyUs | Cologne 2015": {
+    "name": "Autograph Capsule | Team EnVyUs | Cologne 2015",
+    "nameId": 19035
+  },
+  "Autograph Capsule | Titan | Cologne 2015": {
+    "name": "Autograph Capsule | Titan | Cologne 2015",
+    "nameId": 18640
+  },
+  "Autograph Capsule | Team SoloMid | Cologne 2015": {
+    "name": "Autograph Capsule | Team SoloMid | Cologne 2015",
+    "nameId": 16257
+  },
+  "Autograph Capsule | Virtus.Pro | Cologne 2015": {
+    "name": "Autograph Capsule | Virtus.Pro | Cologne 2015",
+    "nameId": 17408
+  },
+  "Autograph Capsule | mousesports | Cologne 2015": {
+    "name": "Autograph Capsule | mousesports | Cologne 2015",
+    "nameId": 18580
+  },
+  "Autograph Capsule | Renegades | Cologne 2015": {
+    "name": "Autograph Capsule | Renegades | Cologne 2015",
+    "nameId": 19794
+  },
+  "Autograph Capsule | Team Immunity | Cologne 2015": {
+    "name": "Autograph Capsule | Team Immunity | Cologne 2015",
+    "nameId": 19792
+  },
+  "Autograph Capsule | Team Kinguin | Cologne 2015": {
+    "name": "Autograph Capsule | Team Kinguin | Cologne 2015",
+    "nameId": 19300
+  },
+  "Autograph Capsule | Flipsid3 Tactics | Cologne 2015": {
+    "name": "Autograph Capsule | Flipsid3 Tactics | Cologne 2015",
+    "nameId": 19499
+  },
+  "Autograph Capsule | Counter Logic Gaming | Cologne 2015": {
+    "name": "Autograph Capsule | Counter Logic Gaming | Cologne 2015",
+    "nameId": 18281
+  },
+  "Autograph Capsule | Cloud9 G2A | Cologne 2015": {
+    "name": "Autograph Capsule | Cloud9 G2A | Cologne 2015",
+    "nameId": 19301
+  },
+  "ESL One Cologne 2015 Dust II Souvenir Package": {
+    "name": "ESL One Cologne 2015 Dust II Souvenir Package",
+    "nameId": 19601
+  },
+  "ESL One Cologne 2015 Inferno Souvenir Package": {
+    "name": "ESL One Cologne 2015 Inferno Souvenir Package",
+    "nameId": 18852
+  },
+  "Shadow Case": {
+    "name": "Shadow Case",
+    "nameId": 3809
+  },
+  "DreamHack Cluj-Napoca 2015 Challengers (Foil)": {
+    "name": "DreamHack Cluj-Napoca 2015 Challengers (Foil)",
+    "nameId": 17406
+  },
+  "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015",
+    "nameId": 19397
+  },
+  "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015",
+    "nameId": 19395
+  },
+  "Autograph Capsule | Team Dignitas | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Team Dignitas | Cluj-Napoca 2015",
+    "nameId": 20178
+  },
+  "Autograph Capsule | Counter Logic Gaming | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Counter Logic Gaming | Cluj-Napoca 2015",
+    "nameId": 14331
+  },
+  "Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015",
+    "nameId": 19705
+  },
+  "Autograph Capsule | Flipsid3 Tactics | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Flipsid3 Tactics | Cluj-Napoca 2015",
+    "nameId": 19712
+  },
+  "Autograph Capsule | Team Liquid | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Team Liquid | Cluj-Napoca 2015",
+    "nameId": 20064
+  },
+  "Autograph Capsule | mousesports | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | mousesports | Cluj-Napoca 2015",
+    "nameId": 19523
+  },
+  "Autograph Capsule | Natus Vincere | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Natus Vincere | Cluj-Napoca 2015",
+    "nameId": 18455
+  },
+  "Autograph Capsule | Virtus.Pro | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Virtus.Pro | Cluj-Napoca 2015",
+    "nameId": 17409
+  },
+  "Autograph Capsule | Cloud9 | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Cloud9 | Cluj-Napoca 2015",
+    "nameId": 19709
+  },
+  "Autograph Capsule | G2 Esports | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | G2 Esports | Cluj-Napoca 2015",
+    "nameId": 17872
+  },
+  "Autograph Capsule | Titan | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Titan | Cluj-Napoca 2015",
+    "nameId": 16258
+  },
+  "Autograph Capsule | Team SoloMid | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Team SoloMid | Cluj-Napoca 2015",
+    "nameId": 19194
+  },
+  "Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015",
+    "nameId": 18454
+  },
+  "Autograph Capsule | Fnatic | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Fnatic | Cluj-Napoca 2015",
+    "nameId": 19708
+  },
+  "Autograph Capsule | Luminosity Gaming | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Luminosity Gaming | Cluj-Napoca 2015",
+    "nameId": 19702
+  },
+  "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package": {
+    "name": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package",
+    "nameId": 10151
+  },
+  "DreamHack Cluj-Napoca 2015 Train Souvenir Package": {
+    "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
+    "nameId": 16670
+  },
+  "Pinups Capsule": {
+    "name": "Pinups Capsule",
+    "nameId": 16013
+  },
+  "Slid3 Capsule": {
+    "name": "Slid3 Capsule",
+    "nameId": 18961
+  },
+  "Team Roles Capsule": {
+    "name": "Team Roles Capsule",
+    "nameId": 8547
+  },
+  "Revolver Case": {
+    "name": "Revolver Case",
+    "nameId": 654
+  },
+  "Operation Wildfire Case": {
+    "name": "Operation Wildfire Case",
+    "nameId": 36
+  },
+  "Autograph Capsule | Ninjas in Pyjamas | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Ninjas in Pyjamas | MLG Columbus 2016",
+    "nameId": 18795
+  },
+  "Autograph Capsule | Splyce | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Splyce | MLG Columbus 2016",
+    "nameId": 19786
+  },
+  "Autograph Capsule | Counter Logic Gaming | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Counter Logic Gaming | MLG Columbus 2016",
+    "nameId": 17405
+  },
+  "Autograph Capsule | Gambit Gaming | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Gambit Gaming | MLG Columbus 2016",
+    "nameId": 19825
+  },
+  "Autograph Capsule | Flipsid3 Tactics | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Flipsid3 Tactics | MLG Columbus 2016",
+    "nameId": 18645
+  },
+  "Autograph Capsule | Team Liquid | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Team Liquid | MLG Columbus 2016",
+    "nameId": 19738
+  },
+  "Autograph Capsule | mousesports | MLG Columbus 2016": {
+    "name": "Autograph Capsule | mousesports | MLG Columbus 2016",
+    "nameId": 18579
+  },
+  "Autograph Capsule | Natus Vincere | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Natus Vincere | MLG Columbus 2016",
+    "nameId": 18457
+  },
+  "Autograph Capsule | Virtus.Pro | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Virtus.Pro | MLG Columbus 2016",
+    "nameId": 18635
+  },
+  "Autograph Capsule | Cloud9 | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Cloud9 | MLG Columbus 2016",
+    "nameId": 17415
+  },
+  "Autograph Capsule | G2 Esports | MLG Columbus 2016": {
+    "name": "Autograph Capsule | G2 Esports | MLG Columbus 2016",
+    "nameId": 18087
+  },
+  "Autograph Capsule | FaZe Clan | MLG Columbus 2016": {
+    "name": "Autograph Capsule | FaZe Clan | MLG Columbus 2016",
+    "nameId": 19628
+  },
+  "Autograph Capsule | Astralis | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Astralis | MLG Columbus 2016",
+    "nameId": 18085
+  },
+  "Autograph Capsule | Team EnVyUs | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Team EnVyUs | MLG Columbus 2016",
+    "nameId": 19737
+  },
+  "Autograph Capsule | Fnatic | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Fnatic | MLG Columbus 2016",
+    "nameId": 18636
+  },
+  "Autograph Capsule | Luminosity Gaming | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Luminosity Gaming | MLG Columbus 2016",
+    "nameId": 18456
+  },
+  "MLG Columbus 2016 Dust II Souvenir Package": {
+    "name": "MLG Columbus 2016 Dust II Souvenir Package",
+    "nameId": 20900
+  },
+  "MLG Columbus 2016 Inferno Souvenir Package": {
+    "name": "MLG Columbus 2016 Inferno Souvenir Package",
+    "nameId": 20757
+  },
+  "MLG Columbus 2016 Overpass Souvenir Package": {
+    "name": "MLG Columbus 2016 Overpass Souvenir Package",
+    "nameId": 10153
+  },
+  "MLG Columbus 2016 Train Souvenir Package": {
+    "name": "MLG Columbus 2016 Train Souvenir Package",
+    "nameId": 20075
+  },
+  "MLG Columbus 2016 Nuke Souvenir Package": {
+    "name": "MLG Columbus 2016 Nuke Souvenir Package",
+    "nameId": 17843
+  },
+  "Chroma 3 Case": {
+    "name": "Chroma 3 Case",
+    "nameId": 652
+  },
+  "Community Graffiti Box 1": {
+    "name": "Community Graffiti Box 1",
+    "nameId": 18775
+  },
+  "Collectible Pins Capsule Series 1": {
+    "name": "Collectible Pins Capsule Series 1",
+    "nameId": 19659
+  },
+  "Autograph Capsule | Challengers (Foil) | Cologne 2016": {
+    "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
+    "nameId": 19036
+  },
+  "Autograph Capsule | Legends (Foil) | Cologne 2016": {
+    "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+    "nameId": 20107
+  },
+  "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016": {
+    "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016",
+    "nameId": 18631
+  },
+  "Autograph Capsule | OpTic Gaming | Cologne 2016": {
+    "name": "Autograph Capsule | OpTic Gaming | Cologne 2016",
+    "nameId": 18320
+  },
+  "Autograph Capsule | Counter Logic Gaming | Cologne 2016": {
+    "name": "Autograph Capsule | Counter Logic Gaming | Cologne 2016",
+    "nameId": 19704
+  },
+  "Autograph Capsule | Gambit Gaming | Cologne 2016": {
+    "name": "Autograph Capsule | Gambit Gaming | Cologne 2016",
+    "nameId": 18639
+  },
+  "Autograph Capsule | mousesports | Cologne 2016": {
+    "name": "Autograph Capsule | mousesports | Cologne 2016",
+    "nameId": 21726
+  },
+  "Autograph Capsule | Natus Vincere | Cologne 2016": {
+    "name": "Autograph Capsule | Natus Vincere | Cologne 2016",
+    "nameId": 20027
+  },
+  "Autograph Capsule | Virtus.Pro | Cologne 2016": {
+    "name": "Autograph Capsule | Virtus.Pro | Cologne 2016",
+    "nameId": 18634
+  },
+  "Autograph Capsule | SK Gaming | Cologne 2016": {
+    "name": "Autograph Capsule | SK Gaming | Cologne 2016",
+    "nameId": 19197
+  },
+  "Autograph Capsule | FaZe Clan | Cologne 2016": {
+    "name": "Autograph Capsule | FaZe Clan | Cologne 2016",
+    "nameId": 18481
+  },
+  "Autograph Capsule | Astralis | Cologne 2016": {
+    "name": "Autograph Capsule | Astralis | Cologne 2016",
+    "nameId": 19904
+  },
+  "Autograph Capsule | Team EnVyUs | Cologne 2016": {
+    "name": "Autograph Capsule | Team EnVyUs | Cologne 2016",
+    "nameId": 19707
+  },
+  "Autograph Capsule | Fnatic | Cologne 2016": {
+    "name": "Autograph Capsule | Fnatic | Cologne 2016",
+    "nameId": 19196
+  },
+  "Autograph Capsule | Team Dignitas | Cologne 2016": {
+    "name": "Autograph Capsule | Team Dignitas | Cologne 2016",
+    "nameId": 20535
+  },
+  "Cologne 2016 Dust II Souvenir Package": {
+    "name": "Cologne 2016 Dust II Souvenir Package",
+    "nameId": 19340
+  },
+  "Cologne 2016 Cobblestone Souvenir Package": {
+    "name": "Cologne 2016 Cobblestone Souvenir Package",
+    "nameId": 9500
+  },
+  "Cologne 2016 Train Souvenir Package": {
+    "name": "Cologne 2016 Train Souvenir Package",
+    "nameId": 20177
+  },
+  "Gamma 2 Case": {
+    "name": "Gamma 2 Case",
+    "nameId": 24
+  },
+  "Sugarface Capsule": {
+    "name": "Sugarface Capsule",
+    "nameId": 18962
+  },
+  "Bestiary Capsule": {
+    "name": "Bestiary Capsule",
+    "nameId": 17407
+  },
+  "Collectible Pins Capsule Series 2": {
+    "name": "Collectible Pins Capsule Series 2",
+    "nameId": 10170
+  },
+  "StatTrak™ Radicals Box": {
+    "name": "StatTrak™ Radicals Box",
+    "nameId": 3602
+  },
+  "Autograph Capsule | Challengers (Foil) | Atlanta 2017": {
+    "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
+    "nameId": 18057
+  },
+  "Autograph Capsule | Astralis | Atlanta 2017": {
+    "name": "Autograph Capsule | Astralis | Atlanta 2017",
+    "nameId": 14649
+  },
+  "Autograph Capsule | Team EnVyUs | Atlanta 2017": {
+    "name": "Autograph Capsule | Team EnVyUs | Atlanta 2017",
+    "nameId": 14641
+  },
+  "Autograph Capsule | FaZe Clan | Atlanta 2017": {
+    "name": "Autograph Capsule | FaZe Clan | Atlanta 2017",
+    "nameId": 16012
+  },
+  "Autograph Capsule | Flipsid3 Tactics | Atlanta 2017": {
+    "name": "Autograph Capsule | Flipsid3 Tactics | Atlanta 2017",
+    "nameId": 16010
+  },
+  "Autograph Capsule | Fnatic | Atlanta 2017": {
+    "name": "Autograph Capsule | Fnatic | Atlanta 2017",
+    "nameId": 14666
+  },
+  "Autograph Capsule | G2 Esports | Atlanta 2017": {
+    "name": "Autograph Capsule | G2 Esports | Atlanta 2017",
+    "nameId": 16015
+  },
+  "Autograph Capsule | Gambit Gaming | Atlanta 2017": {
+    "name": "Autograph Capsule | Gambit Gaming | Atlanta 2017",
+    "nameId": 14653
+  },
+  "Autograph Capsule | GODSENT | Atlanta 2017": {
+    "name": "Autograph Capsule | GODSENT | Atlanta 2017",
+    "nameId": 14648
+  },
+  "Autograph Capsule | HellRaisers | Atlanta 2017": {
+    "name": "Autograph Capsule | HellRaisers | Atlanta 2017",
+    "nameId": 14650
+  },
+  "Autograph Capsule | mousesports | Atlanta 2017": {
+    "name": "Autograph Capsule | mousesports | Atlanta 2017",
+    "nameId": 14656
+  },
+  "Autograph Capsule | Natus Vincere | Atlanta 2017": {
+    "name": "Autograph Capsule | Natus Vincere | Atlanta 2017",
+    "nameId": 14665
+  },
+  "Autograph Capsule | North | Atlanta 2017": {
+    "name": "Autograph Capsule | North | Atlanta 2017",
+    "nameId": 16014
+  },
+  "Autograph Capsule | OpTic Gaming | Atlanta 2017": {
+    "name": "Autograph Capsule | OpTic Gaming | Atlanta 2017",
+    "nameId": 14664
+  },
+  "Autograph Capsule | SK Gaming | Atlanta 2017": {
+    "name": "Autograph Capsule | SK Gaming | Atlanta 2017",
+    "nameId": 8533
+  },
+  "Autograph Capsule | Virtus.Pro | Atlanta 2017": {
+    "name": "Autograph Capsule | Virtus.Pro | Atlanta 2017",
+    "nameId": 14657
+  },
+  "Atlanta 2017 Mirage Souvenir Package": {
+    "name": "Atlanta 2017 Mirage Souvenir Package",
+    "nameId": 12767
+  },
+  "Atlanta 2017 Cobblestone Souvenir Package": {
+    "name": "Atlanta 2017 Cobblestone Souvenir Package",
+    "nameId": 14342
+  },
+  "Atlanta 2017 Overpass Souvenir Package": {
+    "name": "Atlanta 2017 Overpass Souvenir Package",
+    "nameId": 12762
+  },
+  "Atlanta 2017 Cache Souvenir Package": {
+    "name": "Atlanta 2017 Cache Souvenir Package",
+    "nameId": 10159
+  },
+  "Atlanta 2017 Train Souvenir Package": {
+    "name": "Atlanta 2017 Train Souvenir Package",
+    "nameId": 12765
+  },
+  "Atlanta 2017 Nuke Souvenir Package": {
+    "name": "Atlanta 2017 Nuke Souvenir Package",
+    "nameId": 10508
+  },
+  "Operation Hydra Case": {
+    "name": "Operation Hydra Case",
+    "nameId": 4733
+  },
+  "Krakow 2017 Challengers Autograph Capsule": {
+    "name": "Krakow 2017 Challengers Autograph Capsule",
+    "nameId": 4751
+  },
+  "Krakow 2017 Legends Autograph Capsule": {
+    "name": "Krakow 2017 Legends Autograph Capsule",
+    "nameId": 4754
+  },
+  "Krakow 2017 Inferno Souvenir Package": {
+    "name": "Krakow 2017 Inferno Souvenir Package",
+    "nameId": 13639
+  },
+  "Krakow 2017 Cobblestone Souvenir Package": {
+    "name": "Krakow 2017 Cobblestone Souvenir Package",
+    "nameId": 10541
+  },
+  "Krakow 2017 Overpass Souvenir Package": {
+    "name": "Krakow 2017 Overpass Souvenir Package",
+    "nameId": 4760
+  },
+  "Krakow 2017 Cache Souvenir Package": {
+    "name": "Krakow 2017 Cache Souvenir Package",
+    "nameId": 19200
+  },
+  "Spectrum 2 Case": {
+    "name": "Spectrum 2 Case",
+    "nameId": 52
+  },
+  "Perfect World Sticker Capsule 2": {
+    "name": "Perfect World Sticker Capsule 2",
+    "nameId": 13705
+  },
+  "Boston 2018 Returning Challengers Autograph Capsule": {
+    "name": "Boston 2018 Returning Challengers Autograph Capsule",
+    "nameId": 4734
+  },
+  "Boston 2018 Inferno Souvenir Package": {
+    "name": "Boston 2018 Inferno Souvenir Package",
+    "nameId": 9682
+  },
+  "Boston 2018 Mirage Souvenir Package": {
+    "name": "Boston 2018 Mirage Souvenir Package",
+    "nameId": 4738
+  },
+  "Boston 2018 Cobblestone Souvenir Package": {
+    "name": "Boston 2018 Cobblestone Souvenir Package",
+    "nameId": 4839
+  },
+  "Boston 2018 Overpass Souvenir Package": {
+    "name": "Boston 2018 Overpass Souvenir Package",
+    "nameId": 4741
+  },
+  "Boston 2018 Cache Souvenir Package": {
+    "name": "Boston 2018 Cache Souvenir Package",
+    "nameId": 12801
+  },
+  "Boston 2018 Train Souvenir Package": {
+    "name": "Boston 2018 Train Souvenir Package",
+    "nameId": 7234
+  },
+  "Boston 2018 Nuke Souvenir Package": {
+    "name": "Boston 2018 Nuke Souvenir Package",
+    "nameId": 14962
+  },
+  "Community Capsule 2018": {
+    "name": "Community Capsule 2018",
+    "nameId": 20402
+  },
+  "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule": {
+    "name": "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule",
+    "nameId": 4746
+  },
+  "Chicken Capsule": {
+    "name": "Chicken Capsule",
+    "nameId": 550408
+  },
+  "Boston 2018 Attending Legends Autograph Capsule": {
+    "name": "Boston 2018 Attending Legends Autograph Capsule",
+    "nameId": 4735
+  },
+  "Collectible Pins Capsule Series 3": {
+    "name": "Collectible Pins Capsule Series 3",
+    "nameId": 28000
+  },
+  "London 2018 Legends Autograph Capsule": {
+    "name": "London 2018 Legends Autograph Capsule",
+    "nameId": 60774
+  },
+  "London 2018 Returning Challengers Autograph Capsule": {
+    "name": "London 2018 Returning Challengers Autograph Capsule",
+    "nameId": 63099
+  },
+  "London 2018 Minor Challengers Autograph Capsule": {
+    "name": "London 2018 Minor Challengers Autograph Capsule",
+    "nameId": 63100
+  },
+  "London 2018 Inferno Souvenir Package": {
+    "name": "London 2018 Inferno Souvenir Package",
+    "nameId": 168764
+  },
+  "London 2018 Mirage Souvenir Package": {
+    "name": "London 2018 Mirage Souvenir Package",
+    "nameId": 168786
+  },
+  "London 2018 Dust II Souvenir Package": {
+    "name": "London 2018 Dust II Souvenir Package",
+    "nameId": 168951
+  },
+  "London 2018 Overpass Souvenir Package": {
+    "name": "London 2018 Overpass Souvenir Package",
+    "nameId": 168808
+  },
+  "London 2018 Cache Souvenir Package": {
+    "name": "London 2018 Cache Souvenir Package",
+    "nameId": 168914
+  },
+  "London 2018 Train Souvenir Package": {
+    "name": "London 2018 Train Souvenir Package",
+    "nameId": 168849
+  },
+  "Skill Groups Capsule": {
+    "name": "Skill Groups Capsule",
+    "nameId": 170975
+  },
+  "Danger Zone Case": {
+    "name": "Danger Zone Case",
+    "nameId": 171428
+  },
+  "Katowice 2019 Legends Autograph Capsule": {
+    "name": "Katowice 2019 Legends Autograph Capsule",
+    "nameId": 194864
+  },
+  "Katowice 2019 Returning Challengers Autograph Capsule": {
+    "name": "Katowice 2019 Returning Challengers Autograph Capsule",
+    "nameId": 195092
+  },
+  "Katowice 2019 Minor Challengers Autograph Capsule": {
+    "name": "Katowice 2019 Minor Challengers Autograph Capsule",
+    "nameId": 195625
+  },
+  "Katowice 2019 Inferno Souvenir Package": {
+    "name": "Katowice 2019 Inferno Souvenir Package",
+    "nameId": 199742
+  },
+  "Katowice 2019 Mirage Souvenir Package": {
+    "name": "Katowice 2019 Mirage Souvenir Package",
+    "nameId": 199756
+  },
+  "Katowice 2019 Overpass Souvenir Package": {
+    "name": "Katowice 2019 Overpass Souvenir Package",
+    "nameId": 199744
+  },
+  "Katowice 2019 Cache Souvenir Package": {
+    "name": "Katowice 2019 Cache Souvenir Package",
+    "nameId": 199749
+  },
+  "Katowice 2019 Train Souvenir Package": {
+    "name": "Katowice 2019 Train Souvenir Package",
+    "nameId": 199743
+  },
+  "Katowice 2019 Nuke Souvenir Package": {
+    "name": "Katowice 2019 Nuke Souvenir Package",
+    "nameId": 199736
+  },
+  "Halo Capsule": {
+    "name": "Halo Capsule",
+    "nameId": 1075866
+  },
+  "Feral Predators Capsule": {
+    "name": "Feral Predators Capsule",
+    "nameId": 208693
+  },
+  "CS:GO Patch Pack": {
+    "name": "CS:GO Patch Pack",
+    "nameId": 1078751
+  },
+  "Half-Life: Alyx Patch Pack": {
+    "name": "Half-Life: Alyx Patch Pack",
+    "nameId": 1079223
+  },
+  "Warhammer 40,000 Sticker Capsule": {
+    "name": "Warhammer 40,000 Sticker Capsule",
+    "nameId": 1080532
+  },
+  "Shattered Web Case": {
+    "name": "Shattered Web Case",
+    "nameId": 1073863
+  },
+  "Berlin 2019 Legends Autograph Capsule": {
+    "name": "Berlin 2019 Legends Autograph Capsule",
+    "nameId": 874629
+  },
+  "Berlin 2019 Returning Challengers Autograph Capsule": {
+    "name": "Berlin 2019 Returning Challengers Autograph Capsule",
+    "nameId": 874692
+  },
+  "Berlin 2019 Minor Challengers Autograph Capsule": {
+    "name": "Berlin 2019 Minor Challengers Autograph Capsule",
+    "nameId": 874628
+  },
+  "Berlin 2019 Inferno Souvenir Package": {
+    "name": "Berlin 2019 Inferno Souvenir Package",
+    "nameId": 1071515
+  },
+  "Berlin 2019 Mirage Souvenir Package": {
+    "name": "Berlin 2019 Mirage Souvenir Package",
+    "nameId": 1071521
+  },
+  "Berlin 2019 Dust II Souvenir Package": {
+    "name": "Berlin 2019 Dust II Souvenir Package",
+    "nameId": 1071506
+  },
+  "Berlin 2019 Overpass Souvenir Package": {
+    "name": "Berlin 2019 Overpass Souvenir Package",
+    "nameId": 1071507
+  },
+  "Berlin 2019 Nuke Souvenir Package": {
+    "name": "Berlin 2019 Nuke Souvenir Package",
+    "nameId": 1071519
+  },
+  "Berlin 2019 Vertigo Souvenir Package": {
+    "name": "Berlin 2019 Vertigo Souvenir Package",
+    "nameId": 1071546
+  },
+  "X-Ray P250 Package": {
+    "name": "X-Ray P250 Package",
+    "nameId": 1072909
+  },
+  "CS20 Case": {
+    "name": "CS20 Case",
+    "nameId": 1073089
+  },
+  "CS20 Sticker Capsule": {
+    "name": "CS20 Sticker Capsule",
+    "nameId": 1073096
+  },
+  "Half-Life: Alyx Collectible Pins Capsule": {
+    "name": "Half-Life: Alyx Collectible Pins Capsule",
+    "nameId": 1079232
+  },
+  "Half-Life: Alyx Sticker Capsule": {
+    "name": "Half-Life: Alyx Sticker Capsule",
+    "nameId": 1079219
+  },
+  "Prisma 2 Case": {
+    "name": "Prisma 2 Case",
+    "nameId": 1079387
+  },
+  "Masterminds Music Kit Box": {
+    "name": "Masterminds Music Kit Box",
+    "nameId": 1079942
+  },
+  "StatTrak™ Masterminds Music Kit Box": {
+    "name": "StatTrak™ Masterminds Music Kit Box",
+    "nameId": 1079950
+  },
+  "Fracture Case": {
+    "name": "Fracture Case",
+    "nameId": 1081376
+  },
+  "Operation Broken Fang Case": {
+    "name": "Operation Broken Fang Case",
+    "nameId": 1083392
+  },
+  "2020 RMR Legends": {
+    "name": "2020 RMR Legends",
+    "nameId": 1084618
+  },
+  "2020 RMR Challengers": {
+    "name": "2020 RMR Challengers",
+    "nameId": 1084653
+  },
+  "2020 RMR Contenders": {
+    "name": "2020 RMR Contenders",
+    "nameId": 1084652
+  },
+  "Poorly Drawn Capsule": {
+    "name": "Poorly Drawn Capsule",
+    "nameId": 1085045
+  },
+  "Snakebite Case": {
+    "name": "Snakebite Case",
+    "nameId": 1085427
+  },
+  "2021 Community Sticker Capsule": {
+    "name": "2021 Community Sticker Capsule",
+    "nameId": 1086775
+  },
+  "The Boardroom Sticker Capsule": {
+    "name": "The Boardroom Sticker Capsule",
+    "nameId": 1090377
+  },
+  "Operation Riptide Case": {
+    "name": "Operation Riptide Case",
+    "nameId": 1087746
+  },
+  "Stockholm 2021 Legends Sticker Capsule": {
+    "name": "Stockholm 2021 Legends Sticker Capsule",
+    "nameId": 1088890
+  },
+  "Stockholm 2021 Challengers Sticker Capsule": {
+    "name": "Stockholm 2021 Challengers Sticker Capsule",
+    "nameId": 1088886
+  },
+  "Stockholm 2021 Contenders Sticker Capsule": {
+    "name": "Stockholm 2021 Contenders Sticker Capsule",
+    "nameId": 1088885
+  },
+  "Stockholm 2021 Legends Patch Pack": {
+    "name": "Stockholm 2021 Legends Patch Pack",
+    "nameId": 1088889
+  },
+  "Stockholm 2021 Challengers Patch Pack": {
+    "name": "Stockholm 2021 Challengers Patch Pack",
+    "nameId": 1088888
+  },
+  "Stockholm 2021 Contenders Patch Pack": {
+    "name": "Stockholm 2021 Contenders Patch Pack",
+    "nameId": 1088887
+  },
+  "Stockholm 2021 Inferno Souvenir Package": {
+    "name": "Stockholm 2021 Inferno Souvenir Package",
+    "nameId": 1089011
+  },
+  "Stockholm 2021 Mirage Souvenir Package": {
+    "name": "Stockholm 2021 Mirage Souvenir Package",
+    "nameId": 1089023
+  },
+  "Stockholm 2021 Dust II Souvenir Package": {
+    "name": "Stockholm 2021 Dust II Souvenir Package",
+    "nameId": 1089024
+  },
+  "Stockholm 2021 Overpass Souvenir Package": {
+    "name": "Stockholm 2021 Overpass Souvenir Package",
+    "nameId": 1089013
+  },
+  "Stockholm 2021 Ancient Souvenir Package": {
+    "name": "Stockholm 2021 Ancient Souvenir Package",
+    "nameId": 1089025
+  },
+  "Stockholm 2021 Nuke Souvenir Package": {
+    "name": "Stockholm 2021 Nuke Souvenir Package",
+    "nameId": 1089012
+  },
+  "Stockholm 2021 Vertigo Souvenir Package": {
+    "name": "Stockholm 2021 Vertigo Souvenir Package",
+    "nameId": 1089027
+  },
+  "Stockholm 2021 Champions Autograph Capsule": {
+    "name": "Stockholm 2021 Champions Autograph Capsule",
+    "nameId": 1089237
+  },
+  "Stockholm 2021 Finalists Autograph Capsule": {
+    "name": "Stockholm 2021 Finalists Autograph Capsule",
+    "nameId": 1089236
+  },
+  "Antwerp 2022 Legends Sticker Capsule": {
+    "name": "Antwerp 2022 Legends Sticker Capsule",
+    "nameId": 1091728
+  },
+  "Antwerp 2022 Challengers Sticker Capsule": {
+    "name": "Antwerp 2022 Challengers Sticker Capsule",
+    "nameId": 1091729
+  },
+  "Antwerp 2022 Contenders Sticker Capsule": {
+    "name": "Antwerp 2022 Contenders Sticker Capsule",
+    "nameId": 1091730
+  },
+  "Antwerp 2022 Inferno Souvenir Package": {
+    "name": "Antwerp 2022 Inferno Souvenir Package",
+    "nameId": 1091763
+  },
+  "Antwerp 2022 Mirage Souvenir Package": {
+    "name": "Antwerp 2022 Mirage Souvenir Package",
+    "nameId": 1091761
+  },
+  "Antwerp 2022 Dust II Souvenir Package": {
+    "name": "Antwerp 2022 Dust II Souvenir Package",
+    "nameId": 1091764
+  },
+  "Antwerp 2022 Overpass Souvenir Package": {
+    "name": "Antwerp 2022 Overpass Souvenir Package",
+    "nameId": 1091769
+  },
+  "Antwerp 2022 Ancient Souvenir Package": {
+    "name": "Antwerp 2022 Ancient Souvenir Package",
+    "nameId": 1091774
+  },
+  "Antwerp 2022 Nuke Souvenir Package": {
+    "name": "Antwerp 2022 Nuke Souvenir Package",
+    "nameId": 1091768
+  },
+  "Antwerp 2022 Vertigo Souvenir Package": {
+    "name": "Antwerp 2022 Vertigo Souvenir Package",
+    "nameId": 1091765
+  },
+  "Antwerp 2022 Legends Autograph Capsule": {
+    "name": "Antwerp 2022 Legends Autograph Capsule",
+    "nameId": 1091731
+  },
+  "Antwerp 2022 Challengers Autograph Capsule": {
+    "name": "Antwerp 2022 Challengers Autograph Capsule",
+    "nameId": 1091726
+  },
+  "Antwerp 2022 Contenders Autograph Capsule": {
+    "name": "Antwerp 2022 Contenders Autograph Capsule",
+    "nameId": 1091727
+  },
+  "Antwerp 2022 Champions Autograph Capsule": {
+    "name": "Antwerp 2022 Champions Autograph Capsule",
+    "nameId": 1091862
+  },
+  "Recoil Case": {
+    "name": "Recoil Case",
+    "nameId": 1092274
+  },
+  "10 Year Birthday Sticker Capsule": {
+    "name": "10 Year Birthday Sticker Capsule",
+    "nameId": 1092797
+  },
+  "Initiators Music Kit Box": {
+    "name": "Initiators Music Kit Box",
+    "nameId": 1092892
+  },
+  "Rio 2022 Legends Sticker Capsule": {
+    "name": "Rio 2022 Legends Sticker Capsule",
+    "nameId": 1101903
+  },
+  "Rio 2022 Challengers Sticker Capsule": {
+    "name": "Rio 2022 Challengers Sticker Capsule",
+    "nameId": 1101986
+  },
+  "Rio 2022 Contenders Sticker Capsule": {
+    "name": "Rio 2022 Contenders Sticker Capsule",
+    "nameId": 1101934
+  },
+  "Rio 2022 Mirage Souvenir Package": {
+    "name": "Rio 2022 Mirage Souvenir Package",
+    "nameId": 1109814
+  },
+  "Rio 2022 Dust II Souvenir Package": {
+    "name": "Rio 2022 Dust II Souvenir Package",
+    "nameId": 1109817
+  },
+  "Rio 2022 Overpass Souvenir Package": {
+    "name": "Rio 2022 Overpass Souvenir Package",
+    "nameId": 1109831
+  },
+  "Rio 2022 Ancient Souvenir Package": {
+    "name": "Rio 2022 Ancient Souvenir Package",
+    "nameId": 1110867
+  },
+  "Rio 2022 Legends Autograph Capsule": {
+    "name": "Rio 2022 Legends Autograph Capsule",
+    "nameId": 1101985
+  },
+  "Rio 2022 Challengers Autograph Capsule": {
+    "name": "Rio 2022 Challengers Autograph Capsule",
+    "nameId": 1101894
+  },
+  "Rio 2022 Contenders Autograph Capsule": {
+    "name": "Rio 2022 Contenders Autograph Capsule",
+    "nameId": 1101984
+  },
+  "Rio 2022 Champions Autograph Capsule": {
+    "name": "Rio 2022 Champions Autograph Capsule",
+    "nameId": 1118925
+  },
+  "Espionage Sticker Capsule": {
+    "name": "Espionage Sticker Capsule",
+    "nameId": 1174368
+  },
+  "Revolution Case": {
+    "name": "Revolution Case",
+    "nameId": 1158837
+  },
+  "Anubis Collection Package": {
+    "name": "Anubis Collection Package",
+    "nameId": 1318634
+  },
+  "Paris 2023 Legends Sticker Capsule": {
+    "name": "Paris 2023 Legends Sticker Capsule",
+    "nameId": 1341514
+  },
+  "Paris 2023 Challengers Sticker Capsule": {
+    "name": "Paris 2023 Challengers Sticker Capsule",
+    "nameId": 1341516
+  },
+  "Paris 2023 Contenders Sticker Capsule": {
+    "name": "Paris 2023 Contenders Sticker Capsule",
+    "nameId": 1341515
+  },
+  "Paris 2023 Inferno Souvenir Package": {
+    "name": "Paris 2023 Inferno Souvenir Package",
+    "nameId": 1353014
+  },
+  "Paris 2023 Mirage Souvenir Package": {
+    "name": "Paris 2023 Mirage Souvenir Package",
+    "nameId": 1353016
+  },
+  "Paris 2023 Anubis Souvenir Package": {
+    "name": "Paris 2023 Anubis Souvenir Package",
+    "nameId": 1353013
+  },
+  "Paris 2023 Overpass Souvenir Package": {
+    "name": "Paris 2023 Overpass Souvenir Package",
+    "nameId": 1353023
+  },
+  "Paris 2023 Ancient Souvenir Package": {
+    "name": "Paris 2023 Ancient Souvenir Package",
+    "nameId": 1353015
+  },
+  "Paris 2023 Nuke Souvenir Package": {
+    "name": "Paris 2023 Nuke Souvenir Package",
+    "nameId": 1353027
+  },
+  "Paris 2023 Vertigo Souvenir Package": {
+    "name": "Paris 2023 Vertigo Souvenir Package",
+    "nameId": 1353017
+  },
+  "Paris 2023 Legends Autograph Capsule": {
+    "name": "Paris 2023 Legends Autograph Capsule",
+    "nameId": 1341554
+  },
+  "Paris 2023 Challengers Autograph Capsule": {
+    "name": "Paris 2023 Challengers Autograph Capsule",
+    "nameId": 1341546
+  },
+  "Paris 2023 Contenders Autograph Capsule": {
+    "name": "Paris 2023 Contenders Autograph Capsule",
+    "nameId": 1341530
+  },
+  "Paris 2023 Champions Autograph Capsule": {
+    "name": "Paris 2023 Champions Autograph Capsule",
+    "nameId": 1406539
+  },
+  "Kilowatt Case": {
+    "name": "Kilowatt Case",
+    "nameId": 2521156
+  },
+  "Ambush Sticker Capsule": {
+    "name": "Ambush Sticker Capsule",
+    "nameId": 2549195
+  },
+  "Copenhagen 2024 Legends Sticker Capsule": {
+    "name": "Copenhagen 2024 Legends Sticker Capsule",
+    "nameId": 2597192
+  },
+  "Copenhagen 2024 Challengers Sticker Capsule": {
+    "name": "Copenhagen 2024 Challengers Sticker Capsule",
+    "nameId": 2597190
+  },
+  "Copenhagen 2024 Contenders Sticker Capsule": {
+    "name": "Copenhagen 2024 Contenders Sticker Capsule",
+    "nameId": 2597186
+  },
+  "Copenhagen 2024 Inferno Souvenir Package": {
+    "name": "Copenhagen 2024 Inferno Souvenir Package",
+    "nameId": 2597174
+  },
+  "Copenhagen 2024 Mirage Souvenir Package": {
+    "name": "Copenhagen 2024 Mirage Souvenir Package",
+    "nameId": 2597163
+  },
+  "Copenhagen 2024 Anubis Souvenir Package": {
+    "name": "Copenhagen 2024 Anubis Souvenir Package",
+    "nameId": 2597167
+  },
+  "Copenhagen 2024 Overpass Souvenir Package": {
+    "name": "Copenhagen 2024 Overpass Souvenir Package",
+    "nameId": 2597162
+  },
+  "Copenhagen 2024 Ancient Souvenir Package": {
+    "name": "Copenhagen 2024 Ancient Souvenir Package",
+    "nameId": 2597166
+  },
+  "Copenhagen 2024 Nuke Souvenir Package": {
+    "name": "Copenhagen 2024 Nuke Souvenir Package",
+    "nameId": 2597165
+  },
+  "Copenhagen 2024 Vertigo Souvenir Package": {
+    "name": "Copenhagen 2024 Vertigo Souvenir Package",
+    "nameId": 2597164
+  },
+  "Copenhagen 2024 Legends Autograph Capsule": {
+    "name": "Copenhagen 2024 Legends Autograph Capsule",
+    "nameId": 2597187
+  },
+  "Copenhagen 2024 Challengers Autograph Capsule": {
+    "name": "Copenhagen 2024 Challengers Autograph Capsule",
+    "nameId": 2597191
+  },
+  "Copenhagen 2024 Contenders Autograph Capsule": {
+    "name": "Copenhagen 2024 Contenders Autograph Capsule",
+    "nameId": 2597189
+  },
+  "Copenhagen 2024 Champions Autograph Capsule": {
+    "name": "Copenhagen 2024 Champions Autograph Capsule",
+    "nameId": 2597259
+  },
+  "Masterminds 2 Music Kit Box": {
+    "name": "Masterminds 2 Music Kit Box",
+    "nameId": 2597689
+  },
+  "Gallery Case": {
+    "name": "Gallery Case",
+    "nameId": 2597702
+  },
+  "Sealed Graffiti | Ivette": {
+    "name": "Sealed Graffiti | Ivette",
+    "nameId": 3395
+  },
+  "Sealed Graffiti | Kawaii Killer Terrorist": {
+    "name": "Sealed Graffiti | Kawaii Killer Terrorist",
+    "nameId": 18187
+  },
+  "Sealed Graffiti | Martha": {
+    "name": "Sealed Graffiti | Martha",
+    "nameId": 232
+  },
+  "Sealed Graffiti | Old School": {
+    "name": "Sealed Graffiti | Old School",
+    "nameId": 1684
+  },
+  "Sealed Graffiti | Pocket BBQ": {
+    "name": "Sealed Graffiti | Pocket BBQ",
+    "nameId": 12509
+  },
+  "Sealed Graffiti | Shave Master": {
+    "name": "Sealed Graffiti | Shave Master",
+    "nameId": 124
+  },
+  "Sealed Graffiti | Shooting Star Return": {
+    "name": "Sealed Graffiti | Shooting Star Return",
+    "nameId": 3107
+  },
+  "Sealed Graffiti | Rising Skull": {
+    "name": "Sealed Graffiti | Rising Skull",
+    "nameId": 7165
+  },
+  "Sealed Graffiti | Winged Defuser": {
+    "name": "Sealed Graffiti | Winged Defuser",
+    "nameId": 4904
+  },
+  "Sealed Graffiti | Ace": {
+    "name": "Sealed Graffiti | Ace",
+    "nameId": 15786
+  },
+  "Sealed Graffiti | Banana": {
+    "name": "Sealed Graffiti | Banana",
+    "nameId": 1427
+  },
+  "Sealed Graffiti | Clutch King": {
+    "name": "Sealed Graffiti | Clutch King",
+    "nameId": 12921
+  },
+  "Sealed Graffiti | Crown": {
+    "name": "Sealed Graffiti | Crown",
+    "nameId": 10178
+  },
+  "Sealed Graffiti | Guardian": {
+    "name": "Sealed Graffiti | Guardian",
+    "nameId": 3086
+  },
+  "Sealed Graffiti | Fire Serpent": {
+    "name": "Sealed Graffiti | Fire Serpent",
+    "nameId": 10163
+  },
+  "Sealed Graffiti | Howling Dawn": {
+    "name": "Sealed Graffiti | Howling Dawn",
+    "nameId": 10166
+  },
+  "Sealed Graffiti | Kisses": {
+    "name": "Sealed Graffiti | Kisses",
+    "nameId": 3658
+  },
+  "Sealed Graffiti | Easy Peasy": {
+    "name": "Sealed Graffiti | Easy Peasy",
+    "nameId": 4996
+  },
+  "Sealed Graffiti | Nice Shot": {
+    "name": "Sealed Graffiti | Nice Shot",
+    "nameId": 4993
+  },
+  "Sealed Graffiti | Phoenix": {
+    "name": "Sealed Graffiti | Phoenix",
+    "nameId": 2808
+  },
+  "Sealed Graffiti | R.I.P.I.P.": {
+    "name": "Sealed Graffiti | R.I.P.I.P.",
+    "nameId": 13645
+  },
+  "Sealed Graffiti | Skull n' Crosshairs": {
+    "name": "Sealed Graffiti | Skull n' Crosshairs",
+    "nameId": 7005
+  },
+  "Sealed Graffiti | Welcome to the Clutch": {
+    "name": "Sealed Graffiti | Welcome to the Clutch",
+    "nameId": 13961
+  },
+  "Sealed Graffiti | Wings": {
+    "name": "Sealed Graffiti | Wings",
+    "nameId": 1529
+  },
+  "Sealed Graffiti | X-Axes (Brick Red)": {
+    "name": "Sealed Graffiti | X-Axes (Brick Red)",
+    "nameId": 8620
+  },
+  "Sealed Graffiti | X-Axes (Blood Red)": {
+    "name": "Sealed Graffiti | X-Axes (Blood Red)",
+    "nameId": 12292
+  },
+  "Sealed Graffiti | X-Axes (Tiger Orange)": {
+    "name": "Sealed Graffiti | X-Axes (Tiger Orange)",
+    "nameId": 12541
+  },
+  "Sealed Graffiti | X-Axes (Dust Brown)": {
+    "name": "Sealed Graffiti | X-Axes (Dust Brown)",
+    "nameId": 10140
+  },
+  "Sealed Graffiti | X-Axes (Desert Amber)": {
+    "name": "Sealed Graffiti | X-Axes (Desert Amber)",
+    "nameId": 12024
+  },
+  "Sealed Graffiti | X-Axes (Tracer Yellow)": {
+    "name": "Sealed Graffiti | X-Axes (Tracer Yellow)",
+    "nameId": 9039
+  },
+  "Sealed Graffiti | X-Axes (Battle Green)": {
+    "name": "Sealed Graffiti | X-Axes (Battle Green)",
+    "nameId": 6266
+  },
+  "Sealed Graffiti | X-Axes (Jungle Green)": {
+    "name": "Sealed Graffiti | X-Axes (Jungle Green)",
+    "nameId": 4745
+  },
+  "Sealed Graffiti | X-Axes (Frog Green)": {
+    "name": "Sealed Graffiti | X-Axes (Frog Green)",
+    "nameId": 9482
+  },
+  "Sealed Graffiti | X-Axes (Cash Green)": {
+    "name": "Sealed Graffiti | X-Axes (Cash Green)",
+    "nameId": 12771
+  },
+  "Sealed Graffiti | X-Axes (Wire Blue)": {
+    "name": "Sealed Graffiti | X-Axes (Wire Blue)",
+    "nameId": 2538
+  },
+  "Sealed Graffiti | X-Axes (Monarch Blue)": {
+    "name": "Sealed Graffiti | X-Axes (Monarch Blue)",
+    "nameId": 9648
+  },
+  "Sealed Graffiti | X-Axes (SWAT Blue)": {
+    "name": "Sealed Graffiti | X-Axes (SWAT Blue)",
+    "nameId": 12295
+  },
+  "Sealed Graffiti | X-Axes (Violent Violet)": {
+    "name": "Sealed Graffiti | X-Axes (Violent Violet)",
+    "nameId": 869
+  },
+  "Sealed Graffiti | X-Axes (Monster Purple)": {
+    "name": "Sealed Graffiti | X-Axes (Monster Purple)",
+    "nameId": 9488
+  },
+  "Sealed Graffiti | X-Axes (Bazooka Pink)": {
+    "name": "Sealed Graffiti | X-Axes (Bazooka Pink)",
+    "nameId": 625
+  },
+  "Sealed Graffiti | X-Axes (Princess Pink)": {
+    "name": "Sealed Graffiti | X-Axes (Princess Pink)",
+    "nameId": 8442
+  },
+  "Sealed Graffiti | X-Axes (War Pig Pink)": {
+    "name": "Sealed Graffiti | X-Axes (War Pig Pink)",
+    "nameId": 8431
+  },
+  "Sealed Graffiti | X-Axes (Shark White)": {
+    "name": "Sealed Graffiti | X-Axes (Shark White)",
+    "nameId": 12252
+  },
+  "Sealed Graffiti | Death Sentence (Brick Red)": {
+    "name": "Sealed Graffiti | Death Sentence (Brick Red)",
+    "nameId": 641
+  },
+  "Sealed Graffiti | Death Sentence (Blood Red)": {
+    "name": "Sealed Graffiti | Death Sentence (Blood Red)",
+    "nameId": 14335
+  },
+  "Sealed Graffiti | Death Sentence (Tiger Orange)": {
+    "name": "Sealed Graffiti | Death Sentence (Tiger Orange)",
+    "nameId": 7749
+  },
+  "Sealed Graffiti | Death Sentence (Dust Brown)": {
+    "name": "Sealed Graffiti | Death Sentence (Dust Brown)",
+    "nameId": 12845
+  },
+  "Sealed Graffiti | Death Sentence (Desert Amber)": {
+    "name": "Sealed Graffiti | Death Sentence (Desert Amber)",
+    "nameId": 3768
+  },
+  "Sealed Graffiti | Death Sentence (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Death Sentence (Tracer Yellow)",
+    "nameId": 7351
+  },
+  "Sealed Graffiti | Death Sentence (Battle Green)": {
+    "name": "Sealed Graffiti | Death Sentence (Battle Green)",
+    "nameId": 3807
+  },
+  "Sealed Graffiti | Death Sentence (Jungle Green)": {
+    "name": "Sealed Graffiti | Death Sentence (Jungle Green)",
+    "nameId": 872
+  },
+  "Sealed Graffiti | Death Sentence (Frog Green)": {
+    "name": "Sealed Graffiti | Death Sentence (Frog Green)",
+    "nameId": 9868
+  },
+  "Sealed Graffiti | Death Sentence (Cash Green)": {
+    "name": "Sealed Graffiti | Death Sentence (Cash Green)",
+    "nameId": 11172
+  },
+  "Sealed Graffiti | Death Sentence (Wire Blue)": {
+    "name": "Sealed Graffiti | Death Sentence (Wire Blue)",
+    "nameId": 2079
+  },
+  "Sealed Graffiti | Death Sentence (Monarch Blue)": {
+    "name": "Sealed Graffiti | Death Sentence (Monarch Blue)",
+    "nameId": 5719
+  },
+  "Sealed Graffiti | Death Sentence (SWAT Blue)": {
+    "name": "Sealed Graffiti | Death Sentence (SWAT Blue)",
+    "nameId": 13883
+  },
+  "Sealed Graffiti | Death Sentence (Violent Violet)": {
+    "name": "Sealed Graffiti | Death Sentence (Violent Violet)",
+    "nameId": 10546
+  },
+  "Sealed Graffiti | Death Sentence (Monster Purple)": {
+    "name": "Sealed Graffiti | Death Sentence (Monster Purple)",
+    "nameId": 7354
+  },
+  "Sealed Graffiti | Death Sentence (Bazooka Pink)": {
+    "name": "Sealed Graffiti | Death Sentence (Bazooka Pink)",
+    "nameId": 6280
+  },
+  "Sealed Graffiti | Death Sentence (Princess Pink)": {
+    "name": "Sealed Graffiti | Death Sentence (Princess Pink)",
+    "nameId": 9809
+  },
+  "Sealed Graffiti | Death Sentence (War Pig Pink)": {
+    "name": "Sealed Graffiti | Death Sentence (War Pig Pink)",
+    "nameId": 7756
+  },
+  "Sealed Graffiti | Death Sentence (Shark White)": {
+    "name": "Sealed Graffiti | Death Sentence (Shark White)",
+    "nameId": 12927
+  },
+  "Sealed Graffiti | Chess King (Brick Red)": {
+    "name": "Sealed Graffiti | Chess King (Brick Red)",
+    "nameId": 11871
+  },
+  "Sealed Graffiti | Chess King (Blood Red)": {
+    "name": "Sealed Graffiti | Chess King (Blood Red)",
+    "nameId": 12244
+  },
+  "Sealed Graffiti | Chess King (Tiger Orange)": {
+    "name": "Sealed Graffiti | Chess King (Tiger Orange)",
+    "nameId": 7029
+  },
+  "Sealed Graffiti | Chess King (Dust Brown)": {
+    "name": "Sealed Graffiti | Chess King (Dust Brown)",
+    "nameId": 3834
+  },
+  "Sealed Graffiti | Chess King (Desert Amber)": {
+    "name": "Sealed Graffiti | Chess King (Desert Amber)",
+    "nameId": 11177
+  },
+  "Sealed Graffiti | Chess King (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Chess King (Tracer Yellow)",
+    "nameId": 3521
+  },
+  "Sealed Graffiti | Chess King (Battle Green)": {
+    "name": "Sealed Graffiti | Chess King (Battle Green)",
+    "nameId": 3190
+  },
+  "Sealed Graffiti | Chess King (Jungle Green)": {
+    "name": "Sealed Graffiti | Chess King (Jungle Green)",
+    "nameId": 8473
+  },
+  "Sealed Graffiti | Chess King (Frog Green)": {
+    "name": "Sealed Graffiti | Chess King (Frog Green)",
+    "nameId": 3404
+  },
+  "Sealed Graffiti | Chess King (Cash Green)": {
+    "name": "Sealed Graffiti | Chess King (Cash Green)",
+    "nameId": 7736
+  },
+  "Sealed Graffiti | Chess King (Wire Blue)": {
+    "name": "Sealed Graffiti | Chess King (Wire Blue)",
+    "nameId": 10148
+  },
+  "Sealed Graffiti | Chess King (Monarch Blue)": {
+    "name": "Sealed Graffiti | Chess King (Monarch Blue)",
+    "nameId": 2533
+  },
+  "Sealed Graffiti | Chess King (SWAT Blue)": {
+    "name": "Sealed Graffiti | Chess King (SWAT Blue)",
+    "nameId": 9177
+  },
+  "Sealed Graffiti | Chess King (Violent Violet)": {
+    "name": "Sealed Graffiti | Chess King (Violent Violet)",
+    "nameId": 3814
+  },
+  "Sealed Graffiti | Chess King (Monster Purple)": {
+    "name": "Sealed Graffiti | Chess King (Monster Purple)",
+    "nameId": 5713
+  },
+  "Sealed Graffiti | Chess King (Bazooka Pink)": {
+    "name": "Sealed Graffiti | Chess King (Bazooka Pink)",
+    "nameId": 3794
+  },
+  "Sealed Graffiti | Chess King (Princess Pink)": {
+    "name": "Sealed Graffiti | Chess King (Princess Pink)",
+    "nameId": 7017
+  },
+  "Sealed Graffiti | Chess King (War Pig Pink)": {
+    "name": "Sealed Graffiti | Chess King (War Pig Pink)",
+    "nameId": 8702
+  }
+}
