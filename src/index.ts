@@ -4,7 +4,7 @@ import { request, fetch } from 'undici'
 
 import type { CSGOAPIResponse } from './types/CSGOAPIResponse.js';
 import type { CSMoneyIds } from './types/CSMoneyIds.js';
-import type { CSMoneyResponse } from './types/CSMoneyResponse.js';
+import type { CSMoneyResponse, Item } from './types/CSMoneyResponse.js';
 
 const MAX_DOWNLOAD = 500;
 
@@ -45,6 +45,10 @@ async function loadFromCSMoney(name: string) {
         "body": null,
         "method": "GET"
       }).then((res) => res.json() as Promise<CSMoneyResponse>);
+}
+
+function findItem(name: string, items: Item[]) {
+    return items.find((item) => item.asset.names.full === name);
 }
 
 async function main() {
@@ -105,18 +109,18 @@ async function main() {
             continue;
         }
 
-        const itemMoney = responseMoney.items[0];
+        const itemMoney = findItem(currentItem.market_hash_name, responseMoney.items);
 
         if(!itemMoney) {
-            console.log(`Item ${item} ${currentItem.name} has no CSMoney sell orders`);
+            console.log(`Item ${item} ${currentItem.market_hash_name} has no CSMoney sell orders`);
 
             continue;
         }
 
-        console.log(`Item ${currentItem.name} has CSMoney sell orders`, itemMoney.asset.names.identifier);
+        console.log(`Item ${currentItem.market_hash_name} has CSMoney sell orders`, itemMoney.asset.names.identifier);
 
         csmoneyIds[currentItem.market_hash_name] = {
-            name: currentItem.name,
+            name: currentItem.market_hash_name,
             nameId: itemMoney.asset.names.identifier
         };
 
