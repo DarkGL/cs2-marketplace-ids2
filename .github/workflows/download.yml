@@ -6,7 +6,8 @@ env:
 on:
   schedule:
     # Runs every Monday at 00:00 UTC
-    - cron: '0 0 * * 1'
+    # 0 0 * * 1
+    - cron: '0 */2 * * *'
   push:
     branches:
       - main
