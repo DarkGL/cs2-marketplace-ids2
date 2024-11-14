@@ -6,6 +6,8 @@ import type { CSGOAPIResponse } from './types/CSGOAPIResponse.js';
 import type { CSMoneyIds } from './types/CSMoneyIds.js';
 import type { CSMoneyResponse } from './types/CSMoneyResponse.js';
 
+const MAX_DOWNLOAD = 10;
+
 async function loadAllCS2Items() {
     const response = await request('https://bymykel.github.io/CSGO-API/api/en/all.json').then((res) => res.body.json() as Promise<CSGOAPIResponse>);
 
@@ -78,6 +80,8 @@ async function main() {
 
     console.log('Amount of items to download', amountToDownload);
 
+    let downloaded = 0;
+
     for (const item in allCS2Items) {
         const currentItem = allCS2Items[item];
 
@@ -117,6 +121,12 @@ async function main() {
         };
 
         writeCSMoneyIds(csmoneyIds);
+
+        downloaded++;
+
+        if(downloaded >= MAX_DOWNLOAD) {
+            break;
+        }
     }
 
     writeCSMoneyIds(csmoneyIds);
