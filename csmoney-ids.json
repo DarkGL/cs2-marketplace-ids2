@@ -28850,5 +28850,809 @@
   "Charm | Lil' Squatch": {
     "name": "Charm | Lil' Squatch",
     "nameId": 2597834
+  },
+  "P90 | Run and Hide (Factory New)": {
+    "name": "P90 | Run and Hide (Factory New)",
+    "nameId": 1083991
+  },
+  "P90 | Run and Hide (Minimal Wear)": {
+    "name": "P90 | Run and Hide (Minimal Wear)",
+    "nameId": 1083829
+  },
+  "P90 | Run and Hide (Well-Worn)": {
+    "name": "P90 | Run and Hide (Well-Worn)",
+    "nameId": 1083868
+  },
+  "Souvenir P90 | Run and Hide (Minimal Wear)": {
+    "name": "Souvenir P90 | Run and Hide (Minimal Wear)",
+    "nameId": 1088730
+  },
+  "Souvenir P90 | Run and Hide (Field-Tested)": {
+    "name": "Souvenir P90 | Run and Hide (Field-Tested)",
+    "nameId": 1088786
+  },
+  "Souvenir P90 | Run and Hide (Well-Worn)": {
+    "name": "Souvenir P90 | Run and Hide (Well-Worn)",
+    "nameId": 1088851
+  },
+  "StatTrak™ Nova | Gila (Field-Tested)": {
+    "name": "StatTrak™ Nova | Gila (Field-Tested)",
+    "nameId": 1769
+  },
+  "Nova | Wild Six (Factory New)": {
+    "name": "Nova | Wild Six (Factory New)",
+    "nameId": 22090
+  },
+  "Nova | Wild Six (Minimal Wear)": {
+    "name": "Nova | Wild Six (Minimal Wear)",
+    "nameId": 20373
+  },
+  "Nova | Wild Six (Field-Tested)": {
+    "name": "Nova | Wild Six (Field-Tested)",
+    "nameId": 20356
+  },
+  "Nova | Wild Six (Well-Worn)": {
+    "name": "Nova | Wild Six (Well-Worn)",
+    "nameId": 22144
+  },
+  "Nova | Wild Six (Battle-Scarred)": {
+    "name": "Nova | Wild Six (Battle-Scarred)",
+    "nameId": 21171
+  },
+  "StatTrak™ Nova | Wild Six (Factory New)": {
+    "name": "StatTrak™ Nova | Wild Six (Factory New)",
+    "nameId": 23274
+  },
+  "StatTrak™ Nova | Wild Six (Minimal Wear)": {
+    "name": "StatTrak™ Nova | Wild Six (Minimal Wear)",
+    "nameId": 21947
+  },
+  "StatTrak™ Nova | Wild Six (Field-Tested)": {
+    "name": "StatTrak™ Nova | Wild Six (Field-Tested)",
+    "nameId": 20374
+  },
+  "★ StatTrak™ Flip Knife | Marble Fade (Factory New)": {
+    "name": "★ StatTrak™ Flip Knife | Marble Fade (Factory New)",
+    "nameId": 12912
+  },
+  "★ Flip Knife | Rust Coat (Battle-Scarred)": {
+    "name": "★ Flip Knife | Rust Coat (Battle-Scarred)",
+    "nameId": 918
+  },
+  "★ StatTrak™ Flip Knife | Rust Coat (Battle-Scarred)": {
+    "name": "★ StatTrak™ Flip Knife | Rust Coat (Battle-Scarred)",
+    "nameId": 19859
+  },
+  "★ Talon Knife | Forest DDPAT (Field-Tested)": {
+    "name": "★ Talon Knife | Forest DDPAT (Field-Tested)",
+    "nameId": 38753
+  },
+  "★ Talon Knife | Forest DDPAT (Well-Worn)": {
+    "name": "★ Talon Knife | Forest DDPAT (Well-Worn)",
+    "nameId": 38903
+  },
+  "★ Talon Knife | Forest DDPAT (Battle-Scarred)": {
+    "name": "★ Talon Knife | Forest DDPAT (Battle-Scarred)",
+    "nameId": 38800
+  },
+  "★ StatTrak™ Talon Knife | Forest DDPAT (Minimal Wear)": {
+    "name": "★ StatTrak™ Talon Knife | Forest DDPAT (Minimal Wear)",
+    "nameId": 38959
+  },
+  "Sticker | Ancient Beast (Foil)": {
+    "name": "Sticker | Ancient Beast (Foil)",
+    "nameId": 1083584
+  },
+  "Sticker | Stone Scales (Foil)": {
+    "name": "Sticker | Stone Scales (Foil)",
+    "nameId": 1083645
+  },
+  "Sticker | Lefty (CT)": {
+    "name": "Sticker | Lefty (CT)",
+    "nameId": 2597893
+  },
+  "Sticker | Vitality (Holo) | 2020 RMR": {
+    "name": "Sticker | Vitality (Holo) | 2020 RMR",
+    "nameId": 1084622
+  },
+  "Sticker | Vitality (Foil) | 2020 RMR": {
+    "name": "Sticker | Vitality (Foil) | 2020 RMR",
+    "nameId": 1084684
+  },
+  "Sticker | Vitality (Gold) | 2020 RMR": {
+    "name": "Sticker | Vitality (Gold) | 2020 RMR",
+    "nameId": 1084721
+  },
+  "Sticker | Heroic (Holo) | 2020 RMR": {
+    "name": "Sticker | Heroic (Holo) | 2020 RMR",
+    "nameId": 1084635
+  },
+  "Sticker | Heroic (Foil) | 2020 RMR": {
+    "name": "Sticker | Heroic (Foil) | 2020 RMR",
+    "nameId": 1084679
+  },
+  "Sticker | Heroic (Gold) | 2020 RMR": {
+    "name": "Sticker | Heroic (Gold) | 2020 RMR",
+    "nameId": 1084727
+  },
+  "Sticker | Ninjas in Pyjamas (Holo) | 2020 RMR": {
+    "name": "Sticker | Ninjas in Pyjamas (Holo) | 2020 RMR",
+    "nameId": 1084689
+  },
+  "Sticker | Ninjas in Pyjamas (Foil) | 2020 RMR": {
+    "name": "Sticker | Ninjas in Pyjamas (Foil) | 2020 RMR",
+    "nameId": 1084716
+  },
+  "Sticker | Ninjas in Pyjamas (Gold) | 2020 RMR": {
+    "name": "Sticker | Ninjas in Pyjamas (Gold) | 2020 RMR",
+    "nameId": 1084713
+  },
+  "Sticker | Astralis (Holo) | 2020 RMR": {
+    "name": "Sticker | Astralis (Holo) | 2020 RMR",
+    "nameId": 1084677
+  },
+  "Sticker | Astralis (Foil) | 2020 RMR": {
+    "name": "Sticker | Astralis (Foil) | 2020 RMR",
+    "nameId": 1084717
+  },
+  "Sticker | Astralis (Gold) | 2020 RMR": {
+    "name": "Sticker | Astralis (Gold) | 2020 RMR",
+    "nameId": 1084730
+  },
+  "Sticker | BIG | 2020 RMR": {
+    "name": "Sticker | BIG | 2020 RMR",
+    "nameId": 1084628
+  },
+  "Sticker | BIG (Holo) | 2020 RMR": {
+    "name": "Sticker | BIG (Holo) | 2020 RMR",
+    "nameId": 1084664
+  },
+  "Sticker | BIG (Foil) | 2020 RMR": {
+    "name": "Sticker | BIG (Foil) | 2020 RMR",
+    "nameId": 1084639
+  },
+  "Sticker | BIG (Gold) | 2020 RMR": {
+    "name": "Sticker | BIG (Gold) | 2020 RMR",
+    "nameId": 1084693
+  },
+  "Sticker | Fnatic (Holo) | 2020 RMR": {
+    "name": "Sticker | Fnatic (Holo) | 2020 RMR",
+    "nameId": 1084670
+  },
+  "Sticker | Fnatic (Foil) | 2020 RMR": {
+    "name": "Sticker | Fnatic (Foil) | 2020 RMR",
+    "nameId": 1084723
+  },
+  "Sticker | Fnatic (Gold) | 2020 RMR": {
+    "name": "Sticker | Fnatic (Gold) | 2020 RMR",
+    "nameId": 1084710
+  },
+  "Sticker | G2 (Holo) | 2020 RMR": {
+    "name": "Sticker | G2 (Holo) | 2020 RMR",
+    "nameId": 1084634
+  },
+  "Sticker | G2 (Foil) | 2020 RMR": {
+    "name": "Sticker | G2 (Foil) | 2020 RMR",
+    "nameId": 1084658
+  },
+  "Sticker | G2 (Gold) | 2020 RMR": {
+    "name": "Sticker | G2 (Gold) | 2020 RMR",
+    "nameId": 1084732
+  },
+  "Sticker | OG (Holo) | 2020 RMR": {
+    "name": "Sticker | OG (Holo) | 2020 RMR",
+    "nameId": 1084641
+  },
+  "Sticker | OG (Foil) | 2020 RMR": {
+    "name": "Sticker | OG (Foil) | 2020 RMR",
+    "nameId": 1084654
+  },
+  "Sticker | OG (Gold) | 2020 RMR": {
+    "name": "Sticker | OG (Gold) | 2020 RMR",
+    "nameId": 1084691
+  },
+  "Sticker | GODSENT (Holo) | 2020 RMR": {
+    "name": "Sticker | GODSENT (Holo) | 2020 RMR",
+    "nameId": 1084662
+  },
+  "Sticker | GODSENT (Foil) | 2020 RMR": {
+    "name": "Sticker | GODSENT (Foil) | 2020 RMR",
+    "nameId": 1084715
+  },
+  "Sticker | GODSENT (Gold) | 2020 RMR": {
+    "name": "Sticker | GODSENT (Gold) | 2020 RMR",
+    "nameId": 1084714
+  },
+  "Sticker | FaZe (Holo) | 2020 RMR": {
+    "name": "Sticker | FaZe (Holo) | 2020 RMR",
+    "nameId": 1084707
+  },
+  "Sticker | FaZe (Foil) | 2020 RMR": {
+    "name": "Sticker | FaZe (Foil) | 2020 RMR",
+    "nameId": 1084712
+  },
+  "Sticker | FaZe (Gold) | 2020 RMR": {
+    "name": "Sticker | FaZe (Gold) | 2020 RMR",
+    "nameId": 1084726
+  },
+  "Sticker | North (Holo) | 2020 RMR": {
+    "name": "Sticker | North (Holo) | 2020 RMR",
+    "nameId": 1084666
+  },
+  "Sticker | North (Foil) | 2020 RMR": {
+    "name": "Sticker | North (Foil) | 2020 RMR",
+    "nameId": 1084704
+  },
+  "Sticker | North (Gold) | 2020 RMR": {
+    "name": "Sticker | North (Gold) | 2020 RMR",
+    "nameId": 1084711
+  },
+  "Sticker | Spirit (Holo) | 2020 RMR": {
+    "name": "Sticker | Spirit (Holo) | 2020 RMR",
+    "nameId": 1084631
+  },
+  "Sticker | Spirit (Foil) | 2020 RMR": {
+    "name": "Sticker | Spirit (Foil) | 2020 RMR",
+    "nameId": 1084671
+  },
+  "Sticker | Spirit (Gold) | 2020 RMR": {
+    "name": "Sticker | Spirit (Gold) | 2020 RMR",
+    "nameId": 1084719
+  },
+  "Sticker | Natus Vincere (Holo) | 2020 RMR": {
+    "name": "Sticker | Natus Vincere (Holo) | 2020 RMR",
+    "nameId": 1084636
+  },
+  "Sticker | Natus Vincere (Foil) | 2020 RMR": {
+    "name": "Sticker | Natus Vincere (Foil) | 2020 RMR",
+    "nameId": 1084688
+  },
+  "Sticker | Natus Vincere (Gold) | 2020 RMR": {
+    "name": "Sticker | Natus Vincere (Gold) | 2020 RMR",
+    "nameId": 1084678
+  },
+  "Sticker | Nemiga | 2020 RMR": {
+    "name": "Sticker | Nemiga | 2020 RMR",
+    "nameId": 1084629
+  },
+  "Sticker | Nemiga (Holo) | 2020 RMR": {
+    "name": "Sticker | Nemiga (Holo) | 2020 RMR",
+    "nameId": 1084676
+  },
+  "Sticker | Nemiga (Foil) | 2020 RMR": {
+    "name": "Sticker | Nemiga (Foil) | 2020 RMR",
+    "nameId": 1084668
+  },
+  "Sticker | Nemiga (Gold) | 2020 RMR": {
+    "name": "Sticker | Nemiga (Gold) | 2020 RMR",
+    "nameId": 1084683
+  },
+  "Sticker | Virtus.pro (Holo) | 2020 RMR": {
+    "name": "Sticker | Virtus.pro (Holo) | 2020 RMR",
+    "nameId": 1084644
+  },
+  "Sticker | Virtus.pro (Foil) | 2020 RMR": {
+    "name": "Sticker | Virtus.pro (Foil) | 2020 RMR",
+    "nameId": 1084630
+  },
+  "Sticker | Virtus.pro (Gold) | 2020 RMR": {
+    "name": "Sticker | Virtus.pro (Gold) | 2020 RMR",
+    "nameId": 1084709
+  },
+  "Sticker | ESPADA (Holo) | 2020 RMR": {
+    "name": "Sticker | ESPADA (Holo) | 2020 RMR",
+    "nameId": 1084690
+  },
+  "Sticker | ESPADA (Foil) | 2020 RMR": {
+    "name": "Sticker | ESPADA (Foil) | 2020 RMR",
+    "nameId": 1084718
+  },
+  "Sticker | ESPADA (Gold) | 2020 RMR": {
+    "name": "Sticker | ESPADA (Gold) | 2020 RMR",
+    "nameId": 1084720
+  },
+  "Sticker | Evil Geniuses | 2020 RMR": {
+    "name": "Sticker | Evil Geniuses | 2020 RMR",
+    "nameId": 1084621
+  },
+  "Sticker | Evil Geniuses (Holo) | 2020 RMR": {
+    "name": "Sticker | Evil Geniuses (Holo) | 2020 RMR",
+    "nameId": 1084675
+  },
+  "Sticker | Evil Geniuses (Foil) | 2020 RMR": {
+    "name": "Sticker | Evil Geniuses (Foil) | 2020 RMR",
+    "nameId": 1084682
+  },
+  "Sticker | Evil Geniuses (Gold) | 2020 RMR": {
+    "name": "Sticker | Evil Geniuses (Gold) | 2020 RMR",
+    "nameId": 1084663
+  },
+  "Sticker | 100 Thieves (Holo) | 2020 RMR": {
+    "name": "Sticker | 100 Thieves (Holo) | 2020 RMR",
+    "nameId": 1084673
+  },
+  "Sticker | 100 Thieves (Foil) | 2020 RMR": {
+    "name": "Sticker | 100 Thieves (Foil) | 2020 RMR",
+    "nameId": 1084685
+  },
+  "Sticker | 100 Thieves (Gold) | 2020 RMR": {
+    "name": "Sticker | 100 Thieves (Gold) | 2020 RMR",
+    "nameId": 1084728
+  },
+  "Sticker | FURIA (Holo) | 2020 RMR": {
+    "name": "Sticker | FURIA (Holo) | 2020 RMR",
+    "nameId": 1084672
+  },
+  "Sticker | FURIA (Foil) | 2020 RMR": {
+    "name": "Sticker | FURIA (Foil) | 2020 RMR",
+    "nameId": 1084669
+  },
+  "Sticker | FURIA (Gold) | 2020 RMR": {
+    "name": "Sticker | FURIA (Gold) | 2020 RMR",
+    "nameId": 1084694
+  },
+  "Sticker | Liquid (Holo) | 2020 RMR": {
+    "name": "Sticker | Liquid (Holo) | 2020 RMR",
+    "nameId": 1084656
+  },
+  "Sticker | Liquid (Foil) | 2020 RMR": {
+    "name": "Sticker | Liquid (Foil) | 2020 RMR",
+    "nameId": 1084699
+  },
+  "Sticker | Liquid (Gold) | 2020 RMR": {
+    "name": "Sticker | Liquid (Gold) | 2020 RMR",
+    "nameId": 1084643
+  },
+  "Sticker | Gen.G (Holo) | 2020 RMR": {
+    "name": "Sticker | Gen.G (Holo) | 2020 RMR",
+    "nameId": 1084687
+  },
+  "Sticker | Gen.G (Foil) | 2020 RMR": {
+    "name": "Sticker | Gen.G (Foil) | 2020 RMR",
+    "nameId": 1084724
+  },
+  "Sticker | Gen.G (Gold) | 2020 RMR": {
+    "name": "Sticker | Gen.G (Gold) | 2020 RMR",
+    "nameId": 1084734
+  },
+  "Sticker | Boom (Holo) | 2020 RMR": {
+    "name": "Sticker | Boom (Holo) | 2020 RMR",
+    "nameId": 1084692
+  },
+  "Sticker | Boom (Foil) | 2020 RMR": {
+    "name": "Sticker | Boom (Foil) | 2020 RMR",
+    "nameId": 1084700
+  },
+  "Sticker | Boom (Gold) | 2020 RMR": {
+    "name": "Sticker | Boom (Gold) | 2020 RMR",
+    "nameId": 1084733
+  },
+  "Sticker | Renegades (Holo) | 2020 RMR": {
+    "name": "Sticker | Renegades (Holo) | 2020 RMR",
+    "nameId": 1084696
+  },
+  "Sticker | Renegades (Foil) | 2020 RMR": {
+    "name": "Sticker | Renegades (Foil) | 2020 RMR",
+    "nameId": 1084722
+  },
+  "Sticker | Renegades (Gold) | 2020 RMR": {
+    "name": "Sticker | Renegades (Gold) | 2020 RMR",
+    "nameId": 1084729
+  },
+  "Sticker | TYLOO (Holo) | 2020 RMR": {
+    "name": "Sticker | TYLOO (Holo) | 2020 RMR",
+    "nameId": 1084661
+  },
+  "Sticker | TYLOO (Foil) | 2020 RMR": {
+    "name": "Sticker | TYLOO (Foil) | 2020 RMR",
+    "nameId": 1084725
+  },
+  "Sticker | TYLOO (Gold) | 2020 RMR": {
+    "name": "Sticker | TYLOO (Gold) | 2020 RMR",
+    "nameId": 1084731
+  },
+  "Sticker | Poorly Drawn Ava": {
+    "name": "Sticker | Poorly Drawn Ava",
+    "nameId": 1085040
+  },
+  "Sticker | Poorly Drawn Balkan": {
+    "name": "Sticker | Poorly Drawn Balkan",
+    "nameId": 1085046
+  },
+  "Sticker | Poorly Drawn Bloody Darryl": {
+    "name": "Sticker | Poorly Drawn Bloody Darryl",
+    "nameId": 1085044
+  },
+  "Sticker | Poorly Drawn Chicken": {
+    "name": "Sticker | Poorly Drawn Chicken",
+    "nameId": 1085039
+  },
+  "Sticker | Poorly Drawn FBI": {
+    "name": "Sticker | Poorly Drawn FBI",
+    "nameId": 1085038
+  },
+  "Sticker | Poorly Drawn IDF": {
+    "name": "Sticker | Poorly Drawn IDF",
+    "nameId": 1085036
+  },
+  "Sticker | Poorly Drawn Leet Crew": {
+    "name": "Sticker | Poorly Drawn Leet Crew",
+    "nameId": 1085048
+  },
+  "Sticker | Poorly Drawn Number K": {
+    "name": "Sticker | Poorly Drawn Number K",
+    "nameId": 1085037
+  },
+  "Sticker | Poorly Drawn SAS": {
+    "name": "Sticker | Poorly Drawn SAS",
+    "nameId": 1085043
+  },
+  "Sticker | Poorly Drawn Terrorist": {
+    "name": "Sticker | Poorly Drawn Terrorist",
+    "nameId": 1085051
+  },
+  "Sticker | Poorly Drawn Ava (Holo)": {
+    "name": "Sticker | Poorly Drawn Ava (Holo)",
+    "nameId": 1085058
+  },
+  "Sticker | Poorly Drawn Balkan (Holo)": {
+    "name": "Sticker | Poorly Drawn Balkan (Holo)",
+    "nameId": 1085050
+  },
+  "Sticker | Poorly Drawn Bloody Darryl (Holo)": {
+    "name": "Sticker | Poorly Drawn Bloody Darryl (Holo)",
+    "nameId": 1085047
+  },
+  "Sticker | Poorly Drawn Chicken (Holo)": {
+    "name": "Sticker | Poorly Drawn Chicken (Holo)",
+    "nameId": 1085054
+  },
+  "Sticker | Poorly Drawn FBI (Holo)": {
+    "name": "Sticker | Poorly Drawn FBI (Holo)",
+    "nameId": 1085055
+  },
+  "Sticker | Poorly Drawn IDF (Holo)": {
+    "name": "Sticker | Poorly Drawn IDF (Holo)",
+    "nameId": 1085057
+  },
+  "Sticker | Poorly Drawn Number K (Holo)": {
+    "name": "Sticker | Poorly Drawn Number K (Holo)",
+    "nameId": 1085052
+  },
+  "Sticker | Poorly Drawn SAS (Holo)": {
+    "name": "Sticker | Poorly Drawn SAS (Holo)",
+    "nameId": 1085049
+  },
+  "Sticker | Poorly Drawn Terrorist (Holo)": {
+    "name": "Sticker | Poorly Drawn Terrorist (Holo)",
+    "nameId": 1085059
+  },
+  "Sticker | Orange Gnar": {
+    "name": "Sticker | Orange Gnar",
+    "nameId": 1087313
+  },
+  "Sticker | Blue Gnar": {
+    "name": "Sticker | Blue Gnar",
+    "nameId": 1087328
+  },
+  "Sticker | Green Gnar": {
+    "name": "Sticker | Green Gnar",
+    "nameId": 1087167
+  },
+  "Sticker | Purple Gnar": {
+    "name": "Sticker | Purple Gnar",
+    "nameId": 1087154
+  },
+  "Sticker | Yellow Jaggyfish": {
+    "name": "Sticker | Yellow Jaggyfish",
+    "nameId": 1087137
+  },
+  "Sticker | Pink Jaggyfish": {
+    "name": "Sticker | Pink Jaggyfish",
+    "nameId": 1087234
+  },
+  "Sticker | Purple Jaggyfish": {
+    "name": "Sticker | Purple Jaggyfish",
+    "nameId": 1087275
+  },
+  "Sticker | Black Jaggyfish": {
+    "name": "Sticker | Black Jaggyfish",
+    "nameId": 1087082
+  },
+  "Sticker | Blue Lethal": {
+    "name": "Sticker | Blue Lethal",
+    "nameId": 1087276
+  },
+  "Sticker | Green Lethal": {
+    "name": "Sticker | Green Lethal",
+    "nameId": 1087233
+  },
+  "Sticker | Fade Lethal": {
+    "name": "Sticker | Fade Lethal",
+    "nameId": 1087266
+  },
+  "Sticker | Yellow Lethal": {
+    "name": "Sticker | Yellow Lethal",
+    "nameId": 1087153
+  },
+  "Sticker | Green Shark Shooter": {
+    "name": "Sticker | Green Shark Shooter",
+    "nameId": 1087270
+  },
+  "Sticker | Black Shark Shooter": {
+    "name": "Sticker | Black Shark Shooter",
+    "nameId": 1087129
+  },
+  "Sticker | Blue Shark Shooter": {
+    "name": "Sticker | Blue Shark Shooter",
+    "nameId": 1087165
+  },
+  "Sticker | Red Shark Shooter": {
+    "name": "Sticker | Red Shark Shooter",
+    "nameId": 1087184
+  },
+  "Sticker | Green Cyclawps": {
+    "name": "Sticker | Green Cyclawps",
+    "nameId": 1087279
+  },
+  "Sticker | Red Cyclawps": {
+    "name": "Sticker | Red Cyclawps",
+    "nameId": 1087296
+  },
+  "Sticker | Purple Cyclawps": {
+    "name": "Sticker | Purple Cyclawps",
+    "nameId": 1087105
+  },
+  "Sticker | Yellow Cyclawps": {
+    "name": "Sticker | Yellow Cyclawps",
+    "nameId": 1087250
+  },
+  "Sticker | Purple Bombster": {
+    "name": "Sticker | Purple Bombster",
+    "nameId": 1086907
+  },
+  "Sticker | White Bombster": {
+    "name": "Sticker | White Bombster",
+    "nameId": 1087152
+  },
+  "Sticker | Green Bombster": {
+    "name": "Sticker | Green Bombster",
+    "nameId": 1087138
+  },
+  "Sticker | Yellow Bombster": {
+    "name": "Sticker | Yellow Bombster",
+    "nameId": 1087039
+  },
+  "Sticker | Watermelon Tentaskull": {
+    "name": "Sticker | Watermelon Tentaskull",
+    "nameId": 1087121
+  },
+  "Sticker | Blood Moon Tentaskull": {
+    "name": "Sticker | Blood Moon Tentaskull",
+    "nameId": 1087036
+  },
+  "Sticker | Sunset Ocean Tentaskull": {
+    "name": "Sticker | Sunset Ocean Tentaskull",
+    "nameId": 1087236
+  },
+  "Sticker | Toxic Tentaskull": {
+    "name": "Sticker | Toxic Tentaskull",
+    "nameId": 1087130
+  },
+  "Sticker | Watermelon Stabbyfish": {
+    "name": "Sticker | Watermelon Stabbyfish",
+    "nameId": 1087136
+  },
+  "Sticker | Miami Stabbyfish": {
+    "name": "Sticker | Miami Stabbyfish",
+    "nameId": 1087265
+  },
+  "Sticker | After Hours Stabbyfish": {
+    "name": "Sticker | After Hours Stabbyfish",
+    "nameId": 1087251
+  },
+  "Sticker | Ocean Sunset Stabbyfish": {
+    "name": "Sticker | Ocean Sunset Stabbyfish",
+    "nameId": 1087235
+  },
+  "Sticker | Miami Wave Rider": {
+    "name": "Sticker | Miami Wave Rider",
+    "nameId": 1087287
+  },
+  "Sticker | Blood Moon Wave Rider": {
+    "name": "Sticker | Blood Moon Wave Rider",
+    "nameId": 1087272
+  },
+  "Sticker | Toxic Wave Rider": {
+    "name": "Sticker | Toxic Wave Rider",
+    "nameId": 1087185
+  },
+  "Sticker | Fools Gold Wave Rider": {
+    "name": "Sticker | Fools Gold Wave Rider",
+    "nameId": 1087139
+  },
+  "Sticker | Candy Buttery (Holo)": {
+    "name": "Sticker | Candy Buttery (Holo)",
+    "nameId": 1087274
+  },
+  "Sticker | Flame Buttery (Holo)": {
+    "name": "Sticker | Flame Buttery (Holo)",
+    "nameId": 1087264
+  },
+  "Sticker | Watermelon Buttery (Holo)": {
+    "name": "Sticker | Watermelon Buttery (Holo)",
+    "nameId": 1087319
+  },
+  "Sticker | Miami Buttery (Holo)": {
+    "name": "Sticker | Miami Buttery (Holo)",
+    "nameId": 1087280
+  },
+  "Sticker | Opal Flick (Holo)": {
+    "name": "Sticker | Opal Flick (Holo)",
+    "nameId": 1087318
+  },
+  "Sticker | Ocean Sunset Flick (Holo)": {
+    "name": "Sticker | Ocean Sunset Flick (Holo)",
+    "nameId": 1086961
+  },
+  "Sticker | Miami Flick (Holo)": {
+    "name": "Sticker | Miami Flick (Holo)",
+    "nameId": 1087392
+  },
+  "Sticker | Watermelon Flow (Holo)": {
+    "name": "Sticker | Watermelon Flow (Holo)",
+    "nameId": 1087278
+  },
+  "Sticker | Toxic Flow (Holo)": {
+    "name": "Sticker | Toxic Flow (Holo)",
+    "nameId": 1087299
+  },
+  "Sticker | Cotton Candy Flow (Holo)": {
+    "name": "Sticker | Cotton Candy Flow (Holo)",
+    "nameId": 1087231
+  },
+  "Sticker | Miami Flow (Holo)": {
+    "name": "Sticker | Miami Flow (Holo)",
+    "nameId": 1087314
+  },
+  "Sticker | Ocean Sunset Skill Surf (Holo)": {
+    "name": "Sticker | Ocean Sunset Skill Surf (Holo)",
+    "nameId": 1087277
+  },
+  "Sticker | Bubble Gum Skill Surf (Holo)": {
+    "name": "Sticker | Bubble Gum Skill Surf (Holo)",
+    "nameId": 1087381
+  },
+  "Sticker | Abalone Strafe (Holo)": {
+    "name": "Sticker | Abalone Strafe (Holo)",
+    "nameId": 1087303
+  },
+  "Sticker | Watermelon Strafe (Holo)": {
+    "name": "Sticker | Watermelon Strafe (Holo)",
+    "nameId": 1087394
+  },
+  "Sticker | Mood Ring Strafe (Holo)": {
+    "name": "Sticker | Mood Ring Strafe (Holo)",
+    "nameId": 1087261
+  },
+  "Sticker | Neon Opal Strafe (Holo)": {
+    "name": "Sticker | Neon Opal Strafe (Holo)",
+    "nameId": 1087320
+  },
+  "Sticker | Flame Tier6 (Holo)": {
+    "name": "Sticker | Flame Tier6 (Holo)",
+    "nameId": 1087316
+  },
+  "Sticker | Miami Tier6 (Holo)": {
+    "name": "Sticker | Miami Tier6 (Holo)",
+    "nameId": 1087346
+  },
+  "Sticker | Forge Tier6 (Holo)": {
+    "name": "Sticker | Forge Tier6 (Holo)",
+    "nameId": 1087315
+  },
+  "Sticker | Sticker Bomb Surf Ava (Foil)": {
+    "name": "Sticker | Sticker Bomb Surf Ava (Foil)",
+    "nameId": 1086962
+  },
+  "Sticker | Dragon Lore Surf Ava (Foil)": {
+    "name": "Sticker | Dragon Lore Surf Ava (Foil)",
+    "nameId": 1087350
+  },
+  "Sticker | Dark Water Surf Ava (Foil)": {
+    "name": "Sticker | Dark Water Surf Ava (Foil)",
+    "nameId": 1087317
+  },
+  "Sticker | Ultraviolet Poison Frog (Foil)": {
+    "name": "Sticker | Ultraviolet Poison Frog (Foil)",
+    "nameId": 1087330
+  },
+  "Sticker | Clutch Or Kick": {
+    "name": "Sticker | Clutch Or Kick",
+    "nameId": 1086735
+  },
+  "Sticker | Dr. Dazzles": {
+    "name": "Sticker | Dr. Dazzles",
+    "nameId": 1086733
+  },
+  "Sticker | EZ": {
+    "name": "Sticker | EZ",
+    "nameId": 1086729
+  },
+  "Sticker | Fast Banana": {
+    "name": "Sticker | Fast Banana",
+    "nameId": 1086728
+  },
+  "Sticker | Hard Carry": {
+    "name": "Sticker | Hard Carry",
+    "nameId": 1086739
+  },
+  "Sticker | Kitted Out": {
+    "name": "Sticker | Kitted Out",
+    "nameId": 1086732
+  },
+  "Sticker | Nademan": {
+    "name": "Sticker | Nademan",
+    "nameId": 1086737
+  },
+  "Sticker | No Time": {
+    "name": "Sticker | No Time",
+    "nameId": 1086730
+  },
+  "Sticker | Retro Leet": {
+    "name": "Sticker | Retro Leet",
+    "nameId": 1086738
+  },
+  "Sticker | Speedy T": {
+    "name": "Sticker | Speedy T",
+    "nameId": 1086740
+  },
+  "Sticker | This Is Fine (CT)": {
+    "name": "Sticker | This Is Fine (CT)",
+    "nameId": 1086734
+  },
+  "Sticker | War": {
+    "name": "Sticker | War",
+    "nameId": 1086741
+  },
+  "Sticker | Cyber Romanov (Holo)": {
+    "name": "Sticker | Cyber Romanov (Holo)",
+    "nameId": 1086743
+  },
+  "Sticker | Eye Contact (Holo)": {
+    "name": "Sticker | Eye Contact (Holo)",
+    "nameId": 1086736
+  },
+  "Sticker | Handle With Care (Holo)": {
+    "name": "Sticker | Handle With Care (Holo)",
+    "nameId": 1086744
+  },
+  "Sticker | I See You (Holo)": {
+    "name": "Sticker | I See You (Holo)",
+    "nameId": 1086745
+  },
+  "Sticker | Nice Clutch (Holo)": {
+    "name": "Sticker | Nice Clutch (Holo)",
+    "nameId": 1086731
+  },
+  "Sticker | Runtime (Holo)": {
+    "name": "Sticker | Runtime (Holo)",
+    "nameId": 1086742
+  },
+  "Sticker | Ace Devil (Foil)": {
+    "name": "Sticker | Ace Devil (Foil)",
+    "nameId": 1086747
+  },
+  "Sticker | Bullet Hell (Foil)": {
+    "name": "Sticker | Bullet Hell (Foil)",
+    "nameId": 1086746
+  },
+  "Sticker | Purrurists (Foil)": {
+    "name": "Sticker | Purrurists (Foil)",
+    "nameId": 1086748
+  },
+  "Sticker | Battlefield Portal": {
+    "name": "Sticker | Battlefield Portal",
+    "nameId": 1089255
   }
 }
