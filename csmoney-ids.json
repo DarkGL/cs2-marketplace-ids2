@@ -29654,5 +29654,2005 @@
   "Sticker | Battlefield Portal": {
     "name": "Sticker | Battlefield Portal",
     "nameId": 1089255
+  },
+  "StatTrak™ P90 | Elite Build (Factory New)": {
+    "name": "StatTrak™ P90 | Elite Build (Factory New)",
+    "nameId": 5450
+  },
+  "StatTrak™ P90 | Elite Build (Minimal Wear)": {
+    "name": "StatTrak™ P90 | Elite Build (Minimal Wear)",
+    "nameId": 1767
+  },
+  "StatTrak™ P90 | Elite Build (Field-Tested)": {
+    "name": "StatTrak™ P90 | Elite Build (Field-Tested)",
+    "nameId": 2338
+  },
+  "StatTrak™ P90 | Elite Build (Well-Worn)": {
+    "name": "StatTrak™ P90 | Elite Build (Well-Worn)",
+    "nameId": 8448
+  },
+  "StatTrak™ P90 | Elite Build (Battle-Scarred)": {
+    "name": "StatTrak™ P90 | Elite Build (Battle-Scarred)",
+    "nameId": 3198
+  },
+  "P90 | Shapewood (Factory New)": {
+    "name": "P90 | Shapewood (Factory New)",
+    "nameId": 7277
+  },
+  "P90 | Shapewood (Minimal Wear)": {
+    "name": "P90 | Shapewood (Minimal Wear)",
+    "nameId": 4982
+  },
+  "P90 | Shapewood (Field-Tested)": {
+    "name": "P90 | Shapewood (Field-Tested)",
+    "nameId": 4767
+  },
+  "P90 | Shapewood (Well-Worn)": {
+    "name": "P90 | Shapewood (Well-Worn)",
+    "nameId": 2132
+  },
+  "P90 | Shapewood (Battle-Scarred)": {
+    "name": "P90 | Shapewood (Battle-Scarred)",
+    "nameId": 1954
+  },
+  "MP7 | Bloodsport (Factory New)": {
+    "name": "MP7 | Bloodsport (Factory New)",
+    "nameId": 20302
+  },
+  "MP7 | Bloodsport (Minimal Wear)": {
+    "name": "MP7 | Bloodsport (Minimal Wear)",
+    "nameId": 22138
+  },
+  "MP7 | Bloodsport (Field-Tested)": {
+    "name": "MP7 | Bloodsport (Field-Tested)",
+    "nameId": 22153
+  },
+  "MP7 | Bloodsport (Well-Worn)": {
+    "name": "MP7 | Bloodsport (Well-Worn)",
+    "nameId": 24370
+  },
+  "MP7 | Bloodsport (Battle-Scarred)": {
+    "name": "MP7 | Bloodsport (Battle-Scarred)",
+    "nameId": 23365
+  },
+  "StatTrak™ MP7 | Bloodsport (Factory New)": {
+    "name": "StatTrak™ MP7 | Bloodsport (Factory New)",
+    "nameId": 23010
+  },
+  "StatTrak™ MP7 | Bloodsport (Minimal Wear)": {
+    "name": "StatTrak™ MP7 | Bloodsport (Minimal Wear)",
+    "nameId": 23450
+  },
+  "StatTrak™ MP7 | Bloodsport (Field-Tested)": {
+    "name": "StatTrak™ MP7 | Bloodsport (Field-Tested)",
+    "nameId": 23108
+  },
+  "StatTrak™ MP7 | Bloodsport (Well-Worn)": {
+    "name": "StatTrak™ MP7 | Bloodsport (Well-Worn)",
+    "nameId": 25314
+  },
+  "StatTrak™ MP7 | Bloodsport (Battle-Scarred)": {
+    "name": "StatTrak™ MP7 | Bloodsport (Battle-Scarred)",
+    "nameId": 27164
+  },
+  "MP7 | Powercore (Factory New)": {
+    "name": "MP7 | Powercore (Factory New)",
+    "nameId": 38450
+  },
+  "MP7 | Powercore (Minimal Wear)": {
+    "name": "MP7 | Powercore (Minimal Wear)",
+    "nameId": 38457
+  },
+  "CZ75-Auto | Midnight Palm (Factory New)": {
+    "name": "CZ75-Auto | Midnight Palm (Factory New)",
+    "nameId": 1086969
+  },
+  "★ Butterfly Knife | Autotronic (Factory New)": {
+    "name": "★ Butterfly Knife | Autotronic (Factory New)",
+    "nameId": 1087479
+  },
+  "★ Butterfly Knife | Autotronic (Minimal Wear)": {
+    "name": "★ Butterfly Knife | Autotronic (Minimal Wear)",
+    "nameId": 1087348
+  },
+  "★ Butterfly Knife | Autotronic (Field-Tested)": {
+    "name": "★ Butterfly Knife | Autotronic (Field-Tested)",
+    "nameId": 1087436
+  },
+  "★ Butterfly Knife | Autotronic (Battle-Scarred)": {
+    "name": "★ Butterfly Knife | Autotronic (Battle-Scarred)",
+    "nameId": 1087557
+  },
+  "Sticker | LoveYY | Boston 2018": {
+    "name": "Sticker | LoveYY | Boston 2018",
+    "nameId": 8518
+  },
+  "Sticker | Cloud9 | London 2018": {
+    "name": "Sticker | Cloud9 | London 2018",
+    "nameId": 60196
+  },
+  "Sticker | Cloud9 (Holo) | London 2018": {
+    "name": "Sticker | Cloud9 (Holo) | London 2018",
+    "nameId": 60175
+  },
+  "Sticker | Cloud9 (Foil) | London 2018": {
+    "name": "Sticker | Cloud9 (Foil) | London 2018",
+    "nameId": 60562
+  },
+  "Sticker | FaZe Clan | London 2018": {
+    "name": "Sticker | FaZe Clan | London 2018",
+    "nameId": 60121
+  },
+  "Sticker | FaZe Clan (Holo) | London 2018": {
+    "name": "Sticker | FaZe Clan (Holo) | London 2018",
+    "nameId": 60549
+  },
+  "Sticker | FaZe Clan (Foil) | London 2018": {
+    "name": "Sticker | FaZe Clan (Foil) | London 2018",
+    "nameId": 62198
+  },
+  "Sticker | Natus Vincere | London 2018": {
+    "name": "Sticker | Natus Vincere | London 2018",
+    "nameId": 60122
+  },
+  "Sticker | Natus Vincere (Holo) | London 2018": {
+    "name": "Sticker | Natus Vincere (Holo) | London 2018",
+    "nameId": 60537
+  },
+  "Sticker | Natus Vincere (Foil) | London 2018": {
+    "name": "Sticker | Natus Vincere (Foil) | London 2018",
+    "nameId": 69483
+  },
+  "Sticker | MIBR | London 2018": {
+    "name": "Sticker | MIBR | London 2018",
+    "nameId": 60120
+  },
+  "Sticker | MIBR (Holo) | London 2018": {
+    "name": "Sticker | MIBR (Holo) | London 2018",
+    "nameId": 60173
+  },
+  "Sticker | MIBR (Foil) | London 2018": {
+    "name": "Sticker | MIBR (Foil) | London 2018",
+    "nameId": 62192
+  },
+  "Sticker | mousesports | London 2018": {
+    "name": "Sticker | mousesports | London 2018",
+    "nameId": 60123
+  },
+  "Sticker | mousesports (Holo) | London 2018": {
+    "name": "Sticker | mousesports (Holo) | London 2018",
+    "nameId": 61726
+  },
+  "Sticker | Winstrike Team | London 2018": {
+    "name": "Sticker | Winstrike Team | London 2018",
+    "nameId": 60138
+  },
+  "Sticker | Winstrike Team (Holo) | London 2018": {
+    "name": "Sticker | Winstrike Team (Holo) | London 2018",
+    "nameId": 60660
+  },
+  "Sticker | Winstrike Team (Foil) | London 2018": {
+    "name": "Sticker | Winstrike Team (Foil) | London 2018",
+    "nameId": 60679
+  },
+  "Sticker | G2 Esports | London 2018": {
+    "name": "Sticker | G2 Esports | London 2018",
+    "nameId": 60137
+  },
+  "Sticker | G2 Esports (Holo) | London 2018": {
+    "name": "Sticker | G2 Esports (Holo) | London 2018",
+    "nameId": 60140
+  },
+  "Sticker | G2 Esports (Foil) | London 2018": {
+    "name": "Sticker | G2 Esports (Foil) | London 2018",
+    "nameId": 60511
+  },
+  "Sticker | Fnatic | London 2018": {
+    "name": "Sticker | Fnatic | London 2018",
+    "nameId": 60119
+  },
+  "Sticker | Gambit Esports | London 2018": {
+    "name": "Sticker | Gambit Esports | London 2018",
+    "nameId": 60206
+  },
+  "Sticker | Gambit Esports (Foil) | London 2018": {
+    "name": "Sticker | Gambit Esports (Foil) | London 2018",
+    "nameId": 65836
+  },
+  "Sticker | Vega Squadron | London 2018": {
+    "name": "Sticker | Vega Squadron | London 2018",
+    "nameId": 60208
+  },
+  "Sticker | Vega Squadron (Holo) | London 2018": {
+    "name": "Sticker | Vega Squadron (Holo) | London 2018",
+    "nameId": 61727
+  },
+  "Sticker | Vega Squadron (Foil) | London 2018": {
+    "name": "Sticker | Vega Squadron (Foil) | London 2018",
+    "nameId": 68569
+  },
+  "Sticker | Space Soldiers | London 2018": {
+    "name": "Sticker | Space Soldiers | London 2018",
+    "nameId": 60176
+  },
+  "Sticker | Space Soldiers (Holo) | London 2018": {
+    "name": "Sticker | Space Soldiers (Holo) | London 2018",
+    "nameId": 64477
+  },
+  "Sticker | Space Soldiers (Foil) | London 2018": {
+    "name": "Sticker | Space Soldiers (Foil) | London 2018",
+    "nameId": 77150
+  },
+  "Sticker | BIG | London 2018": {
+    "name": "Sticker | BIG | London 2018",
+    "nameId": 60172
+  },
+  "Sticker | Astralis | London 2018": {
+    "name": "Sticker | Astralis | London 2018",
+    "nameId": 60161
+  },
+  "Sticker | Astralis (Holo) | London 2018": {
+    "name": "Sticker | Astralis (Holo) | London 2018",
+    "nameId": 64478
+  },
+  "Sticker | Team Liquid | London 2018": {
+    "name": "Sticker | Team Liquid | London 2018",
+    "nameId": 60165
+  },
+  "Sticker | Team Liquid (Holo) | London 2018": {
+    "name": "Sticker | Team Liquid (Holo) | London 2018",
+    "nameId": 60216
+  },
+  "Sticker | Team Liquid (Foil) | London 2018": {
+    "name": "Sticker | Team Liquid (Foil) | London 2018",
+    "nameId": 149244
+  },
+  "Sticker | North | London 2018": {
+    "name": "Sticker | North | London 2018",
+    "nameId": 60170
+  },
+  "Sticker | North (Holo) | London 2018": {
+    "name": "Sticker | North (Holo) | London 2018",
+    "nameId": 64476
+  },
+  "Sticker | North (Foil) | London 2018": {
+    "name": "Sticker | North (Foil) | London 2018",
+    "nameId": 66291
+  },
+  "Sticker | Virtus.Pro | London 2018": {
+    "name": "Sticker | Virtus.Pro | London 2018",
+    "nameId": 60190
+  },
+  "Sticker | Virtus.Pro (Holo) | London 2018": {
+    "name": "Sticker | Virtus.Pro (Holo) | London 2018",
+    "nameId": 61261
+  },
+  "Sticker | Virtus.Pro (Foil) | London 2018": {
+    "name": "Sticker | Virtus.Pro (Foil) | London 2018",
+    "nameId": 85307
+  },
+  "Sticker | Ninjas in Pyjamas | London 2018": {
+    "name": "Sticker | Ninjas in Pyjamas | London 2018",
+    "nameId": 60188
+  },
+  "Sticker | Ninjas in Pyjamas (Holo) | London 2018": {
+    "name": "Sticker | Ninjas in Pyjamas (Holo) | London 2018",
+    "nameId": 61255
+  },
+  "Sticker | Ninjas in Pyjamas (Foil) | London 2018": {
+    "name": "Sticker | Ninjas in Pyjamas (Foil) | London 2018",
+    "nameId": 66299
+  },
+  "Sticker | compLexity Gaming | London 2018": {
+    "name": "Sticker | compLexity Gaming | London 2018",
+    "nameId": 60136
+  },
+  "Sticker | compLexity Gaming (Holo) | London 2018": {
+    "name": "Sticker | compLexity Gaming (Holo) | London 2018",
+    "nameId": 61254
+  },
+  "Sticker | HellRaisers | London 2018": {
+    "name": "Sticker | HellRaisers | London 2018",
+    "nameId": 60185
+  },
+  "Sticker | HellRaisers (Holo) | London 2018": {
+    "name": "Sticker | HellRaisers (Holo) | London 2018",
+    "nameId": 60218
+  },
+  "Sticker | HellRaisers (Foil) | London 2018": {
+    "name": "Sticker | HellRaisers (Foil) | London 2018",
+    "nameId": 78053
+  },
+  "Sticker | Renegades | London 2018": {
+    "name": "Sticker | Renegades | London 2018",
+    "nameId": 60192
+  },
+  "Sticker | Renegades (Holo) | London 2018": {
+    "name": "Sticker | Renegades (Holo) | London 2018",
+    "nameId": 61252
+  },
+  "Sticker | OpTic Gaming | London 2018": {
+    "name": "Sticker | OpTic Gaming | London 2018",
+    "nameId": 60141
+  },
+  "Sticker | OpTic Gaming (Foil) | London 2018": {
+    "name": "Sticker | OpTic Gaming (Foil) | London 2018",
+    "nameId": 61264
+  },
+  "Sticker | Rogue | London 2018": {
+    "name": "Sticker | Rogue | London 2018",
+    "nameId": 60134
+  },
+  "Sticker | Rogue (Holo) | London 2018": {
+    "name": "Sticker | Rogue (Holo) | London 2018",
+    "nameId": 60769
+  },
+  "Sticker | Rogue (Foil) | London 2018": {
+    "name": "Sticker | Rogue (Foil) | London 2018",
+    "nameId": 68572
+  },
+  "Sticker | Team Spirit | London 2018": {
+    "name": "Sticker | Team Spirit | London 2018",
+    "nameId": 60131
+  },
+  "Sticker | Team Spirit (Holo) | London 2018": {
+    "name": "Sticker | Team Spirit (Holo) | London 2018",
+    "nameId": 65834
+  },
+  "Sticker | Team Spirit (Foil) | London 2018": {
+    "name": "Sticker | Team Spirit (Foil) | London 2018",
+    "nameId": 66297
+  },
+  "Sticker | Tyloo | London 2018": {
+    "name": "Sticker | Tyloo | London 2018",
+    "nameId": 60200
+  },
+  "Sticker | Tyloo (Holo) | London 2018": {
+    "name": "Sticker | Tyloo (Holo) | London 2018",
+    "nameId": 60215
+  },
+  "Sticker | Tyloo (Foil) | London 2018": {
+    "name": "Sticker | Tyloo (Foil) | London 2018",
+    "nameId": 60219
+  },
+  "Sticker | FACEIT | London 2018": {
+    "name": "Sticker | FACEIT | London 2018",
+    "nameId": 60183
+  },
+  "Sticker | FACEIT (Holo) | London 2018": {
+    "name": "Sticker | FACEIT (Holo) | London 2018",
+    "nameId": 60166
+  },
+  "Sticker | FACEIT (Foil) | London 2018": {
+    "name": "Sticker | FACEIT (Foil) | London 2018",
+    "nameId": 60139
+  },
+  "Sticker | Golden | London 2018": {
+    "name": "Sticker | Golden | London 2018",
+    "nameId": 60152
+  },
+  "Sticker | autimatic | London 2018": {
+    "name": "Sticker | autimatic | London 2018",
+    "nameId": 60159
+  },
+  "Sticker | autimatic (Foil) | London 2018": {
+    "name": "Sticker | autimatic (Foil) | London 2018",
+    "nameId": 60587
+  },
+  "Sticker | autimatic (Gold) | London 2018": {
+    "name": "Sticker | autimatic (Gold) | London 2018",
+    "nameId": 63101
+  },
+  "Sticker | RUSH (Foil) | London 2018": {
+    "name": "Sticker | RUSH (Foil) | London 2018",
+    "nameId": 60699
+  },
+  "Sticker | STYKO | London 2018": {
+    "name": "Sticker | STYKO | London 2018",
+    "nameId": 60132
+  },
+  "Sticker | STYKO (Gold) | London 2018": {
+    "name": "Sticker | STYKO (Gold) | London 2018",
+    "nameId": 110977
+  },
+  "Sticker | Skadoodle (Foil) | London 2018": {
+    "name": "Sticker | Skadoodle (Foil) | London 2018",
+    "nameId": 61737
+  },
+  "Sticker | Skadoodle (Gold) | London 2018": {
+    "name": "Sticker | Skadoodle (Gold) | London 2018",
+    "nameId": 167738
+  },
+  "Sticker | GuardiaN (Foil) | London 2018": {
+    "name": "Sticker | GuardiaN (Foil) | London 2018",
+    "nameId": 60729
+  },
+  "Sticker | GuardiaN (Gold) | London 2018": {
+    "name": "Sticker | GuardiaN (Gold) | London 2018",
+    "nameId": 61269
+  },
+  "Sticker | olofmeister | London 2018": {
+    "name": "Sticker | olofmeister | London 2018",
+    "nameId": 60673
+  },
+  "Sticker | olofmeister (Foil) | London 2018": {
+    "name": "Sticker | olofmeister (Foil) | London 2018",
+    "nameId": 60543
+  },
+  "Sticker | karrigan | London 2018": {
+    "name": "Sticker | karrigan | London 2018",
+    "nameId": 60163
+  },
+  "Sticker | karrigan (Foil) | London 2018": {
+    "name": "Sticker | karrigan (Foil) | London 2018",
+    "nameId": 60733
+  },
+  "Sticker | rain | London 2018": {
+    "name": "Sticker | rain | London 2018",
+    "nameId": 60135
+  },
+  "Sticker | rain (Foil) | London 2018": {
+    "name": "Sticker | rain (Foil) | London 2018",
+    "nameId": 60776
+  },
+  "Sticker | NiKo (Foil) | London 2018": {
+    "name": "Sticker | NiKo (Foil) | London 2018",
+    "nameId": 60203
+  },
+  "Sticker | electronic | London 2018": {
+    "name": "Sticker | electronic | London 2018",
+    "nameId": 60169
+  },
+  "Sticker | electronic (Foil) | London 2018": {
+    "name": "Sticker | electronic (Foil) | London 2018",
+    "nameId": 60748
+  },
+  "Sticker | Zeus | London 2018": {
+    "name": "Sticker | Zeus | London 2018",
+    "nameId": 60162
+  },
+  "Sticker | Zeus (Foil) | London 2018": {
+    "name": "Sticker | Zeus (Foil) | London 2018",
+    "nameId": 62189
+  },
+  "Sticker | Zeus (Gold) | London 2018": {
+    "name": "Sticker | Zeus (Gold) | London 2018",
+    "nameId": 81250
+  },
+  "Sticker | s1mple | London 2018": {
+    "name": "Sticker | s1mple | London 2018",
+    "nameId": 60615
+  },
+  "Sticker | s1mple (Gold) | London 2018": {
+    "name": "Sticker | s1mple (Gold) | London 2018",
+    "nameId": 110978
+  },
+  "Sticker | Edward | London 2018": {
+    "name": "Sticker | Edward | London 2018",
+    "nameId": 60575
+  },
+  "Sticker | Edward (Foil) | London 2018": {
+    "name": "Sticker | Edward (Foil) | London 2018",
+    "nameId": 60798
+  },
+  "Sticker | Edward (Gold) | London 2018": {
+    "name": "Sticker | Edward (Gold) | London 2018",
+    "nameId": 108725
+  },
+  "Sticker | flamie | London 2018": {
+    "name": "Sticker | flamie | London 2018",
+    "nameId": 60231
+  },
+  "Sticker | flamie (Foil) | London 2018": {
+    "name": "Sticker | flamie (Foil) | London 2018",
+    "nameId": 60581
+  },
+  "Sticker | coldzera (Foil) | London 2018": {
+    "name": "Sticker | coldzera (Foil) | London 2018",
+    "nameId": 62191
+  },
+  "Sticker | coldzera (Gold) | London 2018": {
+    "name": "Sticker | coldzera (Gold) | London 2018",
+    "nameId": 134836
+  },
+  "Sticker | FalleN | London 2018": {
+    "name": "Sticker | FalleN | London 2018",
+    "nameId": 60226
+  },
+  "Sticker | FalleN (Gold) | London 2018": {
+    "name": "Sticker | FalleN (Gold) | London 2018",
+    "nameId": 69942
+  },
+  "Sticker | tarik | London 2018": {
+    "name": "Sticker | tarik | London 2018",
+    "nameId": 60224
+  },
+  "Sticker | tarik (Foil) | London 2018": {
+    "name": "Sticker | tarik (Foil) | London 2018",
+    "nameId": 60225
+  },
+  "Sticker | Stewie2K | London 2018": {
+    "name": "Sticker | Stewie2K | London 2018",
+    "nameId": 60222
+  },
+  "Sticker | Stewie2K (Gold) | London 2018": {
+    "name": "Sticker | Stewie2K (Gold) | London 2018",
+    "nameId": 71028
+  },
+  "Sticker | fer | London 2018": {
+    "name": "Sticker | fer | London 2018",
+    "nameId": 60524
+  },
+  "Sticker | fer (Foil) | London 2018": {
+    "name": "Sticker | fer (Foil) | London 2018",
+    "nameId": 60712
+  },
+  "Sticker | chrisJ | London 2018": {
+    "name": "Sticker | chrisJ | London 2018",
+    "nameId": 60228
+  },
+  "Sticker | chrisJ (Gold) | London 2018": {
+    "name": "Sticker | chrisJ (Gold) | London 2018",
+    "nameId": 167734
+  },
+  "Sticker | ropz (Foil) | London 2018": {
+    "name": "Sticker | ropz (Foil) | London 2018",
+    "nameId": 62183
+  },
+  "Sticker | suNny | London 2018": {
+    "name": "Sticker | suNny | London 2018",
+    "nameId": 60648
+  },
+  "Sticker | suNny (Foil) | London 2018": {
+    "name": "Sticker | suNny (Foil) | London 2018",
+    "nameId": 60730
+  },
+  "Sticker | suNny (Gold) | London 2018": {
+    "name": "Sticker | suNny (Gold) | London 2018",
+    "nameId": 167713
+  },
+  "Sticker | oskar | London 2018": {
+    "name": "Sticker | oskar | London 2018",
+    "nameId": 60232
+  },
+  "Sticker | oskar (Foil) | London 2018": {
+    "name": "Sticker | oskar (Foil) | London 2018",
+    "nameId": 62193
+  },
+  "Sticker | oskar (Gold) | London 2018": {
+    "name": "Sticker | oskar (Gold) | London 2018",
+    "nameId": 145641
+  },
+  "Sticker | Kvik | London 2018": {
+    "name": "Sticker | Kvik | London 2018",
+    "nameId": 60568
+  },
+  "Sticker | Kvik (Foil) | London 2018": {
+    "name": "Sticker | Kvik (Foil) | London 2018",
+    "nameId": 60599
+  },
+  "Sticker | balblna | London 2018": {
+    "name": "Sticker | balblna | London 2018",
+    "nameId": 60142
+  },
+  "Sticker | balblna (Foil) | London 2018": {
+    "name": "Sticker | balblna (Foil) | London 2018",
+    "nameId": 60654
+  },
+  "Sticker | waterfaLLZ | London 2018": {
+    "name": "Sticker | waterfaLLZ | London 2018",
+    "nameId": 60223
+  },
+  "Sticker | waterfaLLZ (Gold) | London 2018": {
+    "name": "Sticker | waterfaLLZ (Gold) | London 2018",
+    "nameId": 167796
+  },
+  "Sticker | Boombl4 | London 2018": {
+    "name": "Sticker | Boombl4 | London 2018",
+    "nameId": 60635
+  },
+  "Sticker | Boombl4 (Foil) | London 2018": {
+    "name": "Sticker | Boombl4 (Foil) | London 2018",
+    "nameId": 60768
+  },
+  "Sticker | Boombl4 (Gold) | London 2018": {
+    "name": "Sticker | Boombl4 (Gold) | London 2018",
+    "nameId": 77920
+  },
+  "Sticker | kennyS | London 2018": {
+    "name": "Sticker | kennyS | London 2018",
+    "nameId": 60146
+  },
+  "Sticker | kennyS (Foil) | London 2018": {
+    "name": "Sticker | kennyS (Foil) | London 2018",
+    "nameId": 60628
+  },
+  "Sticker | kennyS (Gold) | London 2018": {
+    "name": "Sticker | kennyS (Gold) | London 2018",
+    "nameId": 110979
+  },
+  "Sticker | bodyy | London 2018": {
+    "name": "Sticker | bodyy | London 2018",
+    "nameId": 60556
+  },
+  "Sticker | bodyy (Foil) | London 2018": {
+    "name": "Sticker | bodyy (Foil) | London 2018",
+    "nameId": 68576
+  },
+  "Sticker | shox | London 2018": {
+    "name": "Sticker | shox | London 2018",
+    "nameId": 60622
+  },
+  "Sticker | shox (Foil) | London 2018": {
+    "name": "Sticker | shox (Foil) | London 2018",
+    "nameId": 60745
+  },
+  "Sticker | Ex6TenZ | London 2018": {
+    "name": "Sticker | Ex6TenZ | London 2018",
+    "nameId": 60505
+  },
+  "Sticker | Ex6TenZ (Foil) | London 2018": {
+    "name": "Sticker | Ex6TenZ (Foil) | London 2018",
+    "nameId": 60736
+  },
+  "Sticker | Ex6TenZ (Gold) | London 2018": {
+    "name": "Sticker | Ex6TenZ (Gold) | London 2018",
+    "nameId": 128532
+  },
+  "Sticker | SmithZz | London 2018": {
+    "name": "Sticker | SmithZz | London 2018",
+    "nameId": 60777
+  },
+  "Sticker | SmithZz (Gold) | London 2018": {
+    "name": "Sticker | SmithZz (Gold) | London 2018",
+    "nameId": 84854
+  },
+  "Sticker | draken | London 2018": {
+    "name": "Sticker | draken | London 2018",
+    "nameId": 60666
+  },
+  "Sticker | draken (Foil) | London 2018": {
+    "name": "Sticker | draken (Foil) | London 2018",
+    "nameId": 60786
+  },
+  "Sticker | JW (Foil) | London 2018": {
+    "name": "Sticker | JW (Foil) | London 2018",
+    "nameId": 60785
+  },
+  "Sticker | JW (Gold) | London 2018": {
+    "name": "Sticker | JW (Gold) | London 2018",
+    "nameId": 81251
+  },
+  "Sticker | KRIMZ | London 2018": {
+    "name": "Sticker | KRIMZ | London 2018",
+    "nameId": 60167
+  },
+  "Sticker | KRIMZ (Foil) | London 2018": {
+    "name": "Sticker | KRIMZ (Foil) | London 2018",
+    "nameId": 60685
+  },
+  "Sticker | KRIMZ (Gold) | London 2018": {
+    "name": "Sticker | KRIMZ (Gold) | London 2018",
+    "nameId": 128533
+  },
+  "Sticker | flusha | London 2018": {
+    "name": "Sticker | flusha | London 2018",
+    "nameId": 60133
+  },
+  "Sticker | flusha (Foil) | London 2018": {
+    "name": "Sticker | flusha (Foil) | London 2018",
+    "nameId": 60706
+  },
+  "Sticker | flusha (Gold) | London 2018": {
+    "name": "Sticker | flusha (Gold) | London 2018",
+    "nameId": 91160
+  },
+  "Sticker | Xizt | London 2018": {
+    "name": "Sticker | Xizt | London 2018",
+    "nameId": 60151
+  },
+  "Sticker | Xizt (Foil) | London 2018": {
+    "name": "Sticker | Xizt (Foil) | London 2018",
+    "nameId": 60772
+  },
+  "Sticker | mir (Foil) | London 2018": {
+    "name": "Sticker | mir (Foil) | London 2018",
+    "nameId": 60143
+  },
+  "Sticker | mir (Gold) | London 2018": {
+    "name": "Sticker | mir (Gold) | London 2018",
+    "nameId": 167730
+  },
+  "Sticker | Dosia (Foil) | London 2018": {
+    "name": "Sticker | Dosia (Foil) | London 2018",
+    "nameId": 66305
+  },
+  "Sticker | Dosia (Gold) | London 2018": {
+    "name": "Sticker | Dosia (Gold) | London 2018",
+    "nameId": 167731
+  },
+  "Sticker | Hobbit (Foil) | London 2018": {
+    "name": "Sticker | Hobbit (Foil) | London 2018",
+    "nameId": 60727
+  },
+  "Sticker | Hobbit (Gold) | London 2018": {
+    "name": "Sticker | Hobbit (Gold) | London 2018",
+    "nameId": 167770
+  },
+  "Sticker | mou | London 2018": {
+    "name": "Sticker | mou | London 2018",
+    "nameId": 63110
+  },
+  "Sticker | mou (Gold) | London 2018": {
+    "name": "Sticker | mou (Gold) | London 2018",
+    "nameId": 167829
+  },
+  "Sticker | AdreN | London 2018": {
+    "name": "Sticker | AdreN | London 2018",
+    "nameId": 60144
+  },
+  "Sticker | AdreN (Foil) | London 2018": {
+    "name": "Sticker | AdreN (Foil) | London 2018",
+    "nameId": 81124
+  },
+  "Sticker | AdreN (Gold) | London 2018": {
+    "name": "Sticker | AdreN (Gold) | London 2018",
+    "nameId": 167784
+  },
+  "Sticker | tonyblack | London 2018": {
+    "name": "Sticker | tonyblack | London 2018",
+    "nameId": 61270
+  },
+  "Sticker | tonyblack (Foil) | London 2018": {
+    "name": "Sticker | tonyblack (Foil) | London 2018",
+    "nameId": 69934
+  },
+  "Sticker | tonyblack (Gold) | London 2018": {
+    "name": "Sticker | tonyblack (Gold) | London 2018",
+    "nameId": 167712
+  },
+  "Sticker | crush | London 2018": {
+    "name": "Sticker | crush | London 2018",
+    "nameId": 60771
+  },
+  "Sticker | crush (Foil) | London 2018": {
+    "name": "Sticker | crush (Foil) | London 2018",
+    "nameId": 66307
+  },
+  "Sticker | jR (Gold) | London 2018": {
+    "name": "Sticker | jR (Gold) | London 2018",
+    "nameId": 168858
+  },
+  "Sticker | chopper | London 2018": {
+    "name": "Sticker | chopper | London 2018",
+    "nameId": 60782
+  },
+  "Sticker | chopper (Gold) | London 2018": {
+    "name": "Sticker | chopper (Gold) | London 2018",
+    "nameId": 167783
+  },
+  "Sticker | XANTARES (Gold) | London 2018": {
+    "name": "Sticker | XANTARES (Gold) | London 2018",
+    "nameId": 167758
+  },
+  "Sticker | Calyx | London 2018": {
+    "name": "Sticker | Calyx | London 2018",
+    "nameId": 64024
+  },
+  "Sticker | Calyx (Foil) | London 2018": {
+    "name": "Sticker | Calyx (Foil) | London 2018",
+    "nameId": 60781
+  },
+  "Sticker | Calyx (Gold) | London 2018": {
+    "name": "Sticker | Calyx (Gold) | London 2018",
+    "nameId": 84567
+  },
+  "Sticker | paz (Gold) | London 2018": {
+    "name": "Sticker | paz (Gold) | London 2018",
+    "nameId": 169068
+  },
+  "Sticker | ngiN | London 2018": {
+    "name": "Sticker | ngiN | London 2018",
+    "nameId": 61736
+  },
+  "Sticker | ngiN (Foil) | London 2018": {
+    "name": "Sticker | ngiN (Foil) | London 2018",
+    "nameId": 67217
+  },
+  "Sticker | ngiN (Gold) | London 2018": {
+    "name": "Sticker | ngiN (Gold) | London 2018",
+    "nameId": 167736
+  },
+  "Sticker | MAJ3R (Foil) | London 2018": {
+    "name": "Sticker | MAJ3R (Foil) | London 2018",
+    "nameId": 60728
+  },
+  "Sticker | gob b | London 2018": {
+    "name": "Sticker | gob b | London 2018",
+    "nameId": 60797
+  },
+  "Sticker | gob b (Foil) | London 2018": {
+    "name": "Sticker | gob b (Foil) | London 2018",
+    "nameId": 60791
+  },
+  "Sticker | tabseN (Foil) | London 2018": {
+    "name": "Sticker | tabseN (Foil) | London 2018",
+    "nameId": 70843
+  },
+  "Sticker | tabseN (Gold) | London 2018": {
+    "name": "Sticker | tabseN (Gold) | London 2018",
+    "nameId": 167733
+  },
+  "Sticker | nex | London 2018": {
+    "name": "Sticker | nex | London 2018",
+    "nameId": 60780
+  },
+  "Sticker | nex (Gold) | London 2018": {
+    "name": "Sticker | nex (Gold) | London 2018",
+    "nameId": 167821
+  },
+  "Sticker | smooya | London 2018": {
+    "name": "Sticker | smooya | London 2018",
+    "nameId": 63113
+  },
+  "Sticker | smooya (Gold) | London 2018": {
+    "name": "Sticker | smooya (Gold) | London 2018",
+    "nameId": 167721
+  },
+  "Sticker | dupreeh (Foil) | London 2018": {
+    "name": "Sticker | dupreeh (Foil) | London 2018",
+    "nameId": 60795
+  },
+  "Sticker | dupreeh (Gold) | London 2018": {
+    "name": "Sticker | dupreeh (Gold) | London 2018",
+    "nameId": 167739
+  },
+  "Sticker | gla1ve | London 2018": {
+    "name": "Sticker | gla1ve | London 2018",
+    "nameId": 60793
+  },
+  "Sticker | gla1ve (Foil) | London 2018": {
+    "name": "Sticker | gla1ve (Foil) | London 2018",
+    "nameId": 60796
+  },
+  "Sticker | device | London 2018": {
+    "name": "Sticker | device | London 2018",
+    "nameId": 60778
+  },
+  "Sticker | Xyp9x (Gold) | London 2018": {
+    "name": "Sticker | Xyp9x (Gold) | London 2018",
+    "nameId": 167719
+  },
+  "Sticker | TACO | London 2018": {
+    "name": "Sticker | TACO | London 2018",
+    "nameId": 60732
+  },
+  "Sticker | TACO (Foil) | London 2018": {
+    "name": "Sticker | TACO (Foil) | London 2018",
+    "nameId": 68568
+  },
+  "Sticker | TACO (Gold) | London 2018": {
+    "name": "Sticker | TACO (Gold) | London 2018",
+    "nameId": 167732
+  },
+  "Sticker | Twistzz | London 2018": {
+    "name": "Sticker | Twistzz | London 2018",
+    "nameId": 60148
+  },
+  "Sticker | NAF (Foil) | London 2018": {
+    "name": "Sticker | NAF (Foil) | London 2018",
+    "nameId": 69481
+  },
+  "Sticker | nitr0 (Foil) | London 2018": {
+    "name": "Sticker | nitr0 (Foil) | London 2018",
+    "nameId": 81130
+  },
+  "Sticker | MSL (Gold) | London 2018": {
+    "name": "Sticker | MSL (Gold) | London 2018",
+    "nameId": 168894
+  },
+  "Sticker | niko  | London 2018": {
+    "name": "Sticker | niko  | London 2018",
+    "nameId": 167704
+  },
+  "Sticker | Kjaerbye | London 2018": {
+    "name": "Sticker | Kjaerbye | London 2018",
+    "nameId": 60156
+  },
+  "Sticker | Kjaerbye (Gold) | London 2018": {
+    "name": "Sticker | Kjaerbye (Gold) | London 2018",
+    "nameId": 167779
+  },
+  "Sticker | aizy | London 2018": {
+    "name": "Sticker | aizy | London 2018",
+    "nameId": 60227
+  },
+  "Sticker | byali (Foil) | London 2018": {
+    "name": "Sticker | byali (Foil) | London 2018",
+    "nameId": 66293
+  },
+  "Sticker | byali (Gold) | London 2018": {
+    "name": "Sticker | byali (Gold) | London 2018",
+    "nameId": 167778
+  },
+  "Sticker | pashaBiceps | London 2018": {
+    "name": "Sticker | pashaBiceps | London 2018",
+    "nameId": 60150
+  },
+  "Sticker | pashaBiceps (Gold) | London 2018": {
+    "name": "Sticker | pashaBiceps (Gold) | London 2018",
+    "nameId": 167740
+  },
+  "Sticker | NEO (Foil) | London 2018": {
+    "name": "Sticker | NEO (Foil) | London 2018",
+    "nameId": 64016
+  },
+  "Sticker | snatchie | London 2018": {
+    "name": "Sticker | snatchie | London 2018",
+    "nameId": 60784
+  },
+  "Sticker | snatchie (Gold) | London 2018": {
+    "name": "Sticker | snatchie (Gold) | London 2018",
+    "nameId": 167840
+  },
+  "Sticker | GeT_RiGhT | London 2018": {
+    "name": "Sticker | GeT_RiGhT | London 2018",
+    "nameId": 60763
+  },
+  "Sticker | Lekr0 (Foil) | London 2018": {
+    "name": "Sticker | Lekr0 (Foil) | London 2018",
+    "nameId": 64019
+  },
+  "Sticker | REZ | London 2018": {
+    "name": "Sticker | REZ | London 2018",
+    "nameId": 60760
+  },
+  "Sticker | REZ (Foil) | London 2018": {
+    "name": "Sticker | REZ (Foil) | London 2018",
+    "nameId": 65838
+  },
+  "Sticker | REZ (Gold) | London 2018": {
+    "name": "Sticker | REZ (Gold) | London 2018",
+    "nameId": 170006
+  },
+  "Sticker | stanislaw | London 2018": {
+    "name": "Sticker | stanislaw | London 2018",
+    "nameId": 60720
+  },
+  "Sticker | stanislaw (Foil) | London 2018": {
+    "name": "Sticker | stanislaw (Foil) | London 2018",
+    "nameId": 66298
+  },
+  "Sticker | dephh (Foil) | London 2018": {
+    "name": "Sticker | dephh (Foil) | London 2018",
+    "nameId": 63109
+  },
+  "Sticker | yay | London 2018": {
+    "name": "Sticker | yay | London 2018",
+    "nameId": 60770
+  },
+  "Sticker | yay (Foil) | London 2018": {
+    "name": "Sticker | yay (Foil) | London 2018",
+    "nameId": 63105
+  },
+  "Sticker | woxic | London 2018": {
+    "name": "Sticker | woxic | London 2018",
+    "nameId": 61257
+  },
+  "Sticker | ISSAA | London 2018": {
+    "name": "Sticker | ISSAA | London 2018",
+    "nameId": 60758
+  },
+  "Sticker | ISSAA (Foil) | London 2018": {
+    "name": "Sticker | ISSAA (Foil) | London 2018",
+    "nameId": 61265
+  },
+  "Sticker | ISSAA (Gold) | London 2018": {
+    "name": "Sticker | ISSAA (Gold) | London 2018",
+    "nameId": 66294
+  },
+  "Sticker | ANGE1 | London 2018": {
+    "name": "Sticker | ANGE1 | London 2018",
+    "nameId": 63104
+  },
+  "Sticker | ANGE1 (Foil) | London 2018": {
+    "name": "Sticker | ANGE1 (Foil) | London 2018",
+    "nameId": 63108
+  },
+  "Sticker | DeadFox (Foil) | London 2018": {
+    "name": "Sticker | DeadFox (Foil) | London 2018",
+    "nameId": 67211
+  },
+  "Sticker | Nifty (Foil) | London 2018": {
+    "name": "Sticker | Nifty (Foil) | London 2018",
+    "nameId": 60734
+  },
+  "Sticker | Nifty (Gold) | London 2018": {
+    "name": "Sticker | Nifty (Gold) | London 2018",
+    "nameId": 151945
+  },
+  "Sticker | jks | London 2018": {
+    "name": "Sticker | jks | London 2018",
+    "nameId": 61271
+  },
+  "Sticker | jks (Foil) | London 2018": {
+    "name": "Sticker | jks (Foil) | London 2018",
+    "nameId": 61275
+  },
+  "Sticker | USTILO (Gold) | London 2018": {
+    "name": "Sticker | USTILO (Gold) | London 2018",
+    "nameId": 167707
+  },
+  "Sticker | AZR | London 2018": {
+    "name": "Sticker | AZR | London 2018",
+    "nameId": 60145
+  },
+  "Sticker | AZR (Foil) | London 2018": {
+    "name": "Sticker | AZR (Foil) | London 2018",
+    "nameId": 61259
+  },
+  "Sticker | AZR (Gold) | London 2018": {
+    "name": "Sticker | AZR (Gold) | London 2018",
+    "nameId": 64017
+  },
+  "Sticker | cajunb | London 2018": {
+    "name": "Sticker | cajunb | London 2018",
+    "nameId": 60753
+  },
+  "Sticker | cajunb (Foil) | London 2018": {
+    "name": "Sticker | cajunb (Foil) | London 2018",
+    "nameId": 61273
+  },
+  "Sticker | k0nfig | London 2018": {
+    "name": "Sticker | k0nfig | London 2018",
+    "nameId": 60762
+  },
+  "Sticker | k0nfig (Gold) | London 2018": {
+    "name": "Sticker | k0nfig (Gold) | London 2018",
+    "nameId": 167711
+  },
+  "Sticker | gade (Gold) | London 2018": {
+    "name": "Sticker | gade (Gold) | London 2018",
+    "nameId": 167793
+  },
+  "Sticker | Snappi | London 2018": {
+    "name": "Sticker | Snappi | London 2018",
+    "nameId": 60761
+  },
+  "Sticker | Snappi (Foil) | London 2018": {
+    "name": "Sticker | Snappi (Foil) | London 2018",
+    "nameId": 65840
+  },
+  "Sticker | JUGi (Foil) | London 2018": {
+    "name": "Sticker | JUGi (Foil) | London 2018",
+    "nameId": 66303
+  },
+  "Sticker | JUGi (Gold) | London 2018": {
+    "name": "Sticker | JUGi (Gold) | London 2018",
+    "nameId": 114581
+  },
+  "Sticker | SicK | London 2018": {
+    "name": "Sticker | SicK | London 2018",
+    "nameId": 60751
+  },
+  "Sticker | SicK (Foil) | London 2018": {
+    "name": "Sticker | SicK (Foil) | London 2018",
+    "nameId": 67212
+  },
+  "Sticker | SicK (Gold) | London 2018": {
+    "name": "Sticker | SicK (Gold) | London 2018",
+    "nameId": 167818
+  },
+  "Sticker | Hiko (Gold) | London 2018": {
+    "name": "Sticker | Hiko (Gold) | London 2018",
+    "nameId": 168744
+  },
+  "Sticker | Rickeh | London 2018": {
+    "name": "Sticker | Rickeh | London 2018",
+    "nameId": 60750
+  },
+  "Sticker | cadiaN | London 2018": {
+    "name": "Sticker | cadiaN | London 2018",
+    "nameId": 60752
+  },
+  "Sticker | cadiaN (Foil) | London 2018": {
+    "name": "Sticker | cadiaN (Foil) | London 2018",
+    "nameId": 61731
+  },
+  "Sticker | vice | London 2018": {
+    "name": "Sticker | vice | London 2018",
+    "nameId": 60757
+  },
+  "Sticker | vice (Foil) | London 2018": {
+    "name": "Sticker | vice (Foil) | London 2018",
+    "nameId": 66309
+  },
+  "Sticker | Dima | London 2018": {
+    "name": "Sticker | Dima | London 2018",
+    "nameId": 60749
+  },
+  "Sticker | Dima (Gold) | London 2018": {
+    "name": "Sticker | Dima (Gold) | London 2018",
+    "nameId": 76247
+  },
+  "Sticker | sdy (Foil) | London 2018": {
+    "name": "Sticker | sdy (Foil) | London 2018",
+    "nameId": 61735
+  },
+  "Sticker | sdy (Gold) | London 2018": {
+    "name": "Sticker | sdy (Gold) | London 2018",
+    "nameId": 64022
+  },
+  "Sticker | DavCost | London 2018": {
+    "name": "Sticker | DavCost | London 2018",
+    "nameId": 60154
+  },
+  "Sticker | DavCost (Foil) | London 2018": {
+    "name": "Sticker | DavCost (Foil) | London 2018",
+    "nameId": 61730
+  },
+  "Sticker | somebody (Foil) | London 2018": {
+    "name": "Sticker | somebody (Foil) | London 2018",
+    "nameId": 66301
+  },
+  "Sticker | captainMo | London 2018": {
+    "name": "Sticker | captainMo | London 2018",
+    "nameId": 60722
+  },
+  "Sticker | captainMo (Gold) | London 2018": {
+    "name": "Sticker | captainMo (Gold) | London 2018",
+    "nameId": 167753
+  },
+  "Sticker | DD (Foil) | London 2018": {
+    "name": "Sticker | DD (Foil) | London 2018",
+    "nameId": 66300
+  },
+  "Sticker | xccurate (Gold) | London 2018": {
+    "name": "Sticker | xccurate (Gold) | London 2018",
+    "nameId": 168967
+  },
+  "Sticker | Silver": {
+    "name": "Sticker | Silver",
+    "nameId": 170970
+  },
+  "Sticker | Silver (Foil)": {
+    "name": "Sticker | Silver (Foil)",
+    "nameId": 170985
+  },
+  "Sticker | Gold Nova": {
+    "name": "Sticker | Gold Nova",
+    "nameId": 170973
+  },
+  "Sticker | Gold Nova (Holo)": {
+    "name": "Sticker | Gold Nova (Holo)",
+    "nameId": 170981
+  },
+  "Sticker | Master Guardian": {
+    "name": "Sticker | Master Guardian",
+    "nameId": 170968
+  },
+  "Sticker | Master Guardian (Holo)": {
+    "name": "Sticker | Master Guardian (Holo)",
+    "nameId": 170976
+  },
+  "Sticker | Master Guardian Elite": {
+    "name": "Sticker | Master Guardian Elite",
+    "nameId": 170971
+  },
+  "Sticker | Master Guardian Elite (Holo)": {
+    "name": "Sticker | Master Guardian Elite (Holo)",
+    "nameId": 170982
+  },
+  "Sticker | Distinguished Master Guardian": {
+    "name": "Sticker | Distinguished Master Guardian",
+    "nameId": 170972
+  },
+  "Sticker | Distinguished Master Guardian (Holo)": {
+    "name": "Sticker | Distinguished Master Guardian (Holo)",
+    "nameId": 170979
+  },
+  "Sticker | Legendary Eagle": {
+    "name": "Sticker | Legendary Eagle",
+    "nameId": 170966
+  },
+  "Sticker | Legendary Eagle (Holo)": {
+    "name": "Sticker | Legendary Eagle (Holo)",
+    "nameId": 170977
+  },
+  "Sticker | Legendary Eagle Master": {
+    "name": "Sticker | Legendary Eagle Master",
+    "nameId": 170967
+  },
+  "Sticker | Legendary Eagle Master (Holo)": {
+    "name": "Sticker | Legendary Eagle Master (Holo)",
+    "nameId": 170978
+  },
+  "Sticker | Supreme Master First Class": {
+    "name": "Sticker | Supreme Master First Class",
+    "nameId": 170969
+  },
+  "Sticker | Supreme Master First Class (Holo)": {
+    "name": "Sticker | Supreme Master First Class (Holo)",
+    "nameId": 170983
+  },
+  "Sticker | Global Elite": {
+    "name": "Sticker | Global Elite",
+    "nameId": 170974
+  },
+  "Sticker | Global Elite (Foil)": {
+    "name": "Sticker | Global Elite (Foil)",
+    "nameId": 170980
+  },
+  "Sticker | Astralis | Katowice 2019": {
+    "name": "Sticker | Astralis | Katowice 2019",
+    "nameId": 195037
+  },
+  "Sticker | Astralis (Holo) | Katowice 2019": {
+    "name": "Sticker | Astralis (Holo) | Katowice 2019",
+    "nameId": 195058
+  },
+  "Sticker | Astralis (Foil) | Katowice 2019": {
+    "name": "Sticker | Astralis (Foil) | Katowice 2019",
+    "nameId": 195126
+  },
+  "Sticker | Avangar | Katowice 2019": {
+    "name": "Sticker | Avangar | Katowice 2019",
+    "nameId": 195104
+  },
+  "Sticker | Avangar (Holo) | Katowice 2019": {
+    "name": "Sticker | Avangar (Holo) | Katowice 2019",
+    "nameId": 195123
+  },
+  "Sticker | Avangar (Foil) | Katowice 2019": {
+    "name": "Sticker | Avangar (Foil) | Katowice 2019",
+    "nameId": 194905
+  },
+  "Sticker | BIG | Katowice 2019": {
+    "name": "Sticker | BIG | Katowice 2019",
+    "nameId": 195105
+  },
+  "Sticker | BIG (Holo) | Katowice 2019": {
+    "name": "Sticker | BIG (Holo) | Katowice 2019",
+    "nameId": 194998
+  },
+  "Sticker | BIG (Foil) | Katowice 2019": {
+    "name": "Sticker | BIG (Foil) | Katowice 2019",
+    "nameId": 195143
+  },
+  "Sticker | Cloud9 | Katowice 2019": {
+    "name": "Sticker | Cloud9 | Katowice 2019",
+    "nameId": 195036
+  },
+  "Sticker | Cloud9 (Holo) | Katowice 2019": {
+    "name": "Sticker | Cloud9 (Holo) | Katowice 2019",
+    "nameId": 195017
+  },
+  "Sticker | Cloud9 (Foil) | Katowice 2019": {
+    "name": "Sticker | Cloud9 (Foil) | Katowice 2019",
+    "nameId": 195636
+  },
+  "Sticker | compLexity Gaming | Katowice 2019": {
+    "name": "Sticker | compLexity Gaming | Katowice 2019",
+    "nameId": 195103
+  },
+  "Sticker | compLexity Gaming (Holo) | Katowice 2019": {
+    "name": "Sticker | compLexity Gaming (Holo) | Katowice 2019",
+    "nameId": 195062
+  },
+  "Sticker | compLexity Gaming (Foil) | Katowice 2019": {
+    "name": "Sticker | compLexity Gaming (Foil) | Katowice 2019",
+    "nameId": 195078
+  },
+  "Sticker | ENCE | Katowice 2019": {
+    "name": "Sticker | ENCE | Katowice 2019",
+    "nameId": 194860
+  },
+  "Sticker | ENCE (Holo) | Katowice 2019": {
+    "name": "Sticker | ENCE (Holo) | Katowice 2019",
+    "nameId": 194917
+  },
+  "Sticker | ENCE (Foil) | Katowice 2019": {
+    "name": "Sticker | ENCE (Foil) | Katowice 2019",
+    "nameId": 195061
+  },
+  "Sticker | FaZe Clan | Katowice 2019": {
+    "name": "Sticker | FaZe Clan | Katowice 2019",
+    "nameId": 195035
+  },
+  "Sticker | FaZe Clan (Holo) | Katowice 2019": {
+    "name": "Sticker | FaZe Clan (Holo) | Katowice 2019",
+    "nameId": 195012
+  },
+  "Sticker | FaZe Clan (Foil) | Katowice 2019": {
+    "name": "Sticker | FaZe Clan (Foil) | Katowice 2019",
+    "nameId": 195076
+  },
+  "Sticker | Fnatic | Katowice 2019": {
+    "name": "Sticker | Fnatic | Katowice 2019",
+    "nameId": 195034
+  },
+  "Sticker | Fnatic (Holo) | Katowice 2019": {
+    "name": "Sticker | Fnatic (Holo) | Katowice 2019",
+    "nameId": 194877
+  },
+  "Sticker | Fnatic (Foil) | Katowice 2019": {
+    "name": "Sticker | Fnatic (Foil) | Katowice 2019",
+    "nameId": 195077
+  },
+  "Sticker | FURIA | Katowice 2019": {
+    "name": "Sticker | FURIA | Katowice 2019",
+    "nameId": 194863
+  },
+  "Sticker | FURIA (Holo) | Katowice 2019": {
+    "name": "Sticker | FURIA (Holo) | Katowice 2019",
+    "nameId": 195056
+  },
+  "Sticker | FURIA (Foil) | Katowice 2019": {
+    "name": "Sticker | FURIA (Foil) | Katowice 2019",
+    "nameId": 195649
+  },
+  "Sticker | G2 Esports (Holo) | Katowice 2019": {
+    "name": "Sticker | G2 Esports (Holo) | Katowice 2019",
+    "nameId": 194954
+  },
+  "Sticker | G2 Esports (Foil) | Katowice 2019": {
+    "name": "Sticker | G2 Esports (Foil) | Katowice 2019",
+    "nameId": 195159
+  },
+  "Sticker | Grayhound Gaming (Holo) | Katowice 2019": {
+    "name": "Sticker | Grayhound Gaming (Holo) | Katowice 2019",
+    "nameId": 194910
+  },
+  "Sticker | Grayhound Gaming (Foil) | Katowice 2019": {
+    "name": "Sticker | Grayhound Gaming (Foil) | Katowice 2019",
+    "nameId": 195124
+  },
+  "Sticker | HellRaisers | Katowice 2019": {
+    "name": "Sticker | HellRaisers | Katowice 2019",
+    "nameId": 195072
+  },
+  "Sticker | HellRaisers (Holo) | Katowice 2019": {
+    "name": "Sticker | HellRaisers (Holo) | Katowice 2019",
+    "nameId": 194924
+  },
+  "Sticker | HellRaisers (Foil) | Katowice 2019": {
+    "name": "Sticker | HellRaisers (Foil) | Katowice 2019",
+    "nameId": 195144
+  },
+  "Sticker | MIBR | Katowice 2019": {
+    "name": "Sticker | MIBR | Katowice 2019",
+    "nameId": 194859
+  },
+  "Sticker | MIBR (Holo) | Katowice 2019": {
+    "name": "Sticker | MIBR (Holo) | Katowice 2019",
+    "nameId": 194930
+  },
+  "Sticker | MIBR (Foil) | Katowice 2019": {
+    "name": "Sticker | MIBR (Foil) | Katowice 2019",
+    "nameId": 194949
+  },
+  "Sticker | Natus Vincere | Katowice 2019": {
+    "name": "Sticker | Natus Vincere | Katowice 2019",
+    "nameId": 195030
+  },
+  "Sticker | Natus Vincere (Holo) | Katowice 2019": {
+    "name": "Sticker | Natus Vincere (Holo) | Katowice 2019",
+    "nameId": 194898
+  },
+  "Sticker | Natus Vincere (Foil) | Katowice 2019": {
+    "name": "Sticker | Natus Vincere (Foil) | Katowice 2019",
+    "nameId": 195157
+  },
+  "Sticker | Ninjas in Pyjamas | Katowice 2019": {
+    "name": "Sticker | Ninjas in Pyjamas | Katowice 2019",
+    "nameId": 195031
+  },
+  "Sticker | Ninjas in Pyjamas (Holo) | Katowice 2019": {
+    "name": "Sticker | Ninjas in Pyjamas (Holo) | Katowice 2019",
+    "nameId": 195007
+  },
+  "Sticker | Ninjas in Pyjamas (Foil) | Katowice 2019": {
+    "name": "Sticker | Ninjas in Pyjamas (Foil) | Katowice 2019",
+    "nameId": 195113
+  },
+  "Sticker | NRG | Katowice 2019": {
+    "name": "Sticker | NRG | Katowice 2019",
+    "nameId": 195032
+  },
+  "Sticker | NRG (Holo) | Katowice 2019": {
+    "name": "Sticker | NRG (Holo) | Katowice 2019",
+    "nameId": 194907
+  },
+  "Sticker | NRG (Foil) | Katowice 2019": {
+    "name": "Sticker | NRG (Foil) | Katowice 2019",
+    "nameId": 195121
+  },
+  "Sticker | Renegades | Katowice 2019": {
+    "name": "Sticker | Renegades | Katowice 2019",
+    "nameId": 195028
+  },
+  "Sticker | Renegades (Holo) | Katowice 2019": {
+    "name": "Sticker | Renegades (Holo) | Katowice 2019",
+    "nameId": 194950
+  },
+  "Sticker | Renegades (Foil) | Katowice 2019": {
+    "name": "Sticker | Renegades (Foil) | Katowice 2019",
+    "nameId": 195652
+  },
+  "Sticker | Team Liquid | Katowice 2019": {
+    "name": "Sticker | Team Liquid | Katowice 2019",
+    "nameId": 195041
+  },
+  "Sticker | Team Liquid (Holo) | Katowice 2019": {
+    "name": "Sticker | Team Liquid (Holo) | Katowice 2019",
+    "nameId": 194936
+  },
+  "Sticker | Team Liquid (Foil) | Katowice 2019": {
+    "name": "Sticker | Team Liquid (Foil) | Katowice 2019",
+    "nameId": 195628
+  },
+  "Sticker | Team Spirit | Katowice 2019": {
+    "name": "Sticker | Team Spirit | Katowice 2019",
+    "nameId": 195040
+  },
+  "Sticker | Team Spirit (Holo) | Katowice 2019": {
+    "name": "Sticker | Team Spirit (Holo) | Katowice 2019",
+    "nameId": 194916
+  },
+  "Sticker | Team Spirit (Foil) | Katowice 2019": {
+    "name": "Sticker | Team Spirit (Foil) | Katowice 2019",
+    "nameId": 195660
+  },
+  "Sticker | Tyloo | Katowice 2019": {
+    "name": "Sticker | Tyloo | Katowice 2019",
+    "nameId": 195024
+  },
+  "Sticker | Tyloo (Holo) | Katowice 2019": {
+    "name": "Sticker | Tyloo (Holo) | Katowice 2019",
+    "nameId": 195059
+  },
+  "Sticker | Tyloo (Foil) | Katowice 2019": {
+    "name": "Sticker | Tyloo (Foil) | Katowice 2019",
+    "nameId": 195611
+  },
+  "Sticker | Vega Squadron | Katowice 2019": {
+    "name": "Sticker | Vega Squadron | Katowice 2019",
+    "nameId": 195101
+  },
+  "Sticker | Vega Squadron (Holo) | Katowice 2019": {
+    "name": "Sticker | Vega Squadron (Holo) | Katowice 2019",
+    "nameId": 195065
+  },
+  "Sticker | Vega Squadron (Foil) | Katowice 2019": {
+    "name": "Sticker | Vega Squadron (Foil) | Katowice 2019",
+    "nameId": 195089
+  },
+  "Sticker | ViCi Gaming (Holo) | Katowice 2019": {
+    "name": "Sticker | ViCi Gaming (Holo) | Katowice 2019",
+    "nameId": 194913
+  },
+  "Sticker | ViCi Gaming (Foil) | Katowice 2019": {
+    "name": "Sticker | ViCi Gaming (Foil) | Katowice 2019",
+    "nameId": 195710
+  },
+  "Sticker | Vitality | Katowice 2019": {
+    "name": "Sticker | Vitality | Katowice 2019",
+    "nameId": 195100
+  },
+  "Sticker | Vitality (Holo) | Katowice 2019": {
+    "name": "Sticker | Vitality (Holo) | Katowice 2019",
+    "nameId": 195122
+  },
+  "Sticker | Vitality (Foil) | Katowice 2019": {
+    "name": "Sticker | Vitality (Foil) | Katowice 2019",
+    "nameId": 195060
+  },
+  "Sticker | Winstrike Team | Katowice 2019": {
+    "name": "Sticker | Winstrike Team | Katowice 2019",
+    "nameId": 195102
+  },
+  "Sticker | Winstrike Team (Holo) | Katowice 2019": {
+    "name": "Sticker | Winstrike Team (Holo) | Katowice 2019",
+    "nameId": 194909
+  },
+  "Sticker | Winstrike Team (Foil) | Katowice 2019": {
+    "name": "Sticker | Winstrike Team (Foil) | Katowice 2019",
+    "nameId": 194955
+  },
+  "Sticker | IEM | Katowice 2019": {
+    "name": "Sticker | IEM | Katowice 2019",
+    "nameId": 194878
+  },
+  "Sticker | IEM (Holo) | Katowice 2019": {
+    "name": "Sticker | IEM (Holo) | Katowice 2019",
+    "nameId": 194901
+  },
+  "Sticker | IEM (Foil) | Katowice 2019": {
+    "name": "Sticker | IEM (Foil) | Katowice 2019",
+    "nameId": 195112
+  },
+  "Sticker | Magisk | Katowice 2019": {
+    "name": "Sticker | Magisk | Katowice 2019",
+    "nameId": 195020
+  },
+  "Sticker | Magisk (Foil) | Katowice 2019": {
+    "name": "Sticker | Magisk (Foil) | Katowice 2019",
+    "nameId": 195111
+  },
+  "Sticker | Magisk (Gold) | Katowice 2019": {
+    "name": "Sticker | Magisk (Gold) | Katowice 2019",
+    "nameId": 195732
+  },
+  "Sticker | device | Katowice 2019": {
+    "name": "Sticker | device | Katowice 2019",
+    "nameId": 194929
+  },
+  "Sticker | device (Foil) | Katowice 2019": {
+    "name": "Sticker | device (Foil) | Katowice 2019",
+    "nameId": 194993
+  },
+  "Sticker | device (Gold) | Katowice 2019": {
+    "name": "Sticker | device (Gold) | Katowice 2019",
+    "nameId": 195617
+  },
+  "Sticker | Xyp9x | Katowice 2019": {
+    "name": "Sticker | Xyp9x | Katowice 2019",
+    "nameId": 194915
+  },
+  "Sticker | Xyp9x (Foil) | Katowice 2019": {
+    "name": "Sticker | Xyp9x (Foil) | Katowice 2019",
+    "nameId": 195087
+  },
+  "Sticker | Xyp9x (Gold) | Katowice 2019": {
+    "name": "Sticker | Xyp9x (Gold) | Katowice 2019",
+    "nameId": 196283
+  },
+  "Sticker | dupreeh | Katowice 2019": {
+    "name": "Sticker | dupreeh | Katowice 2019",
+    "nameId": 194923
+  },
+  "Sticker | dupreeh (Gold) | Katowice 2019": {
+    "name": "Sticker | dupreeh (Gold) | Katowice 2019",
+    "nameId": 195629
+  },
+  "Sticker | gla1ve | Katowice 2019": {
+    "name": "Sticker | gla1ve | Katowice 2019",
+    "nameId": 195046
+  },
+  "Sticker | gla1ve (Foil) | Katowice 2019": {
+    "name": "Sticker | gla1ve (Foil) | Katowice 2019",
+    "nameId": 195067
+  },
+  "Sticker | gla1ve (Gold) | Katowice 2019": {
+    "name": "Sticker | gla1ve (Gold) | Katowice 2019",
+    "nameId": 195668
+  },
+  "Sticker | fitch | Katowice 2019": {
+    "name": "Sticker | fitch | Katowice 2019",
+    "nameId": 194965
+  },
+  "Sticker | fitch (Foil) | Katowice 2019": {
+    "name": "Sticker | fitch (Foil) | Katowice 2019",
+    "nameId": 195154
+  },
+  "Sticker | fitch (Gold) | Katowice 2019": {
+    "name": "Sticker | fitch (Gold) | Katowice 2019",
+    "nameId": 196335
+  },
+  "Sticker | Jame | Katowice 2019": {
+    "name": "Sticker | Jame | Katowice 2019",
+    "nameId": 194968
+  },
+  "Sticker | KrizzeN | Katowice 2019": {
+    "name": "Sticker | KrizzeN | Katowice 2019",
+    "nameId": 194983
+  },
+  "Sticker | KrizzeN (Foil) | Katowice 2019": {
+    "name": "Sticker | KrizzeN (Foil) | Katowice 2019",
+    "nameId": 195109
+  },
+  "Sticker | KrizzeN (Gold) | Katowice 2019": {
+    "name": "Sticker | KrizzeN (Gold) | Katowice 2019",
+    "nameId": 197335
+  },
+  "Sticker | qikert | Katowice 2019": {
+    "name": "Sticker | qikert | Katowice 2019",
+    "nameId": 194912
+  },
+  "Sticker | qikert (Foil) | Katowice 2019": {
+    "name": "Sticker | qikert (Foil) | Katowice 2019",
+    "nameId": 195642
+  },
+  "Sticker | qikert (Gold) | Katowice 2019": {
+    "name": "Sticker | qikert (Gold) | Katowice 2019",
+    "nameId": 196246
+  },
+  "Sticker | buster | Katowice 2019": {
+    "name": "Sticker | buster | Katowice 2019",
+    "nameId": 194914
+  },
+  "Sticker | buster (Foil) | Katowice 2019": {
+    "name": "Sticker | buster (Foil) | Katowice 2019",
+    "nameId": 194956
+  },
+  "Sticker | buster (Gold) | Katowice 2019": {
+    "name": "Sticker | buster (Gold) | Katowice 2019",
+    "nameId": 196268
+  },
+  "Sticker | gob b | Katowice 2019": {
+    "name": "Sticker | gob b | Katowice 2019",
+    "nameId": 195033
+  },
+  "Sticker | gob b (Foil) | Katowice 2019": {
+    "name": "Sticker | gob b (Foil) | Katowice 2019",
+    "nameId": 195006
+  },
+  "Sticker | gob b (Gold) | Katowice 2019": {
+    "name": "Sticker | gob b (Gold) | Katowice 2019",
+    "nameId": 195694
+  },
+  "Sticker | tabseN | Katowice 2019": {
+    "name": "Sticker | tabseN | Katowice 2019",
+    "nameId": 194988
+  },
+  "Sticker | tabseN (Foil) | Katowice 2019": {
+    "name": "Sticker | tabseN (Foil) | Katowice 2019",
+    "nameId": 195011
+  },
+  "Sticker | tabseN (Gold) | Katowice 2019": {
+    "name": "Sticker | tabseN (Gold) | Katowice 2019",
+    "nameId": 195723
+  },
+  "Sticker | tiziaN | Katowice 2019": {
+    "name": "Sticker | tiziaN | Katowice 2019",
+    "nameId": 195023
+  },
+  "Sticker | tiziaN (Foil) | Katowice 2019": {
+    "name": "Sticker | tiziaN (Foil) | Katowice 2019",
+    "nameId": 195080
+  },
+  "Sticker | tiziaN (Gold) | Katowice 2019": {
+    "name": "Sticker | tiziaN (Gold) | Katowice 2019",
+    "nameId": 195753
+  },
+  "Sticker | XANTARES | Katowice 2019": {
+    "name": "Sticker | XANTARES | Katowice 2019",
+    "nameId": 194858
+  },
+  "Sticker | XANTARES (Foil) | Katowice 2019": {
+    "name": "Sticker | XANTARES (Foil) | Katowice 2019",
+    "nameId": 194919
+  },
+  "Sticker | smooya | Katowice 2019": {
+    "name": "Sticker | smooya | Katowice 2019",
+    "nameId": 195057
+  },
+  "Sticker | smooya (Foil) | Katowice 2019": {
+    "name": "Sticker | smooya (Foil) | Katowice 2019",
+    "nameId": 195013
+  },
+  "Sticker | smooya (Gold) | Katowice 2019": {
+    "name": "Sticker | smooya (Gold) | Katowice 2019",
+    "nameId": 195684
+  },
+  "Sticker | flusha | Katowice 2019": {
+    "name": "Sticker | flusha | Katowice 2019",
+    "nameId": 195018
+  },
+  "Sticker | flusha (Foil) | Katowice 2019": {
+    "name": "Sticker | flusha (Foil) | Katowice 2019",
+    "nameId": 195659
+  },
+  "Sticker | flusha (Gold) | Katowice 2019": {
+    "name": "Sticker | flusha (Gold) | Katowice 2019",
+    "nameId": 195634
+  },
+  "Sticker | kioShiMa | Katowice 2019": {
+    "name": "Sticker | kioShiMa | Katowice 2019",
+    "nameId": 195624
+  },
+  "Sticker | kioShiMa (Foil) | Katowice 2019": {
+    "name": "Sticker | kioShiMa (Foil) | Katowice 2019",
+    "nameId": 195047
+  },
+  "Sticker | kioShiMa (Gold) | Katowice 2019": {
+    "name": "Sticker | kioShiMa (Gold) | Katowice 2019",
+    "nameId": 196316
+  },
+  "Sticker | RUSH | Katowice 2019": {
+    "name": "Sticker | RUSH | Katowice 2019",
+    "nameId": 194943
+  },
+  "Sticker | RUSH (Gold) | Katowice 2019": {
+    "name": "Sticker | RUSH (Gold) | Katowice 2019",
+    "nameId": 195716
+  },
+  "Sticker | autimatic | Katowice 2019": {
+    "name": "Sticker | autimatic | Katowice 2019",
+    "nameId": 194987
+  },
+  "Sticker | Golden | Katowice 2019": {
+    "name": "Sticker | Golden | Katowice 2019",
+    "nameId": 195019
+  },
+  "Sticker | Golden (Foil) | Katowice 2019": {
+    "name": "Sticker | Golden (Foil) | Katowice 2019",
+    "nameId": 195665
+  },
+  "Sticker | Golden (Gold) | Katowice 2019": {
+    "name": "Sticker | Golden (Gold) | Katowice 2019",
+    "nameId": 195721
+  },
+  "Sticker | n0thing | Katowice 2019": {
+    "name": "Sticker | n0thing | Katowice 2019",
+    "nameId": 194999
+  },
+  "Sticker | n0thing (Foil) | Katowice 2019": {
+    "name": "Sticker | n0thing (Foil) | Katowice 2019",
+    "nameId": 194947
+  },
+  "Sticker | n0thing (Gold) | Katowice 2019": {
+    "name": "Sticker | n0thing (Gold) | Katowice 2019",
+    "nameId": 195635
+  },
+  "Sticker | Rickeh | Katowice 2019": {
+    "name": "Sticker | Rickeh | Katowice 2019",
+    "nameId": 195003
+  },
+  "Sticker | Rickeh (Foil) | Katowice 2019": {
+    "name": "Sticker | Rickeh (Foil) | Katowice 2019",
+    "nameId": 195662
+  },
+  "Sticker | Rickeh (Gold) | Katowice 2019": {
+    "name": "Sticker | Rickeh (Gold) | Katowice 2019",
+    "nameId": 195728
+  },
+  "Sticker | stanislaw | Katowice 2019": {
+    "name": "Sticker | stanislaw | Katowice 2019",
+    "nameId": 194990
+  },
+  "Sticker | stanislaw (Foil) | Katowice 2019": {
+    "name": "Sticker | stanislaw (Foil) | Katowice 2019",
+    "nameId": 195039
+  },
+  "Sticker | dephh | Katowice 2019": {
+    "name": "Sticker | dephh | Katowice 2019",
+    "nameId": 195021
+  },
+  "Sticker | dephh (Foil) | Katowice 2019": {
+    "name": "Sticker | dephh (Foil) | Katowice 2019",
+    "nameId": 195050
+  },
+  "Sticker | dephh (Gold) | Katowice 2019": {
+    "name": "Sticker | dephh (Gold) | Katowice 2019",
+    "nameId": 195760
+  },
+  "Sticker | ShahZaM | Katowice 2019": {
+    "name": "Sticker | ShahZaM | Katowice 2019",
+    "nameId": 194893
+  },
+  "Sticker | ShahZaM (Foil) | Katowice 2019": {
+    "name": "Sticker | ShahZaM (Foil) | Katowice 2019",
+    "nameId": 195091
+  },
+  "Sticker | ShahZaM (Gold) | Katowice 2019": {
+    "name": "Sticker | ShahZaM (Gold) | Katowice 2019",
+    "nameId": 195646
+  },
+  "Sticker | allu | Katowice 2019": {
+    "name": "Sticker | allu | Katowice 2019",
+    "nameId": 194867
+  },
+  "Sticker | allu (Foil) | Katowice 2019": {
+    "name": "Sticker | allu (Foil) | Katowice 2019",
+    "nameId": 195640
+  },
+  "Sticker | Aerial | Katowice 2019": {
+    "name": "Sticker | Aerial | Katowice 2019",
+    "nameId": 194978
+  },
+  "Sticker | Aerial (Foil) | Katowice 2019": {
+    "name": "Sticker | Aerial (Foil) | Katowice 2019",
+    "nameId": 195136
+  },
+  "Sticker | Aerial (Gold) | Katowice 2019": {
+    "name": "Sticker | Aerial (Gold) | Katowice 2019",
+    "nameId": 197324
+  },
+  "Sticker | xseveN | Katowice 2019": {
+    "name": "Sticker | xseveN | Katowice 2019",
+    "nameId": 195135
+  },
+  "Sticker | xseveN (Foil) | Katowice 2019": {
+    "name": "Sticker | xseveN (Foil) | Katowice 2019",
+    "nameId": 194981
+  },
+  "Sticker | xseveN (Gold) | Katowice 2019": {
+    "name": "Sticker | xseveN (Gold) | Katowice 2019",
+    "nameId": 196315
+  },
+  "Sticker | Aleksib | Katowice 2019": {
+    "name": "Sticker | Aleksib | Katowice 2019",
+    "nameId": 194887
+  },
+  "Sticker | Aleksib (Gold) | Katowice 2019": {
+    "name": "Sticker | Aleksib (Gold) | Katowice 2019",
+    "nameId": 197343
+  },
+  "Sticker | sergej (Gold) | Katowice 2019": {
+    "name": "Sticker | sergej (Gold) | Katowice 2019",
+    "nameId": 196269
+  },
+  "Sticker | GuardiaN | Katowice 2019": {
+    "name": "Sticker | GuardiaN | Katowice 2019",
+    "nameId": 195004
+  },
+  "Sticker | GuardiaN (Foil) | Katowice 2019": {
+    "name": "Sticker | GuardiaN (Foil) | Katowice 2019",
+    "nameId": 194928
+  },
+  "Sticker | olofmeister | Katowice 2019": {
+    "name": "Sticker | olofmeister | Katowice 2019",
+    "nameId": 195038
+  },
+  "Sticker | olofmeister (Foil) | Katowice 2019": {
+    "name": "Sticker | olofmeister (Foil) | Katowice 2019",
+    "nameId": 195622
+  },
+  "Sticker | olofmeister (Gold) | Katowice 2019": {
+    "name": "Sticker | olofmeister (Gold) | Katowice 2019",
+    "nameId": 195639
+  },
+  "Sticker | rain | Katowice 2019": {
+    "name": "Sticker | rain | Katowice 2019",
+    "nameId": 194938
+  },
+  "Sticker | rain (Foil) | Katowice 2019": {
+    "name": "Sticker | rain (Foil) | Katowice 2019",
+    "nameId": 195096
+  },
+  "Sticker | AdreN | Katowice 2019": {
+    "name": "Sticker | AdreN | Katowice 2019",
+    "nameId": 195048
+  },
+  "Sticker | AdreN (Foil) | Katowice 2019": {
+    "name": "Sticker | AdreN (Foil) | Katowice 2019",
+    "nameId": 194939
+  },
+  "Sticker | AdreN (Gold) | Katowice 2019": {
+    "name": "Sticker | AdreN (Gold) | Katowice 2019",
+    "nameId": 196254
+  },
+  "Sticker | NiKo | Katowice 2019": {
+    "name": "Sticker | NiKo | Katowice 2019",
+    "nameId": 195005
+  },
+  "Sticker | twist | Katowice 2019": {
+    "name": "Sticker | twist | Katowice 2019",
+    "nameId": 195049
+  },
+  "Sticker | twist (Foil) | Katowice 2019": {
+    "name": "Sticker | twist (Foil) | Katowice 2019",
+    "nameId": 195116
+  },
+  "Sticker | twist (Gold) | Katowice 2019": {
+    "name": "Sticker | twist (Gold) | Katowice 2019",
+    "nameId": 195777
+  },
+  "Sticker | Xizt | Katowice 2019": {
+    "name": "Sticker | Xizt | Katowice 2019",
+    "nameId": 194895
+  },
+  "Sticker | Xizt (Foil) | Katowice 2019": {
+    "name": "Sticker | Xizt (Foil) | Katowice 2019",
+    "nameId": 195664
+  },
+  "Sticker | Xizt (Gold) | Katowice 2019": {
+    "name": "Sticker | Xizt (Gold) | Katowice 2019",
+    "nameId": 195790
+  },
+  "Sticker | JW | Katowice 2019": {
+    "name": "Sticker | JW | Katowice 2019",
+    "nameId": 194922
+  },
+  "Sticker | JW (Foil) | Katowice 2019": {
+    "name": "Sticker | JW (Foil) | Katowice 2019",
+    "nameId": 195621
+  },
+  "Sticker | JW (Gold) | Katowice 2019": {
+    "name": "Sticker | JW (Gold) | Katowice 2019",
+    "nameId": 196290
+  },
+  "Sticker | KRIMZ | Katowice 2019": {
+    "name": "Sticker | KRIMZ | Katowice 2019",
+    "nameId": 194985
+  },
+  "Sticker | KRIMZ (Foil) | Katowice 2019": {
+    "name": "Sticker | KRIMZ (Foil) | Katowice 2019",
+    "nameId": 194935
+  },
+  "Sticker | KRIMZ (Gold) | Katowice 2019": {
+    "name": "Sticker | KRIMZ (Gold) | Katowice 2019",
+    "nameId": 196321
+  },
+  "Sticker | Brollan | Katowice 2019": {
+    "name": "Sticker | Brollan | Katowice 2019",
+    "nameId": 194899
+  },
+  "Sticker | Brollan (Foil) | Katowice 2019": {
+    "name": "Sticker | Brollan (Foil) | Katowice 2019",
+    "nameId": 195620
+  },
+  "Sticker | Brollan (Gold) | Katowice 2019": {
+    "name": "Sticker | Brollan (Gold) | Katowice 2019",
+    "nameId": 196303
+  },
+  "Sticker | VINI | Katowice 2019": {
+    "name": "Sticker | VINI | Katowice 2019",
+    "nameId": 194934
+  },
+  "Sticker | VINI (Foil) | Katowice 2019": {
+    "name": "Sticker | VINI (Foil) | Katowice 2019",
+    "nameId": 195150
+  },
+  "Sticker | VINI (Gold) | Katowice 2019": {
+    "name": "Sticker | VINI (Gold) | Katowice 2019",
+    "nameId": 195774
+  },
+  "Sticker | ableJ | Katowice 2019": {
+    "name": "Sticker | ableJ | Katowice 2019",
+    "nameId": 194870
+  },
+  "Sticker | arT | Katowice 2019": {
+    "name": "Sticker | arT | Katowice 2019",
+    "nameId": 194982
+  },
+  "Sticker | KSCERATO | Katowice 2019": {
+    "name": "Sticker | KSCERATO | Katowice 2019",
+    "nameId": 194861
+  },
+  "Sticker | KSCERATO (Foil) | Katowice 2019": {
+    "name": "Sticker | KSCERATO (Foil) | Katowice 2019",
+    "nameId": 195138
+  },
+  "Sticker | KSCERATO (Gold) | Katowice 2019": {
+    "name": "Sticker | KSCERATO (Gold) | Katowice 2019",
+    "nameId": 196260
+  },
+  "Sticker | yuurih | Katowice 2019": {
+    "name": "Sticker | yuurih | Katowice 2019",
+    "nameId": 195108
+  },
+  "Sticker | yuurih (Foil) | Katowice 2019": {
+    "name": "Sticker | yuurih (Foil) | Katowice 2019",
+    "nameId": 195153
+  },
+  "Sticker | yuurih (Gold) | Katowice 2019": {
+    "name": "Sticker | yuurih (Gold) | Katowice 2019",
+    "nameId": 196252
+  },
+  "Sticker | JaCkz | Katowice 2019": {
+    "name": "Sticker | JaCkz | Katowice 2019",
+    "nameId": 195010
+  },
+  "Sticker | JaCkz (Foil) | Katowice 2019": {
+    "name": "Sticker | JaCkz (Foil) | Katowice 2019",
+    "nameId": 195644
+  },
+  "Sticker | shox | Katowice 2019": {
+    "name": "Sticker | shox | Katowice 2019",
+    "nameId": 195083
+  },
+  "Sticker | shox (Foil) | Katowice 2019": {
+    "name": "Sticker | shox (Foil) | Katowice 2019",
+    "nameId": 194986
+  },
+  "Sticker | shox (Gold) | Katowice 2019": {
+    "name": "Sticker | shox (Gold) | Katowice 2019",
+    "nameId": 195673
+  },
+  "Sticker | bodyy | Katowice 2019": {
+    "name": "Sticker | bodyy | Katowice 2019",
+    "nameId": 194997
   }
 }
