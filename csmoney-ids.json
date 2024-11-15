@@ -33654,5 +33654,1485 @@
   "Sticker | Complexity Gaming (Holo) | Copenhagen 2024": {
     "name": "Sticker | Complexity Gaming (Holo) | Copenhagen 2024",
     "nameId": 2596768
+  },
+  "Galil AR | Firefight (Field-Tested)": {
+    "name": "Galil AR | Firefight (Field-Tested)",
+    "nameId": 2825
+  },
+  "Galil AR | Firefight (Well-Worn)": {
+    "name": "Galil AR | Firefight (Well-Worn)",
+    "nameId": 2322
+  },
+  "Galil AR | Firefight (Battle-Scarred)": {
+    "name": "Galil AR | Firefight (Battle-Scarred)",
+    "nameId": 2987
+  },
+  "StatTrak™ Galil AR | Firefight (Factory New)": {
+    "name": "StatTrak™ Galil AR | Firefight (Factory New)",
+    "nameId": 1178
+  },
+  "StatTrak™ Galil AR | Firefight (Minimal Wear)": {
+    "name": "StatTrak™ Galil AR | Firefight (Minimal Wear)",
+    "nameId": 3999
+  },
+  "StatTrak™ Galil AR | Firefight (Field-Tested)": {
+    "name": "StatTrak™ Galil AR | Firefight (Field-Tested)",
+    "nameId": 7632
+  },
+  "StatTrak™ Galil AR | Firefight (Well-Worn)": {
+    "name": "StatTrak™ Galil AR | Firefight (Well-Worn)",
+    "nameId": 7246
+  },
+  "StatTrak™ Galil AR | Firefight (Battle-Scarred)": {
+    "name": "StatTrak™ Galil AR | Firefight (Battle-Scarred)",
+    "nameId": 3435
+  },
+  "Galil AR | Black Sand (Factory New)": {
+    "name": "Galil AR | Black Sand (Factory New)",
+    "nameId": 1782
+  },
+  "Galil AR | Black Sand (Minimal Wear)": {
+    "name": "Galil AR | Black Sand (Minimal Wear)",
+    "nameId": 1300
+  },
+  "StatTrak™ P90 | Chopper (Battle-Scarred)": {
+    "name": "StatTrak™ P90 | Chopper (Battle-Scarred)",
+    "nameId": 935
+  },
+  "P90 | Grim (Factory New)": {
+    "name": "P90 | Grim (Factory New)",
+    "nameId": 7708
+  },
+  "P90 | Grim (Minimal Wear)": {
+    "name": "P90 | Grim (Minimal Wear)",
+    "nameId": 248
+  },
+  "P90 | Grim (Field-Tested)": {
+    "name": "P90 | Grim (Field-Tested)",
+    "nameId": 1155
+  },
+  "P90 | Grim (Well-Worn)": {
+    "name": "P90 | Grim (Well-Worn)",
+    "nameId": 581
+  },
+  "P90 | Grim (Battle-Scarred)": {
+    "name": "P90 | Grim (Battle-Scarred)",
+    "nameId": 6747
+  },
+  "StatTrak™ P90 | Grim (Factory New)": {
+    "name": "StatTrak™ P90 | Grim (Factory New)",
+    "nameId": 9207
+  },
+  "StatTrak™ P90 | Grim (Minimal Wear)": {
+    "name": "StatTrak™ P90 | Grim (Minimal Wear)",
+    "nameId": 1216
+  },
+  "StatTrak™ P90 | Grim (Field-Tested)": {
+    "name": "StatTrak™ P90 | Grim (Field-Tested)",
+    "nameId": 1264
+  },
+  "StatTrak™ P90 | Grim (Well-Worn)": {
+    "name": "StatTrak™ P90 | Grim (Well-Worn)",
+    "nameId": 1438
+  },
+  "StatTrak™ P90 | Grim (Battle-Scarred)": {
+    "name": "StatTrak™ P90 | Grim (Battle-Scarred)",
+    "nameId": 974
+  },
+  "MAG-7 | Firestarter (Factory New)": {
+    "name": "MAG-7 | Firestarter (Factory New)",
+    "nameId": 3413
+  },
+  "MAG-7 | Firestarter (Minimal Wear)": {
+    "name": "MAG-7 | Firestarter (Minimal Wear)",
+    "nameId": 89
+  },
+  "MAG-7 | Firestarter (Field-Tested)": {
+    "name": "MAG-7 | Firestarter (Field-Tested)",
+    "nameId": 9855
+  },
+  "MAG-7 | Firestarter (Well-Worn)": {
+    "name": "MAG-7 | Firestarter (Well-Worn)",
+    "nameId": 14967
+  },
+  "MAG-7 | Firestarter (Battle-Scarred)": {
+    "name": "MAG-7 | Firestarter (Battle-Scarred)",
+    "nameId": 551
+  },
+  "StatTrak™ MAG-7 | Firestarter (Factory New)": {
+    "name": "StatTrak™ MAG-7 | Firestarter (Factory New)",
+    "nameId": 13387
+  },
+  "StatTrak™ MAG-7 | Firestarter (Minimal Wear)": {
+    "name": "StatTrak™ MAG-7 | Firestarter (Minimal Wear)",
+    "nameId": 2291
+  },
+  "StatTrak™ MAG-7 | Firestarter (Field-Tested)": {
+    "name": "StatTrak™ MAG-7 | Firestarter (Field-Tested)",
+    "nameId": 204
+  },
+  "MP7 | Impire (Field-Tested)": {
+    "name": "MP7 | Impire (Field-Tested)",
+    "nameId": 2123
+  },
+  "MP7 | Impire (Well-Worn)": {
+    "name": "MP7 | Impire (Well-Worn)",
+    "nameId": 3092
+  },
+  "StatTrak™ MP7 | Impire (Factory New)": {
+    "name": "StatTrak™ MP7 | Impire (Factory New)",
+    "nameId": 1196
+  },
+  "StatTrak™ MP7 | Impire (Minimal Wear)": {
+    "name": "StatTrak™ MP7 | Impire (Minimal Wear)",
+    "nameId": 9565
+  },
+  "StatTrak™ MP7 | Impire (Field-Tested)": {
+    "name": "StatTrak™ MP7 | Impire (Field-Tested)",
+    "nameId": 2643
+  },
+  "StatTrak™ MP7 | Impire (Well-Worn)": {
+    "name": "StatTrak™ MP7 | Impire (Well-Worn)",
+    "nameId": 4852
+  },
+  "MP7 | Cirrus (Factory New)": {
+    "name": "MP7 | Cirrus (Factory New)",
+    "nameId": 508
+  },
+  "MP7 | Cirrus (Minimal Wear)": {
+    "name": "MP7 | Cirrus (Minimal Wear)",
+    "nameId": 3877
+  },
+  "MP7 | Cirrus (Field-Tested)": {
+    "name": "MP7 | Cirrus (Field-Tested)",
+    "nameId": 1276
+  },
+  "MP7 | Cirrus (Well-Worn)": {
+    "name": "MP7 | Cirrus (Well-Worn)",
+    "nameId": 2435
+  },
+  "MP7 | Cirrus (Battle-Scarred)": {
+    "name": "MP7 | Cirrus (Battle-Scarred)",
+    "nameId": 676
+  },
+  "StatTrak™ MP7 | Cirrus (Factory New)": {
+    "name": "StatTrak™ MP7 | Cirrus (Factory New)",
+    "nameId": 12757
+  },
+  "SCAR-20 | Stone Mosaico (Field-Tested)": {
+    "name": "SCAR-20 | Stone Mosaico (Field-Tested)",
+    "nameId": 1073868
+  },
+  "SCAR-20 | Stone Mosaico (Well-Worn)": {
+    "name": "SCAR-20 | Stone Mosaico (Well-Worn)",
+    "nameId": 1074461
+  },
+  "SCAR-20 | Wild Berry (Factory New)": {
+    "name": "SCAR-20 | Wild Berry (Factory New)",
+    "nameId": 2598030
+  },
+  "SCAR-20 | Wild Berry (Minimal Wear)": {
+    "name": "SCAR-20 | Wild Berry (Minimal Wear)",
+    "nameId": 2598134
+  },
+  "SCAR-20 | Wild Berry (Field-Tested)": {
+    "name": "SCAR-20 | Wild Berry (Field-Tested)",
+    "nameId": 2598040
+  },
+  "SCAR-20 | Wild Berry (Well-Worn)": {
+    "name": "SCAR-20 | Wild Berry (Well-Worn)",
+    "nameId": 2598132
+  },
+  "SCAR-20 | Wild Berry (Battle-Scarred)": {
+    "name": "SCAR-20 | Wild Berry (Battle-Scarred)",
+    "nameId": 2598172
+  },
+  "SCAR-20 | Torn (Factory New)": {
+    "name": "SCAR-20 | Torn (Factory New)",
+    "nameId": 1074147
+  },
+  "StatTrak™ CZ75-Auto | Yellow Jacket (Minimal Wear)": {
+    "name": "StatTrak™ CZ75-Auto | Yellow Jacket (Minimal Wear)",
+    "nameId": 2185
+  },
+  "StatTrak™ CZ75-Auto | Yellow Jacket (Field-Tested)": {
+    "name": "StatTrak™ CZ75-Auto | Yellow Jacket (Field-Tested)",
+    "nameId": 3901
+  },
+  "StatTrak™ CZ75-Auto | Yellow Jacket (Well-Worn)": {
+    "name": "StatTrak™ CZ75-Auto | Yellow Jacket (Well-Worn)",
+    "nameId": 12624
+  },
+  "StatTrak™ CZ75-Auto | Yellow Jacket (Battle-Scarred)": {
+    "name": "StatTrak™ CZ75-Auto | Yellow Jacket (Battle-Scarred)",
+    "nameId": 7154
+  },
+  "CZ75-Auto | Red Astor (Factory New)": {
+    "name": "CZ75-Auto | Red Astor (Factory New)",
+    "nameId": 2301
+  },
+  "CZ75-Auto | Red Astor (Minimal Wear)": {
+    "name": "CZ75-Auto | Red Astor (Minimal Wear)",
+    "nameId": 9833
+  },
+  "CZ75-Auto | Red Astor (Field-Tested)": {
+    "name": "CZ75-Auto | Red Astor (Field-Tested)",
+    "nameId": 2273
+  },
+  "CZ75-Auto | Red Astor (Well-Worn)": {
+    "name": "CZ75-Auto | Red Astor (Well-Worn)",
+    "nameId": 2923
+  },
+  "CZ75-Auto | Red Astor (Battle-Scarred)": {
+    "name": "CZ75-Auto | Red Astor (Battle-Scarred)",
+    "nameId": 147
+  },
+  "StatTrak™ CZ75-Auto | Red Astor (Factory New)": {
+    "name": "StatTrak™ CZ75-Auto | Red Astor (Factory New)",
+    "nameId": 1272
+  },
+  "StatTrak™ CZ75-Auto | Red Astor (Minimal Wear)": {
+    "name": "StatTrak™ CZ75-Auto | Red Astor (Minimal Wear)",
+    "nameId": 4977
+  },
+  "StatTrak™ CZ75-Auto | Red Astor (Field-Tested)": {
+    "name": "StatTrak™ CZ75-Auto | Red Astor (Field-Tested)",
+    "nameId": 3681
+  },
+  "★ M9 Bayonet | Ultraviolet (Factory New)": {
+    "name": "★ M9 Bayonet | Ultraviolet (Factory New)",
+    "nameId": 19500
+  },
+  "★ M9 Bayonet | Ultraviolet (Minimal Wear)": {
+    "name": "★ M9 Bayonet | Ultraviolet (Minimal Wear)",
+    "nameId": 4954
+  },
+  "★ M9 Bayonet | Ultraviolet (Field-Tested)": {
+    "name": "★ M9 Bayonet | Ultraviolet (Field-Tested)",
+    "nameId": 2352
+  },
+  "★ M9 Bayonet | Ultraviolet (Battle-Scarred)": {
+    "name": "★ M9 Bayonet | Ultraviolet (Battle-Scarred)",
+    "nameId": 3573
+  },
+  "★ Paracord Knife | Fade (Factory New)": {
+    "name": "★ Paracord Knife | Fade (Factory New)",
+    "nameId": 1074980
+  },
+  "★ Paracord Knife | Fade (Minimal Wear)": {
+    "name": "★ Paracord Knife | Fade (Minimal Wear)",
+    "nameId": 1077478
+  },
+  "★ StatTrak™ Paracord Knife | Fade (Factory New)": {
+    "name": "★ StatTrak™ Paracord Knife | Fade (Factory New)",
+    "nameId": 1075325
+  },
+  "★ StatTrak™ Paracord Knife | Fade (Minimal Wear)": {
+    "name": "★ StatTrak™ Paracord Knife | Fade (Minimal Wear)",
+    "nameId": 1082067
+  },
+  "★ Paracord Knife | Blue Steel (Factory New)": {
+    "name": "★ Paracord Knife | Blue Steel (Factory New)",
+    "nameId": 1077546
+  },
+  "★ Paracord Knife | Blue Steel (Minimal Wear)": {
+    "name": "★ Paracord Knife | Blue Steel (Minimal Wear)",
+    "nameId": 1075035
+  },
+  "★ Paracord Knife | Blue Steel (Field-Tested)": {
+    "name": "★ Paracord Knife | Blue Steel (Field-Tested)",
+    "nameId": 1075158
+  },
+  "★ Paracord Knife | Blue Steel (Well-Worn)": {
+    "name": "★ Paracord Knife | Blue Steel (Well-Worn)",
+    "nameId": 1075039
+  },
+  "★ Driver Gloves | Snow Leopard (Factory New)": {
+    "name": "★ Driver Gloves | Snow Leopard (Factory New)",
+    "nameId": 1083995
+  },
+  "★ Driver Gloves | Snow Leopard (Minimal Wear)": {
+    "name": "★ Driver Gloves | Snow Leopard (Minimal Wear)",
+    "nameId": 1083920
+  },
+  "★ Driver Gloves | Snow Leopard (Field-Tested)": {
+    "name": "★ Driver Gloves | Snow Leopard (Field-Tested)",
+    "nameId": 1083725
+  },
+  "★ Driver Gloves | Snow Leopard (Well-Worn)": {
+    "name": "★ Driver Gloves | Snow Leopard (Well-Worn)",
+    "nameId": 1083887
+  },
+  "★ Driver Gloves | Snow Leopard (Battle-Scarred)": {
+    "name": "★ Driver Gloves | Snow Leopard (Battle-Scarred)",
+    "nameId": 1084034
+  },
+  "★ Driver Gloves | Queen Jaguar (Factory New)": {
+    "name": "★ Driver Gloves | Queen Jaguar (Factory New)",
+    "nameId": 1084263
+  },
+  "★ Driver Gloves | Queen Jaguar (Minimal Wear)": {
+    "name": "★ Driver Gloves | Queen Jaguar (Minimal Wear)",
+    "nameId": 1084083
+  },
+  "★ Driver Gloves | Queen Jaguar (Field-Tested)": {
+    "name": "★ Driver Gloves | Queen Jaguar (Field-Tested)",
+    "nameId": 1083485
+  },
+  "★ Driver Gloves | Queen Jaguar (Well-Worn)": {
+    "name": "★ Driver Gloves | Queen Jaguar (Well-Worn)",
+    "nameId": 1084110
+  },
+  "★ Driver Gloves | Queen Jaguar (Battle-Scarred)": {
+    "name": "★ Driver Gloves | Queen Jaguar (Battle-Scarred)",
+    "nameId": 1084082
+  },
+  "Sticker | bodyy (Foil) | Katowice 2019": {
+    "name": "Sticker | bodyy (Foil) | Katowice 2019",
+    "nameId": 195719
+  },
+  "Sticker | bodyy (Gold) | Katowice 2019": {
+    "name": "Sticker | bodyy (Gold) | Katowice 2019",
+    "nameId": 196249
+  },
+  "Sticker | kennyS | Katowice 2019": {
+    "name": "Sticker | kennyS | Katowice 2019",
+    "nameId": 195118
+  },
+  "Sticker | kennyS (Foil) | Katowice 2019": {
+    "name": "Sticker | kennyS (Foil) | Katowice 2019",
+    "nameId": 195015
+  },
+  "Sticker | kennyS (Gold) | Katowice 2019": {
+    "name": "Sticker | kennyS (Gold) | Katowice 2019",
+    "nameId": 195702
+  },
+  "Sticker | Lucky | Katowice 2019": {
+    "name": "Sticker | Lucky | Katowice 2019",
+    "nameId": 195079
+  },
+  "Sticker | Lucky (Foil) | Katowice 2019": {
+    "name": "Sticker | Lucky (Foil) | Katowice 2019",
+    "nameId": 195675
+  },
+  "Sticker | sterling | Katowice 2019": {
+    "name": "Sticker | sterling | Katowice 2019",
+    "nameId": 194963
+  },
+  "Sticker | sterling (Foil) | Katowice 2019": {
+    "name": "Sticker | sterling (Foil) | Katowice 2019",
+    "nameId": 194868
+  },
+  "Sticker | sterling (Gold) | Katowice 2019": {
+    "name": "Sticker | sterling (Gold) | Katowice 2019",
+    "nameId": 195146
+  },
+  "Sticker | dexter | Katowice 2019": {
+    "name": "Sticker | dexter | Katowice 2019",
+    "nameId": 194959
+  },
+  "Sticker | dexter (Foil) | Katowice 2019": {
+    "name": "Sticker | dexter (Foil) | Katowice 2019",
+    "nameId": 195071
+  },
+  "Sticker | dexter (Gold) | Katowice 2019": {
+    "name": "Sticker | dexter (Gold) | Katowice 2019",
+    "nameId": 195648
+  },
+  "Sticker | erkaSt | Katowice 2019": {
+    "name": "Sticker | erkaSt | Katowice 2019",
+    "nameId": 194888
+  },
+  "Sticker | erkaSt (Foil) | Katowice 2019": {
+    "name": "Sticker | erkaSt (Foil) | Katowice 2019",
+    "nameId": 195148
+  },
+  "Sticker | erkaSt (Gold) | Katowice 2019": {
+    "name": "Sticker | erkaSt (Gold) | Katowice 2019",
+    "nameId": 195778
+  },
+  "Sticker | malta | Katowice 2019": {
+    "name": "Sticker | malta | Katowice 2019",
+    "nameId": 194876
+  },
+  "Sticker | malta (Foil) | Katowice 2019": {
+    "name": "Sticker | malta (Foil) | Katowice 2019",
+    "nameId": 194904
+  },
+  "Sticker | DickStacy | Katowice 2019": {
+    "name": "Sticker | DickStacy | Katowice 2019",
+    "nameId": 194958
+  },
+  "Sticker | DickStacy (Foil) | Katowice 2019": {
+    "name": "Sticker | DickStacy (Foil) | Katowice 2019",
+    "nameId": 195151
+  },
+  "Sticker | DickStacy (Gold) | Katowice 2019": {
+    "name": "Sticker | DickStacy (Gold) | Katowice 2019",
+    "nameId": 195780
+  },
+  "Sticker | DeadFox | Katowice 2019": {
+    "name": "Sticker | DeadFox | Katowice 2019",
+    "nameId": 194992
+  },
+  "Sticker | DeadFox (Foil) | Katowice 2019": {
+    "name": "Sticker | DeadFox (Foil) | Katowice 2019",
+    "nameId": 195051
+  },
+  "Sticker | DeadFox (Gold) | Katowice 2019": {
+    "name": "Sticker | DeadFox (Gold) | Katowice 2019",
+    "nameId": 195749
+  },
+  "Sticker | ANGE1 | Katowice 2019": {
+    "name": "Sticker | ANGE1 | Katowice 2019",
+    "nameId": 195002
+  },
+  "Sticker | ANGE1 (Foil) | Katowice 2019": {
+    "name": "Sticker | ANGE1 (Foil) | Katowice 2019",
+    "nameId": 195152
+  },
+  "Sticker | ANGE1 (Gold) | Katowice 2019": {
+    "name": "Sticker | ANGE1 (Gold) | Katowice 2019",
+    "nameId": 195688
+  },
+  "Sticker | Hobbit | Katowice 2019": {
+    "name": "Sticker | Hobbit | Katowice 2019",
+    "nameId": 195070
+  },
+  "Sticker | Hobbit (Foil) | Katowice 2019": {
+    "name": "Sticker | Hobbit (Foil) | Katowice 2019",
+    "nameId": 195114
+  },
+  "Sticker | Hobbit (Gold) | Katowice 2019": {
+    "name": "Sticker | Hobbit (Gold) | Katowice 2019",
+    "nameId": 196250
+  },
+  "Sticker | ISSAA | Katowice 2019": {
+    "name": "Sticker | ISSAA | Katowice 2019",
+    "nameId": 194884
+  },
+  "Sticker | ISSAA (Foil) | Katowice 2019": {
+    "name": "Sticker | ISSAA (Foil) | Katowice 2019",
+    "nameId": 195085
+  },
+  "Sticker | ISSAA (Gold) | Katowice 2019": {
+    "name": "Sticker | ISSAA (Gold) | Katowice 2019",
+    "nameId": 195712
+  },
+  "Sticker | woxic | Katowice 2019": {
+    "name": "Sticker | woxic | Katowice 2019",
+    "nameId": 194994
+  },
+  "Sticker | woxic (Foil) | Katowice 2019": {
+    "name": "Sticker | woxic (Foil) | Katowice 2019",
+    "nameId": 195026
+  },
+  "Sticker | woxic (Gold) | Katowice 2019": {
+    "name": "Sticker | woxic (Gold) | Katowice 2019",
+    "nameId": 195787
+  },
+  "Sticker | FalleN | Katowice 2019": {
+    "name": "Sticker | FalleN | Katowice 2019",
+    "nameId": 195043
+  },
+  "Sticker | FalleN (Foil) | Katowice 2019": {
+    "name": "Sticker | FalleN (Foil) | Katowice 2019",
+    "nameId": 195052
+  },
+  "Sticker | FalleN (Gold) | Katowice 2019": {
+    "name": "Sticker | FalleN (Gold) | Katowice 2019",
+    "nameId": 195742
+  },
+  "Sticker | felps | Katowice 2019": {
+    "name": "Sticker | felps | Katowice 2019",
+    "nameId": 194941
+  },
+  "Sticker | felps (Foil) | Katowice 2019": {
+    "name": "Sticker | felps (Foil) | Katowice 2019",
+    "nameId": 195086
+  },
+  "Sticker | felps (Gold) | Katowice 2019": {
+    "name": "Sticker | felps (Gold) | Katowice 2019",
+    "nameId": 195733
+  },
+  "Sticker | fer | Katowice 2019": {
+    "name": "Sticker | fer | Katowice 2019",
+    "nameId": 194880
+  },
+  "Sticker | fer (Foil) | Katowice 2019": {
+    "name": "Sticker | fer (Foil) | Katowice 2019",
+    "nameId": 195142
+  },
+  "Sticker | fer (Gold) | Katowice 2019": {
+    "name": "Sticker | fer (Gold) | Katowice 2019",
+    "nameId": 195718
+  },
+  "Sticker | TACO | Katowice 2019": {
+    "name": "Sticker | TACO | Katowice 2019",
+    "nameId": 194926
+  },
+  "Sticker | TACO (Foil) | Katowice 2019": {
+    "name": "Sticker | TACO (Foil) | Katowice 2019",
+    "nameId": 195082
+  },
+  "Sticker | TACO (Gold) | Katowice 2019": {
+    "name": "Sticker | TACO (Gold) | Katowice 2019",
+    "nameId": 195132
+  },
+  "Sticker | coldzera | Katowice 2019": {
+    "name": "Sticker | coldzera | Katowice 2019",
+    "nameId": 194931
+  },
+  "Sticker | coldzera (Foil) | Katowice 2019": {
+    "name": "Sticker | coldzera (Foil) | Katowice 2019",
+    "nameId": 195088
+  },
+  "Sticker | coldzera (Gold) | Katowice 2019": {
+    "name": "Sticker | coldzera (Gold) | Katowice 2019",
+    "nameId": 195147
+  },
+  "Sticker | Edward | Katowice 2019": {
+    "name": "Sticker | Edward | Katowice 2019",
+    "nameId": 194897
+  },
+  "Sticker | Edward (Foil) | Katowice 2019": {
+    "name": "Sticker | Edward (Foil) | Katowice 2019",
+    "nameId": 195069
+  },
+  "Sticker | Zeus | Katowice 2019": {
+    "name": "Sticker | Zeus | Katowice 2019",
+    "nameId": 195001
+  },
+  "Sticker | Zeus (Foil) | Katowice 2019": {
+    "name": "Sticker | Zeus (Foil) | Katowice 2019",
+    "nameId": 195107
+  },
+  "Sticker | Zeus (Gold) | Katowice 2019": {
+    "name": "Sticker | Zeus (Gold) | Katowice 2019",
+    "nameId": 195658
+  },
+  "Sticker | s1mple | Katowice 2019": {
+    "name": "Sticker | s1mple | Katowice 2019",
+    "nameId": 194918
+  },
+  "Sticker | s1mple (Foil) | Katowice 2019": {
+    "name": "Sticker | s1mple (Foil) | Katowice 2019",
+    "nameId": 195110
+  },
+  "Sticker | s1mple (Gold) | Katowice 2019": {
+    "name": "Sticker | s1mple (Gold) | Katowice 2019",
+    "nameId": 195669
+  },
+  "Sticker | electronic | Katowice 2019": {
+    "name": "Sticker | electronic | Katowice 2019",
+    "nameId": 194921
+  },
+  "Sticker | electronic (Foil) | Katowice 2019": {
+    "name": "Sticker | electronic (Foil) | Katowice 2019",
+    "nameId": 195090
+  },
+  "Sticker | electronic (Gold) | Katowice 2019": {
+    "name": "Sticker | electronic (Gold) | Katowice 2019",
+    "nameId": 195751
+  },
+  "Sticker | flamie | Katowice 2019": {
+    "name": "Sticker | flamie | Katowice 2019",
+    "nameId": 194927
+  },
+  "Sticker | flamie (Foil) | Katowice 2019": {
+    "name": "Sticker | flamie (Foil) | Katowice 2019",
+    "nameId": 195027
+  },
+  "Sticker | flamie (Gold) | Katowice 2019": {
+    "name": "Sticker | flamie (Gold) | Katowice 2019",
+    "nameId": 195697
+  },
+  "Sticker | f0rest | Katowice 2019": {
+    "name": "Sticker | f0rest | Katowice 2019",
+    "nameId": 195613
+  },
+  "Sticker | f0rest (Foil) | Katowice 2019": {
+    "name": "Sticker | f0rest (Foil) | Katowice 2019",
+    "nameId": 195014
+  },
+  "Sticker | Lekr0 | Katowice 2019": {
+    "name": "Sticker | Lekr0 | Katowice 2019",
+    "nameId": 195106
+  },
+  "Sticker | Lekr0 (Foil) | Katowice 2019": {
+    "name": "Sticker | Lekr0 (Foil) | Katowice 2019",
+    "nameId": 195633
+  },
+  "Sticker | Lekr0 (Gold) | Katowice 2019": {
+    "name": "Sticker | Lekr0 (Gold) | Katowice 2019",
+    "nameId": 195761
+  },
+  "Sticker | GeT_RiGhT | Katowice 2019": {
+    "name": "Sticker | GeT_RiGhT | Katowice 2019",
+    "nameId": 194879
+  },
+  "Sticker | GeT_RiGhT (Foil) | Katowice 2019": {
+    "name": "Sticker | GeT_RiGhT (Foil) | Katowice 2019",
+    "nameId": 195618
+  },
+  "Sticker | GeT_RiGhT (Gold) | Katowice 2019": {
+    "name": "Sticker | GeT_RiGhT (Gold) | Katowice 2019",
+    "nameId": 196284
+  },
+  "Sticker | REZ | Katowice 2019": {
+    "name": "Sticker | REZ | Katowice 2019",
+    "nameId": 194944
+  },
+  "Sticker | REZ (Foil) | Katowice 2019": {
+    "name": "Sticker | REZ (Foil) | Katowice 2019",
+    "nameId": 194894
+  },
+  "Sticker | REZ (Gold) | Katowice 2019": {
+    "name": "Sticker | REZ (Gold) | Katowice 2019",
+    "nameId": 196297
+  },
+  "Sticker | dennis | Katowice 2019": {
+    "name": "Sticker | dennis | Katowice 2019",
+    "nameId": 195066
+  },
+  "Sticker | dennis (Foil) | Katowice 2019": {
+    "name": "Sticker | dennis (Foil) | Katowice 2019",
+    "nameId": 195619
+  },
+  "Sticker | dennis (Gold) | Katowice 2019": {
+    "name": "Sticker | dennis (Gold) | Katowice 2019",
+    "nameId": 195699
+  },
+  "Sticker | daps | Katowice 2019": {
+    "name": "Sticker | daps | Katowice 2019",
+    "nameId": 195095
+  },
+  "Sticker | daps (Foil) | Katowice 2019": {
+    "name": "Sticker | daps (Foil) | Katowice 2019",
+    "nameId": 194975
+  },
+  "Sticker | Brehze | Katowice 2019": {
+    "name": "Sticker | Brehze | Katowice 2019",
+    "nameId": 194962
+  },
+  "Sticker | Brehze (Foil) | Katowice 2019": {
+    "name": "Sticker | Brehze (Foil) | Katowice 2019",
+    "nameId": 194889
+  },
+  "Sticker | Brehze (Gold) | Katowice 2019": {
+    "name": "Sticker | Brehze (Gold) | Katowice 2019",
+    "nameId": 196248
+  },
+  "Sticker | FugLy | Katowice 2019": {
+    "name": "Sticker | FugLy | Katowice 2019",
+    "nameId": 194940
+  },
+  "Sticker | FugLy (Foil) | Katowice 2019": {
+    "name": "Sticker | FugLy (Foil) | Katowice 2019",
+    "nameId": 195643
+  },
+  "Sticker | Ethan | Katowice 2019": {
+    "name": "Sticker | Ethan | Katowice 2019",
+    "nameId": 194908
+  },
+  "Sticker | CeRq | Katowice 2019": {
+    "name": "Sticker | CeRq | Katowice 2019",
+    "nameId": 194952
+  },
+  "Sticker | CeRq (Foil) | Katowice 2019": {
+    "name": "Sticker | CeRq (Foil) | Katowice 2019",
+    "nameId": 194977
+  },
+  "Sticker | CeRq (Gold) | Katowice 2019": {
+    "name": "Sticker | CeRq (Gold) | Katowice 2019",
+    "nameId": 195670
+  },
+  "Sticker | Gratisfaction | Katowice 2019": {
+    "name": "Sticker | Gratisfaction | Katowice 2019",
+    "nameId": 194964
+  },
+  "Sticker | Gratisfaction (Foil) | Katowice 2019": {
+    "name": "Sticker | Gratisfaction (Foil) | Katowice 2019",
+    "nameId": 194984
+  },
+  "Sticker | Gratisfaction (Gold) | Katowice 2019": {
+    "name": "Sticker | Gratisfaction (Gold) | Katowice 2019",
+    "nameId": 198780
+  },
+  "Sticker | jks | Katowice 2019": {
+    "name": "Sticker | jks | Katowice 2019",
+    "nameId": 194874
+  },
+  "Sticker | jks (Foil) | Katowice 2019": {
+    "name": "Sticker | jks (Foil) | Katowice 2019",
+    "nameId": 195120
+  },
+  "Sticker | jks (Gold) | Katowice 2019": {
+    "name": "Sticker | jks (Gold) | Katowice 2019",
+    "nameId": 195779
+  },
+  "Sticker | AZR | Katowice 2019": {
+    "name": "Sticker | AZR | Katowice 2019",
+    "nameId": 194957
+  },
+  "Sticker | AZR (Foil) | Katowice 2019": {
+    "name": "Sticker | AZR (Foil) | Katowice 2019",
+    "nameId": 195156
+  },
+  "Sticker | AZR (Gold) | Katowice 2019": {
+    "name": "Sticker | AZR (Gold) | Katowice 2019",
+    "nameId": 195776
+  },
+  "Sticker | jkaem | Katowice 2019": {
+    "name": "Sticker | jkaem | Katowice 2019",
+    "nameId": 194942
+  },
+  "Sticker | jkaem (Foil) | Katowice 2019": {
+    "name": "Sticker | jkaem (Foil) | Katowice 2019",
+    "nameId": 195641
+  },
+  "Sticker | jkaem (Gold) | Katowice 2019": {
+    "name": "Sticker | jkaem (Gold) | Katowice 2019",
+    "nameId": 195704
+  },
+  "Sticker | Liazz | Katowice 2019": {
+    "name": "Sticker | Liazz | Katowice 2019",
+    "nameId": 194903
+  },
+  "Sticker | Liazz (Foil) | Katowice 2019": {
+    "name": "Sticker | Liazz (Foil) | Katowice 2019",
+    "nameId": 195084
+  },
+  "Sticker | Liazz (Gold) | Katowice 2019": {
+    "name": "Sticker | Liazz (Gold) | Katowice 2019",
+    "nameId": 198705
+  },
+  "Sticker | nitr0 | Katowice 2019": {
+    "name": "Sticker | nitr0 | Katowice 2019",
+    "nameId": 194883
+  },
+  "Sticker | nitr0 (Foil) | Katowice 2019": {
+    "name": "Sticker | nitr0 (Foil) | Katowice 2019",
+    "nameId": 195081
+  },
+  "Sticker | nitr0 (Gold) | Katowice 2019": {
+    "name": "Sticker | nitr0 (Gold) | Katowice 2019",
+    "nameId": 195647
+  },
+  "Sticker | Stewie2K | Katowice 2019": {
+    "name": "Sticker | Stewie2K | Katowice 2019",
+    "nameId": 194991
+  },
+  "Sticker | Stewie2K (Gold) | Katowice 2019": {
+    "name": "Sticker | Stewie2K (Gold) | Katowice 2019",
+    "nameId": 195767
+  },
+  "Sticker | NAF | Katowice 2019": {
+    "name": "Sticker | NAF | Katowice 2019",
+    "nameId": 194885
+  },
+  "Sticker | NAF (Foil) | Katowice 2019": {
+    "name": "Sticker | NAF (Foil) | Katowice 2019",
+    "nameId": 195053
+  },
+  "Sticker | NAF (Gold) | Katowice 2019": {
+    "name": "Sticker | NAF (Gold) | Katowice 2019",
+    "nameId": 196308
+  },
+  "Sticker | Twistzz | Katowice 2019": {
+    "name": "Sticker | Twistzz | Katowice 2019",
+    "nameId": 194891
+  },
+  "Sticker | Twistzz (Foil) | Katowice 2019": {
+    "name": "Sticker | Twistzz (Foil) | Katowice 2019",
+    "nameId": 195128
+  },
+  "Sticker | Twistzz (Gold) | Katowice 2019": {
+    "name": "Sticker | Twistzz (Gold) | Katowice 2019",
+    "nameId": 195752
+  },
+  "Sticker | EliGE | Katowice 2019": {
+    "name": "Sticker | EliGE | Katowice 2019",
+    "nameId": 195000
+  },
+  "Sticker | EliGE (Foil) | Katowice 2019": {
+    "name": "Sticker | EliGE (Foil) | Katowice 2019",
+    "nameId": 195127
+  },
+  "Sticker | EliGE (Gold) | Katowice 2019": {
+    "name": "Sticker | EliGE (Gold) | Katowice 2019",
+    "nameId": 195616
+  },
+  "Sticker | DavCost | Katowice 2019": {
+    "name": "Sticker | DavCost | Katowice 2019",
+    "nameId": 194892
+  },
+  "Sticker | DavCost (Foil) | Katowice 2019": {
+    "name": "Sticker | DavCost (Foil) | Katowice 2019",
+    "nameId": 195119
+  },
+  "Sticker | COLDYY1 | Katowice 2019": {
+    "name": "Sticker | COLDYY1 | Katowice 2019",
+    "nameId": 194890
+  },
+  "Sticker | COLDYY1 (Foil) | Katowice 2019": {
+    "name": "Sticker | COLDYY1 (Foil) | Katowice 2019",
+    "nameId": 195093
+  },
+  "Sticker | COLDYY1 (Gold) | Katowice 2019": {
+    "name": "Sticker | COLDYY1 (Gold) | Katowice 2019",
+    "nameId": 196320
+  },
+  "Sticker | Dima | Katowice 2019": {
+    "name": "Sticker | Dima | Katowice 2019",
+    "nameId": 194872
+  },
+  "Sticker | Dima (Foil) | Katowice 2019": {
+    "name": "Sticker | Dima (Foil) | Katowice 2019",
+    "nameId": 194971
+  },
+  "Sticker | Dima (Gold) | Katowice 2019": {
+    "name": "Sticker | Dima (Gold) | Katowice 2019",
+    "nameId": 196291
+  },
+  "Sticker | sdy | Katowice 2019": {
+    "name": "Sticker | sdy | Katowice 2019",
+    "nameId": 194976
+  },
+  "Sticker | sdy (Foil) | Katowice 2019": {
+    "name": "Sticker | sdy (Foil) | Katowice 2019",
+    "nameId": 195155
+  },
+  "Sticker | sdy (Gold) | Katowice 2019": {
+    "name": "Sticker | sdy (Gold) | Katowice 2019",
+    "nameId": 195782
+  },
+  "Sticker | S0tF1k | Katowice 2019": {
+    "name": "Sticker | S0tF1k | Katowice 2019",
+    "nameId": 195075
+  },
+  "Sticker | S0tF1k (Foil) | Katowice 2019": {
+    "name": "Sticker | S0tF1k (Foil) | Katowice 2019",
+    "nameId": 195666
+  },
+  "Sticker | S0tF1k (Gold) | Katowice 2019": {
+    "name": "Sticker | S0tF1k (Gold) | Katowice 2019",
+    "nameId": 195706
+  },
+  "Sticker | Summer | Katowice 2019": {
+    "name": "Sticker | Summer | Katowice 2019",
+    "nameId": 195115
+  },
+  "Sticker | Summer (Foil) | Katowice 2019": {
+    "name": "Sticker | Summer (Foil) | Katowice 2019",
+    "nameId": 195608
+  },
+  "Sticker | Summer (Gold) | Katowice 2019": {
+    "name": "Sticker | Summer (Gold) | Katowice 2019",
+    "nameId": 196324
+  },
+  "Sticker | somebody | Katowice 2019": {
+    "name": "Sticker | somebody | Katowice 2019",
+    "nameId": 195149
+  },
+  "Sticker | somebody (Foil) | Katowice 2019": {
+    "name": "Sticker | somebody (Foil) | Katowice 2019",
+    "nameId": 195637
+  },
+  "Sticker | Attacker | Katowice 2019": {
+    "name": "Sticker | Attacker | Katowice 2019",
+    "nameId": 194989
+  },
+  "Sticker | Attacker (Foil) | Katowice 2019": {
+    "name": "Sticker | Attacker (Foil) | Katowice 2019",
+    "nameId": 195099
+  },
+  "Sticker | Attacker (Gold) | Katowice 2019": {
+    "name": "Sticker | Attacker (Gold) | Katowice 2019",
+    "nameId": 195008
+  },
+  "Sticker | BnTeT | Katowice 2019": {
+    "name": "Sticker | BnTeT | Katowice 2019",
+    "nameId": 194881
+  },
+  "Sticker | BnTeT (Foil) | Katowice 2019": {
+    "name": "Sticker | BnTeT (Foil) | Katowice 2019",
+    "nameId": 195615
+  },
+  "Sticker | BnTeT (Gold) | Katowice 2019": {
+    "name": "Sticker | BnTeT (Gold) | Katowice 2019",
+    "nameId": 196378
+  },
+  "Sticker | xccurate | Katowice 2019": {
+    "name": "Sticker | xccurate | Katowice 2019",
+    "nameId": 195607
+  },
+  "Sticker | xccurate (Foil) | Katowice 2019": {
+    "name": "Sticker | xccurate (Foil) | Katowice 2019",
+    "nameId": 195045
+  },
+  "Sticker | xccurate (Gold) | Katowice 2019": {
+    "name": "Sticker | xccurate (Gold) | Katowice 2019",
+    "nameId": 195663
+  },
+  "Sticker | tonyblack | Katowice 2019": {
+    "name": "Sticker | tonyblack | Katowice 2019",
+    "nameId": 194995
+  },
+  "Sticker | tonyblack (Gold) | Katowice 2019": {
+    "name": "Sticker | tonyblack (Gold) | Katowice 2019",
+    "nameId": 196862
+  },
+  "Sticker | crush | Katowice 2019": {
+    "name": "Sticker | crush | Katowice 2019",
+    "nameId": 195009
+  },
+  "Sticker | crush (Foil) | Katowice 2019": {
+    "name": "Sticker | crush (Foil) | Katowice 2019",
+    "nameId": 194946
+  },
+  "Sticker | jR (Foil) | Katowice 2019": {
+    "name": "Sticker | jR (Foil) | Katowice 2019",
+    "nameId": 195610
+  },
+  "Sticker | hutji | Katowice 2019": {
+    "name": "Sticker | hutji | Katowice 2019",
+    "nameId": 195117
+  },
+  "Sticker | hutji (Foil) | Katowice 2019": {
+    "name": "Sticker | hutji (Foil) | Katowice 2019",
+    "nameId": 195671
+  },
+  "Sticker | chopper | Katowice 2019": {
+    "name": "Sticker | chopper | Katowice 2019",
+    "nameId": 194996
+  },
+  "Sticker | Kaze | Katowice 2019": {
+    "name": "Sticker | Kaze | Katowice 2019",
+    "nameId": 194871
+  },
+  "Sticker | advent | Katowice 2019": {
+    "name": "Sticker | advent | Katowice 2019",
+    "nameId": 194974
+  },
+  "Sticker | aumaN | Katowice 2019": {
+    "name": "Sticker | aumaN | Katowice 2019",
+    "nameId": 194896
+  },
+  "Sticker | zhokiNg | Katowice 2019": {
+    "name": "Sticker | zhokiNg | Katowice 2019",
+    "nameId": 195074
+  },
+  "Sticker | zhokiNg (Foil) | Katowice 2019": {
+    "name": "Sticker | zhokiNg (Foil) | Katowice 2019",
+    "nameId": 195140
+  },
+  "Sticker | Freeman | Katowice 2019": {
+    "name": "Sticker | Freeman | Katowice 2019",
+    "nameId": 194882
+  },
+  "Sticker | Freeman (Foil) | Katowice 2019": {
+    "name": "Sticker | Freeman (Foil) | Katowice 2019",
+    "nameId": 194911
+  },
+  "Sticker | Freeman (Gold) | Katowice 2019": {
+    "name": "Sticker | Freeman (Gold) | Katowice 2019",
+    "nameId": 196272
+  },
+  "Sticker | NBK- | Katowice 2019": {
+    "name": "Sticker | NBK- | Katowice 2019",
+    "nameId": 194937
+  },
+  "Sticker | NBK- (Foil) | Katowice 2019": {
+    "name": "Sticker | NBK- (Foil) | Katowice 2019",
+    "nameId": 195137
+  },
+  "Sticker | NBK- (Gold) | Katowice 2019": {
+    "name": "Sticker | NBK- (Gold) | Katowice 2019",
+    "nameId": 195756
+  },
+  "Sticker | apEX | Katowice 2019": {
+    "name": "Sticker | apEX | Katowice 2019",
+    "nameId": 194970
+  },
+  "Sticker | apEX (Foil) | Katowice 2019": {
+    "name": "Sticker | apEX (Foil) | Katowice 2019",
+    "nameId": 195133
+  },
+  "Sticker | ALEX | Katowice 2019": {
+    "name": "Sticker | ALEX | Katowice 2019",
+    "nameId": 194902
+  },
+  "Sticker | ALEX (Foil) | Katowice 2019": {
+    "name": "Sticker | ALEX (Foil) | Katowice 2019",
+    "nameId": 194869
+  },
+  "Sticker | RpK | Katowice 2019": {
+    "name": "Sticker | RpK | Katowice 2019",
+    "nameId": 194972
+  },
+  "Sticker | RpK (Foil) | Katowice 2019": {
+    "name": "Sticker | RpK (Foil) | Katowice 2019",
+    "nameId": 194906
+  },
+  "Sticker | RpK (Gold) | Katowice 2019": {
+    "name": "Sticker | RpK (Gold) | Katowice 2019",
+    "nameId": 196242
+  },
+  "Sticker | ZywOo | Katowice 2019": {
+    "name": "Sticker | ZywOo | Katowice 2019",
+    "nameId": 194979
+  },
+  "Sticker | ZywOo (Gold) | Katowice 2019": {
+    "name": "Sticker | ZywOo (Gold) | Katowice 2019",
+    "nameId": 195708
+  },
+  "Sticker | WorldEdit | Katowice 2019": {
+    "name": "Sticker | WorldEdit | Katowice 2019",
+    "nameId": 194980
+  },
+  "Sticker | WorldEdit (Foil) | Katowice 2019": {
+    "name": "Sticker | WorldEdit (Foil) | Katowice 2019",
+    "nameId": 195134
+  },
+  "Sticker | WorldEdit (Gold) | Katowice 2019": {
+    "name": "Sticker | WorldEdit (Gold) | Katowice 2019",
+    "nameId": 196285
+  },
+  "Sticker | wayLander | Katowice 2019": {
+    "name": "Sticker | wayLander | Katowice 2019",
+    "nameId": 194966
+  },
+  "Sticker | wayLander (Gold) | Katowice 2019": {
+    "name": "Sticker | wayLander (Gold) | Katowice 2019",
+    "nameId": 195791
+  },
+  "Sticker | Kvik | Katowice 2019": {
+    "name": "Sticker | Kvik | Katowice 2019",
+    "nameId": 194875
+  },
+  "Sticker | Kvik (Foil) | Katowice 2019": {
+    "name": "Sticker | Kvik (Foil) | Katowice 2019",
+    "nameId": 195141
+  },
+  "Sticker | Kvik (Gold) | Katowice 2019": {
+    "name": "Sticker | Kvik (Gold) | Katowice 2019",
+    "nameId": 195717
+  },
+  "Sticker | Boombl4 | Katowice 2019": {
+    "name": "Sticker | Boombl4 | Katowice 2019",
+    "nameId": 194961
+  },
+  "Sticker | Boombl4 (Foil) | Katowice 2019": {
+    "name": "Sticker | Boombl4 (Foil) | Katowice 2019",
+    "nameId": 194967
+  },
+  "Sticker | Boombl4 (Gold) | Katowice 2019": {
+    "name": "Sticker | Boombl4 (Gold) | Katowice 2019",
+    "nameId": 196265
+  },
+  "Sticker | n0rb3r7 | Katowice 2019": {
+    "name": "Sticker | n0rb3r7 | Katowice 2019",
+    "nameId": 194960
+  },
+  "Sticker | n0rb3r7 (Foil) | Katowice 2019": {
+    "name": "Sticker | n0rb3r7 (Foil) | Katowice 2019",
+    "nameId": 195044
+  },
+  "Sticker | n0rb3r7 (Gold) | Katowice 2019": {
+    "name": "Sticker | n0rb3r7 (Gold) | Katowice 2019",
+    "nameId": 195784
+  },
+  "Sticker | AZR (Gold) | Berlin 2019": {
+    "name": "Sticker | AZR (Gold) | Berlin 2019",
+    "nameId": 874906
+  },
+  "Sticker | sh1ro (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | sh1ro (Glitter) | Copenhagen 2024",
+    "nameId": 2596758
+  },
+  "Sticker | sh1ro (Holo) | Copenhagen 2024": {
+    "name": "Sticker | sh1ro (Holo) | Copenhagen 2024",
+    "nameId": 2596991
+  },
+  "Sticker | sh1ro (Gold) | Copenhagen 2024": {
+    "name": "Sticker | sh1ro (Gold) | Copenhagen 2024",
+    "nameId": 2596743
+  },
+  "Sticker | zont1x | Copenhagen 2024": {
+    "name": "Sticker | zont1x | Copenhagen 2024",
+    "nameId": 2596544
+  },
+  "Sticker | zont1x (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | zont1x (Glitter) | Copenhagen 2024",
+    "nameId": 2596744
+  },
+  "Sticker | zont1x (Holo) | Copenhagen 2024": {
+    "name": "Sticker | zont1x (Holo) | Copenhagen 2024",
+    "nameId": 2596979
+  },
+  "Sticker | zont1x (Gold) | Copenhagen 2024": {
+    "name": "Sticker | zont1x (Gold) | Copenhagen 2024",
+    "nameId": 2597089
+  },
+  "Sticker | apEX | Copenhagen 2024": {
+    "name": "Sticker | apEX | Copenhagen 2024",
+    "nameId": 2596579
+  },
+  "Sticker | apEX (Holo) | Copenhagen 2024": {
+    "name": "Sticker | apEX (Holo) | Copenhagen 2024",
+    "nameId": 2596813
+  },
+  "Sticker | apEX (Gold) | Copenhagen 2024": {
+    "name": "Sticker | apEX (Gold) | Copenhagen 2024",
+    "nameId": 2597075
+  },
+  "Sticker | FlameZ | Copenhagen 2024": {
+    "name": "Sticker | FlameZ | Copenhagen 2024",
+    "nameId": 2596542
+  },
+  "Sticker | FlameZ (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | FlameZ (Glitter) | Copenhagen 2024",
+    "nameId": 2596661
+  },
+  "Sticker | FlameZ (Holo) | Copenhagen 2024": {
+    "name": "Sticker | FlameZ (Holo) | Copenhagen 2024",
+    "nameId": 2596599
+  },
+  "Sticker | FlameZ (Gold) | Copenhagen 2024": {
+    "name": "Sticker | FlameZ (Gold) | Copenhagen 2024",
+    "nameId": 2597123
+  },
+  "Sticker | mezii | Copenhagen 2024": {
+    "name": "Sticker | mezii | Copenhagen 2024",
+    "nameId": 2596584
+  },
+  "Sticker | mezii (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | mezii (Glitter) | Copenhagen 2024",
+    "nameId": 2596735
+  },
+  "Sticker | mezii (Holo) | Copenhagen 2024": {
+    "name": "Sticker | mezii (Holo) | Copenhagen 2024",
+    "nameId": 2596916
+  },
+  "Sticker | Spinx | Copenhagen 2024": {
+    "name": "Sticker | Spinx | Copenhagen 2024",
+    "nameId": 2596667
+  },
+  "Sticker | Spinx (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Spinx (Holo) | Copenhagen 2024",
+    "nameId": 2596981
+  },
+  "Sticker | Spinx (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Spinx (Gold) | Copenhagen 2024",
+    "nameId": 2596901
+  },
+  "Sticker | ZywOo (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | ZywOo (Glitter) | Copenhagen 2024",
+    "nameId": 2596888
+  },
+  "Sticker | ZywOo (Holo) | Copenhagen 2024": {
+    "name": "Sticker | ZywOo (Holo) | Copenhagen 2024",
+    "nameId": 2596973
+  },
+  "Sticker | ZywOo (Gold) | Copenhagen 2024": {
+    "name": "Sticker | ZywOo (Gold) | Copenhagen 2024",
+    "nameId": 2596539
+  },
+  "Sticker | Brollan | Copenhagen 2024": {
+    "name": "Sticker | Brollan | Copenhagen 2024",
+    "nameId": 2596721
+  },
+  "Sticker | Brollan (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Brollan (Glitter) | Copenhagen 2024",
+    "nameId": 2596587
+  },
+  "Sticker | Brollan (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Brollan (Holo) | Copenhagen 2024",
+    "nameId": 2596597
+  },
+  "Sticker | Brollan (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Brollan (Gold) | Copenhagen 2024",
+    "nameId": 2596885
+  },
+  "Sticker | Jimpphat | Copenhagen 2024": {
+    "name": "Sticker | Jimpphat | Copenhagen 2024",
+    "nameId": 2596561
+  },
+  "Sticker | Jimpphat (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Jimpphat (Glitter) | Copenhagen 2024",
+    "nameId": 2596754
+  },
+  "Sticker | Jimpphat (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Jimpphat (Holo) | Copenhagen 2024",
+    "nameId": 2597001
+  },
+  "Sticker | Jimpphat (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Jimpphat (Gold) | Copenhagen 2024",
+    "nameId": 2597038
+  },
+  "Sticker | siuhy | Copenhagen 2024": {
+    "name": "Sticker | siuhy | Copenhagen 2024",
+    "nameId": 2596513
+  },
+  "Sticker | siuhy (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | siuhy (Glitter) | Copenhagen 2024",
+    "nameId": 2596802
+  },
+  "Sticker | siuhy (Holo) | Copenhagen 2024": {
+    "name": "Sticker | siuhy (Holo) | Copenhagen 2024",
+    "nameId": 2596741
+  },
+  "Sticker | siuhy (Gold) | Copenhagen 2024": {
+    "name": "Sticker | siuhy (Gold) | Copenhagen 2024",
+    "nameId": 2596788
+  },
+  "Sticker | torzsi | Copenhagen 2024": {
+    "name": "Sticker | torzsi | Copenhagen 2024",
+    "nameId": 2596596
+  },
+  "Sticker | torzsi (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | torzsi (Glitter) | Copenhagen 2024",
+    "nameId": 2596764
+  },
+  "Sticker | torzsi (Holo) | Copenhagen 2024": {
+    "name": "Sticker | torzsi (Holo) | Copenhagen 2024",
+    "nameId": 2596833
+  },
+  "Sticker | torzsi (Gold) | Copenhagen 2024": {
+    "name": "Sticker | torzsi (Gold) | Copenhagen 2024",
+    "nameId": 2597062
+  },
+  "Sticker | xertioN | Copenhagen 2024": {
+    "name": "Sticker | xertioN | Copenhagen 2024",
+    "nameId": 2596527
+  },
+  "Sticker | xertioN (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | xertioN (Glitter) | Copenhagen 2024",
+    "nameId": 2596669
+  },
+  "Sticker | xertioN (Holo) | Copenhagen 2024": {
+    "name": "Sticker | xertioN (Holo) | Copenhagen 2024",
+    "nameId": 2596674
+  },
+  "Sticker | xertioN (Gold) | Copenhagen 2024": {
+    "name": "Sticker | xertioN (Gold) | Copenhagen 2024",
+    "nameId": 2596927
+  },
+  "Sticker | hallzerk | Copenhagen 2024": {
+    "name": "Sticker | hallzerk | Copenhagen 2024",
+    "nameId": 2596541
+  },
+  "Sticker | hallzerk (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | hallzerk (Glitter) | Copenhagen 2024",
+    "nameId": 2596740
+  },
+  "Sticker | hallzerk (Holo) | Copenhagen 2024": {
+    "name": "Sticker | hallzerk (Holo) | Copenhagen 2024",
+    "nameId": 2597015
+  },
+  "Sticker | hallzerk (Gold) | Copenhagen 2024": {
+    "name": "Sticker | hallzerk (Gold) | Copenhagen 2024",
+    "nameId": 2596904
+  },
+  "Sticker | EliGE | Copenhagen 2024": {
+    "name": "Sticker | EliGE | Copenhagen 2024",
+    "nameId": 2596525
+  },
+  "Sticker | EliGE (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | EliGE (Glitter) | Copenhagen 2024",
+    "nameId": 2596590
+  },
+  "Sticker | EliGE (Holo) | Copenhagen 2024": {
+    "name": "Sticker | EliGE (Holo) | Copenhagen 2024",
+    "nameId": 2597000
+  },
+  "Sticker | EliGE (Gold) | Copenhagen 2024": {
+    "name": "Sticker | EliGE (Gold) | Copenhagen 2024",
+    "nameId": 2597079
+  },
+  "Sticker | floppy | Copenhagen 2024": {
+    "name": "Sticker | floppy | Copenhagen 2024",
+    "nameId": 2596545
+  },
+  "Sticker | floppy (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | floppy (Glitter) | Copenhagen 2024",
+    "nameId": 2596591
+  },
+  "Sticker | floppy (Holo) | Copenhagen 2024": {
+    "name": "Sticker | floppy (Holo) | Copenhagen 2024",
+    "nameId": 2596748
+  },
+  "Sticker | floppy (Gold) | Copenhagen 2024": {
+    "name": "Sticker | floppy (Gold) | Copenhagen 2024",
+    "nameId": 2597063
+  },
+  "Sticker | Grim | Copenhagen 2024": {
+    "name": "Sticker | Grim | Copenhagen 2024",
+    "nameId": 2596727
+  },
+  "Sticker | Grim (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Grim (Holo) | Copenhagen 2024",
+    "nameId": 2596972
+  },
+  "Sticker | Grim (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Grim (Gold) | Copenhagen 2024",
+    "nameId": 2597010
+  },
+  "Sticker | JT | Copenhagen 2024": {
+    "name": "Sticker | JT | Copenhagen 2024",
+    "nameId": 2596585
+  },
+  "Sticker | JT (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | JT (Glitter) | Copenhagen 2024",
+    "nameId": 2596875
+  },
+  "Sticker | JT (Holo) | Copenhagen 2024": {
+    "name": "Sticker | JT (Holo) | Copenhagen 2024",
+    "nameId": 2596792
+  },
+  "Sticker | JT (Gold) | Copenhagen 2024": {
+    "name": "Sticker | JT (Gold) | Copenhagen 2024",
+    "nameId": 2596959
+  },
+  "Sticker | Ax1Le | Copenhagen 2024": {
+    "name": "Sticker | Ax1Le | Copenhagen 2024",
+    "nameId": 2596677
+  },
+  "Sticker | Ax1Le (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Ax1Le (Glitter) | Copenhagen 2024",
+    "nameId": 2596858
+  },
+  "Sticker | Ax1Le (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Ax1Le (Holo) | Copenhagen 2024",
+    "nameId": 2597064
+  },
+  "Sticker | Ax1Le (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Ax1Le (Gold) | Copenhagen 2024",
+    "nameId": 2597176
+  },
+  "Sticker | Boombl4 | Copenhagen 2024": {
+    "name": "Sticker | Boombl4 | Copenhagen 2024",
+    "nameId": 2596824
+  },
+  "Sticker | Boombl4 (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Boombl4 (Glitter) | Copenhagen 2024",
+    "nameId": 2596862
+  },
+  "Sticker | electronic | Copenhagen 2024": {
+    "name": "Sticker | electronic | Copenhagen 2024",
+    "nameId": 2596657
+  },
+  "Sticker | electronic (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | electronic (Glitter) | Copenhagen 2024",
+    "nameId": 2596877
+  },
+  "Sticker | electronic (Holo) | Copenhagen 2024": {
+    "name": "Sticker | electronic (Holo) | Copenhagen 2024",
+    "nameId": 2596749
+  },
+  "Sticker | electronic (Gold) | Copenhagen 2024": {
+    "name": "Sticker | electronic (Gold) | Copenhagen 2024",
+    "nameId": 2597177
+  },
+  "Sticker | Hobbit | Copenhagen 2024": {
+    "name": "Sticker | Hobbit | Copenhagen 2024",
+    "nameId": 2596637
+  },
+  "Sticker | Hobbit (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Hobbit (Glitter) | Copenhagen 2024",
+    "nameId": 2596952
+  },
+  "Sticker | Hobbit (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Hobbit (Holo) | Copenhagen 2024",
+    "nameId": 2596589
+  },
+  "Sticker | Hobbit (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Hobbit (Gold) | Copenhagen 2024",
+    "nameId": 2597243
+  },
+  "Sticker | Perfecto | Copenhagen 2024": {
+    "name": "Sticker | Perfecto | Copenhagen 2024",
+    "nameId": 2596615
+  },
+  "Sticker | Perfecto (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Perfecto (Glitter) | Copenhagen 2024",
+    "nameId": 2596867
+  },
+  "Sticker | Perfecto (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Perfecto (Holo) | Copenhagen 2024",
+    "nameId": 2596869
+  },
+  "Sticker | Perfecto (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Perfecto (Gold) | Copenhagen 2024",
+    "nameId": 2597132
+  },
+  "Sticker | Goofy | Copenhagen 2024": {
+    "name": "Sticker | Goofy | Copenhagen 2024",
+    "nameId": 2596698
+  },
+  "Sticker | Goofy (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Goofy (Glitter) | Copenhagen 2024",
+    "nameId": 2596780
+  },
+  "Sticker | Goofy (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Goofy (Holo) | Copenhagen 2024",
+    "nameId": 2597097
+  },
+  "Sticker | Goofy (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Goofy (Gold) | Copenhagen 2024",
+    "nameId": 2597134
+  },
+  "Sticker | Kylar | Copenhagen 2024": {
+    "name": "Sticker | Kylar | Copenhagen 2024",
+    "nameId": 2596605
+  },
+  "Sticker | Kylar (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Kylar (Glitter) | Copenhagen 2024",
+    "nameId": 2596918
+  },
+  "Sticker | Kylar (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Kylar (Holo) | Copenhagen 2024",
+    "nameId": 2597098
+  },
+  "Sticker | Kylar (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Kylar (Gold) | Copenhagen 2024",
+    "nameId": 2596865
+  },
+  "Sticker | Dycha | Copenhagen 2024": {
+    "name": "Sticker | Dycha | Copenhagen 2024",
+    "nameId": 2596642
+  },
+  "Sticker | Dycha (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Dycha (Holo) | Copenhagen 2024",
+    "nameId": 2597043
+  },
+  "Sticker | gla1ve (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | gla1ve (Glitter) | Copenhagen 2024",
+    "nameId": 2596854
+  },
+  "Sticker | hades (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | hades (Glitter) | Copenhagen 2024",
+    "nameId": 2596861
+  },
+  "Sticker | hades (Holo) | Copenhagen 2024": {
+    "name": "Sticker | hades (Holo) | Copenhagen 2024",
+    "nameId": 2597031
+  },
+  "Sticker | hades (Gold) | Copenhagen 2024": {
+    "name": "Sticker | hades (Gold) | Copenhagen 2024",
+    "nameId": 2597131
+  },
+  "Sticker | arT | Copenhagen 2024": {
+    "name": "Sticker | arT | Copenhagen 2024",
+    "nameId": 2596718
+  },
+  "Sticker | arT (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | arT (Glitter) | Copenhagen 2024",
+    "nameId": 2596863
+  },
+  "Sticker | arT (Holo) | Copenhagen 2024": {
+    "name": "Sticker | arT (Holo) | Copenhagen 2024",
+    "nameId": 2597087
   }
 }
