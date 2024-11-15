@@ -35134,5 +35134,837 @@
   "Sticker | arT (Holo) | Copenhagen 2024": {
     "name": "Sticker | arT (Holo) | Copenhagen 2024",
     "nameId": 2597087
+  },
+  "P90 | Emerald Dragon (Minimal Wear)": {
+    "name": "P90 | Emerald Dragon (Minimal Wear)",
+    "nameId": 7701
+  },
+  "P90 | Emerald Dragon (Field-Tested)": {
+    "name": "P90 | Emerald Dragon (Field-Tested)",
+    "nameId": 1513
+  },
+  "P90 | Emerald Dragon (Well-Worn)": {
+    "name": "P90 | Emerald Dragon (Well-Worn)",
+    "nameId": 3478
+  },
+  "StatTrak™ P90 | Emerald Dragon (Minimal Wear)": {
+    "name": "StatTrak™ P90 | Emerald Dragon (Minimal Wear)",
+    "nameId": 8095
+  },
+  "P2000 | Oceanic (Field-Tested)": {
+    "name": "P2000 | Oceanic (Field-Tested)",
+    "nameId": 3716
+  },
+  "P2000 | Oceanic (Well-Worn)": {
+    "name": "P2000 | Oceanic (Well-Worn)",
+    "nameId": 9441
+  },
+  "P2000 | Oceanic (Battle-Scarred)": {
+    "name": "P2000 | Oceanic (Battle-Scarred)",
+    "nameId": 3751
+  },
+  "StatTrak™ P2000 | Oceanic (Factory New)": {
+    "name": "StatTrak™ P2000 | Oceanic (Factory New)",
+    "nameId": 9403
+  },
+  "StatTrak™ P2000 | Oceanic (Minimal Wear)": {
+    "name": "StatTrak™ P2000 | Oceanic (Minimal Wear)",
+    "nameId": 2023
+  },
+  "StatTrak™ P2000 | Oceanic (Field-Tested)": {
+    "name": "StatTrak™ P2000 | Oceanic (Field-Tested)",
+    "nameId": 9316
+  },
+  "StatTrak™ P2000 | Oceanic (Well-Worn)": {
+    "name": "StatTrak™ P2000 | Oceanic (Well-Worn)",
+    "nameId": 1637
+  },
+  "StatTrak™ P2000 | Oceanic (Battle-Scarred)": {
+    "name": "StatTrak™ P2000 | Oceanic (Battle-Scarred)",
+    "nameId": 2371
+  },
+  "P2000 | Imperial Dragon (Factory New)": {
+    "name": "P2000 | Imperial Dragon (Factory New)",
+    "nameId": 925
+  },
+  "P2000 | Imperial Dragon (Minimal Wear)": {
+    "name": "P2000 | Imperial Dragon (Minimal Wear)",
+    "nameId": 87
+  },
+  "P2000 | Imperial Dragon (Field-Tested)": {
+    "name": "P2000 | Imperial Dragon (Field-Tested)",
+    "nameId": 4088
+  },
+  "P2000 | Imperial Dragon (Well-Worn)": {
+    "name": "P2000 | Imperial Dragon (Well-Worn)",
+    "nameId": 1215
+  },
+  "StatTrak™ USP-S | Printstream (Factory New)": {
+    "name": "StatTrak™ USP-S | Printstream (Factory New)",
+    "nameId": 1092439
+  },
+  "StatTrak™ USP-S | Printstream (Minimal Wear)": {
+    "name": "StatTrak™ USP-S | Printstream (Minimal Wear)",
+    "nameId": 1092295
+  },
+  "StatTrak™ USP-S | Printstream (Field-Tested)": {
+    "name": "StatTrak™ USP-S | Printstream (Field-Tested)",
+    "nameId": 1092405
+  },
+  "StatTrak™ USP-S | Printstream (Well-Worn)": {
+    "name": "StatTrak™ USP-S | Printstream (Well-Worn)",
+    "nameId": 1092442
+  },
+  "StatTrak™ USP-S | Printstream (Battle-Scarred)": {
+    "name": "StatTrak™ USP-S | Printstream (Battle-Scarred)",
+    "nameId": 1092422
+  },
+  "USP-S | Jawbreaker (Factory New)": {
+    "name": "USP-S | Jawbreaker (Factory New)",
+    "nameId": 2522066
+  },
+  "USP-S | Jawbreaker (Minimal Wear)": {
+    "name": "USP-S | Jawbreaker (Minimal Wear)",
+    "nameId": 2521976
+  },
+  "USP-S | Jawbreaker (Field-Tested)": {
+    "name": "USP-S | Jawbreaker (Field-Tested)",
+    "nameId": 2521377
+  },
+  "USP-S | Jawbreaker (Well-Worn)": {
+    "name": "USP-S | Jawbreaker (Well-Worn)",
+    "nameId": 2521568
+  },
+  "USP-S | Jawbreaker (Battle-Scarred)": {
+    "name": "USP-S | Jawbreaker (Battle-Scarred)",
+    "nameId": 2521824
+  },
+  "★ StatTrak™ Falchion Knife | Autotronic (Minimal Wear)": {
+    "name": "★ StatTrak™ Falchion Knife | Autotronic (Minimal Wear)",
+    "nameId": 1087739
+  },
+  "★ StatTrak™ Falchion Knife | Autotronic (Battle-Scarred)": {
+    "name": "★ StatTrak™ Falchion Knife | Autotronic (Battle-Scarred)",
+    "nameId": 1088486
+  },
+  "★ Bowie Knife | Forest DDPAT (Minimal Wear)": {
+    "name": "★ Bowie Knife | Forest DDPAT (Minimal Wear)",
+    "nameId": 3928
+  },
+  "★ Bowie Knife | Forest DDPAT (Field-Tested)": {
+    "name": "★ Bowie Knife | Forest DDPAT (Field-Tested)",
+    "nameId": 485
+  },
+  "★ Bowie Knife | Forest DDPAT (Well-Worn)": {
+    "name": "★ Bowie Knife | Forest DDPAT (Well-Worn)",
+    "nameId": 466
+  },
+  "★ Bowie Knife | Forest DDPAT (Battle-Scarred)": {
+    "name": "★ Bowie Knife | Forest DDPAT (Battle-Scarred)",
+    "nameId": 480
+  },
+  "Sticker | Kawaii Killer Terrorist": {
+    "name": "Sticker | Kawaii Killer Terrorist",
+    "nameId": 14955
+  },
+  "Sticker | Baaa-ckstabber!": {
+    "name": "Sticker | Baaa-ckstabber!",
+    "nameId": 18068
+  },
+  "Sticker | Delicious Tears": {
+    "name": "Sticker | Delicious Tears",
+    "nameId": 9680
+  },
+  "Sticker | pronax (Foil) | Cologne 2015": {
+    "name": "Sticker | pronax (Foil) | Cologne 2015",
+    "nameId": 12828
+  },
+  "Sticker | flusha | Cologne 2015": {
+    "name": "Sticker | flusha | Cologne 2015",
+    "nameId": 2421
+  },
+  "Sticker | JW | Cologne 2015": {
+    "name": "Sticker | JW | Cologne 2015",
+    "nameId": 13427
+  },
+  "Sticker | KRIMZ | Cologne 2015": {
+    "name": "Sticker | KRIMZ | Cologne 2015",
+    "nameId": 3009
+  },
+  "Sticker | olofmeister | Cologne 2015": {
+    "name": "Sticker | olofmeister | Cologne 2015",
+    "nameId": 12910
+  },
+  "Sticker | FalleN (Foil) | Cologne 2015": {
+    "name": "Sticker | FalleN (Foil) | Cologne 2015",
+    "nameId": 13814
+  },
+  "Sticker | steel (Foil) | Cologne 2015": {
+    "name": "Sticker | steel (Foil) | Cologne 2015",
+    "nameId": 15908
+  },
+  "Sticker | fer (Foil) | Cologne 2015": {
+    "name": "Sticker | fer (Foil) | Cologne 2015",
+    "nameId": 18942
+  },
+  "Sticker | coldzera (Foil) | Cologne 2015": {
+    "name": "Sticker | coldzera (Foil) | Cologne 2015",
+    "nameId": 14338
+  },
+  "Sticker | GuardiaN | Cologne 2015": {
+    "name": "Sticker | GuardiaN | Cologne 2015",
+    "nameId": 18770
+  },
+  "Sticker | Zeus | Cologne 2015": {
+    "name": "Sticker | Zeus | Cologne 2015",
+    "nameId": 19950
+  },
+  "Sticker | Edward (Foil) | Cologne 2015": {
+    "name": "Sticker | Edward (Foil) | Cologne 2015",
+    "nameId": 19655
+  },
+  "Sticker | Xizt | Cologne 2015": {
+    "name": "Sticker | Xizt | Cologne 2015",
+    "nameId": 17055
+  },
+  "Sticker | Xizt (Foil) | Cologne 2015": {
+    "name": "Sticker | Xizt (Foil) | Cologne 2015",
+    "nameId": 18275
+  },
+  "Sticker | f0rest | Cologne 2015": {
+    "name": "Sticker | f0rest | Cologne 2015",
+    "nameId": 1442
+  },
+  "Sticker | f0rest (Foil) | Cologne 2015": {
+    "name": "Sticker | f0rest (Foil) | Cologne 2015",
+    "nameId": 19824
+  },
+  "Sticker | GeT_RiGhT | Cologne 2015": {
+    "name": "Sticker | GeT_RiGhT | Cologne 2015",
+    "nameId": 2940
+  },
+  "Sticker | GeT_RiGhT (Foil) | Cologne 2015": {
+    "name": "Sticker | GeT_RiGhT (Foil) | Cologne 2015",
+    "nameId": 9567
+  },
+  "Sticker | friberg | Cologne 2015": {
+    "name": "Sticker | friberg | Cologne 2015",
+    "nameId": 1724
+  },
+  "Sticker | allu | Cologne 2015": {
+    "name": "Sticker | allu | Cologne 2015",
+    "nameId": 17633
+  },
+  "Sticker | kennyS | Cologne 2015": {
+    "name": "Sticker | kennyS | Cologne 2015",
+    "nameId": 10272
+  },
+  "Sticker | kennyS (Foil) | Cologne 2015": {
+    "name": "Sticker | kennyS (Foil) | Cologne 2015",
+    "nameId": 9315
+  },
+  "Sticker | kioShiMa | Cologne 2015": {
+    "name": "Sticker | kioShiMa | Cologne 2015",
+    "nameId": 12776
+  },
+  "Sticker | Happy | Cologne 2015": {
+    "name": "Sticker | Happy | Cologne 2015",
+    "nameId": 9591
+  },
+  "Sticker | apEX | Cologne 2015": {
+    "name": "Sticker | apEX | Cologne 2015",
+    "nameId": 9637
+  },
+  "Sticker | NBK- | Cologne 2015": {
+    "name": "Sticker | NBK- | Cologne 2015",
+    "nameId": 13403
+  },
+  "Sticker | NBK- (Foil) | Cologne 2015": {
+    "name": "Sticker | NBK- (Foil) | Cologne 2015",
+    "nameId": 16788
+  },
+  "Sticker | karrigan | Cologne 2015": {
+    "name": "Sticker | karrigan | Cologne 2015",
+    "nameId": 7630
+  },
+  "Sticker | karrigan (Foil) | Cologne 2015": {
+    "name": "Sticker | karrigan (Foil) | Cologne 2015",
+    "nameId": 19890
+  },
+  "Sticker | device | Cologne 2015": {
+    "name": "Sticker | device | Cologne 2015",
+    "nameId": 19535
+  },
+  "Sticker | device (Foil) | Cologne 2015": {
+    "name": "Sticker | device (Foil) | Cologne 2015",
+    "nameId": 20032
+  },
+  "Sticker | dupreeh | Cologne 2015": {
+    "name": "Sticker | dupreeh | Cologne 2015",
+    "nameId": 447
+  },
+  "Sticker | dupreeh (Foil) | Cologne 2015": {
+    "name": "Sticker | dupreeh (Foil) | Cologne 2015",
+    "nameId": 19544
+  },
+  "Sticker | Xyp9x | Cologne 2015": {
+    "name": "Sticker | Xyp9x | Cologne 2015",
+    "nameId": 19464
+  },
+  "Sticker | cajunb | Cologne 2015": {
+    "name": "Sticker | cajunb | Cologne 2015",
+    "nameId": 3575
+  },
+  "Sticker | cajunb (Foil) | Cologne 2015": {
+    "name": "Sticker | cajunb (Foil) | Cologne 2015",
+    "nameId": 7189
+  },
+  "Sticker | NEO | Cologne 2015": {
+    "name": "Sticker | NEO | Cologne 2015",
+    "nameId": 8536
+  },
+  "Sticker | pashaBiceps (Foil) | Cologne 2015": {
+    "name": "Sticker | pashaBiceps (Foil) | Cologne 2015",
+    "nameId": 19561
+  },
+  "Sticker | TaZ | Cologne 2015": {
+    "name": "Sticker | TaZ | Cologne 2015",
+    "nameId": 1515
+  },
+  "Sticker | TaZ (Foil) | Cologne 2015": {
+    "name": "Sticker | TaZ (Foil) | Cologne 2015",
+    "nameId": 14979
+  },
+  "Sticker | byali | Cologne 2015": {
+    "name": "Sticker | byali | Cologne 2015",
+    "nameId": 290
+  },
+  "Sticker | chrisJ (Foil) | Cologne 2015": {
+    "name": "Sticker | chrisJ (Foil) | Cologne 2015",
+    "nameId": 18371
+  },
+  "Sticker | gob b | Cologne 2015": {
+    "name": "Sticker | gob b | Cologne 2015",
+    "nameId": 19132
+  },
+  "Sticker | denis (Foil) | Cologne 2015": {
+    "name": "Sticker | denis (Foil) | Cologne 2015",
+    "nameId": 812
+  },
+  "Sticker | nex | Cologne 2015": {
+    "name": "Sticker | nex | Cologne 2015",
+    "nameId": 19456
+  },
+  "Sticker | Spiidi | Cologne 2015": {
+    "name": "Sticker | Spiidi | Cologne 2015",
+    "nameId": 19473
+  },
+  "Sticker | Spiidi (Foil) | Cologne 2015": {
+    "name": "Sticker | Spiidi (Foil) | Cologne 2015",
+    "nameId": 19564
+  },
+  "Sticker | AZR | Cologne 2015": {
+    "name": "Sticker | AZR | Cologne 2015",
+    "nameId": 9663
+  },
+  "Sticker | AZR (Foil) | Cologne 2015": {
+    "name": "Sticker | AZR (Foil) | Cologne 2015",
+    "nameId": 19467
+  },
+  "Sticker | Havoc | Cologne 2015": {
+    "name": "Sticker | Havoc | Cologne 2015",
+    "nameId": 19435
+  },
+  "Sticker | yam (Foil) | Cologne 2015": {
+    "name": "Sticker | yam (Foil) | Cologne 2015",
+    "nameId": 16763
+  },
+  "Sticker | Rickeh | Cologne 2015": {
+    "name": "Sticker | Rickeh | Cologne 2015",
+    "nameId": 19943
+  },
+  "Sticker | emagine (Foil) | Cologne 2015": {
+    "name": "Sticker | emagine (Foil) | Cologne 2015",
+    "nameId": 19150
+  },
+  "Sticker | James (Foil) | Cologne 2015": {
+    "name": "Sticker | James (Foil) | Cologne 2015",
+    "nameId": 19563
+  },
+  "Sticker | markeloff | Cologne 2015": {
+    "name": "Sticker | markeloff | Cologne 2015",
+    "nameId": 15798
+  },
+  "Sticker | B1ad3 | Cologne 2015": {
+    "name": "Sticker | B1ad3 | Cologne 2015",
+    "nameId": 19574
+  },
+  "Sticker | bondik | Cologne 2015": {
+    "name": "Sticker | bondik | Cologne 2015",
+    "nameId": 1902
+  },
+  "Sticker | bondik (Foil) | Cologne 2015": {
+    "name": "Sticker | bondik (Foil) | Cologne 2015",
+    "nameId": 19883
+  },
+  "Sticker | WorldEdit | Cologne 2015": {
+    "name": "Sticker | WorldEdit | Cologne 2015",
+    "nameId": 19453
+  },
+  "Sticker | DavCost | Cologne 2015": {
+    "name": "Sticker | DavCost | Cologne 2015",
+    "nameId": 16297
+  },
+  "Sticker | DavCost (Foil) | Cologne 2015": {
+    "name": "Sticker | DavCost (Foil) | Cologne 2015",
+    "nameId": 18299
+  },
+  "Sticker | dennis | Cologne 2015": {
+    "name": "Sticker | dennis | Cologne 2015",
+    "nameId": 1700
+  },
+  "Sticker | dennis (Foil) | Cologne 2015": {
+    "name": "Sticker | dennis (Foil) | Cologne 2015",
+    "nameId": 19440
+  },
+  "Sticker | ScreaM | Cologne 2015": {
+    "name": "Sticker | ScreaM | Cologne 2015",
+    "nameId": 13412
+  },
+  "Sticker | ScreaM (Foil) | Cologne 2015": {
+    "name": "Sticker | ScreaM (Foil) | Cologne 2015",
+    "nameId": 19432
+  },
+  "Sticker | rain | Cologne 2015": {
+    "name": "Sticker | rain | Cologne 2015",
+    "nameId": 10424
+  },
+  "Sticker | Maikelele | Cologne 2015": {
+    "name": "Sticker | Maikelele | Cologne 2015",
+    "nameId": 3116
+  },
+  "Sticker | fox | Cologne 2015": {
+    "name": "Sticker | fox | Cologne 2015",
+    "nameId": 344
+  },
+  "Sticker | fox (Foil) | Cologne 2015": {
+    "name": "Sticker | fox (Foil) | Cologne 2015",
+    "nameId": 19296
+  },
+  "Sticker | rallen | Cologne 2015": {
+    "name": "Sticker | rallen | Cologne 2015",
+    "nameId": 275
+  },
+  "Sticker | peet | Cologne 2015": {
+    "name": "Sticker | peet | Cologne 2015",
+    "nameId": 21489
+  },
+  "Sticker | Furlan | Cologne 2015": {
+    "name": "Sticker | Furlan | Cologne 2015",
+    "nameId": 19575
+  },
+  "Sticker | Furlan (Foil) | Cologne 2015": {
+    "name": "Sticker | Furlan (Foil) | Cologne 2015",
+    "nameId": 1389
+  },
+  "Sticker | Ex6TenZ | Cologne 2015": {
+    "name": "Sticker | Ex6TenZ | Cologne 2015",
+    "nameId": 19305
+  },
+  "Sticker | shox | Cologne 2015": {
+    "name": "Sticker | shox | Cologne 2015",
+    "nameId": 8567
+  },
+  "Sticker | SmithZz | Cologne 2015": {
+    "name": "Sticker | SmithZz | Cologne 2015",
+    "nameId": 12561
+  },
+  "Sticker | SmithZz (Foil) | Cologne 2015": {
+    "name": "Sticker | SmithZz (Foil) | Cologne 2015",
+    "nameId": 14397
+  },
+  "Sticker | RpK (Foil) | Cologne 2015": {
+    "name": "Sticker | RpK (Foil) | Cologne 2015",
+    "nameId": 18282
+  },
+  "Sticker | hazed | Cologne 2015": {
+    "name": "Sticker | hazed | Cologne 2015",
+    "nameId": 19930
+  },
+  "Sticker | FNS | Cologne 2015": {
+    "name": "Sticker | FNS | Cologne 2015",
+    "nameId": 14404
+  },
+  "Sticker | jdm64 | Cologne 2015": {
+    "name": "Sticker | jdm64 | Cologne 2015",
+    "nameId": 19928
+  },
+  "Sticker | reltuC | Cologne 2015": {
+    "name": "Sticker | reltuC | Cologne 2015",
+    "nameId": 19906
+  },
+  "Sticker | reltuC (Foil) | Cologne 2015": {
+    "name": "Sticker | reltuC (Foil) | Cologne 2015",
+    "nameId": 19907
+  },
+  "Sticker | tarik (Foil) | Cologne 2015": {
+    "name": "Sticker | tarik (Foil) | Cologne 2015",
+    "nameId": 20152
+  },
+  "Sticker | n0thing | Cologne 2015": {
+    "name": "Sticker | n0thing | Cologne 2015",
+    "nameId": 17590
+  },
+  "Sticker | n0thing (Foil) | Cologne 2015": {
+    "name": "Sticker | n0thing (Foil) | Cologne 2015",
+    "nameId": 19566
+  },
+  "Sticker | jL (Glitter, Champion) | Copenhagen 2024": {
+    "name": "Sticker | jL (Glitter, Champion) | Copenhagen 2024",
+    "nameId": 2597226
+  },
+  "Sticker | jL (Holo, Champion) | Copenhagen 2024": {
+    "name": "Sticker | jL (Holo, Champion) | Copenhagen 2024",
+    "nameId": 2597227
+  },
+  "Sticker | jL (Gold, Champion) | Copenhagen 2024": {
+    "name": "Sticker | jL (Gold, Champion) | Copenhagen 2024",
+    "nameId": 2597229
+  },
+  "Sticker | Aleksib (Champion) | Copenhagen 2024": {
+    "name": "Sticker | Aleksib (Champion) | Copenhagen 2024",
+    "nameId": 2597211
+  },
+  "Sticker | Aleksib (Glitter, Champion) | Copenhagen 2024": {
+    "name": "Sticker | Aleksib (Glitter, Champion) | Copenhagen 2024",
+    "nameId": 2597212
+  },
+  "Sticker | Aleksib (Holo, Champion) | Copenhagen 2024": {
+    "name": "Sticker | Aleksib (Holo, Champion) | Copenhagen 2024",
+    "nameId": 2597221
+  },
+  "Sticker | Aleksib (Gold, Champion) | Copenhagen 2024": {
+    "name": "Sticker | Aleksib (Gold, Champion) | Copenhagen 2024",
+    "nameId": 2597231
+  },
+  "Sticker | b1t (Champion) | Copenhagen 2024": {
+    "name": "Sticker | b1t (Champion) | Copenhagen 2024",
+    "nameId": 2597213
+  },
+  "Sticker | b1t (Glitter, Champion) | Copenhagen 2024": {
+    "name": "Sticker | b1t (Glitter, Champion) | Copenhagen 2024",
+    "nameId": 2597219
+  },
+  "Sticker | b1t (Holo, Champion) | Copenhagen 2024": {
+    "name": "Sticker | b1t (Holo, Champion) | Copenhagen 2024",
+    "nameId": 2597225
+  },
+  "Sticker | b1t (Gold, Champion) | Copenhagen 2024": {
+    "name": "Sticker | b1t (Gold, Champion) | Copenhagen 2024",
+    "nameId": 2597232
+  },
+  "Sticker | iM (Champion) | Copenhagen 2024": {
+    "name": "Sticker | iM (Champion) | Copenhagen 2024",
+    "nameId": 2597210
+  },
+  "Sticker | iM (Glitter, Champion) | Copenhagen 2024": {
+    "name": "Sticker | iM (Glitter, Champion) | Copenhagen 2024",
+    "nameId": 2597223
+  },
+  "Sticker | iM (Holo, Champion) | Copenhagen 2024": {
+    "name": "Sticker | iM (Holo, Champion) | Copenhagen 2024",
+    "nameId": 2597228
+  },
+  "Sticker | iM (Gold, Champion) | Copenhagen 2024": {
+    "name": "Sticker | iM (Gold, Champion) | Copenhagen 2024",
+    "nameId": 2597233
+  },
+  "Sticker | w0nderful (Champion) | Copenhagen 2024": {
+    "name": "Sticker | w0nderful (Champion) | Copenhagen 2024",
+    "nameId": 2597220
+  },
+  "Sticker | w0nderful (Glitter, Champion) | Copenhagen 2024": {
+    "name": "Sticker | w0nderful (Glitter, Champion) | Copenhagen 2024",
+    "nameId": 2597224
+  },
+  "Sticker | w0nderful (Holo, Champion) | Copenhagen 2024": {
+    "name": "Sticker | w0nderful (Holo, Champion) | Copenhagen 2024",
+    "nameId": 2597222
+  },
+  "Sticker | w0nderful (Gold, Champion) | Copenhagen 2024": {
+    "name": "Sticker | w0nderful (Gold, Champion) | Copenhagen 2024",
+    "nameId": 2597234
+  },
+  "Sticker | Lefty (T)": {
+    "name": "Sticker | Lefty (T)",
+    "nameId": 2597925
+  },
+  "Sticker | Red Shades (Foil)": {
+    "name": "Sticker | Red Shades (Foil)",
+    "nameId": 2597945
+  },
+  "Sticker | Mustachio (Foil)": {
+    "name": "Sticker | Mustachio (Foil)",
+    "nameId": 2598076
+  },
+  "Sticker | Bolt Strike": {
+    "name": "Sticker | Bolt Strike",
+    "nameId": 2597822
+  },
+  "Sticker | Bolt Charge": {
+    "name": "Sticker | Bolt Charge",
+    "nameId": 2597879
+  },
+  "Sticker | Bolt Energy": {
+    "name": "Sticker | Bolt Energy",
+    "nameId": 2597762
+  },
+  "Sticker | High Heat": {
+    "name": "Sticker | High Heat",
+    "nameId": 2597763
+  },
+  "Sticker | Hot Rod Heat": {
+    "name": "Sticker | Hot Rod Heat",
+    "nameId": 2597857
+  },
+  "Sticker | Scorch Loop (Reverse)": {
+    "name": "Sticker | Scorch Loop (Reverse)",
+    "nameId": 2597703
+  },
+  "Sticker | Winding Scorch": {
+    "name": "Sticker | Winding Scorch",
+    "nameId": 2597776
+  },
+  "Sticker | Scorch Loop": {
+    "name": "Sticker | Scorch Loop",
+    "nameId": 2597797
+  },
+  "Sticker | Boom Detonation": {
+    "name": "Sticker | Boom Detonation",
+    "nameId": 2597911
+  },
+  "Sticker | Boom Epicenter": {
+    "name": "Sticker | Boom Epicenter",
+    "nameId": 2597764
+  },
+  "Sticker | Boom Blast": {
+    "name": "Sticker | Boom Blast",
+    "nameId": 2597729
+  },
+  "Sticker | Boom Trail": {
+    "name": "Sticker | Boom Trail",
+    "nameId": 2597990
+  },
+  "Sticker | Rainbow Route (Holo)": {
+    "name": "Sticker | Rainbow Route (Holo)",
+    "nameId": 2597704
+  },
+  "Sticker | Boom Detonation (Glitter)": {
+    "name": "Sticker | Boom Detonation (Glitter)",
+    "nameId": 2597727
+  },
+  "Sticker | Boom Epicenter (Glitter)": {
+    "name": "Sticker | Boom Epicenter (Glitter)",
+    "nameId": 2597728
+  },
+  "Sticker | Boom Blast (Glitter)": {
+    "name": "Sticker | Boom Blast (Glitter)",
+    "nameId": 2597809
+  },
+  "Sticker | Boom Trail (Glitter)": {
+    "name": "Sticker | Boom Trail (Glitter)",
+    "nameId": 2597777
+  },
+  "Sticker | Bolt Strike (Foil)": {
+    "name": "Sticker | Bolt Strike (Foil)",
+    "nameId": 2597765
+  },
+  "Sticker | Bolt Charge (Foil)": {
+    "name": "Sticker | Bolt Charge (Foil)",
+    "nameId": 2598097
+  },
+  "Sticker | Bolt Energy (Foil)": {
+    "name": "Sticker | Bolt Energy (Foil)",
+    "nameId": 2598003
+  },
+  "Sticker | Winding Scorch (Foil)": {
+    "name": "Sticker | Winding Scorch (Foil)",
+    "nameId": 2598014
+  },
+  "Sticker | Flex": {
+    "name": "Sticker | Flex",
+    "nameId": 2597878
+  },
+  "Sticker | Clown Nose": {
+    "name": "Sticker | Clown Nose",
+    "nameId": 2597902
+  },
+  "Sticker | Clown Wig": {
+    "name": "Sticker | Clown Wig",
+    "nameId": 2597786
+  },
+  "Sticker | Quick Peek": {
+    "name": "Sticker | Quick Peek",
+    "nameId": 2597877
+  },
+  "Sticker | XD": {
+    "name": "Sticker | XD",
+    "nameId": 2597977
+  },
+  "Sticker | Ribbon Tie": {
+    "name": "Sticker | Ribbon Tie",
+    "nameId": 2598086
+  },
+  "Sticker | Kawaii Eyes (Glitter)": {
+    "name": "Sticker | Kawaii Eyes (Glitter)",
+    "nameId": 2597906
+  },
+  "Sticker | From The Deep (Glitter)": {
+    "name": "Sticker | From The Deep (Glitter)",
+    "nameId": 2597800
+  },
+  "Sticker | Say Cheese (Holo)": {
+    "name": "Sticker | Say Cheese (Holo)",
+    "nameId": 2597901
+  },
+  "Sticker | Taste Buddy (Holo)": {
+    "name": "Sticker | Taste Buddy (Holo)",
+    "nameId": 2598017
+  },
+  "Sticker | Gold Teef (Foil)": {
+    "name": "Sticker | Gold Teef (Foil)",
+    "nameId": 2597891
+  },
+  "Sticker | Side Eyes (Lenticular)": {
+    "name": "Sticker | Side Eyes (Lenticular)",
+    "nameId": 2598110
+  },
+  "Sticker | Googly Eye (Lenticular)": {
+    "name": "Sticker | Googly Eye (Lenticular)",
+    "nameId": 2598078
+  },
+  "Sticker | Hypnoteyes (Holo)": {
+    "name": "Sticker | Hypnoteyes (Holo)",
+    "nameId": 2597719
+  },
+  "Sticker | Hydro Geyser": {
+    "name": "Sticker | Hydro Geyser",
+    "nameId": 2597889
+  },
+  "Sticker | Hydro Stream": {
+    "name": "Sticker | Hydro Stream",
+    "nameId": 2597815
+  },
+  "Sticker | Hydro Wave": {
+    "name": "Sticker | Hydro Wave",
+    "nameId": 2597713
+  },
+  "Sticker | Ruby Stream (Lenticular)": {
+    "name": "Sticker | Ruby Stream (Lenticular)",
+    "nameId": 2597959
+  },
+  "Sticker | Ruby Wave (Lenticular)": {
+    "name": "Sticker | Ruby Wave (Lenticular)",
+    "nameId": 2597929
+  },
+  "Sticker | Strike A Pose": {
+    "name": "Sticker | Strike A Pose",
+    "nameId": 2597799
+  },
+  "Charm | Lil' Ava": {
+    "name": "Charm | Lil' Ava",
+    "nameId": 2597907
+  },
+  "Charm | That's Bananas": {
+    "name": "Charm | That's Bananas",
+    "nameId": 2597865
+  },
+  "Charm | Lil' Whiskers": {
+    "name": "Charm | Lil' Whiskers",
+    "nameId": 2598020
+  },
+  "Charm | Lil' Sandy": {
+    "name": "Charm | Lil' Sandy",
+    "nameId": 2597970
+  },
+  "Charm | Chicken Lil'": {
+    "name": "Charm | Chicken Lil'",
+    "nameId": 2598016
+  },
+  "Charm | Lil' Crass": {
+    "name": "Charm | Lil' Crass",
+    "nameId": 2597796
+  },
+  "Charm | Hot Howl": {
+    "name": "Charm | Hot Howl",
+    "nameId": 2597998
+  },
+  "Charm | Big Kev": {
+    "name": "Charm | Big Kev",
+    "nameId": 2597856
+  },
+  "Charm | Lil' Monster": {
+    "name": "Charm | Lil' Monster",
+    "nameId": 2598034
+  },
+  "Charm | Hot Sauce": {
+    "name": "Charm | Hot Sauce",
+    "nameId": 2597823
+  },
+  "Charm | Diamond Dog": {
+    "name": "Charm | Diamond Dog",
+    "nameId": 2597999
+  },
+  "Charm | Pinch O' Salt": {
+    "name": "Charm | Pinch O' Salt",
+    "nameId": 2597824
+  },
+  "Charm | Diner Dog": {
+    "name": "Charm | Diner Dog",
+    "nameId": 2597946
+  },
+  "Charm | Lil' Teacup": {
+    "name": "Charm | Lil' Teacup",
+    "nameId": 2597981
+  },
+  "Charm | Lil' SAS": {
+    "name": "Charm | Lil' SAS",
+    "nameId": 2597873
+  },
+  "Charm | Hot Wurst": {
+    "name": "Charm | Hot Wurst",
+    "nameId": 2598050
+  },
+  "Charm | Baby's AK": {
+    "name": "Charm | Baby's AK",
+    "nameId": 2597790
+  },
+  "Charm | Die-cast AK": {
+    "name": "Charm | Die-cast AK",
+    "nameId": 2597742
+  },
+  "Charm | Pocket AWP": {
+    "name": "Charm | Pocket AWP",
+    "nameId": 2597787
+  },
+  "Charm | Titeenium AWP": {
+    "name": "Charm | Titeenium AWP",
+    "nameId": 2597874
+  },
+  "Charm | Baby Karat CT": {
+    "name": "Charm | Baby Karat CT",
+    "nameId": 2598081
+  },
+  "Charm | Whittle Knife": {
+    "name": "Charm | Whittle Knife",
+    "nameId": 2597819
+  },
+  "Charm | POP Art": {
+    "name": "Charm | POP Art",
+    "nameId": 2597987
+  },
+  "Charm | Lil' Squirt": {
+    "name": "Charm | Lil' Squirt",
+    "nameId": 2597947
   }
 }
