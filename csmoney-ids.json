@@ -19998,5 +19998,2005 @@
   "Sticker | Skadoodle | Krakow 2017": {
     "name": "Sticker | Skadoodle | Krakow 2017",
     "nameId": 5429
+  },
+  "StatTrak™ M4A4 | Royal Paladin (Minimal Wear)": {
+    "name": "StatTrak™ M4A4 | Royal Paladin (Minimal Wear)",
+    "nameId": 243
+  },
+  "StatTrak™ M4A4 | Royal Paladin (Field-Tested)": {
+    "name": "StatTrak™ M4A4 | Royal Paladin (Field-Tested)",
+    "nameId": 11106
+  },
+  "StatTrak™ M4A4 | Royal Paladin (Well-Worn)": {
+    "name": "StatTrak™ M4A4 | Royal Paladin (Well-Worn)",
+    "nameId": 23975
+  },
+  "StatTrak™ M4A4 | Royal Paladin (Battle-Scarred)": {
+    "name": "StatTrak™ M4A4 | Royal Paladin (Battle-Scarred)",
+    "nameId": 5442
+  },
+  "M4A4 | The Battlestar (Factory New)": {
+    "name": "M4A4 | The Battlestar (Factory New)",
+    "nameId": 9843
+  },
+  "M4A4 | The Battlestar (Minimal Wear)": {
+    "name": "M4A4 | The Battlestar (Minimal Wear)",
+    "nameId": 4778
+  },
+  "M4A4 | The Battlestar (Field-Tested)": {
+    "name": "M4A4 | The Battlestar (Field-Tested)",
+    "nameId": 518
+  },
+  "M4A4 | The Battlestar (Well-Worn)": {
+    "name": "M4A4 | The Battlestar (Well-Worn)",
+    "nameId": 3486
+  },
+  "M4A4 | The Battlestar (Battle-Scarred)": {
+    "name": "M4A4 | The Battlestar (Battle-Scarred)",
+    "nameId": 2327
+  },
+  "StatTrak™ M4A4 | The Battlestar (Factory New)": {
+    "name": "StatTrak™ M4A4 | The Battlestar (Factory New)",
+    "nameId": 1257
+  },
+  "StatTrak™ M4A4 | The Battlestar (Minimal Wear)": {
+    "name": "StatTrak™ M4A4 | The Battlestar (Minimal Wear)",
+    "nameId": 4106
+  },
+  "StatTrak™ M4A4 | The Battlestar (Field-Tested)": {
+    "name": "StatTrak™ M4A4 | The Battlestar (Field-Tested)",
+    "nameId": 1157
+  },
+  "StatTrak™ XM1014 | Zombie Offensive (Minimal Wear)": {
+    "name": "StatTrak™ XM1014 | Zombie Offensive (Minimal Wear)",
+    "nameId": 1090235
+  },
+  "StatTrak™ XM1014 | Zombie Offensive (Field-Tested)": {
+    "name": "StatTrak™ XM1014 | Zombie Offensive (Field-Tested)",
+    "nameId": 1090145
+  },
+  "StatTrak™ XM1014 | Zombie Offensive (Well-Worn)": {
+    "name": "StatTrak™ XM1014 | Zombie Offensive (Well-Worn)",
+    "nameId": 1090256
+  },
+  "StatTrak™ XM1014 | Zombie Offensive (Battle-Scarred)": {
+    "name": "StatTrak™ XM1014 | Zombie Offensive (Battle-Scarred)",
+    "nameId": 1090224
+  },
+  "XM1014 | Irezumi (Factory New)": {
+    "name": "XM1014 | Irezumi (Factory New)",
+    "nameId": 2522043
+  },
+  "XM1014 | Irezumi (Minimal Wear)": {
+    "name": "XM1014 | Irezumi (Minimal Wear)",
+    "nameId": 2521696
+  },
+  "XM1014 | Irezumi (Well-Worn)": {
+    "name": "XM1014 | Irezumi (Well-Worn)",
+    "nameId": 2521517
+  },
+  "XM1014 | Irezumi (Battle-Scarred)": {
+    "name": "XM1014 | Irezumi (Battle-Scarred)",
+    "nameId": 2521969
+  },
+  "MP9 | Orange Peel (Field-Tested)": {
+    "name": "MP9 | Orange Peel (Field-Tested)",
+    "nameId": 3566
+  },
+  "MP9 | Orange Peel (Well-Worn)": {
+    "name": "MP9 | Orange Peel (Well-Worn)",
+    "nameId": 2055
+  },
+  "MP9 | Orange Peel (Battle-Scarred)": {
+    "name": "MP9 | Orange Peel (Battle-Scarred)",
+    "nameId": 7753
+  },
+  "Souvenir MP9 | Orange Peel (Field-Tested)": {
+    "name": "Souvenir MP9 | Orange Peel (Field-Tested)",
+    "nameId": 20056
+  },
+  "Souvenir MP9 | Orange Peel (Well-Worn)": {
+    "name": "Souvenir MP9 | Orange Peel (Well-Worn)",
+    "nameId": 24470
+  },
+  "StatTrak™ M4A1-S | Flashback (Factory New)": {
+    "name": "StatTrak™ M4A1-S | Flashback (Factory New)",
+    "nameId": 16021
+  },
+  "StatTrak™ M4A1-S | Flashback (Minimal Wear)": {
+    "name": "StatTrak™ M4A1-S | Flashback (Minimal Wear)",
+    "nameId": 13655
+  },
+  "StatTrak™ M4A1-S | Flashback (Field-Tested)": {
+    "name": "StatTrak™ M4A1-S | Flashback (Field-Tested)",
+    "nameId": 816
+  },
+  "StatTrak™ M4A1-S | Flashback (Well-Worn)": {
+    "name": "StatTrak™ M4A1-S | Flashback (Well-Worn)",
+    "nameId": 2270
+  },
+  "StatTrak™ M4A1-S | Flashback (Battle-Scarred)": {
+    "name": "StatTrak™ M4A1-S | Flashback (Battle-Scarred)",
+    "nameId": 9632
+  },
+  "M4A1-S | Decimator (Factory New)": {
+    "name": "M4A1-S | Decimator (Factory New)",
+    "nameId": 7139
+  },
+  "M4A1-S | Decimator (Minimal Wear)": {
+    "name": "M4A1-S | Decimator (Minimal Wear)",
+    "nameId": 7661
+  },
+  "M4A1-S | Decimator (Field-Tested)": {
+    "name": "M4A1-S | Decimator (Field-Tested)",
+    "nameId": 1370
+  },
+  "M4A1-S | Decimator (Well-Worn)": {
+    "name": "M4A1-S | Decimator (Well-Worn)",
+    "nameId": 930
+  },
+  "M4A1-S | Decimator (Battle-Scarred)": {
+    "name": "M4A1-S | Decimator (Battle-Scarred)",
+    "nameId": 9504
+  },
+  "StatTrak™ M4A1-S | Decimator (Factory New)": {
+    "name": "StatTrak™ M4A1-S | Decimator (Factory New)",
+    "nameId": 4930
+  },
+  "StatTrak™ M4A1-S | Decimator (Minimal Wear)": {
+    "name": "StatTrak™ M4A1-S | Decimator (Minimal Wear)",
+    "nameId": 1251
+  },
+  "StatTrak™ M4A1-S | Decimator (Field-Tested)": {
+    "name": "StatTrak™ M4A1-S | Decimator (Field-Tested)",
+    "nameId": 2380
+  },
+  "★ StatTrak™ Nomad Knife | Blue Steel (Field-Tested)": {
+    "name": "★ StatTrak™ Nomad Knife | Blue Steel (Field-Tested)",
+    "nameId": 1075163
+  },
+  "★ StatTrak™ Nomad Knife | Blue Steel (Well-Worn)": {
+    "name": "★ StatTrak™ Nomad Knife | Blue Steel (Well-Worn)",
+    "nameId": 1078568
+  },
+  "★ StatTrak™ Nomad Knife | Blue Steel (Battle-Scarred)": {
+    "name": "★ StatTrak™ Nomad Knife | Blue Steel (Battle-Scarred)",
+    "nameId": 1075136
+  },
+  "★ Nomad Knife | Stained (Factory New)": {
+    "name": "★ Nomad Knife | Stained (Factory New)",
+    "nameId": 1077461
+  },
+  "★ Nomad Knife | Stained (Minimal Wear)": {
+    "name": "★ Nomad Knife | Stained (Minimal Wear)",
+    "nameId": 1075000
+  },
+  "★ Nomad Knife | Stained (Field-Tested)": {
+    "name": "★ Nomad Knife | Stained (Field-Tested)",
+    "nameId": 1074959
+  },
+  "★ Nomad Knife | Stained (Well-Worn)": {
+    "name": "★ Nomad Knife | Stained (Well-Worn)",
+    "nameId": 1075005
+  },
+  "★ Nomad Knife | Stained (Battle-Scarred)": {
+    "name": "★ Nomad Knife | Stained (Battle-Scarred)",
+    "nameId": 1075094
+  },
+  "Sticker | Gambit Gaming | MLG Columbus 2016": {
+    "name": "Sticker | Gambit Gaming | MLG Columbus 2016",
+    "nameId": 18277
+  },
+  "Sticker | Gambit Gaming (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | Gambit Gaming (Holo) | MLG Columbus 2016",
+    "nameId": 15697
+  },
+  "Sticker | Gambit Gaming (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Gambit Gaming (Foil) | MLG Columbus 2016",
+    "nameId": 3053
+  },
+  "Sticker | Flipsid3 Tactics | MLG Columbus 2016": {
+    "name": "Sticker | Flipsid3 Tactics | MLG Columbus 2016",
+    "nameId": 18062
+  },
+  "Sticker | Flipsid3 Tactics (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | Flipsid3 Tactics (Holo) | MLG Columbus 2016",
+    "nameId": 12861
+  },
+  "Sticker | Flipsid3 Tactics (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Flipsid3 Tactics (Foil) | MLG Columbus 2016",
+    "nameId": 18303
+  },
+  "Sticker | Team Liquid | MLG Columbus 2016": {
+    "name": "Sticker | Team Liquid | MLG Columbus 2016",
+    "nameId": 13421
+  },
+  "Sticker | Team Liquid (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | Team Liquid (Holo) | MLG Columbus 2016",
+    "nameId": 2681
+  },
+  "Sticker | Team Liquid (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Team Liquid (Foil) | MLG Columbus 2016",
+    "nameId": 18864
+  },
+  "Sticker | mousesports | MLG Columbus 2016": {
+    "name": "Sticker | mousesports | MLG Columbus 2016",
+    "nameId": 13407
+  },
+  "Sticker | mousesports (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | mousesports (Holo) | MLG Columbus 2016",
+    "nameId": 15797
+  },
+  "Sticker | mousesports (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | mousesports (Foil) | MLG Columbus 2016",
+    "nameId": 16783
+  },
+  "Sticker | Natus Vincere | MLG Columbus 2016": {
+    "name": "Sticker | Natus Vincere | MLG Columbus 2016",
+    "nameId": 13439
+  },
+  "Sticker | Natus Vincere (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | Natus Vincere (Holo) | MLG Columbus 2016",
+    "nameId": 14659
+  },
+  "Sticker | Natus Vincere (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Natus Vincere (Foil) | MLG Columbus 2016",
+    "nameId": 18653
+  },
+  "Sticker | Virtus.Pro | MLG Columbus 2016": {
+    "name": "Sticker | Virtus.Pro | MLG Columbus 2016",
+    "nameId": 10521
+  },
+  "Sticker | Virtus.Pro (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | Virtus.Pro (Holo) | MLG Columbus 2016",
+    "nameId": 13745
+  },
+  "Sticker | Virtus.Pro (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Virtus.Pro (Foil) | MLG Columbus 2016",
+    "nameId": 18792
+  },
+  "Sticker | Cloud9 | MLG Columbus 2016": {
+    "name": "Sticker | Cloud9 | MLG Columbus 2016",
+    "nameId": 12192
+  },
+  "Sticker | Cloud9 (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | Cloud9 (Holo) | MLG Columbus 2016",
+    "nameId": 12518
+  },
+  "Sticker | Cloud9 (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Cloud9 (Foil) | MLG Columbus 2016",
+    "nameId": 3335
+  },
+  "Sticker | G2 Esports | MLG Columbus 2016": {
+    "name": "Sticker | G2 Esports | MLG Columbus 2016",
+    "nameId": 12758
+  },
+  "Sticker | G2 Esports (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | G2 Esports (Holo) | MLG Columbus 2016",
+    "nameId": 7644
+  },
+  "Sticker | FaZe Clan | MLG Columbus 2016": {
+    "name": "Sticker | FaZe Clan | MLG Columbus 2016",
+    "nameId": 12896
+  },
+  "Sticker | FaZe Clan (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | FaZe Clan (Holo) | MLG Columbus 2016",
+    "nameId": 2715
+  },
+  "Sticker | FaZe Clan (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | FaZe Clan (Foil) | MLG Columbus 2016",
+    "nameId": 8512
+  },
+  "Sticker | Astralis | MLG Columbus 2016": {
+    "name": "Sticker | Astralis | MLG Columbus 2016",
+    "nameId": 13416
+  },
+  "Sticker | Astralis (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | Astralis (Holo) | MLG Columbus 2016",
+    "nameId": 4036
+  },
+  "Sticker | Astralis (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Astralis (Foil) | MLG Columbus 2016",
+    "nameId": 14336
+  },
+  "Sticker | Team EnVyUs | MLG Columbus 2016": {
+    "name": "Sticker | Team EnVyUs | MLG Columbus 2016",
+    "nameId": 10376
+  },
+  "Sticker | Team EnVyUs (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | Team EnVyUs (Holo) | MLG Columbus 2016",
+    "nameId": 16331
+  },
+  "Sticker | Team EnVyUs (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Team EnVyUs (Foil) | MLG Columbus 2016",
+    "nameId": 17980
+  },
+  "Sticker | Fnatic | MLG Columbus 2016": {
+    "name": "Sticker | Fnatic | MLG Columbus 2016",
+    "nameId": 13440
+  },
+  "Sticker | Fnatic (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | Fnatic (Holo) | MLG Columbus 2016",
+    "nameId": 13428
+  },
+  "Sticker | Luminosity Gaming | MLG Columbus 2016": {
+    "name": "Sticker | Luminosity Gaming | MLG Columbus 2016",
+    "nameId": 9389
+  },
+  "Sticker | Luminosity Gaming (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | Luminosity Gaming (Holo) | MLG Columbus 2016",
+    "nameId": 13815
+  },
+  "Sticker | Luminosity Gaming (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Luminosity Gaming (Foil) | MLG Columbus 2016",
+    "nameId": 7706
+  },
+  "Sticker | MLG | MLG Columbus 2016": {
+    "name": "Sticker | MLG | MLG Columbus 2016",
+    "nameId": 11164
+  },
+  "Sticker | MLG (Holo) | MLG Columbus 2016": {
+    "name": "Sticker | MLG (Holo) | MLG Columbus 2016",
+    "nameId": 12802
+  },
+  "Sticker | MLG (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | MLG (Foil) | MLG Columbus 2016",
+    "nameId": 14379
+  },
+  "Sticker | reltuC (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | reltuC (Foil) | MLG Columbus 2016",
+    "nameId": 19762
+  },
+  "Sticker | Baited": {
+    "name": "Sticker | Baited",
+    "nameId": 208690
+  },
+  "Sticker | Baited (Holo)": {
+    "name": "Sticker | Baited (Holo)",
+    "nameId": 208694
+  },
+  "Sticker | Bite Me": {
+    "name": "Sticker | Bite Me",
+    "nameId": 208698
+  },
+  "Sticker | Bite Me (Foil)": {
+    "name": "Sticker | Bite Me (Foil)",
+    "nameId": 208709
+  },
+  "Sticker | Cluck": {
+    "name": "Sticker | Cluck",
+    "nameId": 208704
+  },
+  "Sticker | Cluck (Holo)": {
+    "name": "Sticker | Cluck (Holo)",
+    "nameId": 208710
+  },
+  "Sticker | First Blood": {
+    "name": "Sticker | First Blood",
+    "nameId": 208707
+  },
+  "Sticker | First Blood (Holo)": {
+    "name": "Sticker | First Blood (Holo)",
+    "nameId": 208699
+  },
+  "Sticker | Free Hugs": {
+    "name": "Sticker | Free Hugs",
+    "nameId": 208706
+  },
+  "Sticker | Free Hugs (Holo)": {
+    "name": "Sticker | Free Hugs (Holo)",
+    "nameId": 208700
+  },
+  "Sticker | Lurker": {
+    "name": "Sticker | Lurker",
+    "nameId": 208692
+  },
+  "Sticker | Lurker (Foil)": {
+    "name": "Sticker | Lurker (Foil)",
+    "nameId": 208701
+  },
+  "Sticker | One Sting": {
+    "name": "Sticker | One Sting",
+    "nameId": 208691
+  },
+  "Sticker | One Sting (Holo)": {
+    "name": "Sticker | One Sting (Holo)",
+    "nameId": 208708
+  },
+  "Sticker | Scavenger": {
+    "name": "Sticker | Scavenger",
+    "nameId": 208697
+  },
+  "Sticker | Scavenger (Holo)": {
+    "name": "Sticker | Scavenger (Holo)",
+    "nameId": 208705
+  },
+  "Sticker | Toxic": {
+    "name": "Sticker | Toxic",
+    "nameId": 208695
+  },
+  "Sticker | Toxic (Foil)": {
+    "name": "Sticker | Toxic (Foil)",
+    "nameId": 208712
+  },
+  "Sticker | Big Clucks": {
+    "name": "Sticker | Big Clucks",
+    "nameId": 550412
+  },
+  "Sticker | Bonehead": {
+    "name": "Sticker | Bonehead",
+    "nameId": 550407
+  },
+  "Sticker | BukAWP": {
+    "name": "Sticker | BukAWP",
+    "nameId": 550414
+  },
+  "Sticker | Double Dip": {
+    "name": "Sticker | Double Dip",
+    "nameId": 550413
+  },
+  "Sticker | Fowl Play": {
+    "name": "Sticker | Fowl Play",
+    "nameId": 550409
+  },
+  "Sticker | Heads Up": {
+    "name": "Sticker | Heads Up",
+    "nameId": 550411
+  },
+  "Sticker | Hot Wings": {
+    "name": "Sticker | Hot Wings",
+    "nameId": 550405
+  },
+  "Sticker | Nest Egg": {
+    "name": "Sticker | Nest Egg",
+    "nameId": 550416
+  },
+  "Sticker | Roosty Boosty": {
+    "name": "Sticker | Roosty Boosty",
+    "nameId": 550410
+  },
+  "Sticker | What What": {
+    "name": "Sticker | What What",
+    "nameId": 550418
+  },
+  "Sticker | Fowl Play (Holo)": {
+    "name": "Sticker | Fowl Play (Holo)",
+    "nameId": 550419
+  },
+  "Sticker | Hot Wings (Holo)": {
+    "name": "Sticker | Hot Wings (Holo)",
+    "nameId": 550415
+  },
+  "Sticker | Big Clucks (Foil)": {
+    "name": "Sticker | Big Clucks (Foil)",
+    "nameId": 550406
+  },
+  "Sticker | Roosty Boosty (Foil)": {
+    "name": "Sticker | Roosty Boosty (Foil)",
+    "nameId": 550417
+  },
+  "Sticker | Astralis | Berlin 2019": {
+    "name": "Sticker | Astralis | Berlin 2019",
+    "nameId": 874689
+  },
+  "Sticker | Astralis (Holo) | Berlin 2019": {
+    "name": "Sticker | Astralis (Holo) | Berlin 2019",
+    "nameId": 874706
+  },
+  "Sticker | Astralis (Foil) | Berlin 2019": {
+    "name": "Sticker | Astralis (Foil) | Berlin 2019",
+    "nameId": 874672
+  },
+  "Sticker | ENCE | Berlin 2019": {
+    "name": "Sticker | ENCE | Berlin 2019",
+    "nameId": 874626
+  },
+  "Sticker | ENCE (Holo) | Berlin 2019": {
+    "name": "Sticker | ENCE (Holo) | Berlin 2019",
+    "nameId": 874671
+  },
+  "Sticker | ENCE (Foil) | Berlin 2019": {
+    "name": "Sticker | ENCE (Foil) | Berlin 2019",
+    "nameId": 874827
+  },
+  "Sticker | MIBR | Berlin 2019": {
+    "name": "Sticker | MIBR | Berlin 2019",
+    "nameId": 874600
+  },
+  "Sticker | MIBR (Holo) | Berlin 2019": {
+    "name": "Sticker | MIBR (Holo) | Berlin 2019",
+    "nameId": 874614
+  },
+  "Sticker | MIBR (Foil) | Berlin 2019": {
+    "name": "Sticker | MIBR (Foil) | Berlin 2019",
+    "nameId": 874787
+  },
+  "Sticker | Natus Vincere | Berlin 2019": {
+    "name": "Sticker | Natus Vincere | Berlin 2019",
+    "nameId": 874612
+  },
+  "Sticker | Natus Vincere (Holo) | Berlin 2019": {
+    "name": "Sticker | Natus Vincere (Holo) | Berlin 2019",
+    "nameId": 874653
+  },
+  "Sticker | Natus Vincere (Foil) | Berlin 2019": {
+    "name": "Sticker | Natus Vincere (Foil) | Berlin 2019",
+    "nameId": 874867
+  },
+  "Sticker | Ninjas in Pyjamas (Holo) | Berlin 2019": {
+    "name": "Sticker | Ninjas in Pyjamas (Holo) | Berlin 2019",
+    "nameId": 874616
+  },
+  "Sticker | Ninjas in Pyjamas (Foil) | Berlin 2019": {
+    "name": "Sticker | Ninjas in Pyjamas (Foil) | Berlin 2019",
+    "nameId": 874831
+  },
+  "Sticker | FaZe Clan | Berlin 2019": {
+    "name": "Sticker | FaZe Clan | Berlin 2019",
+    "nameId": 874761
+  },
+  "Sticker | FaZe Clan (Holo) | Berlin 2019": {
+    "name": "Sticker | FaZe Clan (Holo) | Berlin 2019",
+    "nameId": 874627
+  },
+  "Sticker | FaZe Clan (Foil) | Berlin 2019": {
+    "name": "Sticker | FaZe Clan (Foil) | Berlin 2019",
+    "nameId": 874637
+  },
+  "Sticker | Team Liquid | Berlin 2019": {
+    "name": "Sticker | Team Liquid | Berlin 2019",
+    "nameId": 874650
+  },
+  "Sticker | Team Liquid (Holo) | Berlin 2019": {
+    "name": "Sticker | Team Liquid (Holo) | Berlin 2019",
+    "nameId": 874652
+  },
+  "Sticker | Team Liquid (Foil) | Berlin 2019": {
+    "name": "Sticker | Team Liquid (Foil) | Berlin 2019",
+    "nameId": 874790
+  },
+  "Sticker | Renegades | Berlin 2019": {
+    "name": "Sticker | Renegades | Berlin 2019",
+    "nameId": 874885
+  },
+  "Sticker | Renegades (Holo) | Berlin 2019": {
+    "name": "Sticker | Renegades (Holo) | Berlin 2019",
+    "nameId": 874636
+  },
+  "Sticker | Renegades (Foil) | Berlin 2019": {
+    "name": "Sticker | Renegades (Foil) | Berlin 2019",
+    "nameId": 874698
+  },
+  "Sticker | compLexity Gaming | Berlin 2019": {
+    "name": "Sticker | compLexity Gaming | Berlin 2019",
+    "nameId": 874760
+  },
+  "Sticker | compLexity Gaming (Holo) | Berlin 2019": {
+    "name": "Sticker | compLexity Gaming (Holo) | Berlin 2019",
+    "nameId": 874588
+  },
+  "Sticker | compLexity Gaming (Foil) | Berlin 2019": {
+    "name": "Sticker | compLexity Gaming (Foil) | Berlin 2019",
+    "nameId": 874894
+  },
+  "Sticker | HellRaisers | Berlin 2019": {
+    "name": "Sticker | HellRaisers | Berlin 2019",
+    "nameId": 874888
+  },
+  "Sticker | HellRaisers (Holo) | Berlin 2019": {
+    "name": "Sticker | HellRaisers (Holo) | Berlin 2019",
+    "nameId": 874635
+  },
+  "Sticker | HellRaisers (Foil) | Berlin 2019": {
+    "name": "Sticker | HellRaisers (Foil) | Berlin 2019",
+    "nameId": 874767
+  },
+  "Sticker | Avangar | Berlin 2019": {
+    "name": "Sticker | Avangar | Berlin 2019",
+    "nameId": 874878
+  },
+  "Sticker | Avangar (Holo) | Berlin 2019": {
+    "name": "Sticker | Avangar (Holo) | Berlin 2019",
+    "nameId": 874684
+  },
+  "Sticker | Avangar (Foil) | Berlin 2019": {
+    "name": "Sticker | Avangar (Foil) | Berlin 2019",
+    "nameId": 874830
+  },
+  "Sticker | G2 Esports | Berlin 2019": {
+    "name": "Sticker | G2 Esports | Berlin 2019",
+    "nameId": 874759
+  },
+  "Sticker | G2 Esports (Holo) | Berlin 2019": {
+    "name": "Sticker | G2 Esports (Holo) | Berlin 2019",
+    "nameId": 874613
+  },
+  "Sticker | G2 Esports (Foil) | Berlin 2019": {
+    "name": "Sticker | G2 Esports (Foil) | Berlin 2019",
+    "nameId": 874853
+  },
+  "Sticker | Vitality | Berlin 2019": {
+    "name": "Sticker | Vitality | Berlin 2019",
+    "nameId": 874590
+  },
+  "Sticker | Vitality (Holo) | Berlin 2019": {
+    "name": "Sticker | Vitality (Holo) | Berlin 2019",
+    "nameId": 874822
+  },
+  "Sticker | Vitality (Foil) | Berlin 2019": {
+    "name": "Sticker | Vitality (Foil) | Berlin 2019",
+    "nameId": 874866
+  },
+  "Sticker | Grayhound Gaming | Berlin 2019": {
+    "name": "Sticker | Grayhound Gaming | Berlin 2019",
+    "nameId": 874881
+  },
+  "Sticker | Grayhound Gaming (Holo) | Berlin 2019": {
+    "name": "Sticker | Grayhound Gaming (Holo) | Berlin 2019",
+    "nameId": 874722
+  },
+  "Sticker | Grayhound Gaming (Foil) | Berlin 2019": {
+    "name": "Sticker | Grayhound Gaming (Foil) | Berlin 2019",
+    "nameId": 874923
+  },
+  "Sticker | mousesports | Berlin 2019": {
+    "name": "Sticker | mousesports | Berlin 2019",
+    "nameId": 874758
+  },
+  "Sticker | mousesports (Holo) | Berlin 2019": {
+    "name": "Sticker | mousesports (Holo) | Berlin 2019",
+    "nameId": 874791
+  },
+  "Sticker | mousesports (Foil) | Berlin 2019": {
+    "name": "Sticker | mousesports (Foil) | Berlin 2019",
+    "nameId": 874931
+  },
+  "Sticker | forZe eSports | Berlin 2019": {
+    "name": "Sticker | forZe eSports | Berlin 2019",
+    "nameId": 874874
+  },
+  "Sticker | forZe eSports (Holo) | Berlin 2019": {
+    "name": "Sticker | forZe eSports (Holo) | Berlin 2019",
+    "nameId": 874634
+  },
+  "Sticker | forZe eSports (Foil) | Berlin 2019": {
+    "name": "Sticker | forZe eSports (Foil) | Berlin 2019",
+    "nameId": 874935
+  },
+  "Sticker | NRG | Berlin 2019": {
+    "name": "Sticker | NRG | Berlin 2019",
+    "nameId": 874757
+  },
+  "Sticker | NRG (Holo) | Berlin 2019": {
+    "name": "Sticker | NRG (Holo) | Berlin 2019",
+    "nameId": 874658
+  },
+  "Sticker | NRG (Foil) | Berlin 2019": {
+    "name": "Sticker | NRG (Foil) | Berlin 2019",
+    "nameId": 874864
+  },
+  "Sticker | Tyloo | Berlin 2019": {
+    "name": "Sticker | Tyloo | Berlin 2019",
+    "nameId": 874872
+  },
+  "Sticker | Tyloo (Holo) | Berlin 2019": {
+    "name": "Sticker | Tyloo (Holo) | Berlin 2019",
+    "nameId": 874826
+  },
+  "Sticker | Tyloo (Foil) | Berlin 2019": {
+    "name": "Sticker | Tyloo (Foil) | Berlin 2019",
+    "nameId": 874908
+  },
+  "Sticker | FURIA | Berlin 2019": {
+    "name": "Sticker | FURIA | Berlin 2019",
+    "nameId": 874691
+  },
+  "Sticker | FURIA (Holo) | Berlin 2019": {
+    "name": "Sticker | FURIA (Holo) | Berlin 2019",
+    "nameId": 874685
+  },
+  "Sticker | FURIA (Foil) | Berlin 2019": {
+    "name": "Sticker | FURIA (Foil) | Berlin 2019",
+    "nameId": 874829
+  },
+  "Sticker | CR4ZY | Berlin 2019": {
+    "name": "Sticker | CR4ZY | Berlin 2019",
+    "nameId": 874768
+  },
+  "Sticker | CR4ZY (Holo) | Berlin 2019": {
+    "name": "Sticker | CR4ZY (Holo) | Berlin 2019",
+    "nameId": 874617
+  },
+  "Sticker | CR4ZY (Foil) | Berlin 2019": {
+    "name": "Sticker | CR4ZY (Foil) | Berlin 2019",
+    "nameId": 874900
+  },
+  "Sticker | Syman Gaming | Berlin 2019": {
+    "name": "Sticker | Syman Gaming | Berlin 2019",
+    "nameId": 874873
+  },
+  "Sticker | Syman Gaming (Holo) | Berlin 2019": {
+    "name": "Sticker | Syman Gaming (Holo) | Berlin 2019",
+    "nameId": 874633
+  },
+  "Sticker | Syman Gaming (Foil) | Berlin 2019": {
+    "name": "Sticker | Syman Gaming (Foil) | Berlin 2019",
+    "nameId": 874895
+  },
+  "Sticker | North | Berlin 2019": {
+    "name": "Sticker | North | Berlin 2019",
+    "nameId": 874821
+  },
+  "Sticker | North (Holo) | Berlin 2019": {
+    "name": "Sticker | North (Holo) | Berlin 2019",
+    "nameId": 874832
+  },
+  "Sticker | North (Foil) | Berlin 2019": {
+    "name": "Sticker | North (Foil) | Berlin 2019",
+    "nameId": 874899
+  },
+  "Sticker | DreamEaters | Berlin 2019": {
+    "name": "Sticker | DreamEaters | Berlin 2019",
+    "nameId": 874861
+  },
+  "Sticker | DreamEaters (Holo) | Berlin 2019": {
+    "name": "Sticker | DreamEaters (Holo) | Berlin 2019",
+    "nameId": 874792
+  },
+  "Sticker | DreamEaters (Foil) | Berlin 2019": {
+    "name": "Sticker | DreamEaters (Foil) | Berlin 2019",
+    "nameId": 874660
+  },
+  "Sticker | INTZ E-SPORTS CLUB | Berlin 2019": {
+    "name": "Sticker | INTZ E-SPORTS CLUB | Berlin 2019",
+    "nameId": 874812
+  },
+  "Sticker | INTZ E-SPORTS CLUB (Holo) | Berlin 2019": {
+    "name": "Sticker | INTZ E-SPORTS CLUB (Holo) | Berlin 2019",
+    "nameId": 874659
+  },
+  "Sticker | INTZ E-SPORTS CLUB (Foil) | Berlin 2019": {
+    "name": "Sticker | INTZ E-SPORTS CLUB (Foil) | Berlin 2019",
+    "nameId": 874863
+  },
+  "Sticker | StarLadder | Berlin 2019": {
+    "name": "Sticker | StarLadder | Berlin 2019",
+    "nameId": 874599
+  },
+  "Sticker | StarLadder (Holo) | Berlin 2019": {
+    "name": "Sticker | StarLadder (Holo) | Berlin 2019",
+    "nameId": 874651
+  },
+  "Sticker | StarLadder (Foil) | Berlin 2019": {
+    "name": "Sticker | StarLadder (Foil) | Berlin 2019",
+    "nameId": 874669
+  },
+  "Sticker | Magisk | Berlin 2019": {
+    "name": "Sticker | Magisk | Berlin 2019",
+    "nameId": 874567
+  },
+  "Sticker | Magisk (Foil) | Berlin 2019": {
+    "name": "Sticker | Magisk (Foil) | Berlin 2019",
+    "nameId": 874705
+  },
+  "Sticker | Magisk (Gold) | Berlin 2019": {
+    "name": "Sticker | Magisk (Gold) | Berlin 2019",
+    "nameId": 874933
+  },
+  "Sticker | device | Berlin 2019": {
+    "name": "Sticker | device | Berlin 2019",
+    "nameId": 874625
+  },
+  "Sticker | Xyp9x | Berlin 2019": {
+    "name": "Sticker | Xyp9x | Berlin 2019",
+    "nameId": 874664
+  },
+  "Sticker | Xyp9x (Foil) | Berlin 2019": {
+    "name": "Sticker | Xyp9x (Foil) | Berlin 2019",
+    "nameId": 874776
+  },
+  "Sticker | Xyp9x (Gold) | Berlin 2019": {
+    "name": "Sticker | Xyp9x (Gold) | Berlin 2019",
+    "nameId": 874947
+  },
+  "Sticker | dupreeh | Berlin 2019": {
+    "name": "Sticker | dupreeh | Berlin 2019",
+    "nameId": 874714
+  },
+  "Sticker | dupreeh (Foil) | Berlin 2019": {
+    "name": "Sticker | dupreeh (Foil) | Berlin 2019",
+    "nameId": 874870
+  },
+  "Sticker | gla1ve | Berlin 2019": {
+    "name": "Sticker | gla1ve | Berlin 2019",
+    "nameId": 874579
+  },
+  "Sticker | gla1ve (Foil) | Berlin 2019": {
+    "name": "Sticker | gla1ve (Foil) | Berlin 2019",
+    "nameId": 874819
+  },
+  "Sticker | gla1ve (Gold) | Berlin 2019": {
+    "name": "Sticker | gla1ve (Gold) | Berlin 2019",
+    "nameId": 874942
+  },
+  "Sticker | allu | Berlin 2019": {
+    "name": "Sticker | allu | Berlin 2019",
+    "nameId": 874606
+  },
+  "Sticker | allu (Foil) | Berlin 2019": {
+    "name": "Sticker | allu (Foil) | Berlin 2019",
+    "nameId": 874849
+  },
+  "Sticker | allu (Gold) | Berlin 2019": {
+    "name": "Sticker | allu (Gold) | Berlin 2019",
+    "nameId": 874721
+  },
+  "Sticker | Aerial | Berlin 2019": {
+    "name": "Sticker | Aerial | Berlin 2019",
+    "nameId": 874770
+  },
+  "Sticker | Aerial (Foil) | Berlin 2019": {
+    "name": "Sticker | Aerial (Foil) | Berlin 2019",
+    "nameId": 874869
+  },
+  "Sticker | xseveN | Berlin 2019": {
+    "name": "Sticker | xseveN | Berlin 2019",
+    "nameId": 874609
+  },
+  "Sticker | xseveN (Foil) | Berlin 2019": {
+    "name": "Sticker | xseveN (Foil) | Berlin 2019",
+    "nameId": 874781
+  },
+  "Sticker | xseveN (Gold) | Berlin 2019": {
+    "name": "Sticker | xseveN (Gold) | Berlin 2019",
+    "nameId": 874928
+  },
+  "Sticker | Aleksib | Berlin 2019": {
+    "name": "Sticker | Aleksib | Berlin 2019",
+    "nameId": 874580
+  },
+  "Sticker | Aleksib (Foil) | Berlin 2019": {
+    "name": "Sticker | Aleksib (Foil) | Berlin 2019",
+    "nameId": 874700
+  },
+  "Sticker | Aleksib (Gold) | Berlin 2019": {
+    "name": "Sticker | Aleksib (Gold) | Berlin 2019",
+    "nameId": 874920
+  },
+  "Sticker | sergej | Berlin 2019": {
+    "name": "Sticker | sergej | Berlin 2019",
+    "nameId": 874668
+  },
+  "Sticker | sergej (Foil) | Berlin 2019": {
+    "name": "Sticker | sergej (Foil) | Berlin 2019",
+    "nameId": 874837
+  },
+  "Sticker | FalleN | Berlin 2019": {
+    "name": "Sticker | FalleN | Berlin 2019",
+    "nameId": 874582
+  },
+  "Sticker | FalleN (Foil) | Berlin 2019": {
+    "name": "Sticker | FalleN (Foil) | Berlin 2019",
+    "nameId": 874833
+  },
+  "Sticker | FalleN (Gold) | Berlin 2019": {
+    "name": "Sticker | FalleN (Gold) | Berlin 2019",
+    "nameId": 874963
+  },
+  "Sticker | LUCAS1 | Berlin 2019": {
+    "name": "Sticker | LUCAS1 | Berlin 2019",
+    "nameId": 874565
+  },
+  "Sticker | LUCAS1 (Foil) | Berlin 2019": {
+    "name": "Sticker | LUCAS1 (Foil) | Berlin 2019",
+    "nameId": 874834
+  },
+  "Sticker | fer | Berlin 2019": {
+    "name": "Sticker | fer | Berlin 2019",
+    "nameId": 874686
+  },
+  "Sticker | fer (Foil) | Berlin 2019": {
+    "name": "Sticker | fer (Foil) | Berlin 2019",
+    "nameId": 874676
+  },
+  "Sticker | fer (Gold) | Berlin 2019": {
+    "name": "Sticker | fer (Gold) | Berlin 2019",
+    "nameId": 874905
+  },
+  "Sticker | TACO | Berlin 2019": {
+    "name": "Sticker | TACO | Berlin 2019",
+    "nameId": 874591
+  },
+  "Sticker | TACO (Foil) | Berlin 2019": {
+    "name": "Sticker | TACO (Foil) | Berlin 2019",
+    "nameId": 874828
+  },
+  "Sticker | coldzera | Berlin 2019": {
+    "name": "Sticker | coldzera | Berlin 2019",
+    "nameId": 874702
+  },
+  "Sticker | coldzera (Foil) | Berlin 2019": {
+    "name": "Sticker | coldzera (Foil) | Berlin 2019",
+    "nameId": 874665
+  },
+  "Sticker | coldzera (Gold) | Berlin 2019": {
+    "name": "Sticker | coldzera (Gold) | Berlin 2019",
+    "nameId": 874795
+  },
+  "Sticker | Zeus | Berlin 2019": {
+    "name": "Sticker | Zeus | Berlin 2019",
+    "nameId": 874581
+  },
+  "Sticker | Zeus (Foil) | Berlin 2019": {
+    "name": "Sticker | Zeus (Foil) | Berlin 2019",
+    "nameId": 874771
+  },
+  "Sticker | Zeus (Gold) | Berlin 2019": {
+    "name": "Sticker | Zeus (Gold) | Berlin 2019",
+    "nameId": 893006
+  },
+  "Sticker | s1mple | Berlin 2019": {
+    "name": "Sticker | s1mple | Berlin 2019",
+    "nameId": 874601
+  },
+  "Sticker | s1mple (Foil) | Berlin 2019": {
+    "name": "Sticker | s1mple (Foil) | Berlin 2019",
+    "nameId": 874854
+  },
+  "Sticker | s1mple (Gold) | Berlin 2019": {
+    "name": "Sticker | s1mple (Gold) | Berlin 2019",
+    "nameId": 874883
+  },
+  "Sticker | electronic | Berlin 2019": {
+    "name": "Sticker | electronic | Berlin 2019",
+    "nameId": 874593
+  },
+  "Sticker | electronic (Foil) | Berlin 2019": {
+    "name": "Sticker | electronic (Foil) | Berlin 2019",
+    "nameId": 874623
+  },
+  "Sticker | electronic (Gold) | Berlin 2019": {
+    "name": "Sticker | electronic (Gold) | Berlin 2019",
+    "nameId": 874783
+  },
+  "Sticker | flamie | Berlin 2019": {
+    "name": "Sticker | flamie | Berlin 2019",
+    "nameId": 874611
+  },
+  "Sticker | flamie (Foil) | Berlin 2019": {
+    "name": "Sticker | flamie (Foil) | Berlin 2019",
+    "nameId": 874585
+  },
+  "Sticker | flamie (Gold) | Berlin 2019": {
+    "name": "Sticker | flamie (Gold) | Berlin 2019",
+    "nameId": 874937
+  },
+  "Sticker | Boombl4 | Berlin 2019": {
+    "name": "Sticker | Boombl4 | Berlin 2019",
+    "nameId": 874587
+  },
+  "Sticker | Boombl4 (Foil) | Berlin 2019": {
+    "name": "Sticker | Boombl4 (Foil) | Berlin 2019",
+    "nameId": 874649
+  },
+  "Sticker | Boombl4 (Gold) | Berlin 2019": {
+    "name": "Sticker | Boombl4 (Gold) | Berlin 2019",
+    "nameId": 898194
+  },
+  "Sticker | f0rest | Berlin 2019": {
+    "name": "Sticker | f0rest | Berlin 2019",
+    "nameId": 874596
+  },
+  "Sticker | f0rest (Foil) | Berlin 2019": {
+    "name": "Sticker | f0rest (Foil) | Berlin 2019",
+    "nameId": 874845
+  },
+  "Sticker | Lekr0 | Berlin 2019": {
+    "name": "Sticker | Lekr0 | Berlin 2019",
+    "nameId": 874595
+  },
+  "Sticker | Lekr0 (Foil) | Berlin 2019": {
+    "name": "Sticker | Lekr0 (Foil) | Berlin 2019",
+    "nameId": 874774
+  },
+  "Sticker | Lekr0 (Gold) | Berlin 2019": {
+    "name": "Sticker | Lekr0 (Gold) | Berlin 2019",
+    "nameId": 874851
+  },
+  "Sticker | GeT_RiGhT | Berlin 2019": {
+    "name": "Sticker | GeT_RiGhT | Berlin 2019",
+    "nameId": 874583
+  },
+  "Sticker | GeT_RiGhT (Foil) | Berlin 2019": {
+    "name": "Sticker | GeT_RiGhT (Foil) | Berlin 2019",
+    "nameId": 874667
+  },
+  "Sticker | REZ | Berlin 2019": {
+    "name": "Sticker | REZ | Berlin 2019",
+    "nameId": 874707
+  },
+  "Sticker | REZ (Foil) | Berlin 2019": {
+    "name": "Sticker | REZ (Foil) | Berlin 2019",
+    "nameId": 874852
+  },
+  "Sticker | Golden | Berlin 2019": {
+    "name": "Sticker | Golden | Berlin 2019",
+    "nameId": 874586
+  },
+  "Sticker | Golden (Foil) | Berlin 2019": {
+    "name": "Sticker | Golden (Foil) | Berlin 2019",
+    "nameId": 874765
+  },
+  "Sticker | Golden (Gold) | Berlin 2019": {
+    "name": "Sticker | Golden (Gold) | Berlin 2019",
+    "nameId": 874930
+  },
+  "Sticker | NEO | Berlin 2019": {
+    "name": "Sticker | NEO | Berlin 2019",
+    "nameId": 874605
+  },
+  "Sticker | NEO (Foil) | Berlin 2019": {
+    "name": "Sticker | NEO (Foil) | Berlin 2019",
+    "nameId": 874803
+  },
+  "Sticker | NEO (Gold) | Berlin 2019": {
+    "name": "Sticker | NEO (Gold) | Berlin 2019",
+    "nameId": 874911
+  },
+  "Sticker | GuardiaN | Berlin 2019": {
+    "name": "Sticker | GuardiaN | Berlin 2019",
+    "nameId": 874584
+  },
+  "Sticker | GuardiaN (Foil) | Berlin 2019": {
+    "name": "Sticker | GuardiaN (Foil) | Berlin 2019",
+    "nameId": 874673
+  },
+  "Sticker | olofmeister | Berlin 2019": {
+    "name": "Sticker | olofmeister | Berlin 2019",
+    "nameId": 874643
+  },
+  "Sticker | olofmeister (Foil) | Berlin 2019": {
+    "name": "Sticker | olofmeister (Foil) | Berlin 2019",
+    "nameId": 874871
+  },
+  "Sticker | olofmeister (Gold) | Berlin 2019": {
+    "name": "Sticker | olofmeister (Gold) | Berlin 2019",
+    "nameId": 874954
+  },
+  "Sticker | rain | Berlin 2019": {
+    "name": "Sticker | rain | Berlin 2019",
+    "nameId": 874694
+  },
+  "Sticker | rain (Foil) | Berlin 2019": {
+    "name": "Sticker | rain (Foil) | Berlin 2019",
+    "nameId": 874746
+  },
+  "Sticker | rain (Gold) | Berlin 2019": {
+    "name": "Sticker | rain (Gold) | Berlin 2019",
+    "nameId": 874772
+  },
+  "Sticker | NiKo | Berlin 2019": {
+    "name": "Sticker | NiKo | Berlin 2019",
+    "nameId": 874563
+  },
+  "Sticker | NiKo (Foil) | Berlin 2019": {
+    "name": "Sticker | NiKo (Foil) | Berlin 2019",
+    "nameId": 874836
+  },
+  "Sticker | NiKo (Gold) | Berlin 2019": {
+    "name": "Sticker | NiKo (Gold) | Berlin 2019",
+    "nameId": 874912
+  },
+  "Sticker | nitr0 | Berlin 2019": {
+    "name": "Sticker | nitr0 | Berlin 2019",
+    "nameId": 874602
+  },
+  "Sticker | nitr0 (Foil) | Berlin 2019": {
+    "name": "Sticker | nitr0 (Foil) | Berlin 2019",
+    "nameId": 874697
+  },
+  "Sticker | nitr0 (Gold) | Berlin 2019": {
+    "name": "Sticker | nitr0 (Gold) | Berlin 2019",
+    "nameId": 874924
+  },
+  "Sticker | Stewie2K | Berlin 2019": {
+    "name": "Sticker | Stewie2K | Berlin 2019",
+    "nameId": 874687
+  },
+  "Sticker | Stewie2K (Foil) | Berlin 2019": {
+    "name": "Sticker | Stewie2K (Foil) | Berlin 2019",
+    "nameId": 874610
+  },
+  "Sticker | Stewie2K (Gold) | Berlin 2019": {
+    "name": "Sticker | Stewie2K (Gold) | Berlin 2019",
+    "nameId": 874922
+  },
+  "Sticker | NAF | Berlin 2019": {
+    "name": "Sticker | NAF | Berlin 2019",
+    "nameId": 874607
+  },
+  "Sticker | NAF (Foil) | Berlin 2019": {
+    "name": "Sticker | NAF (Foil) | Berlin 2019",
+    "nameId": 874789
+  },
+  "Sticker | NAF (Gold) | Berlin 2019": {
+    "name": "Sticker | NAF (Gold) | Berlin 2019",
+    "nameId": 874984
+  },
+  "Sticker | Twistzz | Berlin 2019": {
+    "name": "Sticker | Twistzz | Berlin 2019",
+    "nameId": 874666
+  },
+  "Sticker | Twistzz (Foil) | Berlin 2019": {
+    "name": "Sticker | Twistzz (Foil) | Berlin 2019",
+    "nameId": 874674
+  },
+  "Sticker | EliGE | Berlin 2019": {
+    "name": "Sticker | EliGE | Berlin 2019",
+    "nameId": 874604
+  },
+  "Sticker | EliGE (Foil) | Berlin 2019": {
+    "name": "Sticker | EliGE (Foil) | Berlin 2019",
+    "nameId": 874800
+  },
+  "Sticker | EliGE (Gold) | Berlin 2019": {
+    "name": "Sticker | EliGE (Gold) | Berlin 2019",
+    "nameId": 874971
+  },
+  "Sticker | Gratisfaction | Berlin 2019": {
+    "name": "Sticker | Gratisfaction | Berlin 2019",
+    "nameId": 874624
+  },
+  "Sticker | Gratisfaction (Foil) | Berlin 2019": {
+    "name": "Sticker | Gratisfaction (Foil) | Berlin 2019",
+    "nameId": 874777
+  },
+  "Sticker | Gratisfaction (Gold) | Berlin 2019": {
+    "name": "Sticker | Gratisfaction (Gold) | Berlin 2019",
+    "nameId": 874903
+  },
+  "Sticker | jks | Berlin 2019": {
+    "name": "Sticker | jks | Berlin 2019",
+    "nameId": 874592
+  },
+  "Sticker | jks (Foil) | Berlin 2019": {
+    "name": "Sticker | jks (Foil) | Berlin 2019",
+    "nameId": 874703
+  },
+  "Sticker | AZR | Berlin 2019": {
+    "name": "Sticker | AZR | Berlin 2019",
+    "nameId": 874704
+  },
+  "Sticker | AZR (Foil) | Berlin 2019": {
+    "name": "Sticker | AZR (Foil) | Berlin 2019",
+    "nameId": 874708
+  },
+  "Sticker | jkaem | Berlin 2019": {
+    "name": "Sticker | jkaem | Berlin 2019",
+    "nameId": 874603
+  },
+  "Sticker | jkaem (Foil) | Berlin 2019": {
+    "name": "Sticker | jkaem (Foil) | Berlin 2019",
+    "nameId": 874608
+  },
+  "Sticker | jkaem (Gold) | Berlin 2019": {
+    "name": "Sticker | jkaem (Gold) | Berlin 2019",
+    "nameId": 874955
+  },
+  "Sticker | Liazz | Berlin 2019": {
+    "name": "Sticker | Liazz | Berlin 2019",
+    "nameId": 874675
+  },
+  "Sticker | Liazz (Foil) | Berlin 2019": {
+    "name": "Sticker | Liazz (Foil) | Berlin 2019",
+    "nameId": 874825
+  },
+  "Sticker | Rickeh (Foil) | Berlin 2019": {
+    "name": "Sticker | Rickeh (Foil) | Berlin 2019",
+    "nameId": 874695
+  },
+  "Sticker | SicK | Berlin 2019": {
+    "name": "Sticker | SicK | Berlin 2019",
+    "nameId": 874678
+  },
+  "Sticker | SicK (Gold) | Berlin 2019": {
+    "name": "Sticker | SicK (Gold) | Berlin 2019",
+    "nameId": 874802
+  },
+  "Sticker | dephh | Berlin 2019": {
+    "name": "Sticker | dephh | Berlin 2019",
+    "nameId": 874662
+  },
+  "Sticker | ShahZaM | Berlin 2019": {
+    "name": "Sticker | ShahZaM | Berlin 2019",
+    "nameId": 874598
+  },
+  "Sticker | ShahZaM (Foil) | Berlin 2019": {
+    "name": "Sticker | ShahZaM (Foil) | Berlin 2019",
+    "nameId": 874769
+  },
+  "Sticker | oBo | Berlin 2019": {
+    "name": "Sticker | oBo | Berlin 2019",
+    "nameId": 874578
+  },
+  "Sticker | oBo (Foil) | Berlin 2019": {
+    "name": "Sticker | oBo (Foil) | Berlin 2019",
+    "nameId": 874716
+  },
+  "Sticker | oBo (Gold) | Berlin 2019": {
+    "name": "Sticker | oBo (Gold) | Berlin 2019",
+    "nameId": 874946
+  },
+  "Sticker | DeadFox | Berlin 2019": {
+    "name": "Sticker | DeadFox | Berlin 2019",
+    "nameId": 874570
+  },
+  "Sticker | DeadFox (Foil) | Berlin 2019": {
+    "name": "Sticker | DeadFox (Foil) | Berlin 2019",
+    "nameId": 874780
+  },
+  "Sticker | loWel | Berlin 2019": {
+    "name": "Sticker | loWel | Berlin 2019",
+    "nameId": 874679
+  },
+  "Sticker | loWel (Foil) | Berlin 2019": {
+    "name": "Sticker | loWel (Foil) | Berlin 2019",
+    "nameId": 874862
+  },
+  "Sticker | loWel (Gold) | Berlin 2019": {
+    "name": "Sticker | loWel (Gold) | Berlin 2019",
+    "nameId": 874982
+  },
+  "Sticker | ANGE1 | Berlin 2019": {
+    "name": "Sticker | ANGE1 | Berlin 2019",
+    "nameId": 874577
+  },
+  "Sticker | ANGE1 (Foil) | Berlin 2019": {
+    "name": "Sticker | ANGE1 (Foil) | Berlin 2019",
+    "nameId": 874844
+  },
+  "Sticker | ANGE1 (Gold) | Berlin 2019": {
+    "name": "Sticker | ANGE1 (Gold) | Berlin 2019",
+    "nameId": 874939
+  },
+  "Sticker | ISSAA | Berlin 2019": {
+    "name": "Sticker | ISSAA | Berlin 2019",
+    "nameId": 874594
+  },
+  "Sticker | ISSAA (Foil) | Berlin 2019": {
+    "name": "Sticker | ISSAA (Foil) | Berlin 2019",
+    "nameId": 874823
+  },
+  "Sticker | ISSAA (Gold) | Berlin 2019": {
+    "name": "Sticker | ISSAA (Gold) | Berlin 2019",
+    "nameId": 874896
+  },
+  "Sticker | oskar | Berlin 2019": {
+    "name": "Sticker | oskar | Berlin 2019",
+    "nameId": 874711
+  },
+  "Sticker | oskar (Foil) | Berlin 2019": {
+    "name": "Sticker | oskar (Foil) | Berlin 2019",
+    "nameId": 874824
+  },
+  "Sticker | oskar (Gold) | Berlin 2019": {
+    "name": "Sticker | oskar (Gold) | Berlin 2019",
+    "nameId": 874917
+  },
+  "Sticker | AdreN | Berlin 2019": {
+    "name": "Sticker | AdreN | Berlin 2019",
+    "nameId": 874573
+  },
+  "Sticker | AdreN (Foil) | Berlin 2019": {
+    "name": "Sticker | AdreN (Foil) | Berlin 2019",
+    "nameId": 874574
+  },
+  "Sticker | AdreN (Gold) | Berlin 2019": {
+    "name": "Sticker | AdreN (Gold) | Berlin 2019",
+    "nameId": 874693
+  },
+  "Sticker | Jame | Berlin 2019": {
+    "name": "Sticker | Jame | Berlin 2019",
+    "nameId": 874569
+  },
+  "Sticker | Jame (Foil) | Berlin 2019": {
+    "name": "Sticker | Jame (Foil) | Berlin 2019",
+    "nameId": 874876
+  },
+  "Sticker | qikert | Berlin 2019": {
+    "name": "Sticker | qikert | Berlin 2019",
+    "nameId": 874597
+  },
+  "Sticker | qikert (Foil) | Berlin 2019": {
+    "name": "Sticker | qikert (Foil) | Berlin 2019",
+    "nameId": 874804
+  },
+  "Sticker | qikert (Gold) | Berlin 2019": {
+    "name": "Sticker | qikert (Gold) | Berlin 2019",
+    "nameId": 874957
+  },
+  "Sticker | buster | Berlin 2019": {
+    "name": "Sticker | buster | Berlin 2019",
+    "nameId": 874745
+  },
+  "Sticker | buster (Foil) | Berlin 2019": {
+    "name": "Sticker | buster (Foil) | Berlin 2019",
+    "nameId": 874860
+  },
+  "Sticker | buster (Gold) | Berlin 2019": {
+    "name": "Sticker | buster (Gold) | Berlin 2019",
+    "nameId": 886323
+  },
+  "Sticker | SANJI | Berlin 2019": {
+    "name": "Sticker | SANJI | Berlin 2019",
+    "nameId": 874638
+  },
+  "Sticker | SANJI (Foil) | Berlin 2019": {
+    "name": "Sticker | SANJI (Foil) | Berlin 2019",
+    "nameId": 874909
+  },
+  "Sticker | SANJI (Gold) | Berlin 2019": {
+    "name": "Sticker | SANJI (Gold) | Berlin 2019",
+    "nameId": 911688
+  },
+  "Sticker | JaCkz | Berlin 2019": {
+    "name": "Sticker | JaCkz | Berlin 2019",
+    "nameId": 874576
+  },
+  "Sticker | JaCkz (Foil) | Berlin 2019": {
+    "name": "Sticker | JaCkz (Foil) | Berlin 2019",
+    "nameId": 874773
+  },
+  "Sticker | shox | Berlin 2019": {
+    "name": "Sticker | shox | Berlin 2019",
+    "nameId": 874568
+  },
+  "Sticker | shox (Foil) | Berlin 2019": {
+    "name": "Sticker | shox (Foil) | Berlin 2019",
+    "nameId": 874813
+  },
+  "Sticker | shox (Gold) | Berlin 2019": {
+    "name": "Sticker | shox (Gold) | Berlin 2019",
+    "nameId": 876776
+  },
+  "Sticker | kennyS | Berlin 2019": {
+    "name": "Sticker | kennyS | Berlin 2019",
+    "nameId": 874715
+  },
+  "Sticker | kennyS (Foil) | Berlin 2019": {
+    "name": "Sticker | kennyS (Foil) | Berlin 2019",
+    "nameId": 874663
+  },
+  "Sticker | kennyS (Gold) | Berlin 2019": {
+    "name": "Sticker | kennyS (Gold) | Berlin 2019",
+    "nameId": 874962
+  },
+  "Sticker | Lucky | Berlin 2019": {
+    "name": "Sticker | Lucky | Berlin 2019",
+    "nameId": 874688
+  },
+  "Sticker | Lucky (Foil) | Berlin 2019": {
+    "name": "Sticker | Lucky (Foil) | Berlin 2019",
+    "nameId": 874805
+  },
+  "Sticker | Lucky (Gold) | Berlin 2019": {
+    "name": "Sticker | Lucky (Gold) | Berlin 2019",
+    "nameId": 874921
+  },
+  "Sticker | AmaNEk | Berlin 2019": {
+    "name": "Sticker | AmaNEk | Berlin 2019",
+    "nameId": 874654
+  },
+  "Sticker | AmaNEk (Foil) | Berlin 2019": {
+    "name": "Sticker | AmaNEk (Foil) | Berlin 2019",
+    "nameId": 874677
+  },
+  "Sticker | AmaNEk (Gold) | Berlin 2019": {
+    "name": "Sticker | AmaNEk (Gold) | Berlin 2019",
+    "nameId": 874970
+  },
+  "Sticker | NBK- | Berlin 2019": {
+    "name": "Sticker | NBK- | Berlin 2019",
+    "nameId": 874775
+  },
+  "Sticker | NBK- (Gold) | Berlin 2019": {
+    "name": "Sticker | NBK- (Gold) | Berlin 2019",
+    "nameId": 874985
+  },
+  "Sticker | apEX | Berlin 2019": {
+    "name": "Sticker | apEX | Berlin 2019",
+    "nameId": 874566
+  },
+  "Sticker | apEX (Foil) | Berlin 2019": {
+    "name": "Sticker | apEX (Foil) | Berlin 2019",
+    "nameId": 874571
+  },
+  "Sticker | ALEX | Berlin 2019": {
+    "name": "Sticker | ALEX | Berlin 2019",
+    "nameId": 874639
+  },
+  "Sticker | ALEX (Foil) | Berlin 2019": {
+    "name": "Sticker | ALEX (Foil) | Berlin 2019",
+    "nameId": 874766
+  },
+  "Sticker | RpK | Berlin 2019": {
+    "name": "Sticker | RpK | Berlin 2019",
+    "nameId": 874680
+  },
+  "Sticker | RpK (Foil) | Berlin 2019": {
+    "name": "Sticker | RpK (Foil) | Berlin 2019",
+    "nameId": 874806
+  },
+  "Sticker | RpK (Gold) | Berlin 2019": {
+    "name": "Sticker | RpK (Gold) | Berlin 2019",
+    "nameId": 874913
+  },
+  "Sticker | ZywOo | Berlin 2019": {
+    "name": "Sticker | ZywOo | Berlin 2019",
+    "nameId": 874661
+  },
+  "Sticker | ZywOo (Foil) | Berlin 2019": {
+    "name": "Sticker | ZywOo (Foil) | Berlin 2019",
+    "nameId": 874868
+  },
+  "Sticker | ZywOo (Gold) | Berlin 2019": {
+    "name": "Sticker | ZywOo (Gold) | Berlin 2019",
+    "nameId": 876420
+  },
+  "Sticker | Sico | Berlin 2019": {
+    "name": "Sticker | Sico | Berlin 2019",
+    "nameId": 874670
+  },
+  "Sticker | Sico (Foil) | Berlin 2019": {
+    "name": "Sticker | Sico (Foil) | Berlin 2019",
+    "nameId": 874925
+  },
+  "Sticker | Sico (Gold) | Berlin 2019": {
+    "name": "Sticker | Sico (Gold) | Berlin 2019",
+    "nameId": 874914
+  },
+  "Sticker | dexter | Berlin 2019": {
+    "name": "Sticker | dexter | Berlin 2019",
+    "nameId": 874724
+  },
+  "Sticker | dexter (Foil) | Berlin 2019": {
+    "name": "Sticker | dexter (Foil) | Berlin 2019",
+    "nameId": 874880
+  },
+  "Sticker | erkaSt | Berlin 2019": {
+    "name": "Sticker | erkaSt | Berlin 2019",
+    "nameId": 874750
+  },
+  "Sticker | erkaSt (Foil) | Berlin 2019": {
+    "name": "Sticker | erkaSt (Foil) | Berlin 2019",
+    "nameId": 874814
+  },
+  "Sticker | malta | Berlin 2019": {
+    "name": "Sticker | malta | Berlin 2019",
+    "nameId": 874735
+  },
+  "Sticker | malta (Foil) | Berlin 2019": {
+    "name": "Sticker | malta (Foil) | Berlin 2019",
+    "nameId": 874725
+  },
+  "Sticker | DickStacy | Berlin 2019": {
+    "name": "Sticker | DickStacy | Berlin 2019",
+    "nameId": 874710
+  },
+  "Sticker | DickStacy (Foil) | Berlin 2019": {
+    "name": "Sticker | DickStacy (Foil) | Berlin 2019",
+    "nameId": 874640
+  },
+  "Sticker | DickStacy (Gold) | Berlin 2019": {
+    "name": "Sticker | DickStacy (Gold) | Berlin 2019",
+    "nameId": 874951
+  },
+  "Sticker | chrisJ | Berlin 2019": {
+    "name": "Sticker | chrisJ | Berlin 2019",
+    "nameId": 874729
+  },
+  "Sticker | chrisJ (Foil) | Berlin 2019": {
+    "name": "Sticker | chrisJ (Foil) | Berlin 2019",
+    "nameId": 874840
+  },
+  "Sticker | karrigan | Berlin 2019": {
+    "name": "Sticker | karrigan | Berlin 2019",
+    "nameId": 874744
+  },
+  "Sticker | karrigan (Foil) | Berlin 2019": {
+    "name": "Sticker | karrigan (Foil) | Berlin 2019",
+    "nameId": 874842
+  },
+  "Sticker | karrigan (Gold) | Berlin 2019": {
+    "name": "Sticker | karrigan (Gold) | Berlin 2019",
+    "nameId": 895070
+  },
+  "Sticker | ropz | Berlin 2019": {
+    "name": "Sticker | ropz | Berlin 2019",
+    "nameId": 874809
+  },
+  "Sticker | ropz (Foil) | Berlin 2019": {
+    "name": "Sticker | ropz (Foil) | Berlin 2019",
+    "nameId": 874879
+  },
+  "Sticker | ropz (Gold) | Berlin 2019": {
+    "name": "Sticker | ropz (Gold) | Berlin 2019",
+    "nameId": 1071458
+  },
+  "Sticker | frozen | Berlin 2019": {
+    "name": "Sticker | frozen | Berlin 2019",
+    "nameId": 874749
+  },
+  "Sticker | frozen (Foil) | Berlin 2019": {
+    "name": "Sticker | frozen (Foil) | Berlin 2019",
+    "nameId": 874682
+  },
+  "Sticker | woxic | Berlin 2019": {
+    "name": "Sticker | woxic | Berlin 2019",
+    "nameId": 874699
+  },
+  "Sticker | woxic (Foil) | Berlin 2019": {
+    "name": "Sticker | woxic (Foil) | Berlin 2019",
+    "nameId": 874726
+  },
+  "Sticker | FL1T | Berlin 2019": {
+    "name": "Sticker | FL1T | Berlin 2019",
+    "nameId": 874734
+  },
+  "Sticker | FL1T (Foil) | Berlin 2019": {
+    "name": "Sticker | FL1T (Foil) | Berlin 2019",
+    "nameId": 874807
+  },
+  "Sticker | Jerry | Berlin 2019": {
+    "name": "Sticker | Jerry | Berlin 2019",
+    "nameId": 874621
+  },
+  "Sticker | Jerry (Foil) | Berlin 2019": {
+    "name": "Sticker | Jerry (Foil) | Berlin 2019",
+    "nameId": 874891
+  },
+  "Sticker | Jerry (Gold) | Berlin 2019": {
+    "name": "Sticker | Jerry (Gold) | Berlin 2019",
+    "nameId": 874926
+  },
+  "Sticker | almazer | Berlin 2019": {
+    "name": "Sticker | almazer | Berlin 2019",
+    "nameId": 874712
+  },
+  "Sticker | almazer (Foil) | Berlin 2019": {
+    "name": "Sticker | almazer (Foil) | Berlin 2019",
+    "nameId": 874838
+  },
+  "Sticker | almazer (Gold) | Berlin 2019": {
+    "name": "Sticker | almazer (Gold) | Berlin 2019",
+    "nameId": 899481
+  },
+  "Sticker | xsepower | Berlin 2019": {
+    "name": "Sticker | xsepower | Berlin 2019",
+    "nameId": 874622
+  },
+  "Sticker | xsepower (Foil) | Berlin 2019": {
+    "name": "Sticker | xsepower (Foil) | Berlin 2019",
+    "nameId": 874755
+  },
+  "Sticker | xsepower (Gold) | Berlin 2019": {
+    "name": "Sticker | xsepower (Gold) | Berlin 2019",
+    "nameId": 891464
+  },
+  "Sticker | facecrack | Berlin 2019": {
+    "name": "Sticker | facecrack | Berlin 2019",
+    "nameId": 874733
+  },
+  "Sticker | facecrack (Foil) | Berlin 2019": {
+    "name": "Sticker | facecrack (Foil) | Berlin 2019",
+    "nameId": 874589
+  },
+  "Sticker | tarik | Berlin 2019": {
+    "name": "Sticker | tarik | Berlin 2019",
+    "nameId": 874753
+  },
+  "Sticker | tarik (Foil) | Berlin 2019": {
+    "name": "Sticker | tarik (Foil) | Berlin 2019",
+    "nameId": 874794
+  },
+  "Sticker | stanislaw | Berlin 2019": {
+    "name": "Sticker | stanislaw | Berlin 2019",
+    "nameId": 874754
+  },
+  "Sticker | stanislaw (Foil) | Berlin 2019": {
+    "name": "Sticker | stanislaw (Foil) | Berlin 2019",
+    "nameId": 874857
+  },
+  "Sticker | Brehze | Berlin 2019": {
+    "name": "Sticker | Brehze | Berlin 2019",
+    "nameId": 874732
+  },
+  "Sticker | Brehze (Foil) | Berlin 2019": {
+    "name": "Sticker | Brehze (Foil) | Berlin 2019",
+    "nameId": 874799
+  },
+  "Sticker | Ethan | Berlin 2019": {
+    "name": "Sticker | Ethan | Berlin 2019",
+    "nameId": 874642
+  },
+  "Sticker | Ethan (Foil) | Berlin 2019": {
+    "name": "Sticker | Ethan (Foil) | Berlin 2019",
+    "nameId": 874731
+  },
+  "Sticker | CeRq | Berlin 2019": {
+    "name": "Sticker | CeRq | Berlin 2019",
+    "nameId": 874681
+  },
+  "Sticker | CeRq (Foil) | Berlin 2019": {
+    "name": "Sticker | CeRq (Foil) | Berlin 2019",
+    "nameId": 874889
+  },
+  "Sticker | CeRq (Gold) | Berlin 2019": {
+    "name": "Sticker | CeRq (Gold) | Berlin 2019",
+    "nameId": 874979
+  },
+  "Sticker | Summer | Berlin 2019": {
+    "name": "Sticker | Summer | Berlin 2019",
+    "nameId": 874645
+  },
+  "Sticker | Summer (Foil) | Berlin 2019": {
+    "name": "Sticker | Summer (Foil) | Berlin 2019",
+    "nameId": 874865
+  },
+  "Sticker | somebody | Berlin 2019": {
+    "name": "Sticker | somebody | Berlin 2019",
+    "nameId": 874717
+  },
+  "Sticker | somebody (Foil) | Berlin 2019": {
+    "name": "Sticker | somebody (Foil) | Berlin 2019",
+    "nameId": 874796
+  },
+  "Sticker | Attacker | Berlin 2019": {
+    "name": "Sticker | Attacker | Berlin 2019",
+    "nameId": 874736
+  },
+  "Sticker | Attacker (Foil) | Berlin 2019": {
+    "name": "Sticker | Attacker (Foil) | Berlin 2019",
+    "nameId": 874764
+  },
+  "Sticker | Attacker (Gold) | Berlin 2019": {
+    "name": "Sticker | Attacker (Gold) | Berlin 2019",
+    "nameId": 874978
+  },
+  "Sticker | BnTeT | Berlin 2019": {
+    "name": "Sticker | BnTeT | Berlin 2019",
+    "nameId": 874784
+  },
+  "Sticker | BnTeT (Foil) | Berlin 2019": {
+    "name": "Sticker | BnTeT (Foil) | Berlin 2019",
+    "nameId": 874929
+  },
+  "Sticker | BnTeT (Gold) | Berlin 2019": {
+    "name": "Sticker | BnTeT (Gold) | Berlin 2019",
+    "nameId": 1028070
+  },
+  "Sticker | Freeman | Berlin 2019": {
+    "name": "Sticker | Freeman | Berlin 2019",
+    "nameId": 874719
+  },
+  "Sticker | VINI | Berlin 2019": {
+    "name": "Sticker | VINI | Berlin 2019",
+    "nameId": 874696
+  },
+  "Sticker | ableJ | Berlin 2019": {
+    "name": "Sticker | ableJ | Berlin 2019",
+    "nameId": 874738
+  },
+  "Sticker | ableJ (Foil) | Berlin 2019": {
+    "name": "Sticker | ableJ (Foil) | Berlin 2019",
+    "nameId": 874811
+  },
+  "Sticker | ableJ (Gold) | Berlin 2019": {
+    "name": "Sticker | ableJ (Gold) | Berlin 2019",
+    "nameId": 875474
+  },
+  "Sticker | arT | Berlin 2019": {
+    "name": "Sticker | arT | Berlin 2019",
+    "nameId": 874709
+  },
+  "Sticker | arT (Foil) | Berlin 2019": {
+    "name": "Sticker | arT (Foil) | Berlin 2019",
+    "nameId": 874859
+  },
+  "Sticker | KSCERATO | Berlin 2019": {
+    "name": "Sticker | KSCERATO | Berlin 2019",
+    "nameId": 874648
+  },
+  "Sticker | KSCERATO (Foil) | Berlin 2019": {
+    "name": "Sticker | KSCERATO (Foil) | Berlin 2019",
+    "nameId": 874797
+  },
+  "Sticker | yuurih | Berlin 2019": {
+    "name": "Sticker | yuurih | Berlin 2019",
+    "nameId": 874741
+  },
+  "Sticker | yuurih (Foil) | Berlin 2019": {
+    "name": "Sticker | yuurih (Foil) | Berlin 2019",
+    "nameId": 874752
+  },
+  "Sticker | nexa | Berlin 2019": {
+    "name": "Sticker | nexa | Berlin 2019",
+    "nameId": 874718
+  },
+  "Sticker | nexa (Foil) | Berlin 2019": {
+    "name": "Sticker | nexa (Foil) | Berlin 2019",
+    "nameId": 874743
+  },
+  "Sticker | huNter- | Berlin 2019": {
+    "name": "Sticker | huNter- | Berlin 2019",
+    "nameId": 874748
+  },
+  "Sticker | huNter- (Foil) | Berlin 2019": {
+    "name": "Sticker | huNter- (Foil) | Berlin 2019",
+    "nameId": 874572
+  },
+  "Sticker | huNter- (Gold) | Berlin 2019": {
+    "name": "Sticker | huNter- (Gold) | Berlin 2019",
+    "nameId": 891735
+  },
+  "Sticker | ottoNd | Berlin 2019": {
+    "name": "Sticker | ottoNd | Berlin 2019",
+    "nameId": 874786
+  },
+  "Sticker | ottoNd (Foil) | Berlin 2019": {
+    "name": "Sticker | ottoNd (Foil) | Berlin 2019",
+    "nameId": 874656
+  },
+  "Sticker | LETN1 | Berlin 2019": {
+    "name": "Sticker | LETN1 | Berlin 2019",
+    "nameId": 874820
+  },
+  "Sticker | LETN1 (Foil) | Berlin 2019": {
+    "name": "Sticker | LETN1 (Foil) | Berlin 2019",
+    "nameId": 874756
+  },
+  "Sticker | EspiranTo | Berlin 2019": {
+    "name": "Sticker | EspiranTo | Berlin 2019",
+    "nameId": 874782
+  },
+  "Sticker | EspiranTo (Foil) | Berlin 2019": {
+    "name": "Sticker | EspiranTo (Foil) | Berlin 2019",
+    "nameId": 874739
+  },
+  "Sticker | EspiranTo (Gold) | Berlin 2019": {
+    "name": "Sticker | EspiranTo (Gold) | Berlin 2019",
+    "nameId": 874943
+  },
+  "Sticker | t0rick | Berlin 2019": {
+    "name": "Sticker | t0rick | Berlin 2019",
+    "nameId": 874843
+  },
+  "Sticker | t0rick (Foil) | Berlin 2019": {
+    "name": "Sticker | t0rick (Foil) | Berlin 2019",
+    "nameId": 874723
+  },
+  "Sticker | neaLaN | Berlin 2019": {
+    "name": "Sticker | neaLaN | Berlin 2019",
+    "nameId": 874763
+  },
+  "Sticker | neaLaN (Foil) | Berlin 2019": {
+    "name": "Sticker | neaLaN (Foil) | Berlin 2019",
+    "nameId": 874815
+  },
+  "Sticker | Keoz | Berlin 2019": {
+    "name": "Sticker | Keoz | Berlin 2019",
+    "nameId": 874747
+  },
+  "Sticker | Keoz (Foil) | Berlin 2019": {
+    "name": "Sticker | Keoz (Foil) | Berlin 2019",
+    "nameId": 874740
+  },
+  "Sticker | Perfecto | Berlin 2019": {
+    "name": "Sticker | Perfecto | Berlin 2019",
+    "nameId": 874564
+  },
+  "Sticker | Perfecto (Foil) | Berlin 2019": {
+    "name": "Sticker | Perfecto (Foil) | Berlin 2019",
+    "nameId": 874793
+  },
+  "Sticker | gade | Berlin 2019": {
+    "name": "Sticker | gade | Berlin 2019",
+    "nameId": 874808
+  },
+  "Sticker | gade (Foil) | Berlin 2019": {
+    "name": "Sticker | gade (Foil) | Berlin 2019",
+    "nameId": 874641
+  },
+  "Sticker | Kjaerbye | Berlin 2019": {
+    "name": "Sticker | Kjaerbye | Berlin 2019",
+    "nameId": 874798
+  },
+  "Sticker | Kjaerbye (Foil) | Berlin 2019": {
+    "name": "Sticker | Kjaerbye (Foil) | Berlin 2019",
+    "nameId": 874728
+  },
+  "Sticker | JUGi | Berlin 2019": {
+    "name": "Sticker | JUGi | Berlin 2019",
+    "nameId": 874618
+  },
+  "Sticker | JUGi (Foil) | Berlin 2019": {
+    "name": "Sticker | JUGi (Foil) | Berlin 2019",
+    "nameId": 874847
+  },
+  "Sticker | aizy | Berlin 2019": {
+    "name": "Sticker | aizy | Berlin 2019",
+    "nameId": 874816
+  },
+  "Sticker | aizy (Foil) | Berlin 2019": {
+    "name": "Sticker | aizy (Foil) | Berlin 2019",
+    "nameId": 874890
+  },
+  "Sticker | aizy (Gold) | Berlin 2019": {
+    "name": "Sticker | aizy (Gold) | Berlin 2019",
+    "nameId": 1071643
+  },
+  "Sticker | v4lde | Berlin 2019": {
+    "name": "Sticker | v4lde | Berlin 2019",
+    "nameId": 874801
+  },
+  "Sticker | v4lde (Foil) | Berlin 2019": {
+    "name": "Sticker | v4lde (Foil) | Berlin 2019",
+    "nameId": 874720
+  },
+  "Sticker | svyat | Berlin 2019": {
+    "name": "Sticker | svyat | Berlin 2019",
+    "nameId": 874619
+  },
+  "Sticker | svyat (Foil) | Berlin 2019": {
+    "name": "Sticker | svyat (Foil) | Berlin 2019",
+    "nameId": 874818
+  },
+  "Sticker | kinqie | Berlin 2019": {
+    "name": "Sticker | kinqie | Berlin 2019",
+    "nameId": 874713
+  },
+  "Sticker | kinqie (Foil) | Berlin 2019": {
+    "name": "Sticker | kinqie (Foil) | Berlin 2019",
+    "nameId": 874841
+  },
+  "Sticker | kinqie (Gold) | Berlin 2019": {
+    "name": "Sticker | kinqie (Gold) | Berlin 2019",
+    "nameId": 875597
+  },
+  "Sticker | Forester | Berlin 2019": {
+    "name": "Sticker | Forester | Berlin 2019",
+    "nameId": 874657
+  },
+  "Sticker | Forester (Foil) | Berlin 2019": {
+    "name": "Sticker | Forester (Foil) | Berlin 2019",
+    "nameId": 874810
+  },
+  "Sticker | Krad | Berlin 2019": {
+    "name": "Sticker | Krad | Berlin 2019",
+    "nameId": 874644
+  },
+  "Sticker | Krad (Foil) | Berlin 2019": {
+    "name": "Sticker | Krad (Foil) | Berlin 2019",
+    "nameId": 874727
+  },
+  "Sticker | Krad (Gold) | Berlin 2019": {
+    "name": "Sticker | Krad (Gold) | Berlin 2019",
+    "nameId": 888253
+  },
+  "Sticker | speed4k (Foil) | Berlin 2019": {
+    "name": "Sticker | speed4k (Foil) | Berlin 2019",
+    "nameId": 874730
+  },
+  "Sticker | kNgV- | Berlin 2019": {
+    "name": "Sticker | kNgV- | Berlin 2019",
+    "nameId": 874701
+  },
+  "Sticker | kNgV- (Foil) | Berlin 2019": {
+    "name": "Sticker | kNgV- (Foil) | Berlin 2019",
+    "nameId": 874839
+  },
+  "Sticker | DeStiNy | Berlin 2019": {
+    "name": "Sticker | DeStiNy | Berlin 2019",
+    "nameId": 874683
+  },
+  "Sticker | DeStiNy (Foil) | Berlin 2019": {
+    "name": "Sticker | DeStiNy (Foil) | Berlin 2019",
+    "nameId": 874737
+  },
+  "Sticker | DeStiNy (Gold) | Berlin 2019": {
+    "name": "Sticker | DeStiNy (Gold) | Berlin 2019",
+    "nameId": 874983
+  },
+  "Sticker | yel | Berlin 2019": {
+    "name": "Sticker | yel | Berlin 2019",
+    "nameId": 874655
+  },
+  "Sticker | chelo | Berlin 2019": {
+    "name": "Sticker | chelo | Berlin 2019",
+    "nameId": 874647
+  },
+  "Sticker | xand | Berlin 2019": {
+    "name": "Sticker | xand | Berlin 2019",
+    "nameId": 874785
+  },
+  "Sticker | xand (Foil) | Berlin 2019": {
+    "name": "Sticker | xand (Foil) | Berlin 2019",
+    "nameId": 874751
+  },
+  "Sticker | Counter-Tech": {
+    "name": "Sticker | Counter-Tech",
+    "nameId": 1073871
+  },
+  "Sticker | Mastermind": {
+    "name": "Sticker | Mastermind",
+    "nameId": 1073861
+  },
+  "Sticker | Shattered Web": {
+    "name": "Sticker | Shattered Web",
+    "nameId": 1073873
+  },
+  "Sticker | Terrorist-Tech": {
+    "name": "Sticker | Terrorist-Tech",
+    "nameId": 1073860
+  },
+  "Sticker | Web Stuck": {
+    "name": "Sticker | Web Stuck",
+    "nameId": 1073877
+  },
+  "Sticker | Mastermind (Holo)": {
+    "name": "Sticker | Mastermind (Holo)",
+    "nameId": 1073879
+  },
+  "Sticker | Web Stuck (Holo)": {
+    "name": "Sticker | Web Stuck (Holo)",
+    "nameId": 1073909
+  },
+  "Sticker | Gold Web (Foil)": {
+    "name": "Sticker | Gold Web (Foil)",
+    "nameId": 1074056
+  },
+  "Sticker | CS20 Classic (Holo)": {
+    "name": "Sticker | CS20 Classic (Holo)",
+    "nameId": 1073097
+  },
+  "Sticker | Too Old for This": {
+    "name": "Sticker | Too Old for This",
+    "nameId": 1073093
+  },
+  "Sticker | Pixel Avenger": {
+    "name": "Sticker | Pixel Avenger",
+    "nameId": 1073102
+  },
+  "Sticker | Aztec": {
+    "name": "Sticker | Aztec",
+    "nameId": 1073108
+  },
+  "Sticker | Too Late": {
+    "name": "Sticker | Too Late",
+    "nameId": 1073099
+  },
+  "Sticker | Friend Code": {
+    "name": "Sticker | Friend Code",
+    "nameId": 1073100
+  },
+  "Sticker | Clutchman (Holo)": {
+    "name": "Sticker | Clutchman (Holo)",
+    "nameId": 1073101
+  },
+  "Sticker | All Hail the King (Foil)": {
+    "name": "Sticker | All Hail the King (Foil)",
+    "nameId": 1073103
+  },
+  "Sticker | Door Stuck (Foil)": {
+    "name": "Sticker | Door Stuck (Foil)",
+    "nameId": 1073114
+  },
+  "Sticker | Dragon Lore (Foil)": {
+    "name": "Sticker | Dragon Lore (Foil)",
+    "nameId": 1073098
+  },
+  "Sticker | Guinea Pig (Holo)": {
+    "name": "Sticker | Guinea Pig (Holo)",
+    "nameId": 1073104
   }
 }
