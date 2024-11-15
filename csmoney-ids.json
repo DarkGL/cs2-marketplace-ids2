@@ -31654,5 +31654,2005 @@
   "Sticker | bodyy | Katowice 2019": {
     "name": "Sticker | bodyy | Katowice 2019",
     "nameId": 194997
+  },
+  "StatTrak™ Galil AR | Chromatic Aberration (Field-Tested)": {
+    "name": "StatTrak™ Galil AR | Chromatic Aberration (Field-Tested)",
+    "nameId": 1085550
+  },
+  "StatTrak™ Galil AR | Chromatic Aberration (Well-Worn)": {
+    "name": "StatTrak™ Galil AR | Chromatic Aberration (Well-Worn)",
+    "nameId": 1085566
+  },
+  "StatTrak™ Galil AR | Chromatic Aberration (Battle-Scarred)": {
+    "name": "StatTrak™ Galil AR | Chromatic Aberration (Battle-Scarred)",
+    "nameId": 1085529
+  },
+  "Galil AR | CAUTION! (Factory New)": {
+    "name": "Galil AR | CAUTION! (Factory New)",
+    "nameId": 1087365
+  },
+  "Galil AR | CAUTION! (Minimal Wear)": {
+    "name": "Galil AR | CAUTION! (Minimal Wear)",
+    "nameId": 1087455
+  },
+  "UMP-45 | Fallout Warning (Battle-Scarred)": {
+    "name": "UMP-45 | Fallout Warning (Battle-Scarred)",
+    "nameId": 12741
+  },
+  "Souvenir UMP-45 | Fallout Warning (Factory New)": {
+    "name": "Souvenir UMP-45 | Fallout Warning (Factory New)",
+    "nameId": 21184
+  },
+  "Souvenir UMP-45 | Fallout Warning (Minimal Wear)": {
+    "name": "Souvenir UMP-45 | Fallout Warning (Minimal Wear)",
+    "nameId": 746
+  },
+  "Souvenir UMP-45 | Fallout Warning (Field-Tested)": {
+    "name": "Souvenir UMP-45 | Fallout Warning (Field-Tested)",
+    "nameId": 2653
+  },
+  "Souvenir UMP-45 | Fallout Warning (Well-Worn)": {
+    "name": "Souvenir UMP-45 | Fallout Warning (Well-Worn)",
+    "nameId": 7685
+  },
+  "Souvenir UMP-45 | Fallout Warning (Battle-Scarred)": {
+    "name": "Souvenir UMP-45 | Fallout Warning (Battle-Scarred)",
+    "nameId": 88
+  },
+  "UMP-45 | Scorched (Minimal Wear)": {
+    "name": "UMP-45 | Scorched (Minimal Wear)",
+    "nameId": 5759
+  },
+  "StatTrak™ Sawed-Off | Analog Input (Well-Worn)": {
+    "name": "StatTrak™ Sawed-Off | Analog Input (Well-Worn)",
+    "nameId": 2523211
+  },
+  "StatTrak™ Sawed-Off | Analog Input (Battle-Scarred)": {
+    "name": "StatTrak™ Sawed-Off | Analog Input (Battle-Scarred)",
+    "nameId": 2523209
+  },
+  "Tec-9 | Groundwater (Factory New)": {
+    "name": "Tec-9 | Groundwater (Factory New)",
+    "nameId": 14450
+  },
+  "Tec-9 | Groundwater (Minimal Wear)": {
+    "name": "Tec-9 | Groundwater (Minimal Wear)",
+    "nameId": 2522
+  },
+  "Tec-9 | Groundwater (Field-Tested)": {
+    "name": "Tec-9 | Groundwater (Field-Tested)",
+    "nameId": 628
+  },
+  "Tec-9 | Groundwater (Well-Worn)": {
+    "name": "Tec-9 | Groundwater (Well-Worn)",
+    "nameId": 5731
+  },
+  "Tec-9 | Groundwater (Battle-Scarred)": {
+    "name": "Tec-9 | Groundwater (Battle-Scarred)",
+    "nameId": 2893
+  },
+  "Souvenir Tec-9 | Groundwater (Field-Tested)": {
+    "name": "Souvenir Tec-9 | Groundwater (Field-Tested)",
+    "nameId": 15758
+  },
+  "P250 | Cartel (Well-Worn)": {
+    "name": "P250 | Cartel (Well-Worn)",
+    "nameId": 12793
+  },
+  "P250 | Cartel (Battle-Scarred)": {
+    "name": "P250 | Cartel (Battle-Scarred)",
+    "nameId": 12185
+  },
+  "StatTrak™ P250 | Cartel (Factory New)": {
+    "name": "StatTrak™ P250 | Cartel (Factory New)",
+    "nameId": 3471
+  },
+  "StatTrak™ P250 | Cartel (Minimal Wear)": {
+    "name": "StatTrak™ P250 | Cartel (Minimal Wear)",
+    "nameId": 1705
+  },
+  "StatTrak™ P250 | Cartel (Field-Tested)": {
+    "name": "StatTrak™ P250 | Cartel (Field-Tested)",
+    "nameId": 1749
+  },
+  "P250 | Muertos (Factory New)": {
+    "name": "P250 | Muertos (Factory New)",
+    "nameId": 1315
+  },
+  "USP-S | Blood Tiger (Factory New)": {
+    "name": "USP-S | Blood Tiger (Factory New)",
+    "nameId": 1426
+  },
+  "USP-S | Blood Tiger (Minimal Wear)": {
+    "name": "USP-S | Blood Tiger (Minimal Wear)",
+    "nameId": 8484
+  },
+  "USP-S | Blood Tiger (Field-Tested)": {
+    "name": "USP-S | Blood Tiger (Field-Tested)",
+    "nameId": 4923
+  },
+  "StatTrak™ USP-S | Blood Tiger (Factory New)": {
+    "name": "StatTrak™ USP-S | Blood Tiger (Factory New)",
+    "nameId": 12924
+  },
+  "StatTrak™ USP-S | Blood Tiger (Minimal Wear)": {
+    "name": "StatTrak™ USP-S | Blood Tiger (Minimal Wear)",
+    "nameId": 1080
+  },
+  "StatTrak™ USP-S | Blood Tiger (Field-Tested)": {
+    "name": "StatTrak™ USP-S | Blood Tiger (Field-Tested)",
+    "nameId": 2696
+  },
+  "USP-S | Serum (Factory New)": {
+    "name": "USP-S | Serum (Factory New)",
+    "nameId": 7712
+  },
+  "USP-S | Serum (Minimal Wear)": {
+    "name": "USP-S | Serum (Minimal Wear)",
+    "nameId": 9305
+  },
+  "USP-S | Serum (Field-Tested)": {
+    "name": "USP-S | Serum (Field-Tested)",
+    "nameId": 12136
+  },
+  "StatTrak™ USP-S | Serum (Factory New)": {
+    "name": "StatTrak™ USP-S | Serum (Factory New)",
+    "nameId": 3427
+  },
+  "StatTrak™ USP-S | Serum (Minimal Wear)": {
+    "name": "StatTrak™ USP-S | Serum (Minimal Wear)",
+    "nameId": 7153
+  },
+  "★ StatTrak™ Gut Knife | Slaughter (Minimal Wear)": {
+    "name": "★ StatTrak™ Gut Knife | Slaughter (Minimal Wear)",
+    "nameId": 20303
+  },
+  "★ Gut Knife | Safari Mesh (Minimal Wear)": {
+    "name": "★ Gut Knife | Safari Mesh (Minimal Wear)",
+    "nameId": 19129
+  },
+  "★ Gut Knife | Safari Mesh (Field-Tested)": {
+    "name": "★ Gut Knife | Safari Mesh (Field-Tested)",
+    "nameId": 5749
+  },
+  "★ Butterfly Knife | Case Hardened (Factory New)": {
+    "name": "★ Butterfly Knife | Case Hardened (Factory New)",
+    "nameId": 19881
+  },
+  "★ Butterfly Knife | Case Hardened (Minimal Wear)": {
+    "name": "★ Butterfly Knife | Case Hardened (Minimal Wear)",
+    "nameId": 3484
+  },
+  "★ Butterfly Knife | Case Hardened (Field-Tested)": {
+    "name": "★ Butterfly Knife | Case Hardened (Field-Tested)",
+    "nameId": 12852
+  },
+  "★ Butterfly Knife | Case Hardened (Well-Worn)": {
+    "name": "★ Butterfly Knife | Case Hardened (Well-Worn)",
+    "nameId": 12808
+  },
+  "★ Butterfly Knife | Case Hardened (Battle-Scarred)": {
+    "name": "★ Butterfly Knife | Case Hardened (Battle-Scarred)",
+    "nameId": 10509
+  },
+  "★ Talon Knife | Night Stripe (Well-Worn)": {
+    "name": "★ Talon Knife | Night Stripe (Well-Worn)",
+    "nameId": 38720
+  },
+  "★ Talon Knife | Night Stripe (Battle-Scarred)": {
+    "name": "★ Talon Knife | Night Stripe (Battle-Scarred)",
+    "nameId": 39056
+  },
+  "Sticker | electronic | Krakow 2017": {
+    "name": "Sticker | electronic | Krakow 2017",
+    "nameId": 8505
+  },
+  "Sticker | electronic (Foil) | Krakow 2017": {
+    "name": "Sticker | electronic (Foil) | Krakow 2017",
+    "nameId": 9526
+  },
+  "Sticker | electronic (Gold) | Krakow 2017": {
+    "name": "Sticker | electronic (Gold) | Krakow 2017",
+    "nameId": 20322
+  },
+  "Sticker | markeloff | Krakow 2017": {
+    "name": "Sticker | markeloff | Krakow 2017",
+    "nameId": 2470
+  },
+  "Sticker | markeloff (Foil) | Krakow 2017": {
+    "name": "Sticker | markeloff (Foil) | Krakow 2017",
+    "nameId": 18066
+  },
+  "Sticker | wayLander | Krakow 2017": {
+    "name": "Sticker | wayLander | Krakow 2017",
+    "nameId": 9215
+  },
+  "Sticker | WorldEdit | Krakow 2017": {
+    "name": "Sticker | WorldEdit | Krakow 2017",
+    "nameId": 1567
+  },
+  "Sticker | WorldEdit (Foil) | Krakow 2017": {
+    "name": "Sticker | WorldEdit (Foil) | Krakow 2017",
+    "nameId": 9524
+  },
+  "Sticker | WorldEdit (Gold) | Krakow 2017": {
+    "name": "Sticker | WorldEdit (Gold) | Krakow 2017",
+    "nameId": 21845
+  },
+  "Sticker | boltz | Krakow 2017": {
+    "name": "Sticker | boltz | Krakow 2017",
+    "nameId": 3930
+  },
+  "Sticker | HEN1 | Krakow 2017": {
+    "name": "Sticker | HEN1 | Krakow 2017",
+    "nameId": 8515
+  },
+  "Sticker | HEN1 (Foil) | Krakow 2017": {
+    "name": "Sticker | HEN1 (Foil) | Krakow 2017",
+    "nameId": 12297
+  },
+  "Sticker | kNgV- | Krakow 2017": {
+    "name": "Sticker | kNgV- | Krakow 2017",
+    "nameId": 8573
+  },
+  "Sticker | kNgV- (Foil) | Krakow 2017": {
+    "name": "Sticker | kNgV- (Foil) | Krakow 2017",
+    "nameId": 3910
+  },
+  "Sticker | LUCAS1 | Krakow 2017": {
+    "name": "Sticker | LUCAS1 | Krakow 2017",
+    "nameId": 288
+  },
+  "Sticker | LUCAS1 (Foil) | Krakow 2017": {
+    "name": "Sticker | LUCAS1 (Foil) | Krakow 2017",
+    "nameId": 586
+  },
+  "Sticker | steel | Krakow 2017": {
+    "name": "Sticker | steel | Krakow 2017",
+    "nameId": 9615
+  },
+  "Sticker | steel (Foil) | Krakow 2017": {
+    "name": "Sticker | steel (Foil) | Krakow 2017",
+    "nameId": 3310
+  },
+  "Sticker | chopper | Krakow 2017": {
+    "name": "Sticker | chopper | Krakow 2017",
+    "nameId": 9555
+  },
+  "Sticker | chopper (Foil) | Krakow 2017": {
+    "name": "Sticker | chopper (Foil) | Krakow 2017",
+    "nameId": 4856
+  },
+  "Sticker | hutji | Krakow 2017": {
+    "name": "Sticker | hutji | Krakow 2017",
+    "nameId": 16276
+  },
+  "Sticker | hutji (Foil) | Krakow 2017": {
+    "name": "Sticker | hutji (Foil) | Krakow 2017",
+    "nameId": 14968
+  },
+  "Sticker | jR | Krakow 2017": {
+    "name": "Sticker | jR | Krakow 2017",
+    "nameId": 8559
+  },
+  "Sticker | jR (Gold) | Krakow 2017": {
+    "name": "Sticker | jR (Gold) | Krakow 2017",
+    "nameId": 19607
+  },
+  "Sticker | keshandr | Krakow 2017": {
+    "name": "Sticker | keshandr | Krakow 2017",
+    "nameId": 3074
+  },
+  "Sticker | keshandr (Foil) | Krakow 2017": {
+    "name": "Sticker | keshandr (Foil) | Krakow 2017",
+    "nameId": 345
+  },
+  "Sticker | mir | Krakow 2017": {
+    "name": "Sticker | mir | Krakow 2017",
+    "nameId": 4762
+  },
+  "Sticker | mir (Foil) | Krakow 2017": {
+    "name": "Sticker | mir (Foil) | Krakow 2017",
+    "nameId": 3259
+  },
+  "Sticker | Water Gun": {
+    "name": "Sticker | Water Gun",
+    "nameId": 12909
+  },
+  "Sticker | Cheongsam": {
+    "name": "Sticker | Cheongsam",
+    "nameId": 3574
+  },
+  "Sticker | Cheongsam (Holo)": {
+    "name": "Sticker | Cheongsam (Holo)",
+    "nameId": 13704
+  },
+  "Sticker | Fancy Koi": {
+    "name": "Sticker | Fancy Koi",
+    "nameId": 14299
+  },
+  "Sticker | Fancy Koi (Foil)": {
+    "name": "Sticker | Fancy Koi (Foil)",
+    "nameId": 2678
+  },
+  "Sticker | Guardian Dragon": {
+    "name": "Sticker | Guardian Dragon",
+    "nameId": 10535
+  },
+  "Sticker | Guardian Dragon (Foil)": {
+    "name": "Sticker | Guardian Dragon (Foil)",
+    "nameId": 7627
+  },
+  "Sticker | Hotpot": {
+    "name": "Sticker | Hotpot",
+    "nameId": 2366
+  },
+  "Sticker | Noodles": {
+    "name": "Sticker | Noodles",
+    "nameId": 2988
+  },
+  "Sticker | Rice Bomb": {
+    "name": "Sticker | Rice Bomb",
+    "nameId": 9690
+  },
+  "Sticker | Terror Rice": {
+    "name": "Sticker | Terror Rice",
+    "nameId": 3326
+  },
+  "Sticker | Mahjong Fa": {
+    "name": "Sticker | Mahjong Fa",
+    "nameId": 13702
+  },
+  "Sticker | Mahjong Rooster": {
+    "name": "Sticker | Mahjong Rooster",
+    "nameId": 18287
+  },
+  "Sticker | Mahjong Zhong": {
+    "name": "Sticker | Mahjong Zhong",
+    "nameId": 14447
+  },
+  "Sticker | Toy Tiger": {
+    "name": "Sticker | Toy Tiger",
+    "nameId": 14301
+  },
+  "Sticker | God of Fortune": {
+    "name": "Sticker | God of Fortune",
+    "nameId": 9516
+  },
+  "Sticker | Huaji": {
+    "name": "Sticker | Huaji",
+    "nameId": 2958
+  },
+  "Sticker | Nezha": {
+    "name": "Sticker | Nezha",
+    "nameId": 3228
+  },
+  "Sticker | Longevity": {
+    "name": "Sticker | Longevity",
+    "nameId": 15829
+  },
+  "Sticker | Longevity (Foil)": {
+    "name": "Sticker | Longevity (Foil)",
+    "nameId": 7693
+  },
+  "Sticker | Non-Veg": {
+    "name": "Sticker | Non-Veg",
+    "nameId": 3270
+  },
+  "Sticker | Pixiu": {
+    "name": "Sticker | Pixiu",
+    "nameId": 17051
+  },
+  "Sticker | Twin Koi": {
+    "name": "Sticker | Twin Koi",
+    "nameId": 13669
+  },
+  "Sticker | Twin Koi (Holo)": {
+    "name": "Sticker | Twin Koi (Holo)",
+    "nameId": 14682
+  },
+  "Sticker | Shaolin": {
+    "name": "Sticker | Shaolin",
+    "nameId": 603
+  },
+  "Sticker | Green Swallow": {
+    "name": "Sticker | Green Swallow",
+    "nameId": 15701
+  },
+  "Sticker | Blue Swallow": {
+    "name": "Sticker | Blue Swallow",
+    "nameId": 18667
+  },
+  "Sticker | Zombie Hop": {
+    "name": "Sticker | Zombie Hop",
+    "nameId": 12911
+  },
+  "Sticker | Gambit Esports | Boston 2018": {
+    "name": "Sticker | Gambit Esports | Boston 2018",
+    "nameId": 3046
+  },
+  "Sticker | Gambit Esports (Holo) | Boston 2018": {
+    "name": "Sticker | Gambit Esports (Holo) | Boston 2018",
+    "nameId": 2225
+  },
+  "Sticker | Gambit Esports (Foil) | Boston 2018": {
+    "name": "Sticker | Gambit Esports (Foil) | Boston 2018",
+    "nameId": 7675
+  },
+  "Sticker | 100 Thieves | Boston 2018": {
+    "name": "Sticker | 100 Thieves | Boston 2018",
+    "nameId": 1388
+  },
+  "Sticker | 100 Thieves (Holo) | Boston 2018": {
+    "name": "Sticker | 100 Thieves (Holo) | Boston 2018",
+    "nameId": 10460
+  },
+  "Sticker | 100 Thieves (Foil) | Boston 2018": {
+    "name": "Sticker | 100 Thieves (Foil) | Boston 2018",
+    "nameId": 19842
+  },
+  "Sticker | Astralis | Boston 2018": {
+    "name": "Sticker | Astralis | Boston 2018",
+    "nameId": 407
+  },
+  "Sticker | Astralis (Holo) | Boston 2018": {
+    "name": "Sticker | Astralis (Holo) | Boston 2018",
+    "nameId": 4876
+  },
+  "Sticker | Astralis (Foil) | Boston 2018": {
+    "name": "Sticker | Astralis (Foil) | Boston 2018",
+    "nameId": 10386
+  },
+  "Sticker | Virtus.Pro | Boston 2018": {
+    "name": "Sticker | Virtus.Pro | Boston 2018",
+    "nameId": 2276
+  },
+  "Sticker | Virtus.Pro (Foil) | Boston 2018": {
+    "name": "Sticker | Virtus.Pro (Foil) | Boston 2018",
+    "nameId": 11076
+  },
+  "Sticker | Fnatic | Boston 2018": {
+    "name": "Sticker | Fnatic | Boston 2018",
+    "nameId": 3784
+  },
+  "Sticker | Fnatic (Holo) | Boston 2018": {
+    "name": "Sticker | Fnatic (Holo) | Boston 2018",
+    "nameId": 4955
+  },
+  "Sticker | Fnatic (Foil) | Boston 2018": {
+    "name": "Sticker | Fnatic (Foil) | Boston 2018",
+    "nameId": 9629
+  },
+  "Sticker | SK Gaming | Boston 2018": {
+    "name": "Sticker | SK Gaming | Boston 2018",
+    "nameId": 3795
+  },
+  "Sticker | SK Gaming (Foil) | Boston 2018": {
+    "name": "Sticker | SK Gaming (Foil) | Boston 2018",
+    "nameId": 3277
+  },
+  "Sticker | BIG | Boston 2018": {
+    "name": "Sticker | BIG | Boston 2018",
+    "nameId": 3676
+  },
+  "Sticker | BIG (Holo) | Boston 2018": {
+    "name": "Sticker | BIG (Holo) | Boston 2018",
+    "nameId": 8586
+  },
+  "Sticker | North | Boston 2018": {
+    "name": "Sticker | North | Boston 2018",
+    "nameId": 3652
+  },
+  "Sticker | North (Holo) | Boston 2018": {
+    "name": "Sticker | North (Holo) | Boston 2018",
+    "nameId": 1109
+  },
+  "Sticker | North (Foil) | Boston 2018": {
+    "name": "Sticker | North (Foil) | Boston 2018",
+    "nameId": 2694
+  },
+  "Sticker | G2 Esports | Boston 2018": {
+    "name": "Sticker | G2 Esports | Boston 2018",
+    "nameId": 1100
+  },
+  "Sticker | G2 Esports (Holo) | Boston 2018": {
+    "name": "Sticker | G2 Esports (Holo) | Boston 2018",
+    "nameId": 1223
+  },
+  "Sticker | G2 Esports (Foil) | Boston 2018": {
+    "name": "Sticker | G2 Esports (Foil) | Boston 2018",
+    "nameId": 8517
+  },
+  "Sticker | Cloud9 | Boston 2018": {
+    "name": "Sticker | Cloud9 | Boston 2018",
+    "nameId": 2269
+  },
+  "Sticker | Cloud9 (Holo) | Boston 2018": {
+    "name": "Sticker | Cloud9 (Holo) | Boston 2018",
+    "nameId": 3191
+  },
+  "Sticker | Cloud9 (Foil) | Boston 2018": {
+    "name": "Sticker | Cloud9 (Foil) | Boston 2018",
+    "nameId": 12651
+  },
+  "Sticker | Flipsid3 Tactics | Boston 2018": {
+    "name": "Sticker | Flipsid3 Tactics | Boston 2018",
+    "nameId": 3615
+  },
+  "Sticker | Flipsid3 Tactics (Holo) | Boston 2018": {
+    "name": "Sticker | Flipsid3 Tactics (Holo) | Boston 2018",
+    "nameId": 3914
+  },
+  "Sticker | Flipsid3 Tactics (Foil) | Boston 2018": {
+    "name": "Sticker | Flipsid3 Tactics (Foil) | Boston 2018",
+    "nameId": 145
+  },
+  "Sticker | Natus Vincere | Boston 2018": {
+    "name": "Sticker | Natus Vincere | Boston 2018",
+    "nameId": 3113
+  },
+  "Sticker | Natus Vincere (Holo) | Boston 2018": {
+    "name": "Sticker | Natus Vincere (Holo) | Boston 2018",
+    "nameId": 1117
+  },
+  "Sticker | Natus Vincere (Foil) | Boston 2018": {
+    "name": "Sticker | Natus Vincere (Foil) | Boston 2018",
+    "nameId": 7365
+  },
+  "Sticker | mousesports | Boston 2018": {
+    "name": "Sticker | mousesports | Boston 2018",
+    "nameId": 2256
+  },
+  "Sticker | mousesports (Holo) | Boston 2018": {
+    "name": "Sticker | mousesports (Holo) | Boston 2018",
+    "nameId": 8774
+  },
+  "Sticker | Sprout Esports | Boston 2018": {
+    "name": "Sticker | Sprout Esports | Boston 2018",
+    "nameId": 1555
+  },
+  "Sticker | Sprout Esports (Holo) | Boston 2018": {
+    "name": "Sticker | Sprout Esports (Holo) | Boston 2018",
+    "nameId": 1478
+  },
+  "Sticker | ropz (Foil) | Boston 2018": {
+    "name": "Sticker | ropz (Foil) | Boston 2018",
+    "nameId": 8581
+  },
+  "Sticker | The MongolZ (Holo) | Paris 2023": {
+    "name": "Sticker | The MongolZ (Holo) | Paris 2023",
+    "nameId": 1321805
+  },
+  "Sticker | The MongolZ (Gold) | Paris 2023": {
+    "name": "Sticker | The MongolZ (Gold) | Paris 2023",
+    "nameId": 1322038
+  },
+  "Sticker | BLAST.tv (Glitter) | Paris 2023": {
+    "name": "Sticker | BLAST.tv (Glitter) | Paris 2023",
+    "nameId": 1321656
+  },
+  "Sticker | BLAST.tv (Holo) | Paris 2023": {
+    "name": "Sticker | BLAST.tv (Holo) | Paris 2023",
+    "nameId": 1321699
+  },
+  "Sticker | BLAST.tv (Gold) | Paris 2023": {
+    "name": "Sticker | BLAST.tv (Gold) | Paris 2023",
+    "nameId": 1321698
+  },
+  "Sticker | FASHR | Paris 2023": {
+    "name": "Sticker | FASHR | Paris 2023",
+    "nameId": 1321714
+  },
+  "Sticker | FASHR (Glitter) | Paris 2023": {
+    "name": "Sticker | FASHR (Glitter) | Paris 2023",
+    "nameId": 1321682
+  },
+  "Sticker | FASHR (Holo) | Paris 2023": {
+    "name": "Sticker | FASHR (Holo) | Paris 2023",
+    "nameId": 1322111
+  },
+  "Sticker | FASHR (Gold) | Paris 2023": {
+    "name": "Sticker | FASHR (Gold) | Paris 2023",
+    "nameId": 1322579
+  },
+  "Sticker | KRIMZ | Paris 2023": {
+    "name": "Sticker | KRIMZ | Paris 2023",
+    "nameId": 1321675
+  },
+  "Sticker | KRIMZ (Glitter) | Paris 2023": {
+    "name": "Sticker | KRIMZ (Glitter) | Paris 2023",
+    "nameId": 1322063
+  },
+  "Sticker | KRIMZ (Holo) | Paris 2023": {
+    "name": "Sticker | KRIMZ (Holo) | Paris 2023",
+    "nameId": 1322086
+  },
+  "Sticker | KRIMZ (Gold) | Paris 2023": {
+    "name": "Sticker | KRIMZ (Gold) | Paris 2023",
+    "nameId": 1321892
+  },
+  "Sticker | mezii | Paris 2023": {
+    "name": "Sticker | mezii | Paris 2023",
+    "nameId": 1321726
+  },
+  "Sticker | mezii (Glitter) | Paris 2023": {
+    "name": "Sticker | mezii (Glitter) | Paris 2023",
+    "nameId": 1321960
+  },
+  "Sticker | mezii (Holo) | Paris 2023": {
+    "name": "Sticker | mezii (Holo) | Paris 2023",
+    "nameId": 1322011
+  },
+  "Sticker | mezii (Gold) | Paris 2023": {
+    "name": "Sticker | mezii (Gold) | Paris 2023",
+    "nameId": 1322698
+  },
+  "Sticker | nicoodoz | Paris 2023": {
+    "name": "Sticker | nicoodoz | Paris 2023",
+    "nameId": 1321748
+  },
+  "Sticker | nicoodoz (Glitter) | Paris 2023": {
+    "name": "Sticker | nicoodoz (Glitter) | Paris 2023",
+    "nameId": 1321835
+  },
+  "Sticker | nicoodoz (Holo) | Paris 2023": {
+    "name": "Sticker | nicoodoz (Holo) | Paris 2023",
+    "nameId": 1322075
+  },
+  "Sticker | nicoodoz (Gold) | Paris 2023": {
+    "name": "Sticker | nicoodoz (Gold) | Paris 2023",
+    "nameId": 1322583
+  },
+  "Sticker | roeJ | Paris 2023": {
+    "name": "Sticker | roeJ | Paris 2023",
+    "nameId": 1321778
+  },
+  "Sticker | roeJ (Glitter) | Paris 2023": {
+    "name": "Sticker | roeJ (Glitter) | Paris 2023",
+    "nameId": 1321946
+  },
+  "Sticker | roeJ (Holo) | Paris 2023": {
+    "name": "Sticker | roeJ (Holo) | Paris 2023",
+    "nameId": 1322151
+  },
+  "Sticker | roeJ (Gold) | Paris 2023": {
+    "name": "Sticker | roeJ (Gold) | Paris 2023",
+    "nameId": 1327677
+  },
+  "Sticker | b1t | Paris 2023": {
+    "name": "Sticker | b1t | Paris 2023",
+    "nameId": 1321713
+  },
+  "Sticker | b1t (Glitter) | Paris 2023": {
+    "name": "Sticker | b1t (Glitter) | Paris 2023",
+    "nameId": 1321735
+  },
+  "Sticker | b1t (Holo) | Paris 2023": {
+    "name": "Sticker | b1t (Holo) | Paris 2023",
+    "nameId": 1322166
+  },
+  "Sticker | b1t (Gold) | Paris 2023": {
+    "name": "Sticker | b1t (Gold) | Paris 2023",
+    "nameId": 1322598
+  },
+  "Sticker | electronic | Paris 2023": {
+    "name": "Sticker | electronic | Paris 2023",
+    "nameId": 1321728
+  },
+  "Sticker | electronic (Holo) | Paris 2023": {
+    "name": "Sticker | electronic (Holo) | Paris 2023",
+    "nameId": 1322184
+  },
+  "Sticker | dupreeh (Glitter) | Paris 2023": {
+    "name": "Sticker | dupreeh (Glitter) | Paris 2023",
+    "nameId": 1321776
+  },
+  "Sticker | CRUC1AL (Glitter) | Paris 2023": {
+    "name": "Sticker | CRUC1AL (Glitter) | Paris 2023",
+    "nameId": 1323098
+  },
+  "Sticker | Brollan (Glitter) | Paris 2023": {
+    "name": "Sticker | Brollan (Glitter) | Paris 2023",
+    "nameId": 1321951
+  },
+  "Sticker | Krad (Gold) | Paris 2023": {
+    "name": "Sticker | Krad (Gold) | Paris 2023",
+    "nameId": 1321847
+  },
+  "Sticker | r3salt | Paris 2023": {
+    "name": "Sticker | r3salt | Paris 2023",
+    "nameId": 1321858
+  },
+  "Sticker | r3salt (Holo) | Paris 2023": {
+    "name": "Sticker | r3salt (Holo) | Paris 2023",
+    "nameId": 1322105
+  },
+  "Sticker | r3salt (Gold) | Paris 2023": {
+    "name": "Sticker | r3salt (Gold) | Paris 2023",
+    "nameId": 1323320
+  },
+  "Sticker | shalfey | Paris 2023": {
+    "name": "Sticker | shalfey | Paris 2023",
+    "nameId": 1321836
+  },
+  "Sticker | shalfey (Glitter) | Paris 2023": {
+    "name": "Sticker | shalfey (Glitter) | Paris 2023",
+    "nameId": 1322048
+  },
+  "Sticker | shalfey (Holo) | Paris 2023": {
+    "name": "Sticker | shalfey (Holo) | Paris 2023",
+    "nameId": 1322034
+  },
+  "Sticker | shalfey (Gold) | Paris 2023": {
+    "name": "Sticker | shalfey (Gold) | Paris 2023",
+    "nameId": 1322243
+  },
+  "Sticker | zorte | Paris 2023": {
+    "name": "Sticker | zorte | Paris 2023",
+    "nameId": 1321857
+  },
+  "Sticker | zorte (Glitter) | Paris 2023": {
+    "name": "Sticker | zorte (Glitter) | Paris 2023",
+    "nameId": 1321829
+  },
+  "Sticker | zorte (Holo) | Paris 2023": {
+    "name": "Sticker | zorte (Holo) | Paris 2023",
+    "nameId": 1322585
+  },
+  "Sticker | zorte (Gold) | Paris 2023": {
+    "name": "Sticker | zorte (Gold) | Paris 2023",
+    "nameId": 1322032
+  },
+  "Sticker | degster | Paris 2023": {
+    "name": "Sticker | degster | Paris 2023",
+    "nameId": 1321927
+  },
+  "Sticker | degster (Glitter) | Paris 2023": {
+    "name": "Sticker | degster (Glitter) | Paris 2023",
+    "nameId": 1322033
+  },
+  "Sticker | degster (Holo) | Paris 2023": {
+    "name": "Sticker | degster (Holo) | Paris 2023",
+    "nameId": 1322108
+  },
+  "Sticker | degster (Gold) | Paris 2023": {
+    "name": "Sticker | degster (Gold) | Paris 2023",
+    "nameId": 1322085
+  },
+  "Sticker | F1KU | Paris 2023": {
+    "name": "Sticker | F1KU | Paris 2023",
+    "nameId": 1321765
+  },
+  "Sticker | F1KU (Glitter) | Paris 2023": {
+    "name": "Sticker | F1KU (Glitter) | Paris 2023",
+    "nameId": 1322030
+  },
+  "Sticker | F1KU (Holo) | Paris 2023": {
+    "name": "Sticker | F1KU (Holo) | Paris 2023",
+    "nameId": 1322202
+  },
+  "Sticker | F1KU (Gold) | Paris 2023": {
+    "name": "Sticker | F1KU (Gold) | Paris 2023",
+    "nameId": 1322902
+  },
+  "Sticker | FlameZ | Paris 2023": {
+    "name": "Sticker | FlameZ | Paris 2023",
+    "nameId": 1321822
+  },
+  "Sticker | FlameZ (Glitter) | Paris 2023": {
+    "name": "Sticker | FlameZ (Glitter) | Paris 2023",
+    "nameId": 1321812
+  },
+  "Sticker | FlameZ (Holo) | Paris 2023": {
+    "name": "Sticker | FlameZ (Holo) | Paris 2023",
+    "nameId": 1322088
+  },
+  "Sticker | FlameZ (Gold) | Paris 2023": {
+    "name": "Sticker | FlameZ (Gold) | Paris 2023",
+    "nameId": 1322212
+  },
+  "Sticker | NEOFRAG | Paris 2023": {
+    "name": "Sticker | NEOFRAG | Paris 2023",
+    "nameId": 1321792
+  },
+  "Sticker | NEOFRAG (Glitter) | Paris 2023": {
+    "name": "Sticker | NEOFRAG (Glitter) | Paris 2023",
+    "nameId": 1322087
+  },
+  "Sticker | NEOFRAG (Holo) | Paris 2023": {
+    "name": "Sticker | NEOFRAG (Holo) | Paris 2023",
+    "nameId": 1322248
+  },
+  "Sticker | NEOFRAG (Gold) | Paris 2023": {
+    "name": "Sticker | NEOFRAG (Gold) | Paris 2023",
+    "nameId": 1322586
+  },
+  "Sticker | niko  | Paris 2023": {
+    "name": "Sticker | niko  | Paris 2023",
+    "nameId": 1321709
+  },
+  "Sticker | niko (Glitter)  | Paris 2023": {
+    "name": "Sticker | niko (Glitter)  | Paris 2023",
+    "nameId": 1321961
+  },
+  "Sticker | niko (Holo)  | Paris 2023": {
+    "name": "Sticker | niko (Holo)  | Paris 2023",
+    "nameId": 1322175
+  },
+  "Sticker | niko (Gold)  | Paris 2023": {
+    "name": "Sticker | niko (Gold)  | Paris 2023",
+    "nameId": 1322090
+  },
+  "Sticker | biguzera | Paris 2023": {
+    "name": "Sticker | biguzera | Paris 2023",
+    "nameId": 1321861
+  },
+  "Sticker | biguzera (Glitter) | Paris 2023": {
+    "name": "Sticker | biguzera (Glitter) | Paris 2023",
+    "nameId": 1321828
+  },
+  "Sticker | biguzera (Holo) | Paris 2023": {
+    "name": "Sticker | biguzera (Holo) | Paris 2023",
+    "nameId": 1321859
+  },
+  "Sticker | biguzera (Gold) | Paris 2023": {
+    "name": "Sticker | biguzera (Gold) | Paris 2023",
+    "nameId": 1322244
+  },
+  "Sticker | hardzao | Paris 2023": {
+    "name": "Sticker | hardzao | Paris 2023",
+    "nameId": 1321868
+  },
+  "Sticker | hardzao (Glitter) | Paris 2023": {
+    "name": "Sticker | hardzao (Glitter) | Paris 2023",
+    "nameId": 1322095
+  },
+  "Sticker | hardzao (Holo) | Paris 2023": {
+    "name": "Sticker | hardzao (Holo) | Paris 2023",
+    "nameId": 1322014
+  },
+  "Sticker | hardzao (Gold) | Paris 2023": {
+    "name": "Sticker | hardzao (Gold) | Paris 2023",
+    "nameId": 1322716
+  },
+  "Sticker | NEKiZ | Paris 2023": {
+    "name": "Sticker | NEKiZ | Paris 2023",
+    "nameId": 1321834
+  },
+  "Sticker | NEKiZ (Glitter) | Paris 2023": {
+    "name": "Sticker | NEKiZ (Glitter) | Paris 2023",
+    "nameId": 1321856
+  },
+  "Sticker | NEKiZ (Holo) | Paris 2023": {
+    "name": "Sticker | NEKiZ (Holo) | Paris 2023",
+    "nameId": 1321998
+  },
+  "Sticker | NEKiZ (Gold) | Paris 2023": {
+    "name": "Sticker | NEKiZ (Gold) | Paris 2023",
+    "nameId": 1322096
+  },
+  "Sticker | skullz | Paris 2023": {
+    "name": "Sticker | skullz | Paris 2023",
+    "nameId": 1321837
+  },
+  "Sticker | skullz (Glitter) | Paris 2023": {
+    "name": "Sticker | skullz (Glitter) | Paris 2023",
+    "nameId": 1321935
+  },
+  "Sticker | skullz (Holo) | Paris 2023": {
+    "name": "Sticker | skullz (Holo) | Paris 2023",
+    "nameId": 1322091
+  },
+  "Sticker | skullz (Gold) | Paris 2023": {
+    "name": "Sticker | skullz (Gold) | Paris 2023",
+    "nameId": 1322126
+  },
+  "Sticker | zevy | Paris 2023": {
+    "name": "Sticker | zevy | Paris 2023",
+    "nameId": 1321793
+  },
+  "Sticker | zevy (Glitter) | Paris 2023": {
+    "name": "Sticker | zevy (Glitter) | Paris 2023",
+    "nameId": 1321827
+  },
+  "Sticker | zevy (Holo) | Paris 2023": {
+    "name": "Sticker | zevy (Holo) | Paris 2023",
+    "nameId": 1322361
+  },
+  "Sticker | zevy (Gold) | Paris 2023": {
+    "name": "Sticker | zevy (Gold) | Paris 2023",
+    "nameId": 1322124
+  },
+  "Sticker | acoR | Paris 2023": {
+    "name": "Sticker | acoR | Paris 2023",
+    "nameId": 1321944
+  },
+  "Sticker | acoR (Glitter) | Paris 2023": {
+    "name": "Sticker | acoR (Glitter) | Paris 2023",
+    "nameId": 1321955
+  },
+  "Sticker | acoR (Holo) | Paris 2023": {
+    "name": "Sticker | acoR (Holo) | Paris 2023",
+    "nameId": 1321995
+  },
+  "Sticker | acoR (Gold) | Paris 2023": {
+    "name": "Sticker | acoR (Gold) | Paris 2023",
+    "nameId": 1334420
+  },
+  "Sticker | iM | Paris 2023": {
+    "name": "Sticker | iM | Paris 2023",
+    "nameId": 1321815
+  },
+  "Sticker | iM (Holo) | Paris 2023": {
+    "name": "Sticker | iM (Holo) | Paris 2023",
+    "nameId": 1322064
+  },
+  "Sticker | iM (Gold) | Paris 2023": {
+    "name": "Sticker | iM (Gold) | Paris 2023",
+    "nameId": 1321848
+  },
+  "Sticker | isak | Paris 2023": {
+    "name": "Sticker | isak | Paris 2023",
+    "nameId": 1321854
+  },
+  "Sticker | isak (Glitter) | Paris 2023": {
+    "name": "Sticker | isak (Glitter) | Paris 2023",
+    "nameId": 1321928
+  },
+  "Sticker | isak (Holo) | Paris 2023": {
+    "name": "Sticker | isak (Holo) | Paris 2023",
+    "nameId": 1322262
+  },
+  "Sticker | isak (Gold) | Paris 2023": {
+    "name": "Sticker | isak (Gold) | Paris 2023",
+    "nameId": 1323451
+  },
+  "Sticker | Keoz | Paris 2023": {
+    "name": "Sticker | Keoz | Paris 2023",
+    "nameId": 1321920
+  },
+  "Sticker | Keoz (Glitter) | Paris 2023": {
+    "name": "Sticker | Keoz (Glitter) | Paris 2023",
+    "nameId": 1321766
+  },
+  "Sticker | Keoz (Holo) | Paris 2023": {
+    "name": "Sticker | Keoz (Holo) | Paris 2023",
+    "nameId": 1322213
+  },
+  "Sticker | Keoz (Gold) | Paris 2023": {
+    "name": "Sticker | Keoz (Gold) | Paris 2023",
+    "nameId": 1322430
+  },
+  "Sticker | siuhy | Paris 2023": {
+    "name": "Sticker | siuhy | Paris 2023",
+    "nameId": 1321875
+  },
+  "Sticker | siuhy (Glitter) | Paris 2023": {
+    "name": "Sticker | siuhy (Glitter) | Paris 2023",
+    "nameId": 1322073
+  },
+  "Sticker | siuhy (Holo) | Paris 2023": {
+    "name": "Sticker | siuhy (Holo) | Paris 2023",
+    "nameId": 1322109
+  },
+  "Sticker | siuhy (Gold) | Paris 2023": {
+    "name": "Sticker | siuhy (Gold) | Paris 2023",
+    "nameId": 1323944
+  },
+  "Sticker | jkaem | Paris 2023": {
+    "name": "Sticker | jkaem | Paris 2023",
+    "nameId": 1321832
+  },
+  "Sticker | jkaem (Glitter) | Paris 2023": {
+    "name": "Sticker | jkaem (Glitter) | Paris 2023",
+    "nameId": 1321953
+  },
+  "Sticker | jkaem (Holo) | Paris 2023": {
+    "name": "Sticker | jkaem (Holo) | Paris 2023",
+    "nameId": 1322595
+  },
+  "Sticker | jkaem (Gold) | Paris 2023": {
+    "name": "Sticker | jkaem (Gold) | Paris 2023",
+    "nameId": 1322940
+  },
+  "Sticker | jL | Paris 2023": {
+    "name": "Sticker | jL | Paris 2023",
+    "nameId": 1321931
+  },
+  "Sticker | jL (Glitter) | Paris 2023": {
+    "name": "Sticker | jL (Glitter) | Paris 2023",
+    "nameId": 1322104
+  },
+  "Sticker | jL (Holo) | Paris 2023": {
+    "name": "Sticker | jL (Holo) | Paris 2023",
+    "nameId": 1321899
+  },
+  "Sticker | jL (Gold) | Paris 2023": {
+    "name": "Sticker | jL (Gold) | Paris 2023",
+    "nameId": 1322235
+  },
+  "Sticker | kyxsan | Paris 2023": {
+    "name": "Sticker | kyxsan | Paris 2023",
+    "nameId": 1321826
+  },
+  "Sticker | kyxsan (Glitter) | Paris 2023": {
+    "name": "Sticker | kyxsan (Glitter) | Paris 2023",
+    "nameId": 1322078
+  },
+  "Sticker | kyxsan (Holo) | Paris 2023": {
+    "name": "Sticker | kyxsan (Holo) | Paris 2023",
+    "nameId": 1322267
+  },
+  "Sticker | kyxsan (Gold) | Paris 2023": {
+    "name": "Sticker | kyxsan (Gold) | Paris 2023",
+    "nameId": 1326545
+  },
+  "Sticker | nawwk | Paris 2023": {
+    "name": "Sticker | nawwk | Paris 2023",
+    "nameId": 1323095
+  },
+  "Sticker | nawwk (Glitter) | Paris 2023": {
+    "name": "Sticker | nawwk (Glitter) | Paris 2023",
+    "nameId": 1323111
+  },
+  "Sticker | nawwk (Holo) | Paris 2023": {
+    "name": "Sticker | nawwk (Holo) | Paris 2023",
+    "nameId": 1323252
+  },
+  "Sticker | nawwk (Gold) | Paris 2023": {
+    "name": "Sticker | nawwk (Gold) | Paris 2023",
+    "nameId": 1323338
+  },
+  "Sticker | STYKO | Paris 2023": {
+    "name": "Sticker | STYKO | Paris 2023",
+    "nameId": 1321996
+  },
+  "Sticker | STYKO (Glitter) | Paris 2023": {
+    "name": "Sticker | STYKO (Glitter) | Paris 2023",
+    "nameId": 1322041
+  },
+  "Sticker | STYKO (Holo) | Paris 2023": {
+    "name": "Sticker | STYKO (Holo) | Paris 2023",
+    "nameId": 1322148
+  },
+  "Sticker | STYKO (Gold) | Paris 2023": {
+    "name": "Sticker | STYKO (Gold) | Paris 2023",
+    "nameId": 1324896
+  },
+  "Sticker | BOROS | Paris 2023": {
+    "name": "Sticker | BOROS | Paris 2023",
+    "nameId": 1321885
+  },
+  "Sticker | BOROS (Glitter) | Paris 2023": {
+    "name": "Sticker | BOROS (Glitter) | Paris 2023",
+    "nameId": 1321994
+  },
+  "Sticker | BOROS (Holo) | Paris 2023": {
+    "name": "Sticker | BOROS (Holo) | Paris 2023",
+    "nameId": 1322321
+  },
+  "Sticker | BOROS (Gold) | Paris 2023": {
+    "name": "Sticker | BOROS (Gold) | Paris 2023",
+    "nameId": 1324928
+  },
+  "Sticker | DemQQ | Paris 2023": {
+    "name": "Sticker | DemQQ | Paris 2023",
+    "nameId": 1321824
+  },
+  "Sticker | DemQQ (Glitter) | Paris 2023": {
+    "name": "Sticker | DemQQ (Glitter) | Paris 2023",
+    "nameId": 1321937
+  },
+  "Sticker | DemQQ (Holo) | Paris 2023": {
+    "name": "Sticker | DemQQ (Holo) | Paris 2023",
+    "nameId": 1322074
+  },
+  "Sticker | DemQQ (Gold) | Paris 2023": {
+    "name": "Sticker | DemQQ (Gold) | Paris 2023",
+    "nameId": 1321938
+  },
+  "Sticker | kRaSnaL | Paris 2023": {
+    "name": "Sticker | kRaSnaL | Paris 2023",
+    "nameId": 1321869
+  },
+  "Sticker | kRaSnaL (Glitter) | Paris 2023": {
+    "name": "Sticker | kRaSnaL (Glitter) | Paris 2023",
+    "nameId": 1321943
+  },
+  "Sticker | kRaSnaL (Holo) | Paris 2023": {
+    "name": "Sticker | kRaSnaL (Holo) | Paris 2023",
+    "nameId": 1322110
+  },
+  "Sticker | kRaSnaL (Gold) | Paris 2023": {
+    "name": "Sticker | kRaSnaL (Gold) | Paris 2023",
+    "nameId": 1322141
+  },
+  "Sticker | sdy | Paris 2023": {
+    "name": "Sticker | sdy | Paris 2023",
+    "nameId": 1321825
+  },
+  "Sticker | sdy (Glitter) | Paris 2023": {
+    "name": "Sticker | sdy (Glitter) | Paris 2023",
+    "nameId": 1322035
+  },
+  "Sticker | sdy (Holo) | Paris 2023": {
+    "name": "Sticker | sdy (Holo) | Paris 2023",
+    "nameId": 1322025
+  },
+  "Sticker | sdy (Gold) | Paris 2023": {
+    "name": "Sticker | sdy (Gold) | Paris 2023",
+    "nameId": 1322733
+  },
+  "Sticker | Woro2k | Paris 2023": {
+    "name": "Sticker | Woro2k | Paris 2023",
+    "nameId": 1321747
+  },
+  "Sticker | Woro2k (Glitter) | Paris 2023": {
+    "name": "Sticker | Woro2k (Glitter) | Paris 2023",
+    "nameId": 1322072
+  },
+  "Sticker | Woro2k (Holo) | Paris 2023": {
+    "name": "Sticker | Woro2k (Holo) | Paris 2023",
+    "nameId": 1322037
+  },
+  "Sticker | Woro2k (Gold) | Paris 2023": {
+    "name": "Sticker | Woro2k (Gold) | Paris 2023",
+    "nameId": 1322363
+  },
+  "Sticker | EliGE | Paris 2023": {
+    "name": "Sticker | EliGE | Paris 2023",
+    "nameId": 1321933
+  },
+  "Sticker | EliGE (Glitter) | Paris 2023": {
+    "name": "Sticker | EliGE (Glitter) | Paris 2023",
+    "nameId": 1322003
+  },
+  "Sticker | EliGE (Holo) | Paris 2023": {
+    "name": "Sticker | EliGE (Holo) | Paris 2023",
+    "nameId": 1321910
+  },
+  "Sticker | EliGE (Gold) | Paris 2023": {
+    "name": "Sticker | EliGE (Gold) | Paris 2023",
+    "nameId": 1323465
+  },
+  "Sticker | NAF | Paris 2023": {
+    "name": "Sticker | NAF | Paris 2023",
+    "nameId": 1321840
+  },
+  "Sticker | NAF (Glitter) | Paris 2023": {
+    "name": "Sticker | NAF (Glitter) | Paris 2023",
+    "nameId": 1322065
+  },
+  "Sticker | NAF (Holo) | Paris 2023": {
+    "name": "Sticker | NAF (Holo) | Paris 2023",
+    "nameId": 1322060
+  },
+  "Sticker | NAF (Gold) | Paris 2023": {
+    "name": "Sticker | NAF (Gold) | Paris 2023",
+    "nameId": 1322651
+  },
+  "Sticker | nitr0 | Paris 2023": {
+    "name": "Sticker | nitr0 | Paris 2023",
+    "nameId": 1321845
+  },
+  "Sticker | nitr0 (Glitter) | Paris 2023": {
+    "name": "Sticker | nitr0 (Glitter) | Paris 2023",
+    "nameId": 1321971
+  },
+  "Sticker | nitr0 (Holo) | Paris 2023": {
+    "name": "Sticker | nitr0 (Holo) | Paris 2023",
+    "nameId": 1322057
+  },
+  "Sticker | nitr0 (Gold) | Paris 2023": {
+    "name": "Sticker | nitr0 (Gold) | Paris 2023",
+    "nameId": 1322225
+  },
+  "Sticker | oSee | Paris 2023": {
+    "name": "Sticker | oSee | Paris 2023",
+    "nameId": 1321865
+  },
+  "Sticker | oSee (Glitter) | Paris 2023": {
+    "name": "Sticker | oSee (Glitter) | Paris 2023",
+    "nameId": 1321839
+  },
+  "Sticker | oSee (Holo) | Paris 2023": {
+    "name": "Sticker | oSee (Holo) | Paris 2023",
+    "nameId": 1322259
+  },
+  "Sticker | oSee (Gold) | Paris 2023": {
+    "name": "Sticker | oSee (Gold) | Paris 2023",
+    "nameId": 1322498
+  },
+  "Sticker | YEKINDAR | Paris 2023": {
+    "name": "Sticker | YEKINDAR | Paris 2023",
+    "nameId": 1321876
+  },
+  "Sticker | YEKINDAR (Holo) | Paris 2023": {
+    "name": "Sticker | YEKINDAR (Holo) | Paris 2023",
+    "nameId": 1322234
+  },
+  "Sticker | YEKINDAR (Gold) | Paris 2023": {
+    "name": "Sticker | YEKINDAR (Gold) | Paris 2023",
+    "nameId": 1328371
+  },
+  "Sticker | broky | Paris 2023": {
+    "name": "Sticker | broky | Paris 2023",
+    "nameId": 1321882
+  },
+  "Sticker | broky (Glitter) | Paris 2023": {
+    "name": "Sticker | broky (Glitter) | Paris 2023",
+    "nameId": 1321967
+  },
+  "Sticker | broky (Holo) | Paris 2023": {
+    "name": "Sticker | broky (Holo) | Paris 2023",
+    "nameId": 1322326
+  },
+  "Sticker | broky (Gold) | Paris 2023": {
+    "name": "Sticker | broky (Gold) | Paris 2023",
+    "nameId": 1322153
+  },
+  "Sticker | karrigan | Paris 2023": {
+    "name": "Sticker | karrigan | Paris 2023",
+    "nameId": 1321796
+  },
+  "Sticker | karrigan (Glitter) | Paris 2023": {
+    "name": "Sticker | karrigan (Glitter) | Paris 2023",
+    "nameId": 1321979
+  },
+  "Sticker | karrigan (Holo) | Paris 2023": {
+    "name": "Sticker | karrigan (Holo) | Paris 2023",
+    "nameId": 1322279
+  },
+  "Sticker | karrigan (Gold) | Paris 2023": {
+    "name": "Sticker | karrigan (Gold) | Paris 2023",
+    "nameId": 1322227
+  },
+  "Sticker | rain | Paris 2023": {
+    "name": "Sticker | rain | Paris 2023",
+    "nameId": 1321770
+  },
+  "Sticker | rain (Glitter) | Paris 2023": {
+    "name": "Sticker | rain (Glitter) | Paris 2023",
+    "nameId": 1322021
+  },
+  "Sticker | rain (Holo) | Paris 2023": {
+    "name": "Sticker | rain (Holo) | Paris 2023",
+    "nameId": 1322099
+  },
+  "Sticker | rain (Gold) | Paris 2023": {
+    "name": "Sticker | rain (Gold) | Paris 2023",
+    "nameId": 1322795
+  },
+  "Sticker | ropz | Paris 2023": {
+    "name": "Sticker | ropz | Paris 2023",
+    "nameId": 1321886
+  },
+  "Sticker | ropz (Glitter) | Paris 2023": {
+    "name": "Sticker | ropz (Glitter) | Paris 2023",
+    "nameId": 1321904
+  },
+  "Sticker | ropz (Holo) | Paris 2023": {
+    "name": "Sticker | ropz (Holo) | Paris 2023",
+    "nameId": 1322483
+  },
+  "Sticker | ropz (Gold) | Paris 2023": {
+    "name": "Sticker | ropz (Gold) | Paris 2023",
+    "nameId": 1322206
+  },
+  "Sticker | Twistzz | Paris 2023": {
+    "name": "Sticker | Twistzz | Paris 2023",
+    "nameId": 1321838
+  },
+  "Sticker | Twistzz (Glitter) | Paris 2023": {
+    "name": "Sticker | Twistzz (Glitter) | Paris 2023",
+    "nameId": 1321973
+  },
+  "Sticker | Twistzz (Holo) | Paris 2023": {
+    "name": "Sticker | Twistzz (Holo) | Paris 2023",
+    "nameId": 1322536
+  },
+  "Sticker | Dycha | Paris 2023": {
+    "name": "Sticker | Dycha | Paris 2023",
+    "nameId": 1321768
+  },
+  "Sticker | Dycha (Glitter) | Paris 2023": {
+    "name": "Sticker | Dycha (Glitter) | Paris 2023",
+    "nameId": 1321924
+  },
+  "Sticker | Dycha (Holo) | Paris 2023": {
+    "name": "Sticker | Dycha (Holo) | Paris 2023",
+    "nameId": 1322174
+  },
+  "Sticker | Dycha (Gold) | Paris 2023": {
+    "name": "Sticker | Dycha (Gold) | Paris 2023",
+    "nameId": 1322239
+  },
+  "Sticker | maden | Paris 2023": {
+    "name": "Sticker | maden | Paris 2023",
+    "nameId": 1321908
+  },
+  "Sticker | maden (Glitter) | Paris 2023": {
+    "name": "Sticker | maden (Glitter) | Paris 2023",
+    "nameId": 1321978
+  },
+  "Sticker | maden (Holo) | Paris 2023": {
+    "name": "Sticker | maden (Holo) | Paris 2023",
+    "nameId": 1322611
+  },
+  "Sticker | maden (Gold) | Paris 2023": {
+    "name": "Sticker | maden (Gold) | Paris 2023",
+    "nameId": 1323733
+  },
+  "Sticker | NertZ | Paris 2023": {
+    "name": "Sticker | NertZ | Paris 2023",
+    "nameId": 1321867
+  },
+  "Sticker | NertZ (Glitter) | Paris 2023": {
+    "name": "Sticker | NertZ (Glitter) | Paris 2023",
+    "nameId": 1321878
+  },
+  "Sticker | NertZ (Holo) | Paris 2023": {
+    "name": "Sticker | NertZ (Holo) | Paris 2023",
+    "nameId": 1322134
+  },
+  "Sticker | NertZ (Gold) | Paris 2023": {
+    "name": "Sticker | NertZ (Gold) | Paris 2023",
+    "nameId": 1322314
+  },
+  "Sticker | Snappi | Paris 2023": {
+    "name": "Sticker | Snappi | Paris 2023",
+    "nameId": 1321769
+  },
+  "Sticker | Snappi (Glitter) | Paris 2023": {
+    "name": "Sticker | Snappi (Glitter) | Paris 2023",
+    "nameId": 1322039
+  },
+  "Sticker | Snappi (Holo) | Paris 2023": {
+    "name": "Sticker | Snappi (Holo) | Paris 2023",
+    "nameId": 1322154
+  },
+  "Sticker | Snappi (Gold) | Paris 2023": {
+    "name": "Sticker | Snappi (Gold) | Paris 2023",
+    "nameId": 1322781
+  },
+  "Sticker | SunPayus | Paris 2023": {
+    "name": "Sticker | SunPayus | Paris 2023",
+    "nameId": 1321863
+  },
+  "Sticker | SunPayus (Glitter) | Paris 2023": {
+    "name": "Sticker | SunPayus (Glitter) | Paris 2023",
+    "nameId": 1321934
+  },
+  "Sticker | SunPayus (Holo) | Paris 2023": {
+    "name": "Sticker | SunPayus (Holo) | Paris 2023",
+    "nameId": 1322224
+  },
+  "Sticker | SunPayus (Gold) | Paris 2023": {
+    "name": "Sticker | SunPayus (Gold) | Paris 2023",
+    "nameId": 1323041
+  },
+  "Sticker | aliStair | Paris 2023": {
+    "name": "Sticker | aliStair | Paris 2023",
+    "nameId": 1321880
+  },
+  "Sticker | aliStair (Glitter) | Paris 2023": {
+    "name": "Sticker | aliStair (Glitter) | Paris 2023",
+    "nameId": 1321879
+  },
+  "Sticker | aliStair (Holo) | Paris 2023": {
+    "name": "Sticker | aliStair (Holo) | Paris 2023",
+    "nameId": 1322301
+  },
+  "Sticker | aliStair (Gold) | Paris 2023": {
+    "name": "Sticker | aliStair (Gold) | Paris 2023",
+    "nameId": 1322736
+  },
+  "Sticker | INS | Paris 2023": {
+    "name": "Sticker | INS | Paris 2023",
+    "nameId": 1321795
+  },
+  "Sticker | INS (Glitter) | Paris 2023": {
+    "name": "Sticker | INS (Glitter) | Paris 2023",
+    "nameId": 1321975
+  },
+  "Sticker | INS (Holo) | Paris 2023": {
+    "name": "Sticker | INS (Holo) | Paris 2023",
+    "nameId": 1322027
+  },
+  "Sticker | INS (Gold) | Paris 2023": {
+    "name": "Sticker | INS (Gold) | Paris 2023",
+    "nameId": 1321976
+  },
+  "Sticker | Liazz | Paris 2023": {
+    "name": "Sticker | Liazz | Paris 2023",
+    "nameId": 1321881
+  },
+  "Sticker | Liazz (Glitter) | Paris 2023": {
+    "name": "Sticker | Liazz (Glitter) | Paris 2023",
+    "nameId": 1321972
+  },
+  "Sticker | Liazz (Holo) | Paris 2023": {
+    "name": "Sticker | Liazz (Holo) | Paris 2023",
+    "nameId": 1322193
+  },
+  "Sticker | Sico | Paris 2023": {
+    "name": "Sticker | Sico | Paris 2023",
+    "nameId": 1321907
+  },
+  "Sticker | Sico (Glitter) | Paris 2023": {
+    "name": "Sticker | Sico (Glitter) | Paris 2023",
+    "nameId": 1322001
+  },
+  "Sticker | Sico (Holo) | Paris 2023": {
+    "name": "Sticker | Sico (Holo) | Paris 2023",
+    "nameId": 1322176
+  },
+  "Sticker | Sico (Gold) | Paris 2023": {
+    "name": "Sticker | Sico (Gold) | Paris 2023",
+    "nameId": 1323006
+  },
+  "Sticker | vexite | Paris 2023": {
+    "name": "Sticker | vexite | Paris 2023",
+    "nameId": 1321844
+  },
+  "Sticker | vexite (Glitter) | Paris 2023": {
+    "name": "Sticker | vexite (Glitter) | Paris 2023",
+    "nameId": 1321883
+  },
+  "Sticker | vexite (Holo) | Paris 2023": {
+    "name": "Sticker | vexite (Holo) | Paris 2023",
+    "nameId": 1321962
+  },
+  "Sticker | vexite (Gold) | Paris 2023": {
+    "name": "Sticker | vexite (Gold) | Paris 2023",
+    "nameId": 1322351
+  },
+  "Sticker | dexter | Paris 2023": {
+    "name": "Sticker | dexter | Paris 2023",
+    "nameId": 1321891
+  },
+  "Sticker | dexter (Glitter) | Paris 2023": {
+    "name": "Sticker | dexter (Glitter) | Paris 2023",
+    "nameId": 1322029
+  },
+  "Sticker | dexter (Holo) | Paris 2023": {
+    "name": "Sticker | dexter (Holo) | Paris 2023",
+    "nameId": 1322365
+  },
+  "Sticker | dexter (Gold) | Paris 2023": {
+    "name": "Sticker | dexter (Gold) | Paris 2023",
+    "nameId": 1323004
+  },
+  "Sticker | frozen | Paris 2023": {
+    "name": "Sticker | frozen | Paris 2023",
+    "nameId": 1321791
+  },
+  "Sticker | frozen (Glitter) | Paris 2023": {
+    "name": "Sticker | frozen (Glitter) | Paris 2023",
+    "nameId": 1321866
+  },
+  "Sticker | frozen (Holo) | Paris 2023": {
+    "name": "Sticker | frozen (Holo) | Paris 2023",
+    "nameId": 1322497
+  },
+  "Sticker | frozen (Gold) | Paris 2023": {
+    "name": "Sticker | frozen (Gold) | Paris 2023",
+    "nameId": 1322560
+  },
+  "Sticker | JDC | Paris 2023": {
+    "name": "Sticker | JDC | Paris 2023",
+    "nameId": 1321954
+  },
+  "Sticker | JDC (Glitter) | Paris 2023": {
+    "name": "Sticker | JDC (Glitter) | Paris 2023",
+    "nameId": 1321974
+  },
+  "Sticker | JDC (Holo) | Paris 2023": {
+    "name": "Sticker | JDC (Holo) | Paris 2023",
+    "nameId": 1322442
+  },
+  "Sticker | JDC (Gold) | Paris 2023": {
+    "name": "Sticker | JDC (Gold) | Paris 2023",
+    "nameId": 1330346
+  },
+  "Sticker | torzsi | Paris 2023": {
+    "name": "Sticker | torzsi | Paris 2023",
+    "nameId": 1321906
+  },
+  "Sticker | torzsi (Glitter) | Paris 2023": {
+    "name": "Sticker | torzsi (Glitter) | Paris 2023",
+    "nameId": 1321956
+  },
+  "Sticker | torzsi (Holo) | Paris 2023": {
+    "name": "Sticker | torzsi (Holo) | Paris 2023",
+    "nameId": 1322325
+  },
+  "Sticker | torzsi (Gold) | Paris 2023": {
+    "name": "Sticker | torzsi (Gold) | Paris 2023",
+    "nameId": 1322192
+  },
+  "Sticker | xertioN | Paris 2023": {
+    "name": "Sticker | xertioN | Paris 2023",
+    "nameId": 1321877
+  },
+  "Sticker | xertioN (Glitter) | Paris 2023": {
+    "name": "Sticker | xertioN (Glitter) | Paris 2023",
+    "nameId": 1321968
+  },
+  "Sticker | xertioN (Holo) | Paris 2023": {
+    "name": "Sticker | xertioN (Holo) | Paris 2023",
+    "nameId": 1322775
+  },
+  "Sticker | xertioN (Gold) | Paris 2023": {
+    "name": "Sticker | xertioN (Gold) | Paris 2023",
+    "nameId": 1323313
+  },
+  "Sticker | FaNg | Paris 2023": {
+    "name": "Sticker | FaNg | Paris 2023",
+    "nameId": 1321902
+  },
+  "Sticker | FaNg (Glitter) | Paris 2023": {
+    "name": "Sticker | FaNg (Glitter) | Paris 2023",
+    "nameId": 1322058
+  },
+  "Sticker | FaNg (Holo) | Paris 2023": {
+    "name": "Sticker | FaNg (Holo) | Paris 2023",
+    "nameId": 1321771
+  },
+  "Sticker | FaNg (Gold) | Paris 2023": {
+    "name": "Sticker | FaNg (Gold) | Paris 2023",
+    "nameId": 1323071
+  },
+  "Sticker | floppy | Paris 2023": {
+    "name": "Sticker | floppy | Paris 2023",
+    "nameId": 1321797
+  },
+  "Sticker | floppy (Glitter) | Paris 2023": {
+    "name": "Sticker | floppy (Glitter) | Paris 2023",
+    "nameId": 1322004
+  },
+  "Sticker | floppy (Holo) | Paris 2023": {
+    "name": "Sticker | floppy (Holo) | Paris 2023",
+    "nameId": 1322209
+  },
+  "Sticker | floppy (Gold) | Paris 2023": {
+    "name": "Sticker | floppy (Gold) | Paris 2023",
+    "nameId": 1322337
+  },
+  "Sticker | Grim | Paris 2023": {
+    "name": "Sticker | Grim | Paris 2023",
+    "nameId": 1321873
+  },
+  "Sticker | Grim (Glitter) | Paris 2023": {
+    "name": "Sticker | Grim (Glitter) | Paris 2023",
+    "nameId": 1321846
+  },
+  "Sticker | Grim (Holo) | Paris 2023": {
+    "name": "Sticker | Grim (Holo) | Paris 2023",
+    "nameId": 1322169
+  },
+  "Sticker | Grim (Gold) | Paris 2023": {
+    "name": "Sticker | Grim (Gold) | Paris 2023",
+    "nameId": 1322985
+  },
+  "Sticker | hallzerk | Paris 2023": {
+    "name": "Sticker | hallzerk | Paris 2023",
+    "nameId": 1321800
+  },
+  "Sticker | hallzerk (Glitter) | Paris 2023": {
+    "name": "Sticker | hallzerk (Glitter) | Paris 2023",
+    "nameId": 1322028
+  },
+  "Sticker | hallzerk (Holo) | Paris 2023": {
+    "name": "Sticker | hallzerk (Holo) | Paris 2023",
+    "nameId": 1322223
+  },
+  "Sticker | hallzerk (Gold) | Paris 2023": {
+    "name": "Sticker | hallzerk (Gold) | Paris 2023",
+    "nameId": 1323602
+  },
+  "Sticker | JT | Paris 2023": {
+    "name": "Sticker | JT | Paris 2023",
+    "nameId": 1321905
+  },
+  "Sticker | JT (Glitter) | Paris 2023": {
+    "name": "Sticker | JT (Glitter) | Paris 2023",
+    "nameId": 1321980
+  },
+  "Sticker | JT (Holo) | Paris 2023": {
+    "name": "Sticker | JT (Holo) | Paris 2023",
+    "nameId": 1322076
+  },
+  "Sticker | JT (Gold) | Paris 2023": {
+    "name": "Sticker | JT (Gold) | Paris 2023",
+    "nameId": 1322610
+  },
+  "Sticker | felps | Paris 2023": {
+    "name": "Sticker | felps | Paris 2023",
+    "nameId": 1321901
+  },
+  "Sticker | felps (Glitter) | Paris 2023": {
+    "name": "Sticker | felps (Glitter) | Paris 2023",
+    "nameId": 1322059
+  },
+  "Sticker | felps (Holo) | Paris 2023": {
+    "name": "Sticker | felps (Holo) | Paris 2023",
+    "nameId": 1322054
+  },
+  "Sticker | felps (Gold) | Paris 2023": {
+    "name": "Sticker | felps (Gold) | Paris 2023",
+    "nameId": 1327675
+  },
+  "Sticker | History | Paris 2023": {
+    "name": "Sticker | History | Paris 2023",
+    "nameId": 1321936
+  },
+  "Sticker | History (Glitter) | Paris 2023": {
+    "name": "Sticker | History (Glitter) | Paris 2023",
+    "nameId": 1321965
+  },
+  "Sticker | History (Holo) | Paris 2023": {
+    "name": "Sticker | History (Holo) | Paris 2023",
+    "nameId": 1322002
+  },
+  "Sticker | History (Gold) | Paris 2023": {
+    "name": "Sticker | History (Gold) | Paris 2023",
+    "nameId": 1326636
+  },
+  "Sticker | Lucaozy | Paris 2023": {
+    "name": "Sticker | Lucaozy | Paris 2023",
+    "nameId": 1321710
+  },
+  "Sticker | Lucaozy (Glitter) | Paris 2023": {
+    "name": "Sticker | Lucaozy (Glitter) | Paris 2023",
+    "nameId": 1321966
+  },
+  "Sticker | Lucaozy (Holo) | Paris 2023": {
+    "name": "Sticker | Lucaozy (Holo) | Paris 2023",
+    "nameId": 1322135
+  },
+  "Sticker | Lucaozy (Gold) | Paris 2023": {
+    "name": "Sticker | Lucaozy (Gold) | Paris 2023",
+    "nameId": 1323172
+  },
+  "Sticker | WOOD7 | Paris 2023": {
+    "name": "Sticker | WOOD7 | Paris 2023",
+    "nameId": 1321900
+  },
+  "Sticker | WOOD7 (Glitter) | Paris 2023": {
+    "name": "Sticker | WOOD7 (Glitter) | Paris 2023",
+    "nameId": 1321932
+  },
+  "Sticker | WOOD7 (Holo) | Paris 2023": {
+    "name": "Sticker | WOOD7 (Holo) | Paris 2023",
+    "nameId": 1322714
+  },
+  "Sticker | WOOD7 (Gold) | Paris 2023": {
+    "name": "Sticker | WOOD7 (Gold) | Paris 2023",
+    "nameId": 1322428
+  },
+  "Sticker | ANNIHILATION | Paris 2023": {
+    "name": "Sticker | ANNIHILATION | Paris 2023",
+    "nameId": 1321772
+  },
+  "Sticker | ANNIHILATION (Glitter) | Paris 2023": {
+    "name": "Sticker | ANNIHILATION (Glitter) | Paris 2023",
+    "nameId": 1321911
+  },
+  "Sticker | ANNIHILATION (Gold) | Paris 2023": {
+    "name": "Sticker | ANNIHILATION (Gold) | Paris 2023",
+    "nameId": 1322364
+  },
+  "Sticker | Bart4k | Paris 2023": {
+    "name": "Sticker | Bart4k | Paris 2023",
+    "nameId": 1321977
+  },
+  "Sticker | Bart4k (Glitter) | Paris 2023": {
+    "name": "Sticker | Bart4k (Glitter) | Paris 2023",
+    "nameId": 1322036
+  },
+  "Sticker | Bart4k (Holo) | Paris 2023": {
+    "name": "Sticker | Bart4k (Holo) | Paris 2023",
+    "nameId": 1322177
+  },
+  "Sticker | Bart4k (Gold) | Paris 2023": {
+    "name": "Sticker | Bart4k (Gold) | Paris 2023",
+    "nameId": 1323400
+  },
+  "Sticker | bLitz | Paris 2023": {
+    "name": "Sticker | bLitz | Paris 2023",
+    "nameId": 1321909
+  },
+  "Sticker | bLitz (Glitter) | Paris 2023": {
+    "name": "Sticker | bLitz (Glitter) | Paris 2023",
+    "nameId": 1322055
+  },
+  "Sticker | bLitz (Holo) | Paris 2023": {
+    "name": "Sticker | bLitz (Holo) | Paris 2023",
+    "nameId": 1322296
+  },
+  "Sticker | bLitz (Gold) | Paris 2023": {
+    "name": "Sticker | bLitz (Gold) | Paris 2023",
+    "nameId": 1322203
+  },
+  "Sticker | sk0R | Paris 2023": {
+    "name": "Sticker | sk0R | Paris 2023",
+    "nameId": 1321921
+  },
+  "Sticker | sk0R (Glitter) | Paris 2023": {
+    "name": "Sticker | sk0R (Glitter) | Paris 2023",
+    "nameId": 1321970
+  },
+  "Sticker | sk0R (Holo) | Paris 2023": {
+    "name": "Sticker | sk0R (Holo) | Paris 2023",
+    "nameId": 1321864
+  },
+  "Sticker | sk0R (Gold) | Paris 2023": {
+    "name": "Sticker | sk0R (Gold) | Paris 2023",
+    "nameId": 1324711
+  },
+  "Sticker | Techno4K | Paris 2023": {
+    "name": "Sticker | Techno4K | Paris 2023",
+    "nameId": 1321888
+  },
+  "Sticker | Techno4K (Holo) | Paris 2023": {
+    "name": "Sticker | Techno4K (Holo) | Paris 2023",
+    "nameId": 1322205
+  },
+  "Sticker | apEX (Champion) | Paris 2023": {
+    "name": "Sticker | apEX (Champion) | Paris 2023",
+    "nameId": 1393679
+  },
+  "Sticker | apEX (Glitter, Champion) | Paris 2023": {
+    "name": "Sticker | apEX (Glitter, Champion) | Paris 2023",
+    "nameId": 1393695
+  },
+  "Sticker | apEX (Holo, Champion) | Paris 2023": {
+    "name": "Sticker | apEX (Holo, Champion) | Paris 2023",
+    "nameId": 1393699
+  },
+  "Sticker | apEX (Gold, Champion) | Paris 2023": {
+    "name": "Sticker | apEX (Gold, Champion) | Paris 2023",
+    "nameId": 1393700
+  },
+  "Sticker | dupreeh (Champion) | Paris 2023": {
+    "name": "Sticker | dupreeh (Champion) | Paris 2023",
+    "nameId": 1393678
+  },
+  "Sticker | dupreeh (Glitter, Champion) | Paris 2023": {
+    "name": "Sticker | dupreeh (Glitter, Champion) | Paris 2023",
+    "nameId": 1393681
+  },
+  "Sticker | dupreeh (Holo, Champion) | Paris 2023": {
+    "name": "Sticker | dupreeh (Holo, Champion) | Paris 2023",
+    "nameId": 1393768
+  },
+  "Sticker | dupreeh (Gold, Champion) | Paris 2023": {
+    "name": "Sticker | dupreeh (Gold, Champion) | Paris 2023",
+    "nameId": 1393690
+  },
+  "Sticker | Magisk (Champion) | Paris 2023": {
+    "name": "Sticker | Magisk (Champion) | Paris 2023",
+    "nameId": 1393676
+  },
+  "Sticker | Magisk (Glitter, Champion) | Paris 2023": {
+    "name": "Sticker | Magisk (Glitter, Champion) | Paris 2023",
+    "nameId": 1393677
+  },
+  "Sticker | Magisk (Holo, Champion) | Paris 2023": {
+    "name": "Sticker | Magisk (Holo, Champion) | Paris 2023",
+    "nameId": 1393741
+  },
+  "Sticker | Magisk (Gold, Champion) | Paris 2023": {
+    "name": "Sticker | Magisk (Gold, Champion) | Paris 2023",
+    "nameId": 1393804
+  },
+  "Sticker | Spinx (Champion) | Paris 2023": {
+    "name": "Sticker | Spinx (Champion) | Paris 2023",
+    "nameId": 1393675
+  },
+  "Sticker | Spinx (Glitter, Champion) | Paris 2023": {
+    "name": "Sticker | Spinx (Glitter, Champion) | Paris 2023",
+    "nameId": 1393697
+  },
+  "Sticker | Spinx (Holo, Champion) | Paris 2023": {
+    "name": "Sticker | Spinx (Holo, Champion) | Paris 2023",
+    "nameId": 1393774
+  },
+  "Sticker | Spinx (Gold, Champion) | Paris 2023": {
+    "name": "Sticker | Spinx (Gold, Champion) | Paris 2023",
+    "nameId": 1394017
+  },
+  "Sticker | ZywOo (Champion) | Paris 2023": {
+    "name": "Sticker | ZywOo (Champion) | Paris 2023",
+    "nameId": 1393680
+  },
+  "Sticker | ZywOo (Glitter, Champion) | Paris 2023": {
+    "name": "Sticker | ZywOo (Glitter, Champion) | Paris 2023",
+    "nameId": 1393698
+  },
+  "Sticker | ZywOo (Holo, Champion) | Paris 2023": {
+    "name": "Sticker | ZywOo (Holo, Champion) | Paris 2023",
+    "nameId": 1393709
+  },
+  "Sticker | ZywOo (Gold, Champion) | Paris 2023": {
+    "name": "Sticker | ZywOo (Gold, Champion) | Paris 2023",
+    "nameId": 1393714
+  },
+  "Sticker | Ouchie (Foil)": {
+    "name": "Sticker | Ouchie (Foil)",
+    "nameId": 2521198
+  },
+  "Sticker | Lost In Smoke (Foil)": {
+    "name": "Sticker | Lost In Smoke (Foil)",
+    "nameId": 2521263
+  },
+  "Sticker | Retro Zeus": {
+    "name": "Sticker | Retro Zeus",
+    "nameId": 2521187
+  },
+  "Sticker | This Is Fine (Chicken)": {
+    "name": "Sticker | This Is Fine (Chicken)",
+    "nameId": 2521208
+  },
+  "Sticker | Please Return To": {
+    "name": "Sticker | Please Return To",
+    "nameId": 2521159
+  },
+  "Sticker | Peek-A-Boo": {
+    "name": "Sticker | Peek-A-Boo",
+    "nameId": 2521163
+  },
+  "Sticker | AKickflip-47": {
+    "name": "Sticker | AKickflip-47",
+    "nameId": 2521178
+  },
+  "Sticker | Easy For Ricksaw": {
+    "name": "Sticker | Easy For Ricksaw",
+    "nameId": 2521160
+  },
+  "Sticker | Bum A Smoke": {
+    "name": "Sticker | Bum A Smoke",
+    "nameId": 2521193
+  },
+  "Sticker | Angry T": {
+    "name": "Sticker | Angry T",
+    "nameId": 2521131
+  },
+  "Sticker | Old School (Lenticular)": {
+    "name": "Sticker | Old School (Lenticular)",
+    "nameId": 2521361
+  },
+  "Sticker | Econometer (Lenticular)": {
+    "name": "Sticker | Econometer (Lenticular)",
+    "nameId": 2521331
+  },
+  "Sticker | Dystopian Gaze (Lenticular)": {
+    "name": "Sticker | Dystopian Gaze (Lenticular)",
+    "nameId": 2521321
+  },
+  "Sticker | Loving Eyes (Holo)": {
+    "name": "Sticker | Loving Eyes (Holo)",
+    "nameId": 2521185
+  },
+  "Sticker | Try Hard (Holo)": {
+    "name": "Sticker | Try Hard (Holo)",
+    "nameId": 2521181
+  },
+  "Sticker | Cedar Creek (Holo)": {
+    "name": "Sticker | Cedar Creek (Holo)",
+    "nameId": 2521158
+  },
+  "Sticker | Pushing Smokes (Glitter)": {
+    "name": "Sticker | Pushing Smokes (Glitter)",
+    "nameId": 2521192
+  },
+  "Sticker | Lotus (Glitter)": {
+    "name": "Sticker | Lotus (Glitter)",
+    "nameId": 2521212
+  },
+  "Sticker | Factory Sealed (Foil)": {
+    "name": "Sticker | Factory Sealed (Foil)",
+    "nameId": 2521164
+  },
+  "Sticker | On An Eco (Foil)": {
+    "name": "Sticker | On An Eco (Foil)",
+    "nameId": 2521330
+  },
+  "Sticker | Natus Vincere (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Natus Vincere (Glitter) | Copenhagen 2024",
+    "nameId": 2596600
+  },
+  "Sticker | Natus Vincere (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Natus Vincere (Holo) | Copenhagen 2024",
+    "nameId": 2596700
+  },
+  "Sticker | Natus Vincere (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Natus Vincere (Gold) | Copenhagen 2024",
+    "nameId": 2596814
+  },
+  "Sticker | Virtus.pro (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Virtus.pro (Glitter) | Copenhagen 2024",
+    "nameId": 2596630
+  },
+  "Sticker | Virtus.pro (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Virtus.pro (Holo) | Copenhagen 2024",
+    "nameId": 2596783
+  },
+  "Sticker | Virtus.pro (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Virtus.pro (Gold) | Copenhagen 2024",
+    "nameId": 2596701
+  },
+  "Sticker | G2 Esports (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | G2 Esports (Glitter) | Copenhagen 2024",
+    "nameId": 2596633
+  },
+  "Sticker | G2 Esports (Holo) | Copenhagen 2024": {
+    "name": "Sticker | G2 Esports (Holo) | Copenhagen 2024",
+    "nameId": 2596692
+  },
+  "Sticker | G2 Esports (Gold) | Copenhagen 2024": {
+    "name": "Sticker | G2 Esports (Gold) | Copenhagen 2024",
+    "nameId": 2596671
+  },
+  "Sticker | FaZe Clan (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | FaZe Clan (Glitter) | Copenhagen 2024",
+    "nameId": 2596621
+  },
+  "Sticker | FaZe Clan (Holo) | Copenhagen 2024": {
+    "name": "Sticker | FaZe Clan (Holo) | Copenhagen 2024",
+    "nameId": 2596601
+  },
+  "Sticker | FaZe Clan (Gold) | Copenhagen 2024": {
+    "name": "Sticker | FaZe Clan (Gold) | Copenhagen 2024",
+    "nameId": 2596588
+  },
+  "Sticker | Team Spirit (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Team Spirit (Glitter) | Copenhagen 2024",
+    "nameId": 2596632
+  },
+  "Sticker | Team Spirit (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Team Spirit (Holo) | Copenhagen 2024",
+    "nameId": 2596502
+  },
+  "Sticker | Team Spirit (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Team Spirit (Gold) | Copenhagen 2024",
+    "nameId": 2596785
+  },
+  "Sticker | Vitality | Copenhagen 2024": {
+    "name": "Sticker | Vitality | Copenhagen 2024",
+    "nameId": 2596500
+  },
+  "Sticker | Vitality (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Vitality (Glitter) | Copenhagen 2024",
+    "nameId": 2596564
+  },
+  "Sticker | Vitality (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Vitality (Holo) | Copenhagen 2024",
+    "nameId": 2596897
+  },
+  "Sticker | Vitality (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Vitality (Gold) | Copenhagen 2024",
+    "nameId": 2596996
+  },
+  "Sticker | MOUZ (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | MOUZ (Glitter) | Copenhagen 2024",
+    "nameId": 2596562
+  },
+  "Sticker | MOUZ (Holo) | Copenhagen 2024": {
+    "name": "Sticker | MOUZ (Holo) | Copenhagen 2024",
+    "nameId": 2596557
+  },
+  "Sticker | MOUZ (Gold) | Copenhagen 2024": {
+    "name": "Sticker | MOUZ (Gold) | Copenhagen 2024",
+    "nameId": 2596852
+  },
+  "Sticker | Complexity Gaming (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Complexity Gaming (Glitter) | Copenhagen 2024",
+    "nameId": 2596592
+  },
+  "Sticker | Complexity Gaming (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Complexity Gaming (Holo) | Copenhagen 2024",
+    "nameId": 2596768
   }
 }
