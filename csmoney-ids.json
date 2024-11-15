@@ -25998,5 +25998,1813 @@
   "Sticker | JDC (Holo) | Rio 2022": {
     "name": "Sticker | JDC (Holo) | Rio 2022",
     "nameId": 1094727
+  },
+  "MAC-10 | Tornado (Well-Worn)": {
+    "name": "MAC-10 | Tornado (Well-Worn)",
+    "nameId": 599
+  },
+  "MAC-10 | Tornado (Battle-Scarred)": {
+    "name": "MAC-10 | Tornado (Battle-Scarred)",
+    "nameId": 17838
+  },
+  "StatTrak™ MAC-10 | Saibā Oni (Minimal Wear)": {
+    "name": "StatTrak™ MAC-10 | Saibā Oni (Minimal Wear)",
+    "nameId": 2598010
+  },
+  "StatTrak™ MAC-10 | Saibā Oni (Field-Tested)": {
+    "name": "StatTrak™ MAC-10 | Saibā Oni (Field-Tested)",
+    "nameId": 2597812
+  },
+  "StatTrak™ MAC-10 | Saibā Oni (Well-Worn)": {
+    "name": "StatTrak™ MAC-10 | Saibā Oni (Well-Worn)",
+    "nameId": 2598254
+  },
+  "StatTrak™ MAC-10 | Saibā Oni (Battle-Scarred)": {
+    "name": "StatTrak™ MAC-10 | Saibā Oni (Battle-Scarred)",
+    "nameId": 2598239
+  },
+  "MAC-10 | Pipsqueak (Factory New)": {
+    "name": "MAC-10 | Pipsqueak (Factory New)",
+    "nameId": 2598087
+  },
+  "Sawed-Off | Orange DDPAT (Factory New)": {
+    "name": "Sawed-Off | Orange DDPAT (Factory New)",
+    "nameId": 14438
+  },
+  "Sawed-Off | Orange DDPAT (Minimal Wear)": {
+    "name": "Sawed-Off | Orange DDPAT (Minimal Wear)",
+    "nameId": 13895
+  },
+  "Sawed-Off | Orange DDPAT (Field-Tested)": {
+    "name": "Sawed-Off | Orange DDPAT (Field-Tested)",
+    "nameId": 16781
+  },
+  "Sawed-Off | Orange DDPAT (Well-Worn)": {
+    "name": "Sawed-Off | Orange DDPAT (Well-Worn)",
+    "nameId": 21321
+  },
+  "SCAR-20 | Brass (Minimal Wear)": {
+    "name": "SCAR-20 | Brass (Minimal Wear)",
+    "nameId": 1074805
+  },
+  "SCAR-20 | Brass (Field-Tested)": {
+    "name": "SCAR-20 | Brass (Field-Tested)",
+    "nameId": 1074685
+  },
+  "SCAR-20 | Brass (Well-Worn)": {
+    "name": "SCAR-20 | Brass (Well-Worn)",
+    "nameId": 1074598
+  },
+  "SCAR-20 | Splash Jam (Factory New)": {
+    "name": "SCAR-20 | Splash Jam (Factory New)",
+    "nameId": 3433
+  },
+  "SCAR-20 | Splash Jam (Minimal Wear)": {
+    "name": "SCAR-20 | Splash Jam (Minimal Wear)",
+    "nameId": 1926
+  },
+  "SCAR-20 | Splash Jam (Field-Tested)": {
+    "name": "SCAR-20 | Splash Jam (Field-Tested)",
+    "nameId": 9269
+  },
+  "SCAR-20 | Splash Jam (Well-Worn)": {
+    "name": "SCAR-20 | Splash Jam (Well-Worn)",
+    "nameId": 19853
+  },
+  "SCAR-20 | Splash Jam (Battle-Scarred)": {
+    "name": "SCAR-20 | Splash Jam (Battle-Scarred)",
+    "nameId": 19838
+  },
+  "SCAR-20 | Emerald (Factory New)": {
+    "name": "SCAR-20 | Emerald (Factory New)",
+    "nameId": 2834
+  },
+  "★ Flip Knife | Fade (Factory New)": {
+    "name": "★ Flip Knife | Fade (Factory New)",
+    "nameId": 2333
+  },
+  "★ Flip Knife | Fade (Minimal Wear)": {
+    "name": "★ Flip Knife | Fade (Minimal Wear)",
+    "nameId": 18783
+  },
+  "★ StatTrak™ Flip Knife | Fade (Factory New)": {
+    "name": "★ StatTrak™ Flip Knife | Fade (Factory New)",
+    "nameId": 15735
+  },
+  "★ Flip Knife | Night (Minimal Wear)": {
+    "name": "★ Flip Knife | Night (Minimal Wear)",
+    "nameId": 1423
+  },
+  "★ Flip Knife | Night (Field-Tested)": {
+    "name": "★ Flip Knife | Night (Field-Tested)",
+    "nameId": 12625
+  },
+  "★ Flip Knife | Night (Well-Worn)": {
+    "name": "★ Flip Knife | Night (Well-Worn)",
+    "nameId": 733
+  },
+  "★ Flip Knife | Night (Battle-Scarred)": {
+    "name": "★ Flip Knife | Night (Battle-Scarred)",
+    "nameId": 1452
+  },
+  "★ Shadow Daggers | Freehand (Factory New)": {
+    "name": "★ Shadow Daggers | Freehand (Factory New)",
+    "nameId": 1087543
+  },
+  "★ Shadow Daggers | Freehand (Minimal Wear)": {
+    "name": "★ Shadow Daggers | Freehand (Minimal Wear)",
+    "nameId": 1087508
+  },
+  "★ Shadow Daggers | Freehand (Field-Tested)": {
+    "name": "★ Shadow Daggers | Freehand (Field-Tested)",
+    "nameId": 1087466
+  },
+  "★ Shadow Daggers | Freehand (Well-Worn)": {
+    "name": "★ Shadow Daggers | Freehand (Well-Worn)",
+    "nameId": 1087631
+  },
+  "★ Shadow Daggers | Freehand (Battle-Scarred)": {
+    "name": "★ Shadow Daggers | Freehand (Battle-Scarred)",
+    "nameId": 1087588
+  },
+  "★ StatTrak™ Shadow Daggers | Freehand (Factory New)": {
+    "name": "★ StatTrak™ Shadow Daggers | Freehand (Factory New)",
+    "nameId": 1087743
+  },
+  "Sticker | NiKo (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | NiKo (Foil) | MLG Columbus 2016",
+    "nameId": 19191
+  },
+  "Sticker | Edward | MLG Columbus 2016": {
+    "name": "Sticker | Edward | MLG Columbus 2016",
+    "nameId": 13789
+  },
+  "Sticker | Edward (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Edward (Foil) | MLG Columbus 2016",
+    "nameId": 19392
+  },
+  "Sticker | flamie (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | flamie (Foil) | MLG Columbus 2016",
+    "nameId": 15900
+  },
+  "Sticker | GuardiaN (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | GuardiaN (Foil) | MLG Columbus 2016",
+    "nameId": 19973
+  },
+  "Sticker | seized | MLG Columbus 2016": {
+    "name": "Sticker | seized | MLG Columbus 2016",
+    "nameId": 16270
+  },
+  "Sticker | Zeus | MLG Columbus 2016": {
+    "name": "Sticker | Zeus | MLG Columbus 2016",
+    "nameId": 481
+  },
+  "Sticker | Zeus (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Zeus (Foil) | MLG Columbus 2016",
+    "nameId": 1505
+  },
+  "Sticker | f0rest | MLG Columbus 2016": {
+    "name": "Sticker | f0rest | MLG Columbus 2016",
+    "nameId": 503
+  },
+  "Sticker | f0rest (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | f0rest (Foil) | MLG Columbus 2016",
+    "nameId": 15903
+  },
+  "Sticker | friberg | MLG Columbus 2016": {
+    "name": "Sticker | friberg | MLG Columbus 2016",
+    "nameId": 18479
+  },
+  "Sticker | friberg (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | friberg (Foil) | MLG Columbus 2016",
+    "nameId": 1797
+  },
+  "Sticker | GeT_RiGhT (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | GeT_RiGhT (Foil) | MLG Columbus 2016",
+    "nameId": 19696
+  },
+  "Sticker | jasonR | MLG Columbus 2016": {
+    "name": "Sticker | jasonR | MLG Columbus 2016",
+    "nameId": 14347
+  },
+  "Sticker | arya | MLG Columbus 2016": {
+    "name": "Sticker | arya | MLG Columbus 2016",
+    "nameId": 19452
+  },
+  "Sticker | Professor_Chaos | MLG Columbus 2016": {
+    "name": "Sticker | Professor_Chaos | MLG Columbus 2016",
+    "nameId": 8552
+  },
+  "Sticker | abE | MLG Columbus 2016": {
+    "name": "Sticker | abE | MLG Columbus 2016",
+    "nameId": 597
+  },
+  "Sticker | s1mple | MLG Columbus 2016": {
+    "name": "Sticker | s1mple | MLG Columbus 2016",
+    "nameId": 12677
+  },
+  "Sticker | s1mple (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | s1mple (Foil) | MLG Columbus 2016",
+    "nameId": 19449
+  },
+  "Sticker | Hiko | MLG Columbus 2016": {
+    "name": "Sticker | Hiko | MLG Columbus 2016",
+    "nameId": 18269
+  },
+  "Sticker | Hiko (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | Hiko (Foil) | MLG Columbus 2016",
+    "nameId": 21434
+  },
+  "Sticker | RpK | MLG Columbus 2016": {
+    "name": "Sticker | RpK | MLG Columbus 2016",
+    "nameId": 19939
+  },
+  "Sticker | RpK (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | RpK (Foil) | MLG Columbus 2016",
+    "nameId": 20709
+  },
+  "Sticker | ScreaM | MLG Columbus 2016": {
+    "name": "Sticker | ScreaM | MLG Columbus 2016",
+    "nameId": 17946
+  },
+  "Sticker | ScreaM (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | ScreaM (Foil) | MLG Columbus 2016",
+    "nameId": 18553
+  },
+  "Sticker | yuurih (Holo) | Antwerp 2022": {
+    "name": "Sticker | yuurih (Holo) | Antwerp 2022",
+    "nameId": 1091352
+  },
+  "Sticker | yuurih (Gold) | Antwerp 2022": {
+    "name": "Sticker | yuurih (Gold) | Antwerp 2022",
+    "nameId": 1091636
+  },
+  "Sticker | arT | Antwerp 2022": {
+    "name": "Sticker | arT | Antwerp 2022",
+    "nameId": 1091288
+  },
+  "Sticker | arT (Glitter) | Antwerp 2022": {
+    "name": "Sticker | arT (Glitter) | Antwerp 2022",
+    "nameId": 1091160
+  },
+  "Sticker | arT (Holo) | Antwerp 2022": {
+    "name": "Sticker | arT (Holo) | Antwerp 2022",
+    "nameId": 1091243
+  },
+  "Sticker | arT (Gold) | Antwerp 2022": {
+    "name": "Sticker | arT (Gold) | Antwerp 2022",
+    "nameId": 1091638
+  },
+  "Sticker | KSCERATO | Antwerp 2022": {
+    "name": "Sticker | KSCERATO | Antwerp 2022",
+    "nameId": 1091242
+  },
+  "Sticker | KSCERATO (Glitter) | Antwerp 2022": {
+    "name": "Sticker | KSCERATO (Glitter) | Antwerp 2022",
+    "nameId": 1091201
+  },
+  "Sticker | KSCERATO (Holo) | Antwerp 2022": {
+    "name": "Sticker | KSCERATO (Holo) | Antwerp 2022",
+    "nameId": 1091515
+  },
+  "Sticker | KSCERATO (Gold) | Antwerp 2022": {
+    "name": "Sticker | KSCERATO (Gold) | Antwerp 2022",
+    "nameId": 1091637
+  },
+  "Sticker | drop | Antwerp 2022": {
+    "name": "Sticker | drop | Antwerp 2022",
+    "nameId": 1091294
+  },
+  "Sticker | drop (Glitter) | Antwerp 2022": {
+    "name": "Sticker | drop (Glitter) | Antwerp 2022",
+    "nameId": 1091162
+  },
+  "Sticker | drop (Holo) | Antwerp 2022": {
+    "name": "Sticker | drop (Holo) | Antwerp 2022",
+    "nameId": 1091516
+  },
+  "Sticker | saffee | Antwerp 2022": {
+    "name": "Sticker | saffee | Antwerp 2022",
+    "nameId": 1091291
+  },
+  "Sticker | saffee (Glitter) | Antwerp 2022": {
+    "name": "Sticker | saffee (Glitter) | Antwerp 2022",
+    "nameId": 1091345
+  },
+  "Sticker | saffee (Holo) | Antwerp 2022": {
+    "name": "Sticker | saffee (Holo) | Antwerp 2022",
+    "nameId": 1091491
+  },
+  "Sticker | saffee (Gold) | Antwerp 2022": {
+    "name": "Sticker | saffee (Gold) | Antwerp 2022",
+    "nameId": 1091571
+  },
+  "Sticker | rain (Glitter) | Antwerp 2022": {
+    "name": "Sticker | rain (Glitter) | Antwerp 2022",
+    "nameId": 1091344
+  },
+  "Sticker | rain (Holo) | Antwerp 2022": {
+    "name": "Sticker | rain (Holo) | Antwerp 2022",
+    "nameId": 1091367
+  },
+  "Sticker | rain (Gold) | Antwerp 2022": {
+    "name": "Sticker | rain (Gold) | Antwerp 2022",
+    "nameId": 1091679
+  },
+  "Sticker | karrigan | Antwerp 2022": {
+    "name": "Sticker | karrigan | Antwerp 2022",
+    "nameId": 1091303
+  },
+  "Sticker | karrigan (Glitter) | Antwerp 2022": {
+    "name": "Sticker | karrigan (Glitter) | Antwerp 2022",
+    "nameId": 1091205
+  },
+  "Sticker | karrigan (Holo) | Antwerp 2022": {
+    "name": "Sticker | karrigan (Holo) | Antwerp 2022",
+    "nameId": 1091321
+  },
+  "Sticker | karrigan (Gold) | Antwerp 2022": {
+    "name": "Sticker | karrigan (Gold) | Antwerp 2022",
+    "nameId": 1091606
+  },
+  "Sticker | Twistzz | Antwerp 2022": {
+    "name": "Sticker | Twistzz | Antwerp 2022",
+    "nameId": 1091271
+  },
+  "Sticker | Twistzz (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Twistzz (Glitter) | Antwerp 2022",
+    "nameId": 1091259
+  },
+  "Sticker | Twistzz (Holo) | Antwerp 2022": {
+    "name": "Sticker | Twistzz (Holo) | Antwerp 2022",
+    "nameId": 1091479
+  },
+  "Sticker | broky | Antwerp 2022": {
+    "name": "Sticker | broky | Antwerp 2022",
+    "nameId": 1091300
+  },
+  "Sticker | broky (Glitter) | Antwerp 2022": {
+    "name": "Sticker | broky (Glitter) | Antwerp 2022",
+    "nameId": 1091327
+  },
+  "Sticker | broky (Holo) | Antwerp 2022": {
+    "name": "Sticker | broky (Holo) | Antwerp 2022",
+    "nameId": 1091448
+  },
+  "Sticker | ropz (Glitter) | Antwerp 2022": {
+    "name": "Sticker | ropz (Glitter) | Antwerp 2022",
+    "nameId": 1091254
+  },
+  "Sticker | REZ | Antwerp 2022": {
+    "name": "Sticker | REZ | Antwerp 2022",
+    "nameId": 1091272
+  },
+  "Sticker | REZ (Glitter) | Antwerp 2022": {
+    "name": "Sticker | REZ (Glitter) | Antwerp 2022",
+    "nameId": 1091375
+  },
+  "Sticker | REZ (Gold) | Antwerp 2022": {
+    "name": "Sticker | REZ (Gold) | Antwerp 2022",
+    "nameId": 1091467
+  },
+  "Sticker | hampus | Antwerp 2022": {
+    "name": "Sticker | hampus | Antwerp 2022",
+    "nameId": 1091326
+  },
+  "Sticker | hampus (Glitter) | Antwerp 2022": {
+    "name": "Sticker | hampus (Glitter) | Antwerp 2022",
+    "nameId": 1091442
+  },
+  "Sticker | hampus (Holo) | Antwerp 2022": {
+    "name": "Sticker | hampus (Holo) | Antwerp 2022",
+    "nameId": 1091576
+  },
+  "Sticker | hampus (Gold) | Antwerp 2022": {
+    "name": "Sticker | hampus (Gold) | Antwerp 2022",
+    "nameId": 1091671
+  },
+  "Sticker | Plopski | Antwerp 2022": {
+    "name": "Sticker | Plopski | Antwerp 2022",
+    "nameId": 1091118
+  },
+  "Sticker | Plopski (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Plopski (Glitter) | Antwerp 2022",
+    "nameId": 1091484
+  },
+  "Sticker | Plopski (Holo) | Antwerp 2022": {
+    "name": "Sticker | Plopski (Holo) | Antwerp 2022",
+    "nameId": 1091541
+  },
+  "Sticker | Plopski (Gold) | Antwerp 2022": {
+    "name": "Sticker | Plopski (Gold) | Antwerp 2022",
+    "nameId": 1091668
+  },
+  "Sticker | es3tag | Antwerp 2022": {
+    "name": "Sticker | es3tag | Antwerp 2022",
+    "nameId": 1091298
+  },
+  "Sticker | es3tag (Glitter) | Antwerp 2022": {
+    "name": "Sticker | es3tag (Glitter) | Antwerp 2022",
+    "nameId": 1091269
+  },
+  "Sticker | es3tag (Holo) | Antwerp 2022": {
+    "name": "Sticker | es3tag (Holo) | Antwerp 2022",
+    "nameId": 1091499
+  },
+  "Sticker | Brollan | Antwerp 2022": {
+    "name": "Sticker | Brollan | Antwerp 2022",
+    "nameId": 1091159
+  },
+  "Sticker | Brollan (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Brollan (Glitter) | Antwerp 2022",
+    "nameId": 1091359
+  },
+  "Sticker | Brollan (Holo) | Antwerp 2022": {
+    "name": "Sticker | Brollan (Holo) | Antwerp 2022",
+    "nameId": 1091470
+  },
+  "Sticker | Brollan (Gold) | Antwerp 2022": {
+    "name": "Sticker | Brollan (Gold) | Antwerp 2022",
+    "nameId": 1091672
+  },
+  "Sticker | s1mple | Antwerp 2022": {
+    "name": "Sticker | s1mple | Antwerp 2022",
+    "nameId": 1091318
+  },
+  "Sticker | s1mple (Glitter) | Antwerp 2022": {
+    "name": "Sticker | s1mple (Glitter) | Antwerp 2022",
+    "nameId": 1091473
+  },
+  "Sticker | s1mple (Holo) | Antwerp 2022": {
+    "name": "Sticker | s1mple (Holo) | Antwerp 2022",
+    "nameId": 1091365
+  },
+  "Sticker | s1mple (Gold) | Antwerp 2022": {
+    "name": "Sticker | s1mple (Gold) | Antwerp 2022",
+    "nameId": 1091469
+  },
+  "Sticker | Boombl4 | Antwerp 2022": {
+    "name": "Sticker | Boombl4 | Antwerp 2022",
+    "nameId": 1091161
+  },
+  "Sticker | Boombl4 (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Boombl4 (Glitter) | Antwerp 2022",
+    "nameId": 1091202
+  },
+  "Sticker | Boombl4 (Holo) | Antwerp 2022": {
+    "name": "Sticker | Boombl4 (Holo) | Antwerp 2022",
+    "nameId": 1091434
+  },
+  "Sticker | Boombl4 (Gold) | Antwerp 2022": {
+    "name": "Sticker | Boombl4 (Gold) | Antwerp 2022",
+    "nameId": 1091489
+  },
+  "Sticker | Perfecto | Antwerp 2022": {
+    "name": "Sticker | Perfecto | Antwerp 2022",
+    "nameId": 1091166
+  },
+  "Sticker | Perfecto (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Perfecto (Glitter) | Antwerp 2022",
+    "nameId": 1091355
+  },
+  "Sticker | Perfecto (Holo) | Antwerp 2022": {
+    "name": "Sticker | Perfecto (Holo) | Antwerp 2022",
+    "nameId": 1091549
+  },
+  "Sticker | Perfecto (Gold) | Antwerp 2022": {
+    "name": "Sticker | Perfecto (Gold) | Antwerp 2022",
+    "nameId": 1091697
+  },
+  "Sticker | electronic | Antwerp 2022": {
+    "name": "Sticker | electronic | Antwerp 2022",
+    "nameId": 1091207
+  },
+  "Sticker | electronic (Glitter) | Antwerp 2022": {
+    "name": "Sticker | electronic (Glitter) | Antwerp 2022",
+    "nameId": 1091403
+  },
+  "Sticker | b1t | Antwerp 2022": {
+    "name": "Sticker | b1t | Antwerp 2022",
+    "nameId": 1091394
+  },
+  "Sticker | b1t (Glitter) | Antwerp 2022": {
+    "name": "Sticker | b1t (Glitter) | Antwerp 2022",
+    "nameId": 1091356
+  },
+  "Sticker | b1t (Holo) | Antwerp 2022": {
+    "name": "Sticker | b1t (Holo) | Antwerp 2022",
+    "nameId": 1091592
+  },
+  "Sticker | Snappi | Antwerp 2022": {
+    "name": "Sticker | Snappi | Antwerp 2022",
+    "nameId": 1091184
+  },
+  "Sticker | Snappi (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Snappi (Glitter) | Antwerp 2022",
+    "nameId": 1091478
+  },
+  "Sticker | Snappi (Holo) | Antwerp 2022": {
+    "name": "Sticker | Snappi (Holo) | Antwerp 2022",
+    "nameId": 1091458
+  },
+  "Sticker | Snappi (Gold) | Antwerp 2022": {
+    "name": "Sticker | Snappi (Gold) | Antwerp 2022",
+    "nameId": 1091250
+  },
+  "Sticker | dycha | Antwerp 2022": {
+    "name": "Sticker | dycha | Antwerp 2022",
+    "nameId": 1091163
+  },
+  "Sticker | dycha (Glitter) | Antwerp 2022": {
+    "name": "Sticker | dycha (Glitter) | Antwerp 2022",
+    "nameId": 1091488
+  },
+  "Sticker | dycha (Holo) | Antwerp 2022": {
+    "name": "Sticker | dycha (Holo) | Antwerp 2022",
+    "nameId": 1091581
+  },
+  "Sticker | dycha (Gold) | Antwerp 2022": {
+    "name": "Sticker | dycha (Gold) | Antwerp 2022",
+    "nameId": 1091678
+  },
+  "Sticker | Spinx | Antwerp 2022": {
+    "name": "Sticker | Spinx | Antwerp 2022",
+    "nameId": 1091252
+  },
+  "Sticker | Spinx (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Spinx (Glitter) | Antwerp 2022",
+    "nameId": 1091221
+  },
+  "Sticker | Spinx (Holo) | Antwerp 2022": {
+    "name": "Sticker | Spinx (Holo) | Antwerp 2022",
+    "nameId": 1091482
+  },
+  "Sticker | Spinx (Gold) | Antwerp 2022": {
+    "name": "Sticker | Spinx (Gold) | Antwerp 2022",
+    "nameId": 1091681
+  },
+  "Sticker | hades | Antwerp 2022": {
+    "name": "Sticker | hades | Antwerp 2022",
+    "nameId": 1091168
+  },
+  "Sticker | hades (Glitter) | Antwerp 2022": {
+    "name": "Sticker | hades (Glitter) | Antwerp 2022",
+    "nameId": 1091220
+  },
+  "Sticker | hades (Holo) | Antwerp 2022": {
+    "name": "Sticker | hades (Holo) | Antwerp 2022",
+    "nameId": 1091525
+  },
+  "Sticker | hades (Gold) | Antwerp 2022": {
+    "name": "Sticker | hades (Gold) | Antwerp 2022",
+    "nameId": 1091661
+  },
+  "Sticker | maden | Antwerp 2022": {
+    "name": "Sticker | maden | Antwerp 2022",
+    "nameId": 1091188
+  },
+  "Sticker | maden (Gold) | Antwerp 2022": {
+    "name": "Sticker | maden (Gold) | Antwerp 2022",
+    "nameId": 1091575
+  },
+  "Sticker | Aleksib | Antwerp 2022": {
+    "name": "Sticker | Aleksib | Antwerp 2022",
+    "nameId": 1091245
+  },
+  "Sticker | Aleksib (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Aleksib (Glitter) | Antwerp 2022",
+    "nameId": 1091460
+  },
+  "Sticker | Aleksib (Holo) | Antwerp 2022": {
+    "name": "Sticker | Aleksib (Holo) | Antwerp 2022",
+    "nameId": 1091456
+  },
+  "Sticker | Aleksib (Gold) | Antwerp 2022": {
+    "name": "Sticker | Aleksib (Gold) | Antwerp 2022",
+    "nameId": 1091700
+  },
+  "Sticker | huNter | Antwerp 2022": {
+    "name": "Sticker | huNter | Antwerp 2022",
+    "nameId": 1091174
+  },
+  "Sticker | huNter (Holo) | Antwerp 2022": {
+    "name": "Sticker | huNter (Holo) | Antwerp 2022",
+    "nameId": 1091590
+  },
+  "Sticker | JaCkz | Antwerp 2022": {
+    "name": "Sticker | JaCkz | Antwerp 2022",
+    "nameId": 1091167
+  },
+  "Sticker | JaCkz (Glitter) | Antwerp 2022": {
+    "name": "Sticker | JaCkz (Glitter) | Antwerp 2022",
+    "nameId": 1091320
+  },
+  "Sticker | JaCkz (Holo) | Antwerp 2022": {
+    "name": "Sticker | JaCkz (Holo) | Antwerp 2022",
+    "nameId": 1091477
+  },
+  "Sticker | m0NESY | Antwerp 2022": {
+    "name": "Sticker | m0NESY | Antwerp 2022",
+    "nameId": 1091284
+  },
+  "Sticker | m0NESY (Glitter) | Antwerp 2022": {
+    "name": "Sticker | m0NESY (Glitter) | Antwerp 2022",
+    "nameId": 1091435
+  },
+  "Sticker | m0NESY (Holo) | Antwerp 2022": {
+    "name": "Sticker | m0NESY (Holo) | Antwerp 2022",
+    "nameId": 1091399
+  },
+  "Sticker | m0NESY (Gold) | Antwerp 2022": {
+    "name": "Sticker | m0NESY (Gold) | Antwerp 2022",
+    "nameId": 1091686
+  },
+  "Sticker | NiKo | Antwerp 2022": {
+    "name": "Sticker | NiKo | Antwerp 2022",
+    "nameId": 1091329
+  },
+  "Sticker | NiKo (Glitter) | Antwerp 2022": {
+    "name": "Sticker | NiKo (Glitter) | Antwerp 2022",
+    "nameId": 1091185
+  },
+  "Sticker | NiKo (Holo) | Antwerp 2022": {
+    "name": "Sticker | NiKo (Holo) | Antwerp 2022",
+    "nameId": 1091187
+  },
+  "Sticker | NiKo (Gold) | Antwerp 2022": {
+    "name": "Sticker | NiKo (Gold) | Antwerp 2022",
+    "nameId": 1091628
+  },
+  "Sticker | Jerry | Antwerp 2022": {
+    "name": "Sticker | Jerry | Antwerp 2022",
+    "nameId": 1091193
+  },
+  "Sticker | Jerry (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Jerry (Glitter) | Antwerp 2022",
+    "nameId": 1091390
+  },
+  "Sticker | Jerry (Holo) | Antwerp 2022": {
+    "name": "Sticker | Jerry (Holo) | Antwerp 2022",
+    "nameId": 1091508
+  },
+  "Sticker | zorte | Antwerp 2022": {
+    "name": "Sticker | zorte | Antwerp 2022",
+    "nameId": 1091194
+  },
+  "Sticker | zorte (Glitter) | Antwerp 2022": {
+    "name": "Sticker | zorte (Glitter) | Antwerp 2022",
+    "nameId": 1091111
+  },
+  "Sticker | zorte (Holo) | Antwerp 2022": {
+    "name": "Sticker | zorte (Holo) | Antwerp 2022",
+    "nameId": 1091212
+  },
+  "Sticker | zorte (Gold) | Antwerp 2022": {
+    "name": "Sticker | zorte (Gold) | Antwerp 2022",
+    "nameId": 1091563
+  },
+  "Sticker | KENSi | Antwerp 2022": {
+    "name": "Sticker | KENSi | Antwerp 2022",
+    "nameId": 1091109
+  },
+  "Sticker | KENSi (Glitter) | Antwerp 2022": {
+    "name": "Sticker | KENSi (Glitter) | Antwerp 2022",
+    "nameId": 1091227
+  },
+  "Sticker | KENSi (Holo) | Antwerp 2022": {
+    "name": "Sticker | KENSi (Holo) | Antwerp 2022",
+    "nameId": 1091483
+  },
+  "Sticker | Norwi | Antwerp 2022": {
+    "name": "Sticker | Norwi | Antwerp 2022",
+    "nameId": 1091112
+  },
+  "Sticker | Norwi (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Norwi (Glitter) | Antwerp 2022",
+    "nameId": 1091392
+  },
+  "Sticker | Norwi (Holo) | Antwerp 2022": {
+    "name": "Sticker | Norwi (Holo) | Antwerp 2022",
+    "nameId": 1091417
+  },
+  "Sticker | Norwi (Gold) | Antwerp 2022": {
+    "name": "Sticker | Norwi (Gold) | Antwerp 2022",
+    "nameId": 1091640
+  },
+  "Sticker | shalfey | Antwerp 2022": {
+    "name": "Sticker | shalfey | Antwerp 2022",
+    "nameId": 1091172
+  },
+  "Sticker | shalfey (Glitter) | Antwerp 2022": {
+    "name": "Sticker | shalfey (Glitter) | Antwerp 2022",
+    "nameId": 1091461
+  },
+  "Sticker | shalfey (Holo) | Antwerp 2022": {
+    "name": "Sticker | shalfey (Holo) | Antwerp 2022",
+    "nameId": 1091545
+  },
+  "Sticker | shalfey (Gold) | Antwerp 2022": {
+    "name": "Sticker | shalfey (Gold) | Antwerp 2022",
+    "nameId": 1091624
+  },
+  "Sticker | gla1ve | Antwerp 2022": {
+    "name": "Sticker | gla1ve | Antwerp 2022",
+    "nameId": 1091209
+  },
+  "Sticker | gla1ve (Glitter) | Antwerp 2022": {
+    "name": "Sticker | gla1ve (Glitter) | Antwerp 2022",
+    "nameId": 1091223
+  },
+  "Sticker | gla1ve (Holo) | Antwerp 2022": {
+    "name": "Sticker | gla1ve (Holo) | Antwerp 2022",
+    "nameId": 1091538
+  },
+  "Sticker | blameF | Antwerp 2022": {
+    "name": "Sticker | blameF | Antwerp 2022",
+    "nameId": 1091362
+  },
+  "Sticker | blameF (Glitter) | Antwerp 2022": {
+    "name": "Sticker | blameF (Glitter) | Antwerp 2022",
+    "nameId": 1091451
+  },
+  "Sticker | blameF (Holo) | Antwerp 2022": {
+    "name": "Sticker | blameF (Holo) | Antwerp 2022",
+    "nameId": 1091251
+  },
+  "Sticker | blameF (Gold) | Antwerp 2022": {
+    "name": "Sticker | blameF (Gold) | Antwerp 2022",
+    "nameId": 1091617
+  },
+  "Sticker | k0nfig | Antwerp 2022": {
+    "name": "Sticker | k0nfig | Antwerp 2022",
+    "nameId": 1091157
+  },
+  "Sticker | k0nfig (Glitter) | Antwerp 2022": {
+    "name": "Sticker | k0nfig (Glitter) | Antwerp 2022",
+    "nameId": 1091386
+  },
+  "Sticker | k0nfig (Holo) | Antwerp 2022": {
+    "name": "Sticker | k0nfig (Holo) | Antwerp 2022",
+    "nameId": 1091585
+  },
+  "Sticker | k0nfig (Gold) | Antwerp 2022": {
+    "name": "Sticker | k0nfig (Gold) | Antwerp 2022",
+    "nameId": 1091675
+  },
+  "Sticker | Xyp9x | Antwerp 2022": {
+    "name": "Sticker | Xyp9x | Antwerp 2022",
+    "nameId": 1091286
+  },
+  "Sticker | Xyp9x (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Xyp9x (Glitter) | Antwerp 2022",
+    "nameId": 1091481
+  },
+  "Sticker | Xyp9x (Holo) | Antwerp 2022": {
+    "name": "Sticker | Xyp9x (Holo) | Antwerp 2022",
+    "nameId": 1091463
+  },
+  "Sticker | Farlig | Antwerp 2022": {
+    "name": "Sticker | Farlig | Antwerp 2022",
+    "nameId": 1091182
+  },
+  "Sticker | Farlig (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Farlig (Glitter) | Antwerp 2022",
+    "nameId": 1091492
+  },
+  "Sticker | Farlig (Holo) | Antwerp 2022": {
+    "name": "Sticker | Farlig (Holo) | Antwerp 2022",
+    "nameId": 1091490
+  },
+  "Sticker | apEX | Antwerp 2022": {
+    "name": "Sticker | apEX | Antwerp 2022",
+    "nameId": 1091158
+  },
+  "Sticker | apEX (Glitter) | Antwerp 2022": {
+    "name": "Sticker | apEX (Glitter) | Antwerp 2022",
+    "nameId": 1091183
+  },
+  "Sticker | apEX (Holo) | Antwerp 2022": {
+    "name": "Sticker | apEX (Holo) | Antwerp 2022",
+    "nameId": 1091486
+  },
+  "Sticker | apEX (Gold) | Antwerp 2022": {
+    "name": "Sticker | apEX (Gold) | Antwerp 2022",
+    "nameId": 1091593
+  },
+  "Sticker | misutaaa | Antwerp 2022": {
+    "name": "Sticker | misutaaa | Antwerp 2022",
+    "nameId": 1091186
+  },
+  "Sticker | misutaaa (Glitter) | Antwerp 2022": {
+    "name": "Sticker | misutaaa (Glitter) | Antwerp 2022",
+    "nameId": 1091384
+  },
+  "Sticker | misutaaa (Holo) | Antwerp 2022": {
+    "name": "Sticker | misutaaa (Holo) | Antwerp 2022",
+    "nameId": 1091411
+  },
+  "Sticker | misutaaa (Gold) | Antwerp 2022": {
+    "name": "Sticker | misutaaa (Gold) | Antwerp 2022",
+    "nameId": 1091650
+  },
+  "Sticker | dupreeh | Antwerp 2022": {
+    "name": "Sticker | dupreeh | Antwerp 2022",
+    "nameId": 1091324
+  },
+  "Sticker | dupreeh (Glitter) | Antwerp 2022": {
+    "name": "Sticker | dupreeh (Glitter) | Antwerp 2022",
+    "nameId": 1091267
+  },
+  "Sticker | dupreeh (Holo) | Antwerp 2022": {
+    "name": "Sticker | dupreeh (Holo) | Antwerp 2022",
+    "nameId": 1091413
+  },
+  "Sticker | dupreeh (Gold) | Antwerp 2022": {
+    "name": "Sticker | dupreeh (Gold) | Antwerp 2022",
+    "nameId": 1091627
+  },
+  "Sticker | Magisk | Antwerp 2022": {
+    "name": "Sticker | Magisk | Antwerp 2022",
+    "nameId": 1091273
+  },
+  "Sticker | Magisk (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Magisk (Glitter) | Antwerp 2022",
+    "nameId": 1091323
+  },
+  "Sticker | Magisk (Holo) | Antwerp 2022": {
+    "name": "Sticker | Magisk (Holo) | Antwerp 2022",
+    "nameId": 1091582
+  },
+  "Sticker | Magisk (Gold) | Antwerp 2022": {
+    "name": "Sticker | Magisk (Gold) | Antwerp 2022",
+    "nameId": 1091657
+  },
+  "Sticker | ZywOo | Antwerp 2022": {
+    "name": "Sticker | ZywOo | Antwerp 2022",
+    "nameId": 1091191
+  },
+  "Sticker | ZywOo (Glitter) | Antwerp 2022": {
+    "name": "Sticker | ZywOo (Glitter) | Antwerp 2022",
+    "nameId": 1091447
+  },
+  "Sticker | ZywOo (Holo) | Antwerp 2022": {
+    "name": "Sticker | ZywOo (Holo) | Antwerp 2022",
+    "nameId": 1091512
+  },
+  "Sticker | ZywOo (Gold) | Antwerp 2022": {
+    "name": "Sticker | ZywOo (Gold) | Antwerp 2022",
+    "nameId": 1091510
+  },
+  "Sticker | WOOD7 | Antwerp 2022": {
+    "name": "Sticker | WOOD7 | Antwerp 2022",
+    "nameId": 1091190
+  },
+  "Sticker | WOOD7 (Glitter) | Antwerp 2022": {
+    "name": "Sticker | WOOD7 (Glitter) | Antwerp 2022",
+    "nameId": 1091465
+  },
+  "Sticker | WOOD7 (Holo) | Antwerp 2022": {
+    "name": "Sticker | WOOD7 (Holo) | Antwerp 2022",
+    "nameId": 1091485
+  },
+  "Sticker | WOOD7 (Gold) | Antwerp 2022": {
+    "name": "Sticker | WOOD7 (Gold) | Antwerp 2022",
+    "nameId": 1091596
+  },
+  "Sticker | chelo | Antwerp 2022": {
+    "name": "Sticker | chelo | Antwerp 2022",
+    "nameId": 1091213
+  },
+  "Sticker | chelo (Glitter) | Antwerp 2022": {
+    "name": "Sticker | chelo (Glitter) | Antwerp 2022",
+    "nameId": 1091219
+  },
+  "Sticker | chelo (Holo) | Antwerp 2022": {
+    "name": "Sticker | chelo (Holo) | Antwerp 2022",
+    "nameId": 1091445
+  },
+  "Sticker | chelo (Gold) | Antwerp 2022": {
+    "name": "Sticker | chelo (Gold) | Antwerp 2022",
+    "nameId": 1091634
+  },
+  "Sticker | Tuurtle | Antwerp 2022": {
+    "name": "Sticker | Tuurtle | Antwerp 2022",
+    "nameId": 1091175
+  },
+  "Sticker | Tuurtle (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Tuurtle (Glitter) | Antwerp 2022",
+    "nameId": 1091539
+  },
+  "Sticker | Tuurtle (Gold) | Antwerp 2022": {
+    "name": "Sticker | Tuurtle (Gold) | Antwerp 2022",
+    "nameId": 1091633
+  },
+  "Sticker | exit (Glitter) | Antwerp 2022": {
+    "name": "Sticker | exit (Glitter) | Antwerp 2022",
+    "nameId": 1091475
+  },
+  "Sticker | exit (Holo) | Antwerp 2022": {
+    "name": "Sticker | exit (Holo) | Antwerp 2022",
+    "nameId": 1091385
+  },
+  "Sticker | exit (Gold) | Antwerp 2022": {
+    "name": "Sticker | exit (Gold) | Antwerp 2022",
+    "nameId": 1091577
+  },
+  "Sticker | JOTA | Antwerp 2022": {
+    "name": "Sticker | JOTA | Antwerp 2022",
+    "nameId": 1091153
+  },
+  "Sticker | JOTA (Glitter) | Antwerp 2022": {
+    "name": "Sticker | JOTA (Glitter) | Antwerp 2022",
+    "nameId": 1091244
+  },
+  "Sticker | JOTA (Gold) | Antwerp 2022": {
+    "name": "Sticker | JOTA (Gold) | Antwerp 2022",
+    "nameId": 1091616
+  },
+  "Sticker | FalleN | Antwerp 2022": {
+    "name": "Sticker | FalleN | Antwerp 2022",
+    "nameId": 1091241
+  },
+  "Sticker | FalleN (Glitter) | Antwerp 2022": {
+    "name": "Sticker | FalleN (Glitter) | Antwerp 2022",
+    "nameId": 1091287
+  },
+  "Sticker | FalleN (Holo) | Antwerp 2022": {
+    "name": "Sticker | FalleN (Holo) | Antwerp 2022",
+    "nameId": 1091382
+  },
+  "Sticker | FalleN (Gold) | Antwerp 2022": {
+    "name": "Sticker | FalleN (Gold) | Antwerp 2022",
+    "nameId": 1091419
+  },
+  "Sticker | fer | Antwerp 2022": {
+    "name": "Sticker | fer | Antwerp 2022",
+    "nameId": 1091315
+  },
+  "Sticker | fer (Glitter) | Antwerp 2022": {
+    "name": "Sticker | fer (Glitter) | Antwerp 2022",
+    "nameId": 1091331
+  },
+  "Sticker | fer (Holo) | Antwerp 2022": {
+    "name": "Sticker | fer (Holo) | Antwerp 2022",
+    "nameId": 1091495
+  },
+  "Sticker | fer (Gold) | Antwerp 2022": {
+    "name": "Sticker | fer (Gold) | Antwerp 2022",
+    "nameId": 1091630
+  },
+  "Sticker | fnx | Antwerp 2022": {
+    "name": "Sticker | fnx | Antwerp 2022",
+    "nameId": 1091152
+  },
+  "Sticker | fnx (Glitter) | Antwerp 2022": {
+    "name": "Sticker | fnx (Glitter) | Antwerp 2022",
+    "nameId": 1091333
+  },
+  "Sticker | fnx (Holo) | Antwerp 2022": {
+    "name": "Sticker | fnx (Holo) | Antwerp 2022",
+    "nameId": 1091383
+  },
+  "Sticker | fnx (Gold) | Antwerp 2022": {
+    "name": "Sticker | fnx (Gold) | Antwerp 2022",
+    "nameId": 1091532
+  },
+  "Sticker | boltz | Antwerp 2022": {
+    "name": "Sticker | boltz | Antwerp 2022",
+    "nameId": 1091189
+  },
+  "Sticker | boltz (Glitter) | Antwerp 2022": {
+    "name": "Sticker | boltz (Glitter) | Antwerp 2022",
+    "nameId": 1091398
+  },
+  "Sticker | boltz (Holo) | Antwerp 2022": {
+    "name": "Sticker | boltz (Holo) | Antwerp 2022",
+    "nameId": 1091457
+  },
+  "Sticker | VINI | Antwerp 2022": {
+    "name": "Sticker | VINI | Antwerp 2022",
+    "nameId": 1091124
+  },
+  "Sticker | VINI (Glitter) | Antwerp 2022": {
+    "name": "Sticker | VINI (Glitter) | Antwerp 2022",
+    "nameId": 1091210
+  },
+  "Sticker | VINI (Holo) | Antwerp 2022": {
+    "name": "Sticker | VINI (Holo) | Antwerp 2022",
+    "nameId": 1091192
+  },
+  "Sticker | VINI (Gold) | Antwerp 2022": {
+    "name": "Sticker | VINI (Gold) | Antwerp 2022",
+    "nameId": 1091602
+  },
+  "Sticker | rigoN | Antwerp 2022": {
+    "name": "Sticker | rigoN | Antwerp 2022",
+    "nameId": 1091211
+  },
+  "Sticker | rigoN (Glitter) | Antwerp 2022": {
+    "name": "Sticker | rigoN (Glitter) | Antwerp 2022",
+    "nameId": 1091422
+  },
+  "Sticker | rigoN (Holo) | Antwerp 2022": {
+    "name": "Sticker | rigoN (Holo) | Antwerp 2022",
+    "nameId": 1091436
+  },
+  "Sticker | rigoN (Gold) | Antwerp 2022": {
+    "name": "Sticker | rigoN (Gold) | Antwerp 2022",
+    "nameId": 1091496
+  },
+  "Sticker | juanflatroo | Antwerp 2022": {
+    "name": "Sticker | juanflatroo | Antwerp 2022",
+    "nameId": 1091236
+  },
+  "Sticker | juanflatroo (Glitter) | Antwerp 2022": {
+    "name": "Sticker | juanflatroo (Glitter) | Antwerp 2022",
+    "nameId": 1091420
+  },
+  "Sticker | juanflatroo (Holo) | Antwerp 2022": {
+    "name": "Sticker | juanflatroo (Holo) | Antwerp 2022",
+    "nameId": 1091504
+  },
+  "Sticker | SENER1 | Antwerp 2022": {
+    "name": "Sticker | SENER1 | Antwerp 2022",
+    "nameId": 1091360
+  },
+  "Sticker | SENER1 (Glitter) | Antwerp 2022": {
+    "name": "Sticker | SENER1 (Glitter) | Antwerp 2022",
+    "nameId": 1091222
+  },
+  "Sticker | SENER1 (Holo) | Antwerp 2022": {
+    "name": "Sticker | SENER1 (Holo) | Antwerp 2022",
+    "nameId": 1091380
+  },
+  "Sticker | SENER1 (Gold) | Antwerp 2022": {
+    "name": "Sticker | SENER1 (Gold) | Antwerp 2022",
+    "nameId": 1091564
+  },
+  "Sticker | sinnopsyy | Antwerp 2022": {
+    "name": "Sticker | sinnopsyy | Antwerp 2022",
+    "nameId": 1091379
+  },
+  "Sticker | sinnopsyy (Glitter) | Antwerp 2022": {
+    "name": "Sticker | sinnopsyy (Glitter) | Antwerp 2022",
+    "nameId": 1091117
+  },
+  "Sticker | sinnopsyy (Holo) | Antwerp 2022": {
+    "name": "Sticker | sinnopsyy (Holo) | Antwerp 2022",
+    "nameId": 1091600
+  },
+  "Sticker | sinnopsyy (Gold) | Antwerp 2022": {
+    "name": "Sticker | sinnopsyy (Gold) | Antwerp 2022",
+    "nameId": 1091565
+  },
+  "Sticker | gxx- | Antwerp 2022": {
+    "name": "Sticker | gxx- | Antwerp 2022",
+    "nameId": 1091279
+  },
+  "Sticker | gxx- (Glitter) | Antwerp 2022": {
+    "name": "Sticker | gxx- (Glitter) | Antwerp 2022",
+    "nameId": 1091441
+  },
+  "Sticker | gxx- (Holo) | Antwerp 2022": {
+    "name": "Sticker | gxx- (Holo) | Antwerp 2022",
+    "nameId": 1091540
+  },
+  "Sticker | gxx- (Gold) | Antwerp 2022": {
+    "name": "Sticker | gxx- (Gold) | Antwerp 2022",
+    "nameId": 1091662
+  },
+  "Sticker | XANTARES | Antwerp 2022": {
+    "name": "Sticker | XANTARES | Antwerp 2022",
+    "nameId": 1091262
+  },
+  "Sticker | XANTARES (Glitter) | Antwerp 2022": {
+    "name": "Sticker | XANTARES (Glitter) | Antwerp 2022",
+    "nameId": 1091560
+  },
+  "Sticker | XANTARES (Holo) | Antwerp 2022": {
+    "name": "Sticker | XANTARES (Holo) | Antwerp 2022",
+    "nameId": 1091493
+  },
+  "Sticker | XANTARES (Gold) | Antwerp 2022": {
+    "name": "Sticker | XANTARES (Gold) | Antwerp 2022",
+    "nameId": 1091658
+  },
+  "Sticker | woxic | Antwerp 2022": {
+    "name": "Sticker | woxic | Antwerp 2022",
+    "nameId": 1091289
+  },
+  "Sticker | woxic (Glitter) | Antwerp 2022": {
+    "name": "Sticker | woxic (Glitter) | Antwerp 2022",
+    "nameId": 1091277
+  },
+  "Sticker | woxic (Holo) | Antwerp 2022": {
+    "name": "Sticker | woxic (Holo) | Antwerp 2022",
+    "nameId": 1091332
+  },
+  "Sticker | woxic (Gold) | Antwerp 2022": {
+    "name": "Sticker | woxic (Gold) | Antwerp 2022",
+    "nameId": 1091474
+  },
+  "Sticker | imoRR | Antwerp 2022": {
+    "name": "Sticker | imoRR | Antwerp 2022",
+    "nameId": 1091173
+  },
+  "Sticker | imoRR (Glitter) | Antwerp 2022": {
+    "name": "Sticker | imoRR (Glitter) | Antwerp 2022",
+    "nameId": 1091459
+  },
+  "Sticker | imoRR (Holo) | Antwerp 2022": {
+    "name": "Sticker | imoRR (Holo) | Antwerp 2022",
+    "nameId": 1091588
+  },
+  "Sticker | Calyx | Antwerp 2022": {
+    "name": "Sticker | Calyx | Antwerp 2022",
+    "nameId": 1091293
+  },
+  "Sticker | Calyx (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Calyx (Glitter) | Antwerp 2022",
+    "nameId": 1091229
+  },
+  "Sticker | Calyx (Holo) | Antwerp 2022": {
+    "name": "Sticker | Calyx (Holo) | Antwerp 2022",
+    "nameId": 1091570
+  },
+  "Sticker | Calyx (Gold) | Antwerp 2022": {
+    "name": "Sticker | Calyx (Gold) | Antwerp 2022",
+    "nameId": 1091429
+  },
+  "Sticker | xfl0ud | Antwerp 2022": {
+    "name": "Sticker | xfl0ud | Antwerp 2022",
+    "nameId": 1091340
+  },
+  "Sticker | xfl0ud (Glitter) | Antwerp 2022": {
+    "name": "Sticker | xfl0ud (Glitter) | Antwerp 2022",
+    "nameId": 1091455
+  },
+  "Sticker | xfl0ud (Holo) | Antwerp 2022": {
+    "name": "Sticker | xfl0ud (Holo) | Antwerp 2022",
+    "nameId": 1091589
+  },
+  "Sticker | xfl0ud (Gold) | Antwerp 2022": {
+    "name": "Sticker | xfl0ud (Gold) | Antwerp 2022",
+    "nameId": 1091751
+  },
+  "Sticker | chopper | Antwerp 2022": {
+    "name": "Sticker | chopper | Antwerp 2022",
+    "nameId": 1091141
+  },
+  "Sticker | chopper (Glitter) | Antwerp 2022": {
+    "name": "Sticker | chopper (Glitter) | Antwerp 2022",
+    "nameId": 1091387
+  },
+  "Sticker | chopper (Holo) | Antwerp 2022": {
+    "name": "Sticker | chopper (Holo) | Antwerp 2022",
+    "nameId": 1091505
+  },
+  "Sticker | chopper (Gold) | Antwerp 2022": {
+    "name": "Sticker | chopper (Gold) | Antwerp 2022",
+    "nameId": 1091701
+  },
+  "Sticker | magixx | Antwerp 2022": {
+    "name": "Sticker | magixx | Antwerp 2022",
+    "nameId": 1091195
+  },
+  "Sticker | magixx (Glitter) | Antwerp 2022": {
+    "name": "Sticker | magixx (Glitter) | Antwerp 2022",
+    "nameId": 1091557
+  },
+  "Sticker | magixx (Holo) | Antwerp 2022": {
+    "name": "Sticker | magixx (Holo) | Antwerp 2022",
+    "nameId": 1091587
+  },
+  "Sticker | degster | Antwerp 2022": {
+    "name": "Sticker | degster | Antwerp 2022",
+    "nameId": 1091139
+  },
+  "Sticker | degster (Glitter) | Antwerp 2022": {
+    "name": "Sticker | degster (Glitter) | Antwerp 2022",
+    "nameId": 1091426
+  },
+  "Sticker | degster (Holo) | Antwerp 2022": {
+    "name": "Sticker | degster (Holo) | Antwerp 2022",
+    "nameId": 1091453
+  },
+  "Sticker | Patsi | Antwerp 2022": {
+    "name": "Sticker | Patsi | Antwerp 2022",
+    "nameId": 1091341
+  },
+  "Sticker | Patsi (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Patsi (Glitter) | Antwerp 2022",
+    "nameId": 1091452
+  },
+  "Sticker | Patsi (Holo) | Antwerp 2022": {
+    "name": "Sticker | Patsi (Holo) | Antwerp 2022",
+    "nameId": 1091613
+  },
+  "Sticker | S1ren | Antwerp 2022": {
+    "name": "Sticker | S1ren | Antwerp 2022",
+    "nameId": 1091132
+  },
+  "Sticker | S1ren (Glitter) | Antwerp 2022": {
+    "name": "Sticker | S1ren (Glitter) | Antwerp 2022",
+    "nameId": 1091534
+  },
+  "Sticker | S1ren (Holo) | Antwerp 2022": {
+    "name": "Sticker | S1ren (Holo) | Antwerp 2022",
+    "nameId": 1091626
+  },
+  "Sticker | S1ren (Gold) | Antwerp 2022": {
+    "name": "Sticker | S1ren (Gold) | Antwerp 2022",
+    "nameId": 1091620
+  },
+  "Sticker | Jame | Antwerp 2022": {
+    "name": "Sticker | Jame | Antwerp 2022",
+    "nameId": 1091343
+  },
+  "Sticker | Jame (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Jame (Glitter) | Antwerp 2022",
+    "nameId": 1091316
+  },
+  "Sticker | Jame (Holo) | Antwerp 2022": {
+    "name": "Sticker | Jame (Holo) | Antwerp 2022",
+    "nameId": 1091439
+  },
+  "Sticker | Jame (Gold) | Antwerp 2022": {
+    "name": "Sticker | Jame (Gold) | Antwerp 2022",
+    "nameId": 1091566
+  },
+  "Sticker | qikert | Antwerp 2022": {
+    "name": "Sticker | qikert | Antwerp 2022",
+    "nameId": 1091119
+  },
+  "Sticker | qikert (Glitter) | Antwerp 2022": {
+    "name": "Sticker | qikert (Glitter) | Antwerp 2022",
+    "nameId": 1091535
+  },
+  "Sticker | qikert (Holo) | Antwerp 2022": {
+    "name": "Sticker | qikert (Holo) | Antwerp 2022",
+    "nameId": 1091580
+  },
+  "Sticker | qikert (Gold) | Antwerp 2022": {
+    "name": "Sticker | qikert (Gold) | Antwerp 2022",
+    "nameId": 1091719
+  },
+  "Sticker | buster | Antwerp 2022": {
+    "name": "Sticker | buster | Antwerp 2022",
+    "nameId": 1091164
+  },
+  "Sticker | buster (Glitter) | Antwerp 2022": {
+    "name": "Sticker | buster (Glitter) | Antwerp 2022",
+    "nameId": 1091278
+  },
+  "Sticker | buster (Holo) | Antwerp 2022": {
+    "name": "Sticker | buster (Holo) | Antwerp 2022",
+    "nameId": 1091574
+  },
+  "Sticker | buster (Gold) | Antwerp 2022": {
+    "name": "Sticker | buster (Gold) | Antwerp 2022",
+    "nameId": 1091646
+  },
+  "Sticker | YEKINDAR | Antwerp 2022": {
+    "name": "Sticker | YEKINDAR | Antwerp 2022",
+    "nameId": 1091409
+  },
+  "Sticker | YEKINDAR (Glitter) | Antwerp 2022": {
+    "name": "Sticker | YEKINDAR (Glitter) | Antwerp 2022",
+    "nameId": 1091378
+  },
+  "Sticker | YEKINDAR (Holo) | Antwerp 2022": {
+    "name": "Sticker | YEKINDAR (Holo) | Antwerp 2022",
+    "nameId": 1091501
+  },
+  "Sticker | YEKINDAR (Gold) | Antwerp 2022": {
+    "name": "Sticker | YEKINDAR (Gold) | Antwerp 2022",
+    "nameId": 1091677
+  },
+  "Sticker | FL1T | Antwerp 2022": {
+    "name": "Sticker | FL1T | Antwerp 2022",
+    "nameId": 1091376
+  },
+  "Sticker | FL1T (Glitter) | Antwerp 2022": {
+    "name": "Sticker | FL1T (Glitter) | Antwerp 2022",
+    "nameId": 1091249
+  },
+  "Sticker | FL1T (Holo) | Antwerp 2022": {
+    "name": "Sticker | FL1T (Holo) | Antwerp 2022",
+    "nameId": 1091438
+  },
+  "Sticker | FL1T (Gold) | Antwerp 2022": {
+    "name": "Sticker | FL1T (Gold) | Antwerp 2022",
+    "nameId": 1091556
+  },
+  "Sticker | FaNg | Antwerp 2022": {
+    "name": "Sticker | FaNg | Antwerp 2022",
+    "nameId": 1091276
+  },
+  "Sticker | FaNg (Glitter) | Antwerp 2022": {
+    "name": "Sticker | FaNg (Glitter) | Antwerp 2022",
+    "nameId": 1091258
+  },
+  "Sticker | FaNg (Holo) | Antwerp 2022": {
+    "name": "Sticker | FaNg (Holo) | Antwerp 2022",
+    "nameId": 1091506
+  },
+  "Sticker | FaNg (Gold) | Antwerp 2022": {
+    "name": "Sticker | FaNg (Gold) | Antwerp 2022",
+    "nameId": 1091554
+  },
+  "Sticker | floppy | Antwerp 2022": {
+    "name": "Sticker | floppy | Antwerp 2022",
+    "nameId": 1091180
+  },
+  "Sticker | floppy (Glitter) | Antwerp 2022": {
+    "name": "Sticker | floppy (Glitter) | Antwerp 2022",
+    "nameId": 1091256
+  },
+  "Sticker | floppy (Holo) | Antwerp 2022": {
+    "name": "Sticker | floppy (Holo) | Antwerp 2022",
+    "nameId": 1091561
+  },
+  "Sticker | floppy (Gold) | Antwerp 2022": {
+    "name": "Sticker | floppy (Gold) | Antwerp 2022",
+    "nameId": 1091176
+  },
+  "Sticker | Grim | Antwerp 2022": {
+    "name": "Sticker | Grim | Antwerp 2022",
+    "nameId": 1091268
+  },
+  "Sticker | Grim (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Grim (Glitter) | Antwerp 2022",
+    "nameId": 1091257
+  },
+  "Sticker | Grim (Holo) | Antwerp 2022": {
+    "name": "Sticker | Grim (Holo) | Antwerp 2022",
+    "nameId": 1091618
+  },
+  "Sticker | JT | Antwerp 2022": {
+    "name": "Sticker | JT | Antwerp 2022",
+    "nameId": 1091342
+  },
+  "Sticker | JT (Glitter) | Antwerp 2022": {
+    "name": "Sticker | JT (Glitter) | Antwerp 2022",
+    "nameId": 1091388
+  },
+  "Sticker | JT (Holo) | Antwerp 2022": {
+    "name": "Sticker | JT (Holo) | Antwerp 2022",
+    "nameId": 1091480
+  },
+  "Sticker | JT (Gold) | Antwerp 2022": {
+    "name": "Sticker | JT (Gold) | Antwerp 2022",
+    "nameId": 1091502
+  },
+  "Sticker | junior | Antwerp 2022": {
+    "name": "Sticker | junior | Antwerp 2022",
+    "nameId": 1091421
+  },
+  "Sticker | junior (Glitter) | Antwerp 2022": {
+    "name": "Sticker | junior (Glitter) | Antwerp 2022",
+    "nameId": 1091424
+  },
+  "Sticker | junior (Holo) | Antwerp 2022": {
+    "name": "Sticker | junior (Holo) | Antwerp 2022",
+    "nameId": 1091500
+  },
+  "Sticker | bLitz | Antwerp 2022": {
+    "name": "Sticker | bLitz | Antwerp 2022",
+    "nameId": 1091431
+  },
+  "Sticker | bLitz (Glitter) | Antwerp 2022": {
+    "name": "Sticker | bLitz (Glitter) | Antwerp 2022",
+    "nameId": 1091543
+  },
+  "Sticker | bLitz (Holo) | Antwerp 2022": {
+    "name": "Sticker | bLitz (Holo) | Antwerp 2022",
+    "nameId": 1091621
+  },
+  "Sticker | bLitz (Gold) | Antwerp 2022": {
+    "name": "Sticker | bLitz (Gold) | Antwerp 2022",
+    "nameId": 1091629
+  },
+  "Sticker | kabal | Antwerp 2022": {
+    "name": "Sticker | kabal | Antwerp 2022",
+    "nameId": 1091169
+  },
+  "Sticker | kabal (Holo) | Antwerp 2022": {
+    "name": "Sticker | kabal (Holo) | Antwerp 2022",
+    "nameId": 1091527
+  },
+  "Sticker | kabal (Gold) | Antwerp 2022": {
+    "name": "Sticker | kabal (Gold) | Antwerp 2022",
+    "nameId": 1091669
+  },
+  "Sticker | nin9 | Antwerp 2022": {
+    "name": "Sticker | nin9 | Antwerp 2022",
+    "nameId": 1091336
+  },
+  "Sticker | nin9 (Glitter) | Antwerp 2022": {
+    "name": "Sticker | nin9 (Glitter) | Antwerp 2022",
+    "nameId": 1091134
+  },
+  "Sticker | nin9 (Holo) | Antwerp 2022": {
+    "name": "Sticker | nin9 (Holo) | Antwerp 2022",
+    "nameId": 1091625
+  },
+  "Sticker | nin9 (Gold) | Antwerp 2022": {
+    "name": "Sticker | nin9 (Gold) | Antwerp 2022",
+    "nameId": 1091528
+  },
+  "Sticker | sk0R | Antwerp 2022": {
+    "name": "Sticker | sk0R | Antwerp 2022",
+    "nameId": 1091414
+  },
+  "Sticker | sk0R (Glitter) | Antwerp 2022": {
+    "name": "Sticker | sk0R (Glitter) | Antwerp 2022",
+    "nameId": 1091454
+  },
+  "Sticker | sk0R (Holo) | Antwerp 2022": {
+    "name": "Sticker | sk0R (Holo) | Antwerp 2022",
+    "nameId": 1091685
+  },
+  "Sticker | Techno4K | Antwerp 2022": {
+    "name": "Sticker | Techno4K | Antwerp 2022",
+    "nameId": 1091444
+  },
+  "Sticker | Techno4K (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Techno4K (Glitter) | Antwerp 2022",
+    "nameId": 1091425
+  },
+  "Sticker | Techno4K (Holo) | Antwerp 2022": {
+    "name": "Sticker | Techno4K (Holo) | Antwerp 2022",
+    "nameId": 1091562
+  },
+  "Sticker | Techno4K (Gold) | Antwerp 2022": {
+    "name": "Sticker | Techno4K (Gold) | Antwerp 2022",
+    "nameId": 1091711
+  },
+  "Sticker | ins | Antwerp 2022": {
+    "name": "Sticker | ins | Antwerp 2022",
+    "nameId": 1091264
+  },
+  "Sticker | ins (Glitter) | Antwerp 2022": {
+    "name": "Sticker | ins (Glitter) | Antwerp 2022",
+    "nameId": 1091335
+  },
+  "Sticker | ins (Holo) | Antwerp 2022": {
+    "name": "Sticker | ins (Holo) | Antwerp 2022",
+    "nameId": 1091674
+  },
+  "Sticker | ins (Gold) | Antwerp 2022": {
+    "name": "Sticker | ins (Gold) | Antwerp 2022",
+    "nameId": 1091654
+  },
+  "Sticker | sico | Antwerp 2022": {
+    "name": "Sticker | sico | Antwerp 2022",
+    "nameId": 1091228
+  },
+  "Sticker | sico (Holo) | Antwerp 2022": {
+    "name": "Sticker | sico (Holo) | Antwerp 2022",
+    "nameId": 1091559
+  },
+  "Sticker | sico (Gold) | Antwerp 2022": {
+    "name": "Sticker | sico (Gold) | Antwerp 2022",
+    "nameId": 1091558
+  },
+  "Sticker | Liazz | Antwerp 2022": {
+    "name": "Sticker | Liazz | Antwerp 2022",
+    "nameId": 1091337
+  },
+  "Sticker | Liazz (Holo) | Antwerp 2022": {
+    "name": "Sticker | Liazz (Holo) | Antwerp 2022",
+    "nameId": 1091647
+  },
+  "Sticker | Liazz (Gold) | Antwerp 2022": {
+    "name": "Sticker | Liazz (Gold) | Antwerp 2022",
+    "nameId": 1091664
+  },
+  "Sticker | hatz | Antwerp 2022": {
+    "name": "Sticker | hatz | Antwerp 2022",
+    "nameId": 1091138
+  },
+  "Sticker | hatz (Glitter) | Antwerp 2022": {
+    "name": "Sticker | hatz (Glitter) | Antwerp 2022",
+    "nameId": 1091529
+  },
+  "Sticker | hatz (Gold) | Antwerp 2022": {
+    "name": "Sticker | hatz (Gold) | Antwerp 2022",
+    "nameId": 1091665
+  },
+  "Sticker | aliStair | Antwerp 2022": {
+    "name": "Sticker | aliStair | Antwerp 2022",
+    "nameId": 1091261
+  },
+  "Sticker | aliStair (Glitter) | Antwerp 2022": {
+    "name": "Sticker | aliStair (Glitter) | Antwerp 2022",
+    "nameId": 1091440
+  },
+  "Sticker | aliStair (Gold) | Antwerp 2022": {
+    "name": "Sticker | aliStair (Gold) | Antwerp 2022",
+    "nameId": 1091703
+  },
+  "Sticker | shox | Antwerp 2022": {
+    "name": "Sticker | shox | Antwerp 2022",
+    "nameId": 1091389
+  },
+  "Sticker | shox (Holo) | Antwerp 2022": {
+    "name": "Sticker | shox (Holo) | Antwerp 2022",
+    "nameId": 1091615
+  },
+  "Sticker | shox (Gold) | Antwerp 2022": {
+    "name": "Sticker | shox (Gold) | Antwerp 2022",
+    "nameId": 1091579
+  },
+  "Sticker | EliGE | Antwerp 2022": {
+    "name": "Sticker | EliGE | Antwerp 2022",
+    "nameId": 1091369
+  },
+  "Sticker | EliGE (Holo) | Antwerp 2022": {
+    "name": "Sticker | EliGE (Holo) | Antwerp 2022",
+    "nameId": 1091526
+  },
+  "Sticker | EliGE (Gold) | Antwerp 2022": {
+    "name": "Sticker | EliGE (Gold) | Antwerp 2022",
+    "nameId": 1091656
+  },
+  "Sticker | oSee | Antwerp 2022": {
+    "name": "Sticker | oSee | Antwerp 2022",
+    "nameId": 1091196
+  },
+  "Sticker | oSee (Gold) | Antwerp 2022": {
+    "name": "Sticker | oSee (Gold) | Antwerp 2022",
+    "nameId": 1091702
+  },
+  "Sticker | nitr0 | Antwerp 2022": {
+    "name": "Sticker | nitr0 | Antwerp 2022",
+    "nameId": 1091446
+  },
+  "Sticker | nitr0 (Holo) | Antwerp 2022": {
+    "name": "Sticker | nitr0 (Holo) | Antwerp 2022",
+    "nameId": 1091614
+  },
+  "Sticker | nitr0 (Gold) | Antwerp 2022": {
+    "name": "Sticker | nitr0 (Gold) | Antwerp 2022",
+    "nameId": 1091551
+  },
+  "Sticker | NAF | Antwerp 2022": {
+    "name": "Sticker | NAF | Antwerp 2022",
+    "nameId": 1091170
+  },
+  "Sticker | NAF (Glitter) | Antwerp 2022": {
+    "name": "Sticker | NAF (Glitter) | Antwerp 2022",
+    "nameId": 1091136
+  },
+  "Sticker | NAF (Holo) | Antwerp 2022": {
+    "name": "Sticker | NAF (Holo) | Antwerp 2022",
+    "nameId": 1091553
+  },
+  "Sticker | NAF (Gold) | Antwerp 2022": {
+    "name": "Sticker | NAF (Gold) | Antwerp 2022",
+    "nameId": 1091573
+  },
+  "Sticker | rox | Antwerp 2022": {
+    "name": "Sticker | rox | Antwerp 2022",
+    "nameId": 1091274
+  },
+  "Sticker | rox (Glitter) | Antwerp 2022": {
+    "name": "Sticker | rox (Glitter) | Antwerp 2022",
+    "nameId": 1091530
+  },
+  "Sticker | rox (Holo) | Antwerp 2022": {
+    "name": "Sticker | rox (Holo) | Antwerp 2022",
+    "nameId": 1091598
+  },
+  "Sticker | rox (Gold) | Antwerp 2022": {
+    "name": "Sticker | rox (Gold) | Antwerp 2022",
+    "nameId": 1091670
+  },
+  "Sticker | luken | Antwerp 2022": {
+    "name": "Sticker | luken | Antwerp 2022",
+    "nameId": 1091140
+  },
+  "Sticker | luken (Glitter) | Antwerp 2022": {
+    "name": "Sticker | luken (Glitter) | Antwerp 2022",
+    "nameId": 1091338
+  },
+  "Sticker | luken (Holo) | Antwerp 2022": {
+    "name": "Sticker | luken (Holo) | Antwerp 2022",
+    "nameId": 1091519
+  },
+  "Sticker | luken (Gold) | Antwerp 2022": {
+    "name": "Sticker | luken (Gold) | Antwerp 2022",
+    "nameId": 1091709
+  },
+  "Sticker | max | Antwerp 2022": {
+    "name": "Sticker | max | Antwerp 2022",
+    "nameId": 1091133
+  },
+  "Sticker | max (Glitter) | Antwerp 2022": {
+    "name": "Sticker | max (Glitter) | Antwerp 2022",
+    "nameId": 1091430
+  },
+  "Sticker | max (Holo) | Antwerp 2022": {
+    "name": "Sticker | max (Holo) | Antwerp 2022",
+    "nameId": 1091531
+  },
+  "Sticker | max (Gold) | Antwerp 2022": {
+    "name": "Sticker | max (Gold) | Antwerp 2022",
+    "nameId": 1091705
+  },
+  "Sticker | dgt | Antwerp 2022": {
+    "name": "Sticker | dgt | Antwerp 2022",
+    "nameId": 1091334
+  },
+  "Sticker | dgt (Glitter) | Antwerp 2022": {
+    "name": "Sticker | dgt (Glitter) | Antwerp 2022",
+    "nameId": 1091275
+  },
+  "Sticker | dgt (Holo) | Antwerp 2022": {
+    "name": "Sticker | dgt (Holo) | Antwerp 2022",
+    "nameId": 1091639
+  },
+  "Sticker | dgt (Gold) | Antwerp 2022": {
+    "name": "Sticker | dgt (Gold) | Antwerp 2022",
+    "nameId": 1091712
+  },
+  "Sticker | dav1d | Antwerp 2022": {
+    "name": "Sticker | dav1d | Antwerp 2022",
+    "nameId": 1091339
+  },
+  "Sticker | dav1d (Glitter) | Antwerp 2022": {
+    "name": "Sticker | dav1d (Glitter) | Antwerp 2022",
+    "nameId": 1091397
+  },
+  "Sticker | dav1d (Holo) | Antwerp 2022": {
+    "name": "Sticker | dav1d (Holo) | Antwerp 2022",
+    "nameId": 1091443
+  },
+  "Sticker | dav1d (Gold) | Antwerp 2022": {
+    "name": "Sticker | dav1d (Gold) | Antwerp 2022",
+    "nameId": 1091604
+  },
+  "Sticker | rain (Champion) | Antwerp 2022": {
+    "name": "Sticker | rain (Champion) | Antwerp 2022",
+    "nameId": 1091809
+  },
+  "Sticker | rain (Glitter, Champion) | Antwerp 2022": {
+    "name": "Sticker | rain (Glitter, Champion) | Antwerp 2022",
+    "nameId": 1091811
+  },
+  "Sticker | rain (Holo, Champion) | Antwerp 2022": {
+    "name": "Sticker | rain (Holo, Champion) | Antwerp 2022",
+    "nameId": 1091813
+  },
+  "Sticker | rain (Gold, Champion) | Antwerp 2022": {
+    "name": "Sticker | rain (Gold, Champion) | Antwerp 2022",
+    "nameId": 1091824
+  },
+  "Sticker | karrigan (Champion) | Antwerp 2022": {
+    "name": "Sticker | karrigan (Champion) | Antwerp 2022",
+    "nameId": 1091808
+  },
+  "Sticker | karrigan (Glitter, Champion) | Antwerp 2022": {
+    "name": "Sticker | karrigan (Glitter, Champion) | Antwerp 2022",
+    "nameId": 1091810
+  },
+  "Sticker | karrigan (Holo, Champion) | Antwerp 2022": {
+    "name": "Sticker | karrigan (Holo, Champion) | Antwerp 2022",
+    "nameId": 1091822
+  },
+  "Sticker | karrigan (Gold, Champion) | Antwerp 2022": {
+    "name": "Sticker | karrigan (Gold, Champion) | Antwerp 2022",
+    "nameId": 1091825
+  },
+  "Sticker | Twistzz (Champion) | Antwerp 2022": {
+    "name": "Sticker | Twistzz (Champion) | Antwerp 2022",
+    "nameId": 1091804
+  },
+  "Sticker | Twistzz (Glitter, Champion) | Antwerp 2022": {
+    "name": "Sticker | Twistzz (Glitter, Champion) | Antwerp 2022",
+    "nameId": 1091806
+  },
+  "Sticker | Twistzz (Holo, Champion) | Antwerp 2022": {
+    "name": "Sticker | Twistzz (Holo, Champion) | Antwerp 2022",
+    "nameId": 1091826
+  },
+  "Sticker | Twistzz (Gold, Champion) | Antwerp 2022": {
+    "name": "Sticker | Twistzz (Gold, Champion) | Antwerp 2022",
+    "nameId": 1091807
+  },
+  "Sticker | broky (Champion) | Antwerp 2022": {
+    "name": "Sticker | broky (Champion) | Antwerp 2022",
+    "nameId": 1091802
+  },
+  "Sticker | broky (Glitter, Champion) | Antwerp 2022": {
+    "name": "Sticker | broky (Glitter, Champion) | Antwerp 2022",
+    "nameId": 1091801
+  },
+  "Sticker | broky (Holo, Champion) | Antwerp 2022": {
+    "name": "Sticker | broky (Holo, Champion) | Antwerp 2022",
+    "nameId": 1091823
+  },
+  "Sticker | broky (Gold, Champion) | Antwerp 2022": {
+    "name": "Sticker | broky (Gold, Champion) | Antwerp 2022",
+    "nameId": 1091827
+  },
+  "Sticker | ropz (Champion) | Antwerp 2022": {
+    "name": "Sticker | ropz (Champion) | Antwerp 2022",
+    "nameId": 1091805
+  },
+  "Sticker | ropz (Glitter, Champion) | Antwerp 2022": {
+    "name": "Sticker | ropz (Glitter, Champion) | Antwerp 2022",
+    "nameId": 1091821
+  },
+  "Sticker | ropz (Holo, Champion) | Antwerp 2022": {
+    "name": "Sticker | ropz (Holo, Champion) | Antwerp 2022",
+    "nameId": 1091803
+  },
+  "Sticker | Arms Race": {
+    "name": "Sticker | Arms Race",
+    "nameId": 1092796
+  },
+  "Sticker | B-Day": {
+    "name": "Sticker | B-Day",
+    "nameId": 1092819
+  },
+  "Sticker | Baby Cerberus": {
+    "name": "Sticker | Baby Cerberus",
+    "nameId": 1092742
+  },
+  "Sticker | Baby Fire Serpent": {
+    "name": "Sticker | Baby Fire Serpent",
+    "nameId": 1092738
+  },
+  "Sticker | Baby Howl": {
+    "name": "Sticker | Baby Howl",
+    "nameId": 1092734
+  },
+  "Sticker | Baby Lore": {
+    "name": "Sticker | Baby Lore",
+    "nameId": 1092741
+  },
+  "Sticker | Baby Medusa": {
+    "name": "Sticker | Baby Medusa",
+    "nameId": 1092727
+  },
+  "Sticker | Beaky Decade": {
+    "name": "Sticker | Beaky Decade",
+    "nameId": 1092735
+  },
+  "Sticker | Booth": {
+    "name": "Sticker | Booth",
+    "nameId": 1092747
+  },
+  "Sticker | Call Your Flashes": {
+    "name": "Sticker | Call Your Flashes",
+    "nameId": 1092731
+  },
+  "Sticker | Chicken Whisperer": {
+    "name": "Sticker | Chicken Whisperer",
+    "nameId": 1092777
+  },
+  "Sticker | Clicking Heads": {
+    "name": "Sticker | Clicking Heads",
+    "nameId": 1092754
+  },
+  "Sticker | C-S On The Go": {
+    "name": "Sticker | C-S On The Go",
+    "nameId": 1092755
+  },
+  "Sticker | Cursed Penmanship": {
+    "name": "Sticker | Cursed Penmanship",
+    "nameId": 1092732
+  },
+  "Sticker | Dragon Tale": {
+    "name": "Sticker | Dragon Tale",
+    "nameId": 1092770
+  },
+  "Sticker | Dragon's Keep": {
+    "name": "Sticker | Dragon's Keep",
+    "nameId": 1092779
+  },
+  "Sticker | Dreams And Mimics": {
+    "name": "Sticker | Dreams And Mimics",
+    "nameId": 1092739
+  },
+  "Sticker | Endless Cycle": {
+    "name": "Sticker | Endless Cycle",
+    "nameId": 1092756
+  },
+  "Sticker | Exo Jumper": {
+    "name": "Sticker | Exo Jumper",
+    "nameId": 1092768
+  },
+  "Sticker | Free Range": {
+    "name": "Sticker | Free Range",
+    "nameId": 1092753
+  },
+  "Sticker | Good Sports": {
+    "name": "Sticker | Good Sports",
+    "nameId": 1092825
   }
 }
