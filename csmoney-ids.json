@@ -40438,5 +40438,677 @@
   "Sticker | Jame (Holo, Champion) | Rio 2022": {
     "name": "Sticker | Jame (Holo, Champion) | Rio 2022",
     "nameId": 1113454
+  },
+  "P90 | Vent Rush (Field-Tested)": {
+    "name": "P90 | Vent Rush (Field-Tested)",
+    "nameId": 1092303
+  },
+  "P90 | Vent Rush (Well-Worn)": {
+    "name": "P90 | Vent Rush (Well-Worn)",
+    "nameId": 1092384
+  },
+  "P90 | Vent Rush (Battle-Scarred)": {
+    "name": "P90 | Vent Rush (Battle-Scarred)",
+    "nameId": 1092388
+  },
+  "StatTrak™ P90 | Vent Rush (Factory New)": {
+    "name": "StatTrak™ P90 | Vent Rush (Factory New)",
+    "nameId": 1092389
+  },
+  "StatTrak™ P90 | Vent Rush (Minimal Wear)": {
+    "name": "StatTrak™ P90 | Vent Rush (Minimal Wear)",
+    "nameId": 1092420
+  },
+  "StatTrak™ P90 | Vent Rush (Field-Tested)": {
+    "name": "StatTrak™ P90 | Vent Rush (Field-Tested)",
+    "nameId": 1092401
+  },
+  "StatTrak™ P90 | Vent Rush (Well-Worn)": {
+    "name": "StatTrak™ P90 | Vent Rush (Well-Worn)",
+    "nameId": 1092437
+  },
+  "StatTrak™ P90 | Vent Rush (Battle-Scarred)": {
+    "name": "StatTrak™ P90 | Vent Rush (Battle-Scarred)",
+    "nameId": 1092397
+  },
+  "P90 | Neoqueen (Factory New)": {
+    "name": "P90 | Neoqueen (Factory New)",
+    "nameId": 1159886
+  },
+  "P90 | Neoqueen (Minimal Wear)": {
+    "name": "P90 | Neoqueen (Minimal Wear)",
+    "nameId": 1159081
+  },
+  "Souvenir Nova | Quick Sand (Factory New)": {
+    "name": "Souvenir Nova | Quick Sand (Factory New)",
+    "nameId": 1088827
+  },
+  "Souvenir Nova | Quick Sand (Minimal Wear)": {
+    "name": "Souvenir Nova | Quick Sand (Minimal Wear)",
+    "nameId": 1088805
+  },
+  "Souvenir Nova | Quick Sand (Field-Tested)": {
+    "name": "Souvenir Nova | Quick Sand (Field-Tested)",
+    "nameId": 1088826
+  },
+  "Souvenir Nova | Quick Sand (Well-Worn)": {
+    "name": "Souvenir Nova | Quick Sand (Well-Worn)",
+    "nameId": 1088850
+  },
+  "Souvenir Nova | Quick Sand (Battle-Scarred)": {
+    "name": "Souvenir Nova | Quick Sand (Battle-Scarred)",
+    "nameId": 1088840
+  },
+  "Nova | Clear Polymer (Factory New)": {
+    "name": "Nova | Clear Polymer (Factory New)",
+    "nameId": 1083679
+  },
+  "Nova | Clear Polymer (Minimal Wear)": {
+    "name": "Nova | Clear Polymer (Minimal Wear)",
+    "nameId": 1083503
+  },
+  "Nova | Clear Polymer (Field-Tested)": {
+    "name": "Nova | Clear Polymer (Field-Tested)",
+    "nameId": 1083591
+  },
+  "Nova | Clear Polymer (Well-Worn)": {
+    "name": "Nova | Clear Polymer (Well-Worn)",
+    "nameId": 1083516
+  },
+  "Nova | Clear Polymer (Battle-Scarred)": {
+    "name": "Nova | Clear Polymer (Battle-Scarred)",
+    "nameId": 1083590
+  },
+  "★ StatTrak™ Stiletto Knife | Slaughter (Factory New)": {
+    "name": "★ StatTrak™ Stiletto Knife | Slaughter (Factory New)",
+    "nameId": 38891
+  },
+  "★ StatTrak™ Stiletto Knife | Slaughter (Minimal Wear)": {
+    "name": "★ StatTrak™ Stiletto Knife | Slaughter (Minimal Wear)",
+    "nameId": 169065
+  },
+  "★ Stiletto Knife | Safari Mesh (Factory New)": {
+    "name": "★ Stiletto Knife | Safari Mesh (Factory New)",
+    "nameId": 39072
+  },
+  "★ Stiletto Knife | Safari Mesh (Field-Tested)": {
+    "name": "★ Stiletto Knife | Safari Mesh (Field-Tested)",
+    "nameId": 38679
+  },
+  "Sticker | biguzera (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | biguzera (Glitter) | Copenhagen 2024",
+    "nameId": 2596890
+  },
+  "Sticker | biguzera (Holo) | Copenhagen 2024": {
+    "name": "Sticker | biguzera (Holo) | Copenhagen 2024",
+    "nameId": 2596943
+  },
+  "Sticker | biguzera (Gold) | Copenhagen 2024": {
+    "name": "Sticker | biguzera (Gold) | Copenhagen 2024",
+    "nameId": 2596947
+  },
+  "Sticker | kauez | Copenhagen 2024": {
+    "name": "Sticker | kauez | Copenhagen 2024",
+    "nameId": 2596805
+  },
+  "Sticker | kauez (Holo) | Copenhagen 2024": {
+    "name": "Sticker | kauez (Holo) | Copenhagen 2024",
+    "nameId": 2596946
+  },
+  "Sticker | kauez (Gold) | Copenhagen 2024": {
+    "name": "Sticker | kauez (Gold) | Copenhagen 2024",
+    "nameId": 2596940
+  },
+  "Sticker | lux | Copenhagen 2024": {
+    "name": "Sticker | lux | Copenhagen 2024",
+    "nameId": 2596709
+  },
+  "Sticker | lux (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | lux (Glitter) | Copenhagen 2024",
+    "nameId": 2596929
+  },
+  "Sticker | lux (Holo) | Copenhagen 2024": {
+    "name": "Sticker | lux (Holo) | Copenhagen 2024",
+    "nameId": 2596941
+  },
+  "Sticker | lux (Gold) | Copenhagen 2024": {
+    "name": "Sticker | lux (Gold) | Copenhagen 2024",
+    "nameId": 2596939
+  },
+  "Sticker | n1ssim | Copenhagen 2024": {
+    "name": "Sticker | n1ssim | Copenhagen 2024",
+    "nameId": 2596714
+  },
+  "Sticker | n1ssim (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | n1ssim (Glitter) | Copenhagen 2024",
+    "nameId": 2596851
+  },
+  "Sticker | n1ssim (Holo) | Copenhagen 2024": {
+    "name": "Sticker | n1ssim (Holo) | Copenhagen 2024",
+    "nameId": 2596938
+  },
+  "Sticker | n1ssim (Gold) | Copenhagen 2024": {
+    "name": "Sticker | n1ssim (Gold) | Copenhagen 2024",
+    "nameId": 2596942
+  },
+  "Sticker | NQZ | Copenhagen 2024": {
+    "name": "Sticker | NQZ | Copenhagen 2024",
+    "nameId": 2596535
+  },
+  "Sticker | NQZ (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | NQZ (Glitter) | Copenhagen 2024",
+    "nameId": 2596948
+  },
+  "Sticker | NQZ (Holo) | Copenhagen 2024": {
+    "name": "Sticker | NQZ (Holo) | Copenhagen 2024",
+    "nameId": 2596945
+  },
+  "Sticker | NQZ (Gold) | Copenhagen 2024": {
+    "name": "Sticker | NQZ (Gold) | Copenhagen 2024",
+    "nameId": 2596937
+  },
+  "Sticker | decenty | Copenhagen 2024": {
+    "name": "Sticker | decenty | Copenhagen 2024",
+    "nameId": 2596797
+  },
+  "Sticker | decenty (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | decenty (Glitter) | Copenhagen 2024",
+    "nameId": 2596919
+  },
+  "Sticker | decenty (Holo) | Copenhagen 2024": {
+    "name": "Sticker | decenty (Holo) | Copenhagen 2024",
+    "nameId": 2596799
+  },
+  "Sticker | decenty (Gold) | Copenhagen 2024": {
+    "name": "Sticker | decenty (Gold) | Copenhagen 2024",
+    "nameId": 2597086
+  },
+  "Sticker | felps | Copenhagen 2024": {
+    "name": "Sticker | felps | Copenhagen 2024",
+    "nameId": 2596694
+  },
+  "Sticker | felps (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | felps (Glitter) | Copenhagen 2024",
+    "nameId": 2596986
+  },
+  "Sticker | felps (Holo) | Copenhagen 2024": {
+    "name": "Sticker | felps (Holo) | Copenhagen 2024",
+    "nameId": 2597026
+  },
+  "Sticker | felps (Gold) | Copenhagen 2024": {
+    "name": "Sticker | felps (Gold) | Copenhagen 2024",
+    "nameId": 2596977
+  },
+  "Sticker | HEN1 (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | HEN1 (Glitter) | Copenhagen 2024",
+    "nameId": 2596913
+  },
+  "Sticker | HEN1 (Holo) | Copenhagen 2024": {
+    "name": "Sticker | HEN1 (Holo) | Copenhagen 2024",
+    "nameId": 2597019
+  },
+  "Sticker | noway | Copenhagen 2024": {
+    "name": "Sticker | noway | Copenhagen 2024",
+    "nameId": 2596831
+  },
+  "Sticker | noway (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | noway (Glitter) | Copenhagen 2024",
+    "nameId": 2596850
+  },
+  "Sticker | noway (Holo) | Copenhagen 2024": {
+    "name": "Sticker | noway (Holo) | Copenhagen 2024",
+    "nameId": 2596978
+  },
+  "Sticker | noway (Gold) | Copenhagen 2024": {
+    "name": "Sticker | noway (Gold) | Copenhagen 2024",
+    "nameId": 2597088
+  },
+  "Sticker | VINI | Copenhagen 2024": {
+    "name": "Sticker | VINI | Copenhagen 2024",
+    "nameId": 2596798
+  },
+  "Sticker | VINI (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | VINI (Glitter) | Copenhagen 2024",
+    "nameId": 2596834
+  },
+  "Sticker | VINI (Holo) | Copenhagen 2024": {
+    "name": "Sticker | VINI (Holo) | Copenhagen 2024",
+    "nameId": 2597046
+  },
+  "Sticker | VINI (Gold) | Copenhagen 2024": {
+    "name": "Sticker | VINI (Gold) | Copenhagen 2024",
+    "nameId": 2597091
+  },
+  "Sticker | 910 | Copenhagen 2024": {
+    "name": "Sticker | 910 | Copenhagen 2024",
+    "nameId": 2596807
+  },
+  "Sticker | 910 (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | 910 (Glitter) | Copenhagen 2024",
+    "nameId": 2596625
+  },
+  "Sticker | 910 (Holo) | Copenhagen 2024": {
+    "name": "Sticker | 910 (Holo) | Copenhagen 2024",
+    "nameId": 2597055
+  },
+  "Sticker | 910 (Gold) | Copenhagen 2024": {
+    "name": "Sticker | 910 (Gold) | Copenhagen 2024",
+    "nameId": 2597139
+  },
+  "Sticker | bLitz | Copenhagen 2024": {
+    "name": "Sticker | bLitz | Copenhagen 2024",
+    "nameId": 2596871
+  },
+  "Sticker | bLitz (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | bLitz (Glitter) | Copenhagen 2024",
+    "nameId": 2596573
+  },
+  "Sticker | bLitz (Holo) | Copenhagen 2024": {
+    "name": "Sticker | bLitz (Holo) | Copenhagen 2024",
+    "nameId": 2597119
+  },
+  "Sticker | bLitz (Gold) | Copenhagen 2024": {
+    "name": "Sticker | bLitz (Gold) | Copenhagen 2024",
+    "nameId": 2597159
+  },
+  "Sticker | mzinho | Copenhagen 2024": {
+    "name": "Sticker | mzinho | Copenhagen 2024",
+    "nameId": 2596796
+  },
+  "Sticker | mzinho (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | mzinho (Glitter) | Copenhagen 2024",
+    "nameId": 2596893
+  },
+  "Sticker | mzinho (Holo) | Copenhagen 2024": {
+    "name": "Sticker | mzinho (Holo) | Copenhagen 2024",
+    "nameId": 2596988
+  },
+  "Sticker | Senzu | Copenhagen 2024": {
+    "name": "Sticker | Senzu | Copenhagen 2024",
+    "nameId": 2596712
+  },
+  "Sticker | Senzu (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Senzu (Holo) | Copenhagen 2024",
+    "nameId": 2596896
+  },
+  "Sticker | Senzu (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Senzu (Gold) | Copenhagen 2024",
+    "nameId": 2597168
+  },
+  "Sticker | Techno4K | Copenhagen 2024": {
+    "name": "Sticker | Techno4K | Copenhagen 2024",
+    "nameId": 2596715
+  },
+  "Sticker | Techno4K (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Techno4K (Glitter) | Copenhagen 2024",
+    "nameId": 2597037
+  },
+  "Sticker | Techno4K (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Techno4K (Holo) | Copenhagen 2024",
+    "nameId": 2597095
+  },
+  "Sticker | Techno4K (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Techno4K (Gold) | Copenhagen 2024",
+    "nameId": 2597196
+  },
+  "Sticker | Forester | Copenhagen 2024": {
+    "name": "Sticker | Forester | Copenhagen 2024",
+    "nameId": 2596711
+  },
+  "Sticker | Forester (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Forester (Glitter) | Copenhagen 2024",
+    "nameId": 2597008
+  },
+  "Sticker | Forester (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Forester (Holo) | Copenhagen 2024",
+    "nameId": 2597082
+  },
+  "Sticker | Forester (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Forester (Gold) | Copenhagen 2024",
+    "nameId": 2597148
+  },
+  "Sticker | ICY | Copenhagen 2024": {
+    "name": "Sticker | ICY | Copenhagen 2024",
+    "nameId": 2596576
+  },
+  "Sticker | ICY (Holo) | Copenhagen 2024": {
+    "name": "Sticker | ICY (Holo) | Copenhagen 2024",
+    "nameId": 2597109
+  },
+  "Sticker | Krad | Copenhagen 2024": {
+    "name": "Sticker | Krad | Copenhagen 2024",
+    "nameId": 2596696
+  },
+  "Sticker | Krad (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Krad (Glitter) | Copenhagen 2024",
+    "nameId": 2596795
+  },
+  "Sticker | Krad (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Krad (Holo) | Copenhagen 2024",
+    "nameId": 2597072
+  },
+  "Sticker | Krad (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Krad (Gold) | Copenhagen 2024",
+    "nameId": 2597041
+  },
+  "Sticker | NickelBack (Holo) | Copenhagen 2024": {
+    "name": "Sticker | NickelBack (Holo) | Copenhagen 2024",
+    "nameId": 2597023
+  },
+  "Sticker | NickelBack (Gold) | Copenhagen 2024": {
+    "name": "Sticker | NickelBack (Gold) | Copenhagen 2024",
+    "nameId": 2597128
+  },
+  "Sticker | TRAVIS | Copenhagen 2024": {
+    "name": "Sticker | TRAVIS | Copenhagen 2024",
+    "nameId": 2596856
+  },
+  "Sticker | TRAVIS (Holo) | Copenhagen 2024": {
+    "name": "Sticker | TRAVIS (Holo) | Copenhagen 2024",
+    "nameId": 2596902
+  },
+  "Sticker | kraghen | Copenhagen 2024": {
+    "name": "Sticker | kraghen | Copenhagen 2024",
+    "nameId": 2596575
+  },
+  "Sticker | kraghen (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | kraghen (Glitter) | Copenhagen 2024",
+    "nameId": 2596849
+  },
+  "Sticker | kraghen (Holo) | Copenhagen 2024": {
+    "name": "Sticker | kraghen (Holo) | Copenhagen 2024",
+    "nameId": 2597042
+  },
+  "Sticker | kraghen (Gold) | Copenhagen 2024": {
+    "name": "Sticker | kraghen (Gold) | Copenhagen 2024",
+    "nameId": 2597012
+  },
+  "Sticker | Nodios | Copenhagen 2024": {
+    "name": "Sticker | Nodios | Copenhagen 2024",
+    "nameId": 2596570
+  },
+  "Sticker | Nodios (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Nodios (Glitter) | Copenhagen 2024",
+    "nameId": 2596970
+  },
+  "Sticker | Nodios (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Nodios (Holo) | Copenhagen 2024",
+    "nameId": 2597103
+  },
+  "Sticker | Nodios (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Nodios (Gold) | Copenhagen 2024",
+    "nameId": 2597193
+  },
+  "Sticker | Patti | Copenhagen 2024": {
+    "name": "Sticker | Patti | Copenhagen 2024",
+    "nameId": 2596693
+  },
+  "Sticker | Patti (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Patti (Glitter) | Copenhagen 2024",
+    "nameId": 2596804
+  },
+  "Sticker | Patti (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Patti (Holo) | Copenhagen 2024",
+    "nameId": 2597029
+  },
+  "Sticker | Patti (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Patti (Gold) | Copenhagen 2024",
+    "nameId": 2597169
+  },
+  "Sticker | Queenix | Copenhagen 2024": {
+    "name": "Sticker | Queenix | Copenhagen 2024",
+    "nameId": 2596706
+  },
+  "Sticker | Queenix (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Queenix (Glitter) | Copenhagen 2024",
+    "nameId": 2596914
+  },
+  "Sticker | Queenix (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Queenix (Holo) | Copenhagen 2024",
+    "nameId": 2596820
+  },
+  "Sticker | Queenix (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Queenix (Gold) | Copenhagen 2024",
+    "nameId": 2597160
+  },
+  "Sticker | salazar | Copenhagen 2024": {
+    "name": "Sticker | salazar | Copenhagen 2024",
+    "nameId": 2596787
+  },
+  "Sticker | salazar (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | salazar (Glitter) | Copenhagen 2024",
+    "nameId": 2596894
+  },
+  "Sticker | salazar (Holo) | Copenhagen 2024": {
+    "name": "Sticker | salazar (Holo) | Copenhagen 2024",
+    "nameId": 2597100
+  },
+  "Sticker | adamS | Copenhagen 2024": {
+    "name": "Sticker | adamS | Copenhagen 2024",
+    "nameId": 2596538
+  },
+  "Sticker | adamS (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | adamS (Glitter) | Copenhagen 2024",
+    "nameId": 2596922
+  },
+  "Sticker | adamS (Holo) | Copenhagen 2024": {
+    "name": "Sticker | adamS (Holo) | Copenhagen 2024",
+    "nameId": 2597011
+  },
+  "Sticker | adamS (Gold) | Copenhagen 2024": {
+    "name": "Sticker | adamS (Gold) | Copenhagen 2024",
+    "nameId": 2597125
+  },
+  "Sticker | dav1g | Copenhagen 2024": {
+    "name": "Sticker | dav1g | Copenhagen 2024",
+    "nameId": 2596626
+  },
+  "Sticker | dav1g (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | dav1g (Glitter) | Copenhagen 2024",
+    "nameId": 2596955
+  },
+  "Sticker | dav1g (Holo) | Copenhagen 2024": {
+    "name": "Sticker | dav1g (Holo) | Copenhagen 2024",
+    "nameId": 2597111
+  },
+  "Sticker | dav1g (Gold) | Copenhagen 2024": {
+    "name": "Sticker | dav1g (Gold) | Copenhagen 2024",
+    "nameId": 2597129
+  },
+  "Sticker | JUST | Copenhagen 2024": {
+    "name": "Sticker | JUST | Copenhagen 2024",
+    "nameId": 2596809
+  },
+  "Sticker | JUST (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | JUST (Glitter) | Copenhagen 2024",
+    "nameId": 2596571
+  },
+  "Sticker | JUST (Holo) | Copenhagen 2024": {
+    "name": "Sticker | JUST (Holo) | Copenhagen 2024",
+    "nameId": 2597059
+  },
+  "Sticker | JUST (Gold) | Copenhagen 2024": {
+    "name": "Sticker | JUST (Gold) | Copenhagen 2024",
+    "nameId": 2597058
+  },
+  "Sticker | mopoz | Copenhagen 2024": {
+    "name": "Sticker | mopoz | Copenhagen 2024",
+    "nameId": 2596716
+  },
+  "Sticker | mopoz (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | mopoz (Glitter) | Copenhagen 2024",
+    "nameId": 2596819
+  },
+  "Sticker | mopoz (Holo) | Copenhagen 2024": {
+    "name": "Sticker | mopoz (Holo) | Copenhagen 2024",
+    "nameId": 2597050
+  },
+  "Sticker | mopoz (Gold) | Copenhagen 2024": {
+    "name": "Sticker | mopoz (Gold) | Copenhagen 2024",
+    "nameId": 2596966
+  },
+  "Sticker | stadodo | Copenhagen 2024": {
+    "name": "Sticker | stadodo | Copenhagen 2024",
+    "nameId": 2596806
+  },
+  "Sticker | stadodo (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | stadodo (Glitter) | Copenhagen 2024",
+    "nameId": 2596926
+  },
+  "Sticker | stadodo (Holo) | Copenhagen 2024": {
+    "name": "Sticker | stadodo (Holo) | Copenhagen 2024",
+    "nameId": 2596995
+  },
+  "Sticker | stadodo (Gold) | Copenhagen 2024": {
+    "name": "Sticker | stadodo (Gold) | Copenhagen 2024",
+    "nameId": 2597060
+  },
+  "Sticker | b4rtiN | Copenhagen 2024": {
+    "name": "Sticker | b4rtiN | Copenhagen 2024",
+    "nameId": 2596784
+  },
+  "Sticker | b4rtiN (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | b4rtiN (Glitter) | Copenhagen 2024",
+    "nameId": 2596931
+  },
+  "Sticker | b4rtiN (Holo) | Copenhagen 2024": {
+    "name": "Sticker | b4rtiN (Holo) | Copenhagen 2024",
+    "nameId": 2597104
+  },
+  "Sticker | b4rtiN (Gold) | Copenhagen 2024": {
+    "name": "Sticker | b4rtiN (Gold) | Copenhagen 2024",
+    "nameId": 2597133
+  },
+  "Sticker | coldzera | Copenhagen 2024": {
+    "name": "Sticker | coldzera | Copenhagen 2024",
+    "nameId": 2596627
+  },
+  "Sticker | coldzera (Holo) | Copenhagen 2024": {
+    "name": "Sticker | coldzera (Holo) | Copenhagen 2024",
+    "nameId": 2597099
+  },
+  "Sticker | coldzera (Gold) | Copenhagen 2024": {
+    "name": "Sticker | coldzera (Gold) | Copenhagen 2024",
+    "nameId": 2597084
+  },
+  "Sticker | dumau | Copenhagen 2024": {
+    "name": "Sticker | dumau | Copenhagen 2024",
+    "nameId": 2596572
+  },
+  "Sticker | dumau (Holo) | Copenhagen 2024": {
+    "name": "Sticker | dumau (Holo) | Copenhagen 2024",
+    "nameId": 2597009
+  },
+  "Sticker | dumau (Gold) | Copenhagen 2024": {
+    "name": "Sticker | dumau (Gold) | Copenhagen 2024",
+    "nameId": 2596842
+  },
+  "Sticker | latto | Copenhagen 2024": {
+    "name": "Sticker | latto | Copenhagen 2024",
+    "nameId": 2596532
+  },
+  "Sticker | latto (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | latto (Glitter) | Copenhagen 2024",
+    "nameId": 2596962
+  },
+  "Sticker | latto (Holo) | Copenhagen 2024": {
+    "name": "Sticker | latto (Holo) | Copenhagen 2024",
+    "nameId": 2596989
+  },
+  "Sticker | latto (Gold) | Copenhagen 2024": {
+    "name": "Sticker | latto (Gold) | Copenhagen 2024",
+    "nameId": 2597161
+  },
+  "Sticker | NEKiZ | Copenhagen 2024": {
+    "name": "Sticker | NEKiZ | Copenhagen 2024",
+    "nameId": 2596870
+  },
+  "Sticker | NEKiZ (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | NEKiZ (Glitter) | Copenhagen 2024",
+    "nameId": 2596963
+  },
+  "Sticker | NEKiZ (Holo) | Copenhagen 2024": {
+    "name": "Sticker | NEKiZ (Holo) | Copenhagen 2024",
+    "nameId": 2597045
+  },
+  "Sticker | NEKiZ (Gold) | Copenhagen 2024": {
+    "name": "Sticker | NEKiZ (Gold) | Copenhagen 2024",
+    "nameId": 2597102
+  },
+  "Sticker | EmiliaQAQ | Copenhagen 2024": {
+    "name": "Sticker | EmiliaQAQ | Copenhagen 2024",
+    "nameId": 2596835
+  },
+  "Sticker | EmiliaQAQ (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | EmiliaQAQ (Glitter) | Copenhagen 2024",
+    "nameId": 2596982
+  },
+  "Sticker | EmiliaQAQ (Holo) | Copenhagen 2024": {
+    "name": "Sticker | EmiliaQAQ (Holo) | Copenhagen 2024",
+    "nameId": 2597053
+  },
+  "Sticker | EmiliaQAQ (Gold) | Copenhagen 2024": {
+    "name": "Sticker | EmiliaQAQ (Gold) | Copenhagen 2024",
+    "nameId": 2597078
+  },
+  "Sticker | Jee | Copenhagen 2024": {
+    "name": "Sticker | Jee | Copenhagen 2024",
+    "nameId": 2596710
+  },
+  "Sticker | Jee (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Jee (Glitter) | Copenhagen 2024",
+    "nameId": 2596912
+  },
+  "Sticker | Jee (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Jee (Holo) | Copenhagen 2024",
+    "nameId": 2597066
+  },
+  "Sticker | Jee (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Jee (Gold) | Copenhagen 2024",
+    "nameId": 2597049
+  },
+  "Sticker | Starry | Copenhagen 2024": {
+    "name": "Sticker | Starry | Copenhagen 2024",
+    "nameId": 2596707
+  },
+  "Sticker | Starry (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Starry (Glitter) | Copenhagen 2024",
+    "nameId": 2597025
+  },
+  "Sticker | Starry (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Starry (Holo) | Copenhagen 2024",
+    "nameId": 2596935
+  },
+  "Sticker | Starry (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Starry (Gold) | Copenhagen 2024",
+    "nameId": 2597035
+  },
+  "Sticker | westmelon | Copenhagen 2024": {
+    "name": "Sticker | westmelon | Copenhagen 2024",
+    "nameId": 2596713
+  },
+  "Sticker | westmelon (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | westmelon (Glitter) | Copenhagen 2024",
+    "nameId": 2597014
+  },
+  "Sticker | westmelon (Holo) | Copenhagen 2024": {
+    "name": "Sticker | westmelon (Holo) | Copenhagen 2024",
+    "nameId": 2597030
+  },
+  "Sticker | z4KR | Copenhagen 2024": {
+    "name": "Sticker | z4KR | Copenhagen 2024",
+    "nameId": 2596775
+  },
+  "Sticker | z4KR (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | z4KR (Glitter) | Copenhagen 2024",
+    "nameId": 2596782
+  },
+  "Sticker | z4KR (Holo) | Copenhagen 2024": {
+    "name": "Sticker | z4KR (Holo) | Copenhagen 2024",
+    "nameId": 2596911
+  },
+  "Sticker | jL (Champion) | Copenhagen 2024": {
+    "name": "Sticker | jL (Champion) | Copenhagen 2024",
+    "nameId": 2597214
   }
 }
