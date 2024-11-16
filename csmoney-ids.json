@@ -36790,5 +36790,145 @@
   "★ StatTrak™ Nomad Knife | Slaughter (Factory New)": {
     "name": "★ StatTrak™ Nomad Knife | Slaughter (Factory New)",
     "nameId": 1075211
+  },
+  "StatTrak™ P90 | Traction (Well-Worn)": {
+    "name": "StatTrak™ P90 | Traction (Well-Worn)",
+    "nameId": 38485
+  },
+  "StatTrak™ P90 | Traction (Battle-Scarred)": {
+    "name": "StatTrak™ P90 | Traction (Battle-Scarred)",
+    "nameId": 38529
+  },
+  "P90 | Sunset Lily (Factory New)": {
+    "name": "P90 | Sunset Lily (Factory New)",
+    "nameId": 1074322
+  },
+  "P90 | Sunset Lily (Minimal Wear)": {
+    "name": "P90 | Sunset Lily (Minimal Wear)",
+    "nameId": 1074630
+  },
+  "P90 | Sunset Lily (Field-Tested)": {
+    "name": "P90 | Sunset Lily (Field-Tested)",
+    "nameId": 1074085
+  },
+  "P90 | Baroque Red (Factory New)": {
+    "name": "P90 | Baroque Red (Factory New)",
+    "nameId": 1074901
+  },
+  "Souvenir MP7 | Tall Grass (Well-Worn)": {
+    "name": "Souvenir MP7 | Tall Grass (Well-Worn)",
+    "nameId": 1088831
+  },
+  "Souvenir MP7 | Tall Grass (Battle-Scarred)": {
+    "name": "Souvenir MP7 | Tall Grass (Battle-Scarred)",
+    "nameId": 1088702
+  },
+  "MP7 | Guerrilla (Factory New)": {
+    "name": "MP7 | Guerrilla (Factory New)",
+    "nameId": 1087190
+  },
+  "MP7 | Guerrilla (Minimal Wear)": {
+    "name": "MP7 | Guerrilla (Minimal Wear)",
+    "nameId": 1086983
+  },
+  "MP7 | Guerrilla (Field-Tested)": {
+    "name": "MP7 | Guerrilla (Field-Tested)",
+    "nameId": 1086993
+  },
+  "MP7 | Guerrilla (Well-Worn)": {
+    "name": "MP7 | Guerrilla (Well-Worn)",
+    "nameId": 1087085
+  },
+  "MP7 | Guerrilla (Battle-Scarred)": {
+    "name": "MP7 | Guerrilla (Battle-Scarred)",
+    "nameId": 1086882
+  },
+  "StatTrak™ MP7 | Guerrilla (Factory New)": {
+    "name": "StatTrak™ MP7 | Guerrilla (Factory New)",
+    "nameId": 1087423
+  },
+  "StatTrak™ MP7 | Guerrilla (Minimal Wear)": {
+    "name": "StatTrak™ MP7 | Guerrilla (Minimal Wear)",
+    "nameId": 1086976
+  },
+  "StatTrak™ MP7 | Guerrilla (Field-Tested)": {
+    "name": "StatTrak™ MP7 | Guerrilla (Field-Tested)",
+    "nameId": 1086920
+  },
+  "StatTrak™ MP7 | Guerrilla (Well-Worn)": {
+    "name": "StatTrak™ MP7 | Guerrilla (Well-Worn)",
+    "nameId": 1087021
+  },
+  "StatTrak™ MP7 | Guerrilla (Battle-Scarred)": {
+    "name": "StatTrak™ MP7 | Guerrilla (Battle-Scarred)",
+    "nameId": 1086923
+  },
+  "R8 Revolver | Tango (Factory New)": {
+    "name": "R8 Revolver | Tango (Factory New)",
+    "nameId": 2598171
+  },
+  "R8 Revolver | Tango (Minimal Wear)": {
+    "name": "R8 Revolver | Tango (Minimal Wear)",
+    "nameId": 2597869
+  },
+  "R8 Revolver | Tango (Field-Tested)": {
+    "name": "R8 Revolver | Tango (Field-Tested)",
+    "nameId": 2597756
+  },
+  "R8 Revolver | Tango (Well-Worn)": {
+    "name": "R8 Revolver | Tango (Well-Worn)",
+    "nameId": 2598218
+  },
+  "R8 Revolver | Tango (Battle-Scarred)": {
+    "name": "R8 Revolver | Tango (Battle-Scarred)",
+    "nameId": 2597793
+  },
+  "StatTrak™ R8 Revolver | Tango (Factory New)": {
+    "name": "StatTrak™ R8 Revolver | Tango (Factory New)",
+    "nameId": 2598174
+  },
+  "StatTrak™ R8 Revolver | Tango (Minimal Wear)": {
+    "name": "StatTrak™ R8 Revolver | Tango (Minimal Wear)",
+    "nameId": 2597761
+  },
+  "StatTrak™ R8 Revolver | Tango (Field-Tested)": {
+    "name": "StatTrak™ R8 Revolver | Tango (Field-Tested)",
+    "nameId": 2597918
+  },
+  "StatTrak™ R8 Revolver | Tango (Well-Worn)": {
+    "name": "StatTrak™ R8 Revolver | Tango (Well-Worn)",
+    "nameId": 2598216
+  },
+  "StatTrak™ R8 Revolver | Tango (Battle-Scarred)": {
+    "name": "StatTrak™ R8 Revolver | Tango (Battle-Scarred)",
+    "nameId": 2597733
+  },
+  "★ StatTrak™ Shadow Daggers | Boreal Forest (Field-Tested)": {
+    "name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Field-Tested)",
+    "nameId": 162
+  },
+  "★ StatTrak™ Shadow Daggers | Boreal Forest (Battle-Scarred)": {
+    "name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Battle-Scarred)",
+    "nameId": 21461
+  },
+  "★ Shadow Daggers | Ultraviolet (Factory New)": {
+    "name": "★ Shadow Daggers | Ultraviolet (Factory New)",
+    "nameId": 20743
+  },
+  "★ Shadow Daggers | Ultraviolet (Minimal Wear)": {
+    "name": "★ Shadow Daggers | Ultraviolet (Minimal Wear)",
+    "nameId": 3347
+  },
+  "★ Shadow Daggers | Ultraviolet (Field-Tested)": {
+    "name": "★ Shadow Daggers | Ultraviolet (Field-Tested)",
+    "nameId": 1380
+  },
+  "★ Shadow Daggers | Ultraviolet (Well-Worn)": {
+    "name": "★ Shadow Daggers | Ultraviolet (Well-Worn)",
+    "nameId": 7132
+  },
+  "★ Shadow Daggers | Ultraviolet (Battle-Scarred)": {
+    "name": "★ Shadow Daggers | Ultraviolet (Battle-Scarred)",
+    "nameId": 2445
   }
 }
