@@ -40066,5 +40066,377 @@
   "Sticker | ViCi Gaming | Katowice 2019": {
     "name": "Sticker | ViCi Gaming | Katowice 2019",
     "nameId": 195025
+  },
+  "DreamHack Cluj-Napoca 2015 Legends (Foil)": {
+    "name": "DreamHack Cluj-Napoca 2015 Legends (Foil)",
+    "nameId": 19396
+  },
+  "Sealed Graffiti | Rekt": {
+    "name": "Sealed Graffiti | Rekt",
+    "nameId": 2001
+  },
+  "Sealed Graffiti | Tombstone (Monster Purple)": {
+    "name": "Sealed Graffiti | Tombstone (Monster Purple)",
+    "nameId": 7731
+  },
+  "Sealed Graffiti | Cocky (Wire Blue)": {
+    "name": "Sealed Graffiti | Cocky (Wire Blue)",
+    "nameId": 2890
+  },
+  "Souvenir P90 | Desert DDPAT (Minimal Wear)": {
+    "name": "Souvenir P90 | Desert DDPAT (Minimal Wear)",
+    "nameId": 1088754
+  },
+  "Souvenir P90 | Desert DDPAT (Field-Tested)": {
+    "name": "Souvenir P90 | Desert DDPAT (Field-Tested)",
+    "nameId": 1088760
+  },
+  "Souvenir P90 | Desert DDPAT (Well-Worn)": {
+    "name": "Souvenir P90 | Desert DDPAT (Well-Worn)",
+    "nameId": 1088795
+  },
+  "Souvenir P90 | Desert DDPAT (Battle-Scarred)": {
+    "name": "Souvenir P90 | Desert DDPAT (Battle-Scarred)",
+    "nameId": 1088807
+  },
+  "P90 | Attack Vector (Factory New)": {
+    "name": "P90 | Attack Vector (Factory New)",
+    "nameId": 2597994
+  },
+  "P90 | Attack Vector (Minimal Wear)": {
+    "name": "P90 | Attack Vector (Minimal Wear)",
+    "nameId": 2598167
+  },
+  "P90 | Attack Vector (Field-Tested)": {
+    "name": "P90 | Attack Vector (Field-Tested)",
+    "nameId": 2598073
+  },
+  "P90 | Attack Vector (Well-Worn)": {
+    "name": "P90 | Attack Vector (Well-Worn)",
+    "nameId": 2598248
+  },
+  "P90 | Attack Vector (Battle-Scarred)": {
+    "name": "P90 | Attack Vector (Battle-Scarred)",
+    "nameId": 2598260
+  },
+  "P90 | Freight (Factory New)": {
+    "name": "P90 | Freight (Factory New)",
+    "nameId": 1081499
+  },
+  "StatTrak™ MP9 | Hypnotic (Minimal Wear)": {
+    "name": "StatTrak™ MP9 | Hypnotic (Minimal Wear)",
+    "nameId": 7654
+  },
+  "MP9 | Storm (Factory New)": {
+    "name": "MP9 | Storm (Factory New)",
+    "nameId": 2363
+  },
+  "MP9 | Storm (Minimal Wear)": {
+    "name": "MP9 | Storm (Minimal Wear)",
+    "nameId": 3533
+  },
+  "MP9 | Storm (Field-Tested)": {
+    "name": "MP9 | Storm (Field-Tested)",
+    "nameId": 11147
+  },
+  "MP9 | Storm (Well-Worn)": {
+    "name": "MP9 | Storm (Well-Worn)",
+    "nameId": 6281
+  },
+  "MP9 | Storm (Battle-Scarred)": {
+    "name": "MP9 | Storm (Battle-Scarred)",
+    "nameId": 12908
+  },
+  "Souvenir MP9 | Storm (Factory New)": {
+    "name": "Souvenir MP9 | Storm (Factory New)",
+    "nameId": 8795
+  },
+  "Souvenir MP9 | Storm (Minimal Wear)": {
+    "name": "Souvenir MP9 | Storm (Minimal Wear)",
+    "nameId": 4138
+  },
+  "Souvenir MP9 | Storm (Field-Tested)": {
+    "name": "Souvenir MP9 | Storm (Field-Tested)",
+    "nameId": 3649
+  },
+  "★ Bayonet | Fade (Factory New)": {
+    "name": "★ Bayonet | Fade (Factory New)",
+    "nameId": 7742
+  },
+  "★ StatTrak™ Bayonet | Fade (Factory New)": {
+    "name": "★ StatTrak™ Bayonet | Fade (Factory New)",
+    "nameId": 13278
+  },
+  "★ Bayonet | Night (Minimal Wear)": {
+    "name": "★ Bayonet | Night (Minimal Wear)",
+    "nameId": 3178
+  },
+  "★ Bayonet | Night (Field-Tested)": {
+    "name": "★ Bayonet | Night (Field-Tested)",
+    "nameId": 3033
+  },
+  "★ Bayonet | Night (Well-Worn)": {
+    "name": "★ Bayonet | Night (Well-Worn)",
+    "nameId": 578
+  },
+  "★ Bayonet | Night (Battle-Scarred)": {
+    "name": "★ Bayonet | Night (Battle-Scarred)",
+    "nameId": 1421
+  },
+  "★ Ursus Knife | Crimson Web (Well-Worn)": {
+    "name": "★ Ursus Knife | Crimson Web (Well-Worn)",
+    "nameId": 38797
+  },
+  "★ Ursus Knife | Crimson Web (Battle-Scarred)": {
+    "name": "★ Ursus Knife | Crimson Web (Battle-Scarred)",
+    "nameId": 38928
+  },
+  "★ StatTrak™ Ursus Knife | Crimson Web (Factory New)": {
+    "name": "★ StatTrak™ Ursus Knife | Crimson Web (Factory New)",
+    "nameId": 39110
+  },
+  "★ StatTrak™ Ursus Knife | Crimson Web (Field-Tested)": {
+    "name": "★ StatTrak™ Ursus Knife | Crimson Web (Field-Tested)",
+    "nameId": 39108
+  },
+  "Sticker | Good Versus Evil": {
+    "name": "Sticker | Good Versus Evil",
+    "nameId": 1092780
+  },
+  "Sticker | Green's Problem": {
+    "name": "Sticker | Green's Problem",
+    "nameId": 1092801
+  },
+  "Sticker | Laser Beam": {
+    "name": "Sticker | Laser Beam",
+    "nameId": 1092773
+  },
+  "Sticker | Monster": {
+    "name": "Sticker | Monster",
+    "nameId": 1092733
+  },
+  "Sticker | Noble Steed": {
+    "name": "Sticker | Noble Steed",
+    "nameId": 1092798
+  },
+  "Sticker | Not For Resale": {
+    "name": "Sticker | Not For Resale",
+    "nameId": 1092771
+  },
+  "Sticker | Press Start": {
+    "name": "Sticker | Press Start",
+    "nameId": 1092823
+  },
+  "Sticker | Choose Wisely": {
+    "name": "Sticker | Choose Wisely",
+    "nameId": 1092743
+  },
+  "Sticker | Shifty Tactics": {
+    "name": "Sticker | Shifty Tactics",
+    "nameId": 1092729
+  },
+  "Sticker | Rush More": {
+    "name": "Sticker | Rush More",
+    "nameId": 1092822
+  },
+  "Sticker | Save Me": {
+    "name": "Sticker | Save Me",
+    "nameId": 1092751
+  },
+  "Sticker | Agent Select": {
+    "name": "Sticker | Agent Select",
+    "nameId": 1092821
+  },
+  "Sticker | This Is Fine (H)": {
+    "name": "Sticker | This Is Fine (H)",
+    "nameId": 1092736
+  },
+  "Sticker | TV On Mirage": {
+    "name": "Sticker | TV On Mirage",
+    "nameId": 1092800
+  },
+  "Sticker | Zeused": {
+    "name": "Sticker | Zeused",
+    "nameId": 1092748
+  },
+  "Sticker | Ace Clutch Co. (Holo)": {
+    "name": "Sticker | Ace Clutch Co. (Holo)",
+    "nameId": 1092750
+  },
+  "Sticker | Blue Gem (Glitter)": {
+    "name": "Sticker | Blue Gem (Glitter)",
+    "nameId": 1092776
+  },
+  "Sticker | Go Boom (Glitter)": {
+    "name": "Sticker | Go Boom (Glitter)",
+    "nameId": 1092744
+  },
+  "Sticker | Cbbl (Holo)": {
+    "name": "Sticker | Cbbl (Holo)",
+    "nameId": 1092826
+  },
+  "Sticker | Defuse It (Holo)": {
+    "name": "Sticker | Defuse It (Holo)",
+    "nameId": 1092824
+  },
+  "Sticker | Conspiracy Club (Holo)": {
+    "name": "Sticker | Conspiracy Club (Holo)",
+    "nameId": 1092767
+  },
+  "Sticker | Get Smoked (Holo)": {
+    "name": "Sticker | Get Smoked (Holo)",
+    "nameId": 1092769
+  },
+  "Sticker | Kawaii CT (Holo)": {
+    "name": "Sticker | Kawaii CT (Holo)",
+    "nameId": 1092774
+  },
+  "Sticker | Kawaii T (Holo)": {
+    "name": "Sticker | Kawaii T (Holo)",
+    "nameId": 1092799
+  },
+  "Sticker | Leaving The Station (Holo)": {
+    "name": "Sticker | Leaving The Station (Holo)",
+    "nameId": 1092843
+  },
+  "Sticker | Pain Train (Holo)": {
+    "name": "Sticker | Pain Train (Holo)",
+    "nameId": 1092746
+  },
+  "Sticker | Vertigo's Hero (Holo)": {
+    "name": "Sticker | Vertigo's Hero (Holo)",
+    "nameId": 1092740
+  },
+  "Sticker | Zeusception (Holo)": {
+    "name": "Sticker | Zeusception (Holo)",
+    "nameId": 1092827
+  },
+  "Sticker | Dust FA (Foil)": {
+    "name": "Sticker | Dust FA (Foil)",
+    "nameId": 1092828
+  },
+  "Sticker | In The Fire (Foil)": {
+    "name": "Sticker | In The Fire (Foil)",
+    "nameId": 1092855
+  },
+  "Sticker | Approaching Site (Foil)": {
+    "name": "Sticker | Approaching Site (Foil)",
+    "nameId": 1092856
+  },
+  "Sticker | Overpass Diorama (Foil)": {
+    "name": "Sticker | Overpass Diorama (Foil)",
+    "nameId": 1092842
+  },
+  "Sticker | Pure Malt (Foil)": {
+    "name": "Sticker | Pure Malt (Foil)",
+    "nameId": 1092830
+  },
+  "Sticker | Showdown (Foil)": {
+    "name": "Sticker | Showdown (Foil)",
+    "nameId": 1092848
+  },
+  "Sticker | Ten Years (Foil)": {
+    "name": "Sticker | Ten Years (Foil)",
+    "nameId": 1092833
+  },
+  "Sticker | Romanov's Fire (Foil)": {
+    "name": "Sticker | Romanov's Fire (Foil)",
+    "nameId": 1092749
+  },
+  "Sticker | Freeze (Lenticular)": {
+    "name": "Sticker | Freeze (Lenticular)",
+    "nameId": 1092844
+  },
+  "Sticker | Global TV (Lenticular)": {
+    "name": "Sticker | Global TV (Lenticular)",
+    "nameId": 1092846
+  },
+  "Sticker | Magic Rush Ball (Lenticular)": {
+    "name": "Sticker | Magic Rush Ball (Lenticular)",
+    "nameId": 1092847
+  },
+  "Sticker | DJ Safecracker (Lenticular)": {
+    "name": "Sticker | DJ Safecracker (Lenticular)",
+    "nameId": 1092859
+  },
+  "Sticker | Skin Lover (Lenticular)": {
+    "name": "Sticker | Skin Lover (Lenticular)",
+    "nameId": 1092832
+  },
+  "Sticker | TV Installation (Lenticular)": {
+    "name": "Sticker | TV Installation (Lenticular)",
+    "nameId": 1092730
+  },
+  "Sticker | ENCE | Rio 2022": {
+    "name": "Sticker | ENCE | Rio 2022",
+    "nameId": 1094410
+  },
+  "Sticker | ENCE (Glitter) | Rio 2022": {
+    "name": "Sticker | ENCE (Glitter) | Rio 2022",
+    "nameId": 1094499
+  },
+  "Sticker | ENCE (Holo) | Rio 2022": {
+    "name": "Sticker | ENCE (Holo) | Rio 2022",
+    "nameId": 1094500
+  },
+  "Sticker | ENCE (Gold) | Rio 2022": {
+    "name": "Sticker | ENCE (Gold) | Rio 2022",
+    "nameId": 1094469
+  },
+  "Sticker | FaZe Clan | Rio 2022": {
+    "name": "Sticker | FaZe Clan | Rio 2022",
+    "nameId": 1094376
+  },
+  "Sticker | FaZe Clan (Glitter) | Rio 2022": {
+    "name": "Sticker | FaZe Clan (Glitter) | Rio 2022",
+    "nameId": 1094374
+  },
+  "Sticker | FaZe Clan (Holo) | Rio 2022": {
+    "name": "Sticker | FaZe Clan (Holo) | Rio 2022",
+    "nameId": 1094528
+  },
+  "Sticker | FaZe Clan (Gold) | Rio 2022": {
+    "name": "Sticker | FaZe Clan (Gold) | Rio 2022",
+    "nameId": 1094755
+  },
+  "Sticker | Heroic | Rio 2022": {
+    "name": "Sticker | Heroic | Rio 2022",
+    "nameId": 1094366
+  },
+  "Sticker | Heroic (Glitter) | Rio 2022": {
+    "name": "Sticker | Heroic (Glitter) | Rio 2022",
+    "nameId": 1094470
+  },
+  "Sticker | Heroic (Holo) | Rio 2022": {
+    "name": "Sticker | Heroic (Holo) | Rio 2022",
+    "nameId": 1094412
+  },
+  "Sticker | Heroic (Gold) | Rio 2022": {
+    "name": "Sticker | Heroic (Gold) | Rio 2022",
+    "nameId": 1095176
+  },
+  "Sticker | Natus Vincere | Rio 2022": {
+    "name": "Sticker | Natus Vincere | Rio 2022",
+    "nameId": 1094368
+  },
+  "Sticker | Dycha (Holo) | Rio 2022": {
+    "name": "Sticker | Dycha (Holo) | Rio 2022",
+    "nameId": 1094655
+  },
+  "Sticker | ropz (Holo) | Rio 2022": {
+    "name": "Sticker | ropz (Holo) | Rio 2022",
+    "nameId": 1094598
+  },
+  "Sticker | Spinx (Holo) | Rio 2022": {
+    "name": "Sticker | Spinx (Holo) | Rio 2022",
+    "nameId": 1095369
+  },
+  "Sticker | kabal (Holo) | Rio 2022": {
+    "name": "Sticker | kabal (Holo) | Rio 2022",
+    "nameId": 1094753
+  },
+  "Sticker | Jame (Holo, Champion) | Rio 2022": {
+    "name": "Sticker | Jame (Holo, Champion) | Rio 2022",
+    "nameId": 1113454
   }
 }
