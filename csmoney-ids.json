@@ -37946,5 +37946,149 @@
   "Sticker | Techno4K (Gold) | Paris 2023": {
     "name": "Sticker | Techno4K (Gold) | Paris 2023",
     "nameId": 1327676
+  },
+  "UMP-45 | Delusion (Factory New)": {
+    "name": "UMP-45 | Delusion (Factory New)",
+    "nameId": 13522
+  },
+  "UMP-45 | Delusion (Minimal Wear)": {
+    "name": "UMP-45 | Delusion (Minimal Wear)",
+    "nameId": 9445
+  },
+  "UMP-45 | Delusion (Field-Tested)": {
+    "name": "UMP-45 | Delusion (Field-Tested)",
+    "nameId": 2460
+  },
+  "StatTrak™ UMP-45 | Delusion (Factory New)": {
+    "name": "StatTrak™ UMP-45 | Delusion (Factory New)",
+    "nameId": 7191
+  },
+  "StatTrak™ UMP-45 | Delusion (Minimal Wear)": {
+    "name": "StatTrak™ UMP-45 | Delusion (Minimal Wear)",
+    "nameId": 9860
+  },
+  "StatTrak™ UMP-45 | Delusion (Field-Tested)": {
+    "name": "StatTrak™ UMP-45 | Delusion (Field-Tested)",
+    "nameId": 2254
+  },
+  "UMP-45 | Crimson Foil (Factory New)": {
+    "name": "UMP-45 | Crimson Foil (Factory New)",
+    "nameId": 2598029
+  },
+  "UMP-45 | Crimson Foil (Minimal Wear)": {
+    "name": "UMP-45 | Crimson Foil (Minimal Wear)",
+    "nameId": 2597804
+  },
+  "UMP-45 | Crimson Foil (Field-Tested)": {
+    "name": "UMP-45 | Crimson Foil (Field-Tested)",
+    "nameId": 2597848
+  },
+  "UMP-45 | Crimson Foil (Well-Worn)": {
+    "name": "UMP-45 | Crimson Foil (Well-Worn)",
+    "nameId": 2598001
+  },
+  "UMP-45 | Crimson Foil (Battle-Scarred)": {
+    "name": "UMP-45 | Crimson Foil (Battle-Scarred)",
+    "nameId": 2598036
+  },
+  "P250 | Undertow (Factory New)": {
+    "name": "P250 | Undertow (Factory New)",
+    "nameId": 9221
+  },
+  "P250 | Undertow (Minimal Wear)": {
+    "name": "P250 | Undertow (Minimal Wear)",
+    "nameId": 10287
+  },
+  "P250 | Undertow (Field-Tested)": {
+    "name": "P250 | Undertow (Field-Tested)",
+    "nameId": 15706
+  },
+  "StatTrak™ P250 | Undertow (Factory New)": {
+    "name": "StatTrak™ P250 | Undertow (Factory New)",
+    "nameId": 2462
+  },
+  "StatTrak™ P250 | Undertow (Minimal Wear)": {
+    "name": "StatTrak™ P250 | Undertow (Minimal Wear)",
+    "nameId": 2181
+  },
+  "StatTrak™ P250 | Undertow (Field-Tested)": {
+    "name": "StatTrak™ P250 | Undertow (Field-Tested)",
+    "nameId": 14980
+  },
+  "P250 | Franklin (Factory New)": {
+    "name": "P250 | Franklin (Factory New)",
+    "nameId": 3027
+  },
+  "P250 | Franklin (Minimal Wear)": {
+    "name": "P250 | Franklin (Minimal Wear)",
+    "nameId": 2819
+  },
+  "P250 | Franklin (Field-Tested)": {
+    "name": "P250 | Franklin (Field-Tested)",
+    "nameId": 3941
+  },
+  "P250 | Franklin (Well-Worn)": {
+    "name": "P250 | Franklin (Well-Worn)",
+    "nameId": 3311
+  },
+  "★ Karambit | Black Laminate (Minimal Wear)": {
+    "name": "★ Karambit | Black Laminate (Minimal Wear)",
+    "nameId": 13272
+  },
+  "★ Karambit | Black Laminate (Field-Tested)": {
+    "name": "★ Karambit | Black Laminate (Field-Tested)",
+    "nameId": 9174
+  },
+  "★ Karambit | Black Laminate (Well-Worn)": {
+    "name": "★ Karambit | Black Laminate (Well-Worn)",
+    "nameId": 11176
+  },
+  "★ Karambit | Black Laminate (Battle-Scarred)": {
+    "name": "★ Karambit | Black Laminate (Battle-Scarred)",
+    "nameId": 5434
+  },
+  "★ StatTrak™ Karambit | Black Laminate (Factory New)": {
+    "name": "★ StatTrak™ Karambit | Black Laminate (Factory New)",
+    "nameId": 26921
+  },
+  "★ StatTrak™ Karambit | Black Laminate (Minimal Wear)": {
+    "name": "★ StatTrak™ Karambit | Black Laminate (Minimal Wear)",
+    "nameId": 21319
+  },
+  "★ StatTrak™ Karambit | Black Laminate (Field-Tested)": {
+    "name": "★ StatTrak™ Karambit | Black Laminate (Field-Tested)",
+    "nameId": 5453
+  },
+  "★ Driver Gloves | Imperial Plaid (Field-Tested)": {
+    "name": "★ Driver Gloves | Imperial Plaid (Field-Tested)",
+    "nameId": 22542
+  },
+  "★ Driver Gloves | Imperial Plaid (Well-Worn)": {
+    "name": "★ Driver Gloves | Imperial Plaid (Well-Worn)",
+    "nameId": 24453
+  },
+  "★ Driver Gloves | Imperial Plaid (Battle-Scarred)": {
+    "name": "★ Driver Gloves | Imperial Plaid (Battle-Scarred)",
+    "nameId": 24838
+  },
+  "★ Driver Gloves | Overtake (Factory New)": {
+    "name": "★ Driver Gloves | Overtake (Factory New)",
+    "nameId": 32340
+  },
+  "★ Driver Gloves | Overtake (Minimal Wear)": {
+    "name": "★ Driver Gloves | Overtake (Minimal Wear)",
+    "nameId": 24170
+  },
+  "★ Driver Gloves | Overtake (Field-Tested)": {
+    "name": "★ Driver Gloves | Overtake (Field-Tested)",
+    "nameId": 26380
+  },
+  "★ Driver Gloves | Overtake (Well-Worn)": {
+    "name": "★ Driver Gloves | Overtake (Well-Worn)",
+    "nameId": 28102
+  },
+  "★ Driver Gloves | Overtake (Battle-Scarred)": {
+    "name": "★ Driver Gloves | Overtake (Battle-Scarred)",
+    "nameId": 21148
   }
 }
