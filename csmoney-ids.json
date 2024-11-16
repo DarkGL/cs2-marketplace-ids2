@@ -41230,5 +41230,89 @@
   "★ StatTrak™ Ursus Knife | Damascus Steel (Factory New)": {
     "name": "★ StatTrak™ Ursus Knife | Damascus Steel (Factory New)",
     "nameId": 545450
+  },
+  "StatTrak™ UMP-45 | Moonrise (Field-Tested)": {
+    "name": "StatTrak™ UMP-45 | Moonrise (Field-Tested)",
+    "nameId": 201850
+  },
+  "StatTrak™ UMP-45 | Moonrise (Well-Worn)": {
+    "name": "StatTrak™ UMP-45 | Moonrise (Well-Worn)",
+    "nameId": 202953
+  },
+  "UMP-45 | Fade (Factory New)": {
+    "name": "UMP-45 | Fade (Factory New)",
+    "nameId": 1087259
+  },
+  "Souvenir UMP-45 | Fade (Factory New)": {
+    "name": "Souvenir UMP-45 | Fade (Factory New)",
+    "nameId": 1088811
+  },
+  "Souvenir UMP-45 | Fade (Minimal Wear)": {
+    "name": "Souvenir UMP-45 | Fade (Minimal Wear)",
+    "nameId": 1089022
+  },
+  "UMP-45 | Plastique (Factory New)": {
+    "name": "UMP-45 | Plastique (Factory New)",
+    "nameId": 1073228
+  },
+  "UMP-45 | Plastique (Minimal Wear)": {
+    "name": "UMP-45 | Plastique (Minimal Wear)",
+    "nameId": 1073169
+  },
+  "UMP-45 | Plastique (Field-Tested)": {
+    "name": "UMP-45 | Plastique (Field-Tested)",
+    "nameId": 1073139
+  },
+  "Souvenir SCAR-20 | Contractor (Well-Worn)": {
+    "name": "Souvenir SCAR-20 | Contractor (Well-Worn)",
+    "nameId": 8783
+  },
+  "Souvenir SCAR-20 | Contractor (Battle-Scarred)": {
+    "name": "Souvenir SCAR-20 | Contractor (Battle-Scarred)",
+    "nameId": 21921
+  },
+  "SCAR-20 | Carbon Fiber (Factory New)": {
+    "name": "SCAR-20 | Carbon Fiber (Factory New)",
+    "nameId": 5739
+  },
+  "SCAR-20 | Carbon Fiber (Minimal Wear)": {
+    "name": "SCAR-20 | Carbon Fiber (Minimal Wear)",
+    "nameId": 13688
+  },
+  "Souvenir SCAR-20 | Carbon Fiber (Factory New)": {
+    "name": "Souvenir SCAR-20 | Carbon Fiber (Factory New)",
+    "nameId": 3231
+  },
+  "Souvenir SCAR-20 | Carbon Fiber (Minimal Wear)": {
+    "name": "Souvenir SCAR-20 | Carbon Fiber (Minimal Wear)",
+    "nameId": 199
+  },
+  "SCAR-20 | Storm (Factory New)": {
+    "name": "SCAR-20 | Storm (Factory New)",
+    "nameId": 3354
+  },
+  "SCAR-20 | Storm (Minimal Wear)": {
+    "name": "SCAR-20 | Storm (Minimal Wear)",
+    "nameId": 7846
+  },
+  "SCAR-20 | Storm (Field-Tested)": {
+    "name": "SCAR-20 | Storm (Field-Tested)",
+    "nameId": 81
+  },
+  "SCAR-20 | Storm (Well-Worn)": {
+    "name": "SCAR-20 | Storm (Well-Worn)",
+    "nameId": 8713
+  },
+  "SCAR-20 | Storm (Battle-Scarred)": {
+    "name": "SCAR-20 | Storm (Battle-Scarred)",
+    "nameId": 8436
+  },
+  "Souvenir SCAR-20 | Storm (Factory New)": {
+    "name": "Souvenir SCAR-20 | Storm (Factory New)",
+    "nameId": 3596
+  },
+  "Sticker | Maniac (Foil) | Cologne 2015": {
+    "name": "Sticker | Maniac (Foil) | Cologne 2015",
+    "nameId": 16790
   }
 }
