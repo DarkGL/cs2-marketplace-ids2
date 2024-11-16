@@ -38986,5 +38986,761 @@
   "★ StatTrak™ Bowie Knife | Case Hardened (Minimal Wear)": {
     "name": "★ StatTrak™ Bowie Knife | Case Hardened (Minimal Wear)",
     "nameId": 23246
+  },
+  "StatTrak™ MAC-10 | Oceanic (Minimal Wear)": {
+    "name": "StatTrak™ MAC-10 | Oceanic (Minimal Wear)",
+    "nameId": 2913
+  },
+  "StatTrak™ MAC-10 | Oceanic (Field-Tested)": {
+    "name": "StatTrak™ MAC-10 | Oceanic (Field-Tested)",
+    "nameId": 2232
+  },
+  "StatTrak™ MAC-10 | Oceanic (Well-Worn)": {
+    "name": "StatTrak™ MAC-10 | Oceanic (Well-Worn)",
+    "nameId": 958
+  },
+  "StatTrak™ MAC-10 | Oceanic (Battle-Scarred)": {
+    "name": "StatTrak™ MAC-10 | Oceanic (Battle-Scarred)",
+    "nameId": 1301
+  },
+  "MAC-10 | Red Filigree (Factory New)": {
+    "name": "MAC-10 | Red Filigree (Factory New)",
+    "nameId": 1074884
+  },
+  "MAC-10 | Red Filigree (Minimal Wear)": {
+    "name": "MAC-10 | Red Filigree (Minimal Wear)",
+    "nameId": 1074324
+  },
+  "Souvenir Tec-9 | VariCamo (Factory New)": {
+    "name": "Souvenir Tec-9 | VariCamo (Factory New)",
+    "nameId": 2675
+  },
+  "Souvenir Tec-9 | VariCamo (Minimal Wear)": {
+    "name": "Souvenir Tec-9 | VariCamo (Minimal Wear)",
+    "nameId": 1737
+  },
+  "Souvenir Tec-9 | VariCamo (Field-Tested)": {
+    "name": "Souvenir Tec-9 | VariCamo (Field-Tested)",
+    "nameId": 8805
+  },
+  "Souvenir Tec-9 | VariCamo (Well-Worn)": {
+    "name": "Souvenir Tec-9 | VariCamo (Well-Worn)",
+    "nameId": 19885
+  },
+  "Souvenir Tec-9 | VariCamo (Battle-Scarred)": {
+    "name": "Souvenir Tec-9 | VariCamo (Battle-Scarred)",
+    "nameId": 15698
+  },
+  "Tec-9 | Army Mesh (Factory New)": {
+    "name": "Tec-9 | Army Mesh (Factory New)",
+    "nameId": 2887
+  },
+  "Tec-9 | Army Mesh (Minimal Wear)": {
+    "name": "Tec-9 | Army Mesh (Minimal Wear)",
+    "nameId": 11
+  },
+  "Tec-9 | Army Mesh (Field-Tested)": {
+    "name": "Tec-9 | Army Mesh (Field-Tested)",
+    "nameId": 2598
+  },
+  "Tec-9 | Army Mesh (Well-Worn)": {
+    "name": "Tec-9 | Army Mesh (Well-Worn)",
+    "nameId": 12510
+  },
+  "Tec-9 | Army Mesh (Battle-Scarred)": {
+    "name": "Tec-9 | Army Mesh (Battle-Scarred)",
+    "nameId": 9478
+  },
+  "SSG 08 | Lichen Dashed (Minimal Wear)": {
+    "name": "SSG 08 | Lichen Dashed (Minimal Wear)",
+    "nameId": 283
+  },
+  "SSG 08 | Lichen Dashed (Field-Tested)": {
+    "name": "SSG 08 | Lichen Dashed (Field-Tested)",
+    "nameId": 8531
+  },
+  "SSG 08 | Lichen Dashed (Well-Worn)": {
+    "name": "SSG 08 | Lichen Dashed (Well-Worn)",
+    "nameId": 18661
+  },
+  "SSG 08 | Lichen Dashed (Battle-Scarred)": {
+    "name": "SSG 08 | Lichen Dashed (Battle-Scarred)",
+    "nameId": 18089
+  },
+  "SSG 08 | Dark Water (Minimal Wear)": {
+    "name": "SSG 08 | Dark Water (Minimal Wear)",
+    "nameId": 7253
+  },
+  "SSG 08 | Dark Water (Field-Tested)": {
+    "name": "SSG 08 | Dark Water (Field-Tested)",
+    "nameId": 3207
+  },
+  "StatTrak™ SSG 08 | Dark Water (Minimal Wear)": {
+    "name": "StatTrak™ SSG 08 | Dark Water (Minimal Wear)",
+    "nameId": 4150
+  },
+  "StatTrak™ SSG 08 | Dark Water (Field-Tested)": {
+    "name": "StatTrak™ SSG 08 | Dark Water (Field-Tested)",
+    "nameId": 9426
+  },
+  "SSG 08 | Carbon Fiber (Factory New)": {
+    "name": "SSG 08 | Carbon Fiber (Factory New)",
+    "nameId": 1087031
+  },
+  "SSG 08 | Carbon Fiber (Minimal Wear)": {
+    "name": "SSG 08 | Carbon Fiber (Minimal Wear)",
+    "nameId": 1087214
+  },
+  "★ Karambit | Boreal Forest (Field-Tested)": {
+    "name": "★ Karambit | Boreal Forest (Field-Tested)",
+    "nameId": 1806
+  },
+  "★ StatTrak™ Stiletto Knife | Fade (Factory New)": {
+    "name": "★ StatTrak™ Stiletto Knife | Fade (Factory New)",
+    "nameId": 169060
+  },
+  "★ Stiletto Knife | Blue Steel (Minimal Wear)": {
+    "name": "★ Stiletto Knife | Blue Steel (Minimal Wear)",
+    "nameId": 38641
+  },
+  "★ Stiletto Knife | Blue Steel (Field-Tested)": {
+    "name": "★ Stiletto Knife | Blue Steel (Field-Tested)",
+    "nameId": 38852
+  },
+  "Sticker | buster (Holo) | Stockholm 2021": {
+    "name": "Sticker | buster (Holo) | Stockholm 2021",
+    "nameId": 1089145
+  },
+  "Sticker | buster (Gold) | Stockholm 2021": {
+    "name": "Sticker | buster (Gold) | Stockholm 2021",
+    "nameId": 1089207
+  },
+  "Sticker | YEKINDAR | Stockholm 2021": {
+    "name": "Sticker | YEKINDAR | Stockholm 2021",
+    "nameId": 1089125
+  },
+  "Sticker | YEKINDAR (Holo) | Stockholm 2021": {
+    "name": "Sticker | YEKINDAR (Holo) | Stockholm 2021",
+    "nameId": 1089164
+  },
+  "Sticker | Jame | Stockholm 2021": {
+    "name": "Sticker | Jame | Stockholm 2021",
+    "nameId": 1089110
+  },
+  "Sticker | Jame (Holo) | Stockholm 2021": {
+    "name": "Sticker | Jame (Holo) | Stockholm 2021",
+    "nameId": 1089172
+  },
+  "Sticker | Jame (Gold) | Stockholm 2021": {
+    "name": "Sticker | Jame (Gold) | Stockholm 2021",
+    "nameId": 1089198
+  },
+  "Sticker | FL1T | Stockholm 2021": {
+    "name": "Sticker | FL1T | Stockholm 2021",
+    "nameId": 1089123
+  },
+  "Sticker | FL1T (Holo) | Stockholm 2021": {
+    "name": "Sticker | FL1T (Holo) | Stockholm 2021",
+    "nameId": 1089118
+  },
+  "Sticker | FL1T (Gold) | Stockholm 2021": {
+    "name": "Sticker | FL1T (Gold) | Stockholm 2021",
+    "nameId": 1089199
+  },
+  "Sticker | hampus | Stockholm 2021": {
+    "name": "Sticker | hampus | Stockholm 2021",
+    "nameId": 1089148
+  },
+  "Sticker | hampus (Holo) | Stockholm 2021": {
+    "name": "Sticker | hampus (Holo) | Stockholm 2021",
+    "nameId": 1089161
+  },
+  "Sticker | hampus (Gold) | Stockholm 2021": {
+    "name": "Sticker | hampus (Gold) | Stockholm 2021",
+    "nameId": 1089204
+  },
+  "Sticker | LNZ | Stockholm 2021": {
+    "name": "Sticker | LNZ | Stockholm 2021",
+    "nameId": 1089124
+  },
+  "Sticker | LNZ (Holo) | Stockholm 2021": {
+    "name": "Sticker | LNZ (Holo) | Stockholm 2021",
+    "nameId": 1089187
+  },
+  "Sticker | LNZ (Gold) | Stockholm 2021": {
+    "name": "Sticker | LNZ (Gold) | Stockholm 2021",
+    "nameId": 1089190
+  },
+  "Sticker | REZ | Stockholm 2021": {
+    "name": "Sticker | REZ | Stockholm 2021",
+    "nameId": 1089144
+  },
+  "Sticker | REZ (Holo) | Stockholm 2021": {
+    "name": "Sticker | REZ (Holo) | Stockholm 2021",
+    "nameId": 1089141
+  },
+  "Sticker | REZ (Gold) | Stockholm 2021": {
+    "name": "Sticker | REZ (Gold) | Stockholm 2021",
+    "nameId": 1089210
+  },
+  "Sticker | Plopski | Stockholm 2021": {
+    "name": "Sticker | Plopski | Stockholm 2021",
+    "nameId": 1089111
+  },
+  "Sticker | Plopski (Holo) | Stockholm 2021": {
+    "name": "Sticker | Plopski (Holo) | Stockholm 2021",
+    "nameId": 1089162
+  },
+  "Sticker | Plopski (Gold) | Stockholm 2021": {
+    "name": "Sticker | Plopski (Gold) | Stockholm 2021",
+    "nameId": 1089205
+  },
+  "Sticker | device | Stockholm 2021": {
+    "name": "Sticker | device | Stockholm 2021",
+    "nameId": 1089120
+  },
+  "Sticker | device (Holo) | Stockholm 2021": {
+    "name": "Sticker | device (Holo) | Stockholm 2021",
+    "nameId": 1089131
+  },
+  "Sticker | ZywOo | Stockholm 2021": {
+    "name": "Sticker | ZywOo | Stockholm 2021",
+    "nameId": 1089138
+  },
+  "Sticker | ZywOo (Holo) | Stockholm 2021": {
+    "name": "Sticker | ZywOo (Holo) | Stockholm 2021",
+    "nameId": 1089132
+  },
+  "Sticker | ZywOo (Gold) | Stockholm 2021": {
+    "name": "Sticker | ZywOo (Gold) | Stockholm 2021",
+    "nameId": 1089192
+  },
+  "Sticker | misutaaa | Stockholm 2021": {
+    "name": "Sticker | misutaaa | Stockholm 2021",
+    "nameId": 1089104
+  },
+  "Sticker | misutaaa (Holo) | Stockholm 2021": {
+    "name": "Sticker | misutaaa (Holo) | Stockholm 2021",
+    "nameId": 1089142
+  },
+  "Sticker | misutaaa (Gold) | Stockholm 2021": {
+    "name": "Sticker | misutaaa (Gold) | Stockholm 2021",
+    "nameId": 1089159
+  },
+  "Sticker | Kyojin | Stockholm 2021": {
+    "name": "Sticker | Kyojin | Stockholm 2021",
+    "nameId": 1089130
+  },
+  "Sticker | Kyojin (Holo) | Stockholm 2021": {
+    "name": "Sticker | Kyojin (Holo) | Stockholm 2021",
+    "nameId": 1089174
+  },
+  "Sticker | Kyojin (Gold) | Stockholm 2021": {
+    "name": "Sticker | Kyojin (Gold) | Stockholm 2021",
+    "nameId": 1089206
+  },
+  "Sticker | shox | Stockholm 2021": {
+    "name": "Sticker | shox | Stockholm 2021",
+    "nameId": 1089105
+  },
+  "Sticker | shox (Holo) | Stockholm 2021": {
+    "name": "Sticker | shox (Holo) | Stockholm 2021",
+    "nameId": 1089181
+  },
+  "Sticker | shox (Gold) | Stockholm 2021": {
+    "name": "Sticker | shox (Gold) | Stockholm 2021",
+    "nameId": 1089189
+  },
+  "Sticker | apEX | Stockholm 2021": {
+    "name": "Sticker | apEX | Stockholm 2021",
+    "nameId": 1089128
+  },
+  "Sticker | apEX (Holo) | Stockholm 2021": {
+    "name": "Sticker | apEX (Holo) | Stockholm 2021",
+    "nameId": 1089137
+  },
+  "Sticker | apEX (Gold) | Stockholm 2021": {
+    "name": "Sticker | apEX (Gold) | Stockholm 2021",
+    "nameId": 1089169
+  },
+  "Sticker | B Hop": {
+    "name": "Sticker | B Hop",
+    "nameId": 1090312
+  },
+  "Sticker | Flick Shotter": {
+    "name": "Sticker | Flick Shotter",
+    "nameId": 1090319
+  },
+  "Sticker | Get Clucked": {
+    "name": "Sticker | Get Clucked",
+    "nameId": 1090317
+  },
+  "Sticker | I'm Lit": {
+    "name": "Sticker | I'm Lit",
+    "nameId": 1090321
+  },
+  "Sticker | Little Mischief": {
+    "name": "Sticker | Little Mischief",
+    "nameId": 1090322
+  },
+  "Sticker | Hi, My Game Is": {
+    "name": "Sticker | Hi, My Game Is",
+    "nameId": 1090313
+  },
+  "Sticker | Run CT, Run": {
+    "name": "Sticker | Run CT, Run",
+    "nameId": 1090323
+  },
+  "Sticker | Smoke Criminal": {
+    "name": "Sticker | Smoke Criminal",
+    "nameId": 1090311
+  },
+  "Sticker | Squeaky Door": {
+    "name": "Sticker | Squeaky Door",
+    "nameId": 1090310
+  },
+  "Sticker | Rat Pack": {
+    "name": "Sticker | Rat Pack",
+    "nameId": 1090315
+  },
+  "Sticker | This Is Fine (T)": {
+    "name": "Sticker | This Is Fine (T)",
+    "nameId": 1090316
+  },
+  "Sticker | Wallbang": {
+    "name": "Sticker | Wallbang",
+    "nameId": 1090309
+  },
+  "Sticker | Flashblack (Holo)": {
+    "name": "Sticker | Flashblack (Holo)",
+    "nameId": 1090320
+  },
+  "Sticker | Infinite Diamond (Holo)": {
+    "name": "Sticker | Infinite Diamond (Holo)",
+    "nameId": 1090318
+  },
+  "Sticker | Phoenix Balaclava Co. (Holo)": {
+    "name": "Sticker | Phoenix Balaclava Co. (Holo)",
+    "nameId": 1090324
+  },
+  "Sticker | Sneaky Beaky Dept. (Holo)": {
+    "name": "Sticker | Sneaky Beaky Dept. (Holo)",
+    "nameId": 1090325
+  },
+  "Sticker | T Rush (Holo)": {
+    "name": "Sticker | T Rush (Holo)",
+    "nameId": 1090329
+  },
+  "Sticker | V For Victory (Holo)": {
+    "name": "Sticker | V For Victory (Holo)",
+    "nameId": 1090314
+  },
+  "Sticker | Face Me (Foil)": {
+    "name": "Sticker | Face Me (Foil)",
+    "nameId": 1090330
+  },
+  "Sticker | Inferno Diorama (Foil)": {
+    "name": "Sticker | Inferno Diorama (Foil)",
+    "nameId": 1090327
+  },
+  "Sticker | The Real MVP (Foil)": {
+    "name": "Sticker | The Real MVP (Foil)",
+    "nameId": 1090326
+  },
+  "Sticker | Rock, Paper, Scissors (Foil)": {
+    "name": "Sticker | Rock, Paper, Scissors (Foil)",
+    "nameId": 1090328
+  },
+  "Sticker | Heroic | Antwerp 2022": {
+    "name": "Sticker | Heroic | Antwerp 2022",
+    "nameId": 1091104
+  },
+  "Sticker | Heroic (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Heroic (Glitter) | Antwerp 2022",
+    "nameId": 1091150
+  },
+  "Sticker | Heroic (Holo) | Antwerp 2022": {
+    "name": "Sticker | Heroic (Holo) | Antwerp 2022",
+    "nameId": 1091102
+  },
+  "Sticker | Heroic (Gold) | Antwerp 2022": {
+    "name": "Sticker | Heroic (Gold) | Antwerp 2022",
+    "nameId": 1091406
+  },
+  "Sticker | Copenhagen Flames (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Copenhagen Flames (Glitter) | Antwerp 2022",
+    "nameId": 1091197
+  },
+  "Sticker | Copenhagen Flames (Holo) | Antwerp 2022": {
+    "name": "Sticker | Copenhagen Flames (Holo) | Antwerp 2022",
+    "nameId": 1091371
+  },
+  "Sticker | Copenhagen Flames (Gold) | Antwerp 2022": {
+    "name": "Sticker | Copenhagen Flames (Gold) | Antwerp 2022",
+    "nameId": 1091230
+  },
+  "Sticker | BIG | Antwerp 2022": {
+    "name": "Sticker | BIG | Antwerp 2022",
+    "nameId": 1091101
+  },
+  "Sticker | BIG (Glitter) | Antwerp 2022": {
+    "name": "Sticker | BIG (Glitter) | Antwerp 2022",
+    "nameId": 1091103
+  },
+  "Sticker | BIG (Holo) | Antwerp 2022": {
+    "name": "Sticker | BIG (Holo) | Antwerp 2022",
+    "nameId": 1091206
+  },
+  "Sticker | BIG (Gold) | Antwerp 2022": {
+    "name": "Sticker | BIG (Gold) | Antwerp 2022",
+    "nameId": 1091396
+  },
+  "Sticker | Cloud9 | Antwerp 2022": {
+    "name": "Sticker | Cloud9 | Antwerp 2022",
+    "nameId": 1091107
+  },
+  "Sticker | Cloud9 (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Cloud9 (Glitter) | Antwerp 2022",
+    "nameId": 1091199
+  },
+  "Sticker | Cloud9 (Holo) | Antwerp 2022": {
+    "name": "Sticker | Cloud9 (Holo) | Antwerp 2022",
+    "nameId": 1091226
+  },
+  "Sticker | Cloud9 (Gold) | Antwerp 2022": {
+    "name": "Sticker | Cloud9 (Gold) | Antwerp 2022",
+    "nameId": 1091568
+  },
+  "Sticker | FURIA | Antwerp 2022": {
+    "name": "Sticker | FURIA | Antwerp 2022",
+    "nameId": 1091106
+  },
+  "Sticker | FURIA (Glitter) | Antwerp 2022": {
+    "name": "Sticker | FURIA (Glitter) | Antwerp 2022",
+    "nameId": 1091151
+  },
+  "Sticker | FURIA (Holo) | Antwerp 2022": {
+    "name": "Sticker | FURIA (Holo) | Antwerp 2022",
+    "nameId": 1091215
+  },
+  "Sticker | FURIA (Gold) | Antwerp 2022": {
+    "name": "Sticker | FURIA (Gold) | Antwerp 2022",
+    "nameId": 1091487
+  },
+  "Sticker | FaZe Clan | Antwerp 2022": {
+    "name": "Sticker | FaZe Clan | Antwerp 2022",
+    "nameId": 1091122
+  },
+  "Sticker | FaZe Clan (Glitter) | Antwerp 2022": {
+    "name": "Sticker | FaZe Clan (Glitter) | Antwerp 2022",
+    "nameId": 1091246
+  },
+  "Sticker | FaZe Clan (Holo) | Antwerp 2022": {
+    "name": "Sticker | FaZe Clan (Holo) | Antwerp 2022",
+    "nameId": 1091265
+  },
+  "Sticker | FaZe Clan (Gold) | Antwerp 2022": {
+    "name": "Sticker | FaZe Clan (Gold) | Antwerp 2022",
+    "nameId": 1091283
+  },
+  "Sticker | Ninjas in Pyjamas | Antwerp 2022": {
+    "name": "Sticker | Ninjas in Pyjamas | Antwerp 2022",
+    "nameId": 1091114
+  },
+  "Sticker | Ninjas in Pyjamas (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Ninjas in Pyjamas (Glitter) | Antwerp 2022",
+    "nameId": 1091113
+  },
+  "Sticker | Ninjas in Pyjamas (Holo) | Antwerp 2022": {
+    "name": "Sticker | Ninjas in Pyjamas (Holo) | Antwerp 2022",
+    "nameId": 1091248
+  },
+  "Sticker | Ninjas in Pyjamas (Gold) | Antwerp 2022": {
+    "name": "Sticker | Ninjas in Pyjamas (Gold) | Antwerp 2022",
+    "nameId": 1091395
+  },
+  "Sticker | Natus Vincere (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Natus Vincere (Glitter) | Antwerp 2022",
+    "nameId": 1091105
+  },
+  "Sticker | Natus Vincere (Holo) | Antwerp 2022": {
+    "name": "Sticker | Natus Vincere (Holo) | Antwerp 2022",
+    "nameId": 1091198
+  },
+  "Sticker | Natus Vincere (Gold) | Antwerp 2022": {
+    "name": "Sticker | Natus Vincere (Gold) | Antwerp 2022",
+    "nameId": 1091523
+  },
+  "Sticker | ENCE | Antwerp 2022": {
+    "name": "Sticker | ENCE | Antwerp 2022",
+    "nameId": 1091125
+  },
+  "Sticker | ENCE (Glitter) | Antwerp 2022": {
+    "name": "Sticker | ENCE (Glitter) | Antwerp 2022",
+    "nameId": 1091266
+  },
+  "Sticker | ENCE (Holo) | Antwerp 2022": {
+    "name": "Sticker | ENCE (Holo) | Antwerp 2022",
+    "nameId": 1091410
+  },
+  "Sticker | ENCE (Gold) | Antwerp 2022": {
+    "name": "Sticker | ENCE (Gold) | Antwerp 2022",
+    "nameId": 1091509
+  },
+  "Sticker | G2 Esports | Antwerp 2022": {
+    "name": "Sticker | G2 Esports | Antwerp 2022",
+    "nameId": 1091115
+  },
+  "Sticker | G2 Esports (Glitter) | Antwerp 2022": {
+    "name": "Sticker | G2 Esports (Glitter) | Antwerp 2022",
+    "nameId": 1091178
+  },
+  "Sticker | G2 Esports (Holo) | Antwerp 2022": {
+    "name": "Sticker | G2 Esports (Holo) | Antwerp 2022",
+    "nameId": 1091462
+  },
+  "Sticker | forZe eSports | Antwerp 2022": {
+    "name": "Sticker | forZe eSports | Antwerp 2022",
+    "nameId": 1091096
+  },
+  "Sticker | forZe eSports (Glitter) | Antwerp 2022": {
+    "name": "Sticker | forZe eSports (Glitter) | Antwerp 2022",
+    "nameId": 1091155
+  },
+  "Sticker | forZe eSports (Holo) | Antwerp 2022": {
+    "name": "Sticker | forZe eSports (Holo) | Antwerp 2022",
+    "nameId": 1091181
+  },
+  "Sticker | forZe eSports (Gold) | Antwerp 2022": {
+    "name": "Sticker | forZe eSports (Gold) | Antwerp 2022",
+    "nameId": 1091507
+  },
+  "Sticker | Astralis | Antwerp 2022": {
+    "name": "Sticker | Astralis | Antwerp 2022",
+    "nameId": 1091094
+  },
+  "Sticker | Astralis (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Astralis (Glitter) | Antwerp 2022",
+    "nameId": 1091095
+  },
+  "Sticker | Astralis (Holo) | Antwerp 2022": {
+    "name": "Sticker | Astralis (Holo) | Antwerp 2022",
+    "nameId": 1091368
+  },
+  "Sticker | Astralis (Gold) | Antwerp 2022": {
+    "name": "Sticker | Astralis (Gold) | Antwerp 2022",
+    "nameId": 1091437
+  },
+  "Sticker | Vitality | Antwerp 2022": {
+    "name": "Sticker | Vitality | Antwerp 2022",
+    "nameId": 1091154
+  },
+  "Sticker | Vitality (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Vitality (Glitter) | Antwerp 2022",
+    "nameId": 1091224
+  },
+  "Sticker | Vitality (Holo) | Antwerp 2022": {
+    "name": "Sticker | Vitality (Holo) | Antwerp 2022",
+    "nameId": 1091521
+  },
+  "Sticker | MIBR | Antwerp 2022": {
+    "name": "Sticker | MIBR | Antwerp 2022",
+    "nameId": 1091098
+  },
+  "Sticker | MIBR (Glitter) | Antwerp 2022": {
+    "name": "Sticker | MIBR (Glitter) | Antwerp 2022",
+    "nameId": 1091097
+  },
+  "Sticker | MIBR (Holo) | Antwerp 2022": {
+    "name": "Sticker | MIBR (Holo) | Antwerp 2022",
+    "nameId": 1091218
+  },
+  "Sticker | MIBR (Gold) | Antwerp 2022": {
+    "name": "Sticker | MIBR (Gold) | Antwerp 2022",
+    "nameId": 1091330
+  },
+  "Sticker | Imperial Esports | Antwerp 2022": {
+    "name": "Sticker | Imperial Esports | Antwerp 2022",
+    "nameId": 1091149
+  },
+  "Sticker | Imperial Esports (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Imperial Esports (Glitter) | Antwerp 2022",
+    "nameId": 1091099
+  },
+  "Sticker | Imperial Esports (Holo) | Antwerp 2022": {
+    "name": "Sticker | Imperial Esports (Holo) | Antwerp 2022",
+    "nameId": 1091225
+  },
+  "Sticker | Imperial Esports (Gold) | Antwerp 2022": {
+    "name": "Sticker | Imperial Esports (Gold) | Antwerp 2022",
+    "nameId": 1091412
+  },
+  "Sticker | Bad News Eagles | Antwerp 2022": {
+    "name": "Sticker | Bad News Eagles | Antwerp 2022",
+    "nameId": 1091156
+  },
+  "Sticker | Bad News Eagles (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Bad News Eagles (Glitter) | Antwerp 2022",
+    "nameId": 1091121
+  },
+  "Sticker | Bad News Eagles (Holo) | Antwerp 2022": {
+    "name": "Sticker | Bad News Eagles (Holo) | Antwerp 2022",
+    "nameId": 1091472
+  },
+  "Sticker | Bad News Eagles (Gold) | Antwerp 2022": {
+    "name": "Sticker | Bad News Eagles (Gold) | Antwerp 2022",
+    "nameId": 1091601
+  },
+  "Sticker | Eternal Fire | Antwerp 2022": {
+    "name": "Sticker | Eternal Fire | Antwerp 2022",
+    "nameId": 1091214
+  },
+  "Sticker | Eternal Fire (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Eternal Fire (Glitter) | Antwerp 2022",
+    "nameId": 1091299
+  },
+  "Sticker | Eternal Fire (Holo) | Antwerp 2022": {
+    "name": "Sticker | Eternal Fire (Holo) | Antwerp 2022",
+    "nameId": 1091393
+  },
+  "Sticker | Eternal Fire (Gold) | Antwerp 2022": {
+    "name": "Sticker | Eternal Fire (Gold) | Antwerp 2022",
+    "nameId": 1091290
+  },
+  "Sticker | Team Spirit | Antwerp 2022": {
+    "name": "Sticker | Team Spirit | Antwerp 2022",
+    "nameId": 1091135
+  },
+  "Sticker | Team Spirit (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Team Spirit (Glitter) | Antwerp 2022",
+    "nameId": 1091216
+  },
+  "Sticker | Team Spirit (Holo) | Antwerp 2022": {
+    "name": "Sticker | Team Spirit (Holo) | Antwerp 2022",
+    "nameId": 1091263
+  },
+  "Sticker | Team Spirit (Gold) | Antwerp 2022": {
+    "name": "Sticker | Team Spirit (Gold) | Antwerp 2022",
+    "nameId": 1091405
+  },
+  "Sticker | Outsiders | Antwerp 2022": {
+    "name": "Sticker | Outsiders | Antwerp 2022",
+    "nameId": 1091142
+  },
+  "Sticker | Outsiders (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Outsiders (Glitter) | Antwerp 2022",
+    "nameId": 1091296
+  },
+  "Sticker | Outsiders (Holo) | Antwerp 2022": {
+    "name": "Sticker | Outsiders (Holo) | Antwerp 2022",
+    "nameId": 1091494
+  },
+  "Sticker | Outsiders (Gold) | Antwerp 2022": {
+    "name": "Sticker | Outsiders (Gold) | Antwerp 2022",
+    "nameId": 1091432
+  },
+  "Sticker | Complexity Gaming | Antwerp 2022": {
+    "name": "Sticker | Complexity Gaming | Antwerp 2022",
+    "nameId": 1091126
+  },
+  "Sticker | Complexity Gaming (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Complexity Gaming (Glitter) | Antwerp 2022",
+    "nameId": 1091127
+  },
+  "Sticker | Complexity Gaming (Holo) | Antwerp 2022": {
+    "name": "Sticker | Complexity Gaming (Holo) | Antwerp 2022",
+    "nameId": 1091427
+  },
+  "Sticker | Complexity Gaming (Gold) | Antwerp 2022": {
+    "name": "Sticker | Complexity Gaming (Gold) | Antwerp 2022",
+    "nameId": 1091552
+  },
+  "Sticker | IHC Esports | Antwerp 2022": {
+    "name": "Sticker | IHC Esports | Antwerp 2022",
+    "nameId": 1091143
+  },
+  "Sticker | IHC Esports (Glitter) | Antwerp 2022": {
+    "name": "Sticker | IHC Esports (Glitter) | Antwerp 2022",
+    "nameId": 1091240
+  },
+  "Sticker | IHC Esports (Holo) | Antwerp 2022": {
+    "name": "Sticker | IHC Esports (Holo) | Antwerp 2022",
+    "nameId": 1091146
+  },
+  "Sticker | IHC Esports (Gold) | Antwerp 2022": {
+    "name": "Sticker | IHC Esports (Gold) | Antwerp 2022",
+    "nameId": 1091513
+  },
+  "Sticker | Renegades | Antwerp 2022": {
+    "name": "Sticker | Renegades | Antwerp 2022",
+    "nameId": 1091128
+  },
+  "Sticker | Renegades (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Renegades (Glitter) | Antwerp 2022",
+    "nameId": 1091148
+  },
+  "Sticker | Renegades (Holo) | Antwerp 2022": {
+    "name": "Sticker | Renegades (Holo) | Antwerp 2022",
+    "nameId": 1091131
+  },
+  "Sticker | Renegades (Gold) | Antwerp 2022": {
+    "name": "Sticker | Renegades (Gold) | Antwerp 2022",
+    "nameId": 1091415
+  },
+  "Sticker | Team Liquid | Antwerp 2022": {
+    "name": "Sticker | Team Liquid | Antwerp 2022",
+    "nameId": 1091147
+  },
+  "Sticker | Team Liquid (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Team Liquid (Glitter) | Antwerp 2022",
+    "nameId": 1091130
+  },
+  "Sticker | Team Liquid (Holo) | Antwerp 2022": {
+    "name": "Sticker | Team Liquid (Holo) | Antwerp 2022",
+    "nameId": 1091295
+  },
+  "Sticker | Team Liquid (Gold) | Antwerp 2022": {
+    "name": "Sticker | Team Liquid (Gold) | Antwerp 2022",
+    "nameId": 1091544
+  },
+  "Sticker | 9z Team | Antwerp 2022": {
+    "name": "Sticker | 9z Team | Antwerp 2022",
+    "nameId": 1091129
+  },
+  "Sticker | 9z Team (Glitter) | Antwerp 2022": {
+    "name": "Sticker | 9z Team (Glitter) | Antwerp 2022",
+    "nameId": 1091217
+  },
+  "Sticker | 9z Team (Holo) | Antwerp 2022": {
+    "name": "Sticker | 9z Team (Holo) | Antwerp 2022",
+    "nameId": 1091145
+  },
+  "Sticker | 9z Team (Gold) | Antwerp 2022": {
+    "name": "Sticker | 9z Team (Gold) | Antwerp 2022",
+    "nameId": 1091546
+  },
+  "Sticker | PGL (Glitter) | Antwerp 2022": {
+    "name": "Sticker | PGL (Glitter) | Antwerp 2022",
+    "nameId": 1091177
+  },
+  "Sticker | PGL (Holo) | Antwerp 2022": {
+    "name": "Sticker | PGL (Holo) | Antwerp 2022",
+    "nameId": 1091282
+  },
+  "Sticker | gla1ve (Gold) | Antwerp 2022": {
+    "name": "Sticker | gla1ve (Gold) | Antwerp 2022",
+    "nameId": 1091578
+  },
+  "Sticker | Xyp9x (Gold) | Antwerp 2022": {
+    "name": "Sticker | Xyp9x (Gold) | Antwerp 2022",
+    "nameId": 1091503
+  },
+  "Sticker | Farlig (Gold) | Antwerp 2022": {
+    "name": "Sticker | Farlig (Gold) | Antwerp 2022",
+    "nameId": 1091381
+  },
+  "Sticker | Liazz (Glitter) | Antwerp 2022": {
+    "name": "Sticker | Liazz (Glitter) | Antwerp 2022",
+    "nameId": 1091450
   }
 }
