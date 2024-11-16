@@ -38090,5 +38090,805 @@
   "★ Driver Gloves | Overtake (Battle-Scarred)": {
     "name": "★ Driver Gloves | Overtake (Battle-Scarred)",
     "nameId": 21148
+  },
+  "MAC-10 | Surfwood (Well-Worn)": {
+    "name": "MAC-10 | Surfwood (Well-Worn)",
+    "nameId": 1074387
+  },
+  "MAC-10 | Surfwood (Battle-Scarred)": {
+    "name": "MAC-10 | Surfwood (Battle-Scarred)",
+    "nameId": 1074610
+  },
+  "MAC-10 | Stalker (Factory New)": {
+    "name": "MAC-10 | Stalker (Factory New)",
+    "nameId": 1075013
+  },
+  "MAC-10 | Stalker (Minimal Wear)": {
+    "name": "MAC-10 | Stalker (Minimal Wear)",
+    "nameId": 1074364
+  },
+  "MAC-10 | Stalker (Field-Tested)": {
+    "name": "MAC-10 | Stalker (Field-Tested)",
+    "nameId": 1074796
+  },
+  "MAC-10 | Stalker (Well-Worn)": {
+    "name": "MAC-10 | Stalker (Well-Worn)",
+    "nameId": 1074713
+  },
+  "MAC-10 | Stalker (Battle-Scarred)": {
+    "name": "MAC-10 | Stalker (Battle-Scarred)",
+    "nameId": 1074874
+  },
+  "StatTrak™ Tec-9 | Ice Cap (Battle-Scarred)": {
+    "name": "StatTrak™ Tec-9 | Ice Cap (Battle-Scarred)",
+    "nameId": 1152
+  },
+  "Tec-9 | Fuel Injector (Factory New)": {
+    "name": "Tec-9 | Fuel Injector (Factory New)",
+    "nameId": 9861
+  },
+  "Tec-9 | Fuel Injector (Minimal Wear)": {
+    "name": "Tec-9 | Fuel Injector (Minimal Wear)",
+    "nameId": 7299
+  },
+  "Tec-9 | Fuel Injector (Well-Worn)": {
+    "name": "Tec-9 | Fuel Injector (Well-Worn)",
+    "nameId": 3230
+  },
+  "Tec-9 | Fuel Injector (Battle-Scarred)": {
+    "name": "Tec-9 | Fuel Injector (Battle-Scarred)",
+    "nameId": 962
+  },
+  "StatTrak™ Tec-9 | Fuel Injector (Factory New)": {
+    "name": "StatTrak™ Tec-9 | Fuel Injector (Factory New)",
+    "nameId": 7647
+  },
+  "StatTrak™ Tec-9 | Fuel Injector (Minimal Wear)": {
+    "name": "StatTrak™ Tec-9 | Fuel Injector (Minimal Wear)",
+    "nameId": 1161
+  },
+  "StatTrak™ Tec-9 | Fuel Injector (Field-Tested)": {
+    "name": "StatTrak™ Tec-9 | Fuel Injector (Field-Tested)",
+    "nameId": 1103
+  },
+  "StatTrak™ Tec-9 | Fuel Injector (Well-Worn)": {
+    "name": "StatTrak™ Tec-9 | Fuel Injector (Well-Worn)",
+    "nameId": 1207
+  },
+  "StatTrak™ Tec-9 | Fuel Injector (Battle-Scarred)": {
+    "name": "StatTrak™ Tec-9 | Fuel Injector (Battle-Scarred)",
+    "nameId": 4929
+  },
+  "SSG 08 | Parallax (Field-Tested)": {
+    "name": "SSG 08 | Parallax (Field-Tested)",
+    "nameId": 1083501
+  },
+  "SSG 08 | Parallax (Well-Worn)": {
+    "name": "SSG 08 | Parallax (Well-Worn)",
+    "nameId": 1083573
+  },
+  "SSG 08 | Parallax (Battle-Scarred)": {
+    "name": "SSG 08 | Parallax (Battle-Scarred)",
+    "nameId": 1083622
+  },
+  "StatTrak™ SSG 08 | Parallax (Factory New)": {
+    "name": "StatTrak™ SSG 08 | Parallax (Factory New)",
+    "nameId": 1083850
+  },
+  "StatTrak™ SSG 08 | Parallax (Minimal Wear)": {
+    "name": "StatTrak™ SSG 08 | Parallax (Minimal Wear)",
+    "nameId": 1083698
+  },
+  "StatTrak™ SSG 08 | Parallax (Field-Tested)": {
+    "name": "StatTrak™ SSG 08 | Parallax (Field-Tested)",
+    "nameId": 1083656
+  },
+  "StatTrak™ SSG 08 | Parallax (Well-Worn)": {
+    "name": "StatTrak™ SSG 08 | Parallax (Well-Worn)",
+    "nameId": 1083817
+  },
+  "StatTrak™ SSG 08 | Parallax (Battle-Scarred)": {
+    "name": "StatTrak™ SSG 08 | Parallax (Battle-Scarred)",
+    "nameId": 1083861
+  },
+  "SSG 08 | Threat Detected (Factory New)": {
+    "name": "SSG 08 | Threat Detected (Factory New)",
+    "nameId": 1083682
+  },
+  "SSG 08 | Threat Detected (Minimal Wear)": {
+    "name": "SSG 08 | Threat Detected (Minimal Wear)",
+    "nameId": 1083514
+  },
+  "SSG 08 | Threat Detected (Field-Tested)": {
+    "name": "SSG 08 | Threat Detected (Field-Tested)",
+    "nameId": 1083497
+  },
+  "SSG 08 | Threat Detected (Well-Worn)": {
+    "name": "SSG 08 | Threat Detected (Well-Worn)",
+    "nameId": 1083722
+  },
+  "★ M9 Bayonet | Lore (Factory New)": {
+    "name": "★ M9 Bayonet | Lore (Factory New)",
+    "nameId": 7648
+  },
+  "★ M9 Bayonet | Lore (Minimal Wear)": {
+    "name": "★ M9 Bayonet | Lore (Minimal Wear)",
+    "nameId": 10528
+  },
+  "Sticker | Natus Vincere (Glitter) | Rio 2022": {
+    "name": "Sticker | Natus Vincere (Glitter) | Rio 2022",
+    "nameId": 1094441
+  },
+  "Sticker | Natus Vincere (Holo) | Rio 2022": {
+    "name": "Sticker | Natus Vincere (Holo) | Rio 2022",
+    "nameId": 1094600
+  },
+  "Sticker | Natus Vincere (Gold) | Rio 2022": {
+    "name": "Sticker | Natus Vincere (Gold) | Rio 2022",
+    "nameId": 1094759
+  },
+  "Sticker | Ninjas in Pyjamas | Rio 2022": {
+    "name": "Sticker | Ninjas in Pyjamas | Rio 2022",
+    "nameId": 1094365
+  },
+  "Sticker | Ninjas in Pyjamas (Glitter) | Rio 2022": {
+    "name": "Sticker | Ninjas in Pyjamas (Glitter) | Rio 2022",
+    "nameId": 1094386
+  },
+  "Sticker | Ninjas in Pyjamas (Holo) | Rio 2022": {
+    "name": "Sticker | Ninjas in Pyjamas (Holo) | Rio 2022",
+    "nameId": 1094649
+  },
+  "Sticker | Sprout Esports | Rio 2022": {
+    "name": "Sticker | Sprout Esports | Rio 2022",
+    "nameId": 1094367
+  },
+  "Sticker | Sprout Esports (Glitter) | Rio 2022": {
+    "name": "Sticker | Sprout Esports (Glitter) | Rio 2022",
+    "nameId": 1094426
+  },
+  "Sticker | Sprout Esports (Holo) | Rio 2022": {
+    "name": "Sticker | Sprout Esports (Holo) | Rio 2022",
+    "nameId": 1094466
+  },
+  "Sticker | Sprout Esports (Gold) | Rio 2022": {
+    "name": "Sticker | Sprout Esports (Gold) | Rio 2022",
+    "nameId": 1094754
+  },
+  "Sticker | Team Liquid | Rio 2022": {
+    "name": "Sticker | Team Liquid | Rio 2022",
+    "nameId": 1094373
+  },
+  "Sticker | Team Liquid (Glitter) | Rio 2022": {
+    "name": "Sticker | Team Liquid (Glitter) | Rio 2022",
+    "nameId": 1094385
+  },
+  "Sticker | Team Liquid (Holo) | Rio 2022": {
+    "name": "Sticker | Team Liquid (Holo) | Rio 2022",
+    "nameId": 1094737
+  },
+  "Sticker | Team Liquid (Gold) | Rio 2022": {
+    "name": "Sticker | Team Liquid (Gold) | Rio 2022",
+    "nameId": 1095084
+  },
+  "Sticker | Team Spirit | Rio 2022": {
+    "name": "Sticker | Team Spirit | Rio 2022",
+    "nameId": 1094378
+  },
+  "Sticker | Team Spirit (Glitter) | Rio 2022": {
+    "name": "Sticker | Team Spirit (Glitter) | Rio 2022",
+    "nameId": 1094392
+  },
+  "Sticker | Team Spirit (Holo) | Rio 2022": {
+    "name": "Sticker | Team Spirit (Holo) | Rio 2022",
+    "nameId": 1094696
+  },
+  "Sticker | Team Spirit (Gold) | Rio 2022": {
+    "name": "Sticker | Team Spirit (Gold) | Rio 2022",
+    "nameId": 1094870
+  },
+  "Sticker | 9z Team | Rio 2022": {
+    "name": "Sticker | 9z Team | Rio 2022",
+    "nameId": 1094370
+  },
+  "Sticker | 9z Team (Glitter) | Rio 2022": {
+    "name": "Sticker | 9z Team (Glitter) | Rio 2022",
+    "nameId": 1094553
+  },
+  "Sticker | 9z Team (Holo) | Rio 2022": {
+    "name": "Sticker | 9z Team (Holo) | Rio 2022",
+    "nameId": 1094465
+  },
+  "Sticker | 9z Team (Gold) | Rio 2022": {
+    "name": "Sticker | 9z Team (Gold) | Rio 2022",
+    "nameId": 1094714
+  },
+  "Sticker | Bad News Eagles | Rio 2022": {
+    "name": "Sticker | Bad News Eagles | Rio 2022",
+    "nameId": 1094416
+  },
+  "Sticker | Bad News Eagles (Glitter) | Rio 2022": {
+    "name": "Sticker | Bad News Eagles (Glitter) | Rio 2022",
+    "nameId": 1094552
+  },
+  "Sticker | Bad News Eagles (Holo) | Rio 2022": {
+    "name": "Sticker | Bad News Eagles (Holo) | Rio 2022",
+    "nameId": 1094639
+  },
+  "Sticker | Bad News Eagles (Gold) | Rio 2022": {
+    "name": "Sticker | Bad News Eagles (Gold) | Rio 2022",
+    "nameId": 1095113
+  },
+  "Sticker | BIG | Rio 2022": {
+    "name": "Sticker | BIG | Rio 2022",
+    "nameId": 1094533
+  },
+  "Sticker | BIG (Glitter) | Rio 2022": {
+    "name": "Sticker | BIG (Glitter) | Rio 2022",
+    "nameId": 1094558
+  },
+  "Sticker | BIG (Holo) | Rio 2022": {
+    "name": "Sticker | BIG (Holo) | Rio 2022",
+    "nameId": 1094442
+  },
+  "Sticker | BIG (Gold) | Rio 2022": {
+    "name": "Sticker | BIG (Gold) | Rio 2022",
+    "nameId": 1094996
+  },
+  "Sticker | Cloud9 (Glitter) | Rio 2022": {
+    "name": "Sticker | Cloud9 (Glitter) | Rio 2022",
+    "nameId": 1094557
+  },
+  "Sticker | Cloud9 (Holo) | Rio 2022": {
+    "name": "Sticker | Cloud9 (Holo) | Rio 2022",
+    "nameId": 1094711
+  },
+  "Sticker | Cloud9 (Gold) | Rio 2022": {
+    "name": "Sticker | Cloud9 (Gold) | Rio 2022",
+    "nameId": 1095155
+  },
+  "Sticker | Evil Geniuses | Rio 2022": {
+    "name": "Sticker | Evil Geniuses | Rio 2022",
+    "nameId": 1094369
+  },
+  "Sticker | Evil Geniuses (Glitter) | Rio 2022": {
+    "name": "Sticker | Evil Geniuses (Glitter) | Rio 2022",
+    "nameId": 1094538
+  },
+  "Sticker | Evil Geniuses (Holo) | Rio 2022": {
+    "name": "Sticker | Evil Geniuses (Holo) | Rio 2022",
+    "nameId": 1094467
+  },
+  "Sticker | Evil Geniuses (Gold) | Rio 2022": {
+    "name": "Sticker | Evil Geniuses (Gold) | Rio 2022",
+    "nameId": 1094883
+  },
+  "Sticker | MOUZ | Rio 2022": {
+    "name": "Sticker | MOUZ | Rio 2022",
+    "nameId": 1094532
+  },
+  "Sticker | MOUZ (Glitter) | Rio 2022": {
+    "name": "Sticker | MOUZ (Glitter) | Rio 2022",
+    "nameId": 1094686
+  },
+  "Sticker | MOUZ (Holo) | Rio 2022": {
+    "name": "Sticker | MOUZ (Holo) | Rio 2022",
+    "nameId": 1094772
+  },
+  "Sticker | MOUZ (Gold) | Rio 2022": {
+    "name": "Sticker | MOUZ (Gold) | Rio 2022",
+    "nameId": 1095346
+  },
+  "Sticker | OG | Rio 2022": {
+    "name": "Sticker | OG | Rio 2022",
+    "nameId": 1094377
+  },
+  "Sticker | OG (Glitter) | Rio 2022": {
+    "name": "Sticker | OG (Glitter) | Rio 2022",
+    "nameId": 1094390
+  },
+  "Sticker | OG (Holo) | Rio 2022": {
+    "name": "Sticker | OG (Holo) | Rio 2022",
+    "nameId": 1094537
+  },
+  "Sticker | OG (Gold) | Rio 2022": {
+    "name": "Sticker | OG (Gold) | Rio 2022",
+    "nameId": 1094464
+  },
+  "Sticker | Vitality | Rio 2022": {
+    "name": "Sticker | Vitality | Rio 2022",
+    "nameId": 1094446
+  },
+  "Sticker | Vitality (Glitter) | Rio 2022": {
+    "name": "Sticker | Vitality (Glitter) | Rio 2022",
+    "nameId": 1094534
+  },
+  "Sticker | Vitality (Holo) | Rio 2022": {
+    "name": "Sticker | Vitality (Holo) | Rio 2022",
+    "nameId": 1094715
+  },
+  "Sticker | Vitality (Gold) | Rio 2022": {
+    "name": "Sticker | Vitality (Gold) | Rio 2022",
+    "nameId": 1095073
+  },
+  "Sticker | 00 Nation | Rio 2022": {
+    "name": "Sticker | 00 Nation | Rio 2022",
+    "nameId": 1094387
+  },
+  "Sticker | 00 Nation (Glitter) | Rio 2022": {
+    "name": "Sticker | 00 Nation (Glitter) | Rio 2022",
+    "nameId": 1094495
+  },
+  "Sticker | 00 Nation (Holo) | Rio 2022": {
+    "name": "Sticker | 00 Nation (Holo) | Rio 2022",
+    "nameId": 1094907
+  },
+  "Sticker | 00 Nation (Gold) | Rio 2022": {
+    "name": "Sticker | 00 Nation (Gold) | Rio 2022",
+    "nameId": 1094391
+  },
+  "Sticker | Fnatic | Rio 2022": {
+    "name": "Sticker | Fnatic | Rio 2022",
+    "nameId": 1094445
+  },
+  "Sticker | Fnatic (Glitter) | Rio 2022": {
+    "name": "Sticker | Fnatic (Glitter) | Rio 2022",
+    "nameId": 1094554
+  },
+  "Sticker | Fnatic (Holo) | Rio 2022": {
+    "name": "Sticker | Fnatic (Holo) | Rio 2022",
+    "nameId": 1094488
+  },
+  "Sticker | Fnatic (Gold) | Rio 2022": {
+    "name": "Sticker | Fnatic (Gold) | Rio 2022",
+    "nameId": 1095169
+  },
+  "Sticker | FURIA | Rio 2022": {
+    "name": "Sticker | FURIA | Rio 2022",
+    "nameId": 1094418
+  },
+  "Sticker | FURIA (Glitter) | Rio 2022": {
+    "name": "Sticker | FURIA (Glitter) | Rio 2022",
+    "nameId": 1094592
+  },
+  "Sticker | FURIA (Holo) | Rio 2022": {
+    "name": "Sticker | FURIA (Holo) | Rio 2022",
+    "nameId": 1094571
+  },
+  "Sticker | FURIA (Gold) | Rio 2022": {
+    "name": "Sticker | FURIA (Gold) | Rio 2022",
+    "nameId": 1094916
+  },
+  "Sticker | GamerLegion | Rio 2022": {
+    "name": "Sticker | GamerLegion | Rio 2022",
+    "nameId": 1094379
+  },
+  "Sticker | GamerLegion (Glitter) | Rio 2022": {
+    "name": "Sticker | GamerLegion (Glitter) | Rio 2022",
+    "nameId": 1094492
+  },
+  "Sticker | GamerLegion (Holo) | Rio 2022": {
+    "name": "Sticker | GamerLegion (Holo) | Rio 2022",
+    "nameId": 1094411
+  },
+  "Sticker | GamerLegion (Gold) | Rio 2022": {
+    "name": "Sticker | GamerLegion (Gold) | Rio 2022",
+    "nameId": 1095438
+  },
+  "Sticker | Grayhound Gaming (Glitter) | Rio 2022": {
+    "name": "Sticker | Grayhound Gaming (Glitter) | Rio 2022",
+    "nameId": 1094474
+  },
+  "Sticker | Grayhound Gaming (Holo) | Rio 2022": {
+    "name": "Sticker | Grayhound Gaming (Holo) | Rio 2022",
+    "nameId": 1094644
+  },
+  "Sticker | Grayhound Gaming (Gold) | Rio 2022": {
+    "name": "Sticker | Grayhound Gaming (Gold) | Rio 2022",
+    "nameId": 1094712
+  },
+  "Sticker | IHC Esports | Rio 2022": {
+    "name": "Sticker | IHC Esports | Rio 2022",
+    "nameId": 1094382
+  },
+  "Sticker | IHC Esports (Glitter) | Rio 2022": {
+    "name": "Sticker | IHC Esports (Glitter) | Rio 2022",
+    "nameId": 1094384
+  },
+  "Sticker | IHC Esports (Holo) | Rio 2022": {
+    "name": "Sticker | IHC Esports (Holo) | Rio 2022",
+    "nameId": 1094371
+  },
+  "Sticker | IHC Esports (Gold) | Rio 2022": {
+    "name": "Sticker | IHC Esports (Gold) | Rio 2022",
+    "nameId": 1094760
+  },
+  "Sticker | Imperial Esports | Rio 2022": {
+    "name": "Sticker | Imperial Esports | Rio 2022",
+    "nameId": 1094421
+  },
+  "Sticker | Imperial Esports (Glitter) | Rio 2022": {
+    "name": "Sticker | Imperial Esports (Glitter) | Rio 2022",
+    "nameId": 1094460
+  },
+  "Sticker | Imperial Esports (Holo) | Rio 2022": {
+    "name": "Sticker | Imperial Esports (Holo) | Rio 2022",
+    "nameId": 1094493
+  },
+  "Sticker | Imperial Esports (Gold) | Rio 2022": {
+    "name": "Sticker | Imperial Esports (Gold) | Rio 2022",
+    "nameId": 1094926
+  },
+  "Sticker | Outsiders (Glitter) | Rio 2022": {
+    "name": "Sticker | Outsiders (Glitter) | Rio 2022",
+    "nameId": 1094494
+  },
+  "Sticker | Outsiders (Holo) | Rio 2022": {
+    "name": "Sticker | Outsiders (Holo) | Rio 2022",
+    "nameId": 1094547
+  },
+  "Sticker | Outsiders (Gold) | Rio 2022": {
+    "name": "Sticker | Outsiders (Gold) | Rio 2022",
+    "nameId": 1094713
+  },
+  "Sticker | IEM | Rio 2022": {
+    "name": "Sticker | IEM | Rio 2022",
+    "nameId": 1094372
+  },
+  "Sticker | IEM (Glitter) | Rio 2022": {
+    "name": "Sticker | IEM (Glitter) | Rio 2022",
+    "nameId": 1094383
+  },
+  "Sticker | IEM (Holo) | Rio 2022": {
+    "name": "Sticker | IEM (Holo) | Rio 2022",
+    "nameId": 1094527
+  },
+  "Sticker | IEM (Gold) | Rio 2022": {
+    "name": "Sticker | IEM (Gold) | Rio 2022",
+    "nameId": 1094541
+  },
+  "Sticker | Snappi | Rio 2022": {
+    "name": "Sticker | Snappi | Rio 2022",
+    "nameId": 1094394
+  },
+  "Sticker | Snappi (Holo) | Rio 2022": {
+    "name": "Sticker | Snappi (Holo) | Rio 2022",
+    "nameId": 1094645
+  },
+  "Sticker | Snappi (Gold) | Rio 2022": {
+    "name": "Sticker | Snappi (Gold) | Rio 2022",
+    "nameId": 1095543
+  },
+  "Sticker | Dycha | Rio 2022": {
+    "name": "Sticker | Dycha | Rio 2022",
+    "nameId": 1094462
+  },
+  "Sticker | Dycha (Glitter) | Rio 2022": {
+    "name": "Sticker | Dycha (Glitter) | Rio 2022",
+    "nameId": 1094506
+  },
+  "Sticker | Dycha (Gold) | Rio 2022": {
+    "name": "Sticker | Dycha (Gold) | Rio 2022",
+    "nameId": 1094756
+  },
+  "Sticker | maden | Rio 2022": {
+    "name": "Sticker | maden | Rio 2022",
+    "nameId": 1094503
+  },
+  "Sticker | maden (Glitter) | Rio 2022": {
+    "name": "Sticker | maden (Glitter) | Rio 2022",
+    "nameId": 1094542
+  },
+  "Sticker | maden (Holo) | Rio 2022": {
+    "name": "Sticker | maden (Holo) | Rio 2022",
+    "nameId": 1095189
+  },
+  "Sticker | maden (Gold) | Rio 2022": {
+    "name": "Sticker | maden (Gold) | Rio 2022",
+    "nameId": 1096721
+  },
+  "Sticker | v4lde | Rio 2022": {
+    "name": "Sticker | v4lde | Rio 2022",
+    "nameId": 1094485
+  },
+  "Sticker | v4lde (Glitter) | Rio 2022": {
+    "name": "Sticker | v4lde (Glitter) | Rio 2022",
+    "nameId": 1094408
+  },
+  "Sticker | v4lde (Gold) | Rio 2022": {
+    "name": "Sticker | v4lde (Gold) | Rio 2022",
+    "nameId": 1094511
+  },
+  "Sticker | REZ (Holo) | Rio 2022": {
+    "name": "Sticker | REZ (Holo) | Rio 2022",
+    "nameId": 1094505
+  },
+  "Sticker | REZ (Gold) | Rio 2022": {
+    "name": "Sticker | REZ (Gold) | Rio 2022",
+    "nameId": 1094641
+  },
+  "Sticker | Brollan (Holo) | Rio 2022": {
+    "name": "Sticker | Brollan (Holo) | Rio 2022",
+    "nameId": 1094679
+  },
+  "Sticker | JDC (Gold) | Rio 2022": {
+    "name": "Sticker | JDC (Gold) | Rio 2022",
+    "nameId": 1094694
+  },
+  "Sticker | torzsi | Rio 2022": {
+    "name": "Sticker | torzsi | Rio 2022",
+    "nameId": 1094531
+  },
+  "Sticker | torzsi (Glitter) | Rio 2022": {
+    "name": "Sticker | torzsi (Glitter) | Rio 2022",
+    "nameId": 1094435
+  },
+  "Sticker | torzsi (Holo) | Rio 2022": {
+    "name": "Sticker | torzsi (Holo) | Rio 2022",
+    "nameId": 1096041
+  },
+  "Sticker | xertioN | Rio 2022": {
+    "name": "Sticker | xertioN | Rio 2022",
+    "nameId": 1094579
+  },
+  "Sticker | xertioN (Glitter) | Rio 2022": {
+    "name": "Sticker | xertioN (Glitter) | Rio 2022",
+    "nameId": 1094610
+  },
+  "Sticker | xertioN (Gold) | Rio 2022": {
+    "name": "Sticker | xertioN (Gold) | Rio 2022",
+    "nameId": 1102564
+  },
+  "Sticker | nexa | Rio 2022": {
+    "name": "Sticker | nexa | Rio 2022",
+    "nameId": 1094583
+  },
+  "Sticker | nexa (Glitter) | Rio 2022": {
+    "name": "Sticker | nexa (Glitter) | Rio 2022",
+    "nameId": 1094889
+  },
+  "Sticker | nexa (Holo) | Rio 2022": {
+    "name": "Sticker | nexa (Holo) | Rio 2022",
+    "nameId": 1095181
+  },
+  "Sticker | nexa (Gold) | Rio 2022": {
+    "name": "Sticker | nexa (Gold) | Rio 2022",
+    "nameId": 1095715
+  },
+  "Sticker | NEOFRAG | Rio 2022": {
+    "name": "Sticker | NEOFRAG | Rio 2022",
+    "nameId": 1094588
+  },
+  "Sticker | NEOFRAG (Glitter) | Rio 2022": {
+    "name": "Sticker | NEOFRAG (Glitter) | Rio 2022",
+    "nameId": 1094816
+  },
+  "Sticker | NEOFRAG (Holo) | Rio 2022": {
+    "name": "Sticker | NEOFRAG (Holo) | Rio 2022",
+    "nameId": 1096933
+  },
+  "Sticker | FlameZ | Rio 2022": {
+    "name": "Sticker | FlameZ | Rio 2022",
+    "nameId": 1094584
+  },
+  "Sticker | FlameZ (Glitter) | Rio 2022": {
+    "name": "Sticker | FlameZ (Glitter) | Rio 2022",
+    "nameId": 1094878
+  },
+  "Sticker | FlameZ (Holo) | Rio 2022": {
+    "name": "Sticker | FlameZ (Holo) | Rio 2022",
+    "nameId": 1095039
+  },
+  "Sticker | degster | Rio 2022": {
+    "name": "Sticker | degster | Rio 2022",
+    "nameId": 1094545
+  },
+  "Sticker | degster (Glitter) | Rio 2022": {
+    "name": "Sticker | degster (Glitter) | Rio 2022",
+    "nameId": 1094740
+  },
+  "Sticker | degster (Holo) | Rio 2022": {
+    "name": "Sticker | degster (Holo) | Rio 2022",
+    "nameId": 1098798
+  },
+  "Sticker | degster (Gold) | Rio 2022": {
+    "name": "Sticker | degster (Gold) | Rio 2022",
+    "nameId": 1095076
+  },
+  "Sticker | F1KU (Holo) | Rio 2022": {
+    "name": "Sticker | F1KU (Holo) | Rio 2022",
+    "nameId": 1095017
+  },
+  "Sticker | dupreeh | Rio 2022": {
+    "name": "Sticker | dupreeh | Rio 2022",
+    "nameId": 1094688
+  },
+  "Sticker | dupreeh (Glitter) | Rio 2022": {
+    "name": "Sticker | dupreeh (Glitter) | Rio 2022",
+    "nameId": 1094742
+  },
+  "Sticker | dupreeh (Holo) | Rio 2022": {
+    "name": "Sticker | dupreeh (Holo) | Rio 2022",
+    "nameId": 1095547
+  },
+  "Sticker | Magisk | Rio 2022": {
+    "name": "Sticker | Magisk | Rio 2022",
+    "nameId": 1094636
+  },
+  "Sticker | Magisk (Glitter) | Rio 2022": {
+    "name": "Sticker | Magisk (Glitter) | Rio 2022",
+    "nameId": 1095012
+  },
+  "Sticker | Magisk (Holo) | Rio 2022": {
+    "name": "Sticker | Magisk (Holo) | Rio 2022",
+    "nameId": 1095180
+  },
+  "Sticker | apEX | Rio 2022": {
+    "name": "Sticker | apEX | Rio 2022",
+    "nameId": 1094564
+  },
+  "Sticker | apEX (Glitter) | Rio 2022": {
+    "name": "Sticker | apEX (Glitter) | Rio 2022",
+    "nameId": 1094751
+  },
+  "Sticker | apEX (Holo) | Rio 2022": {
+    "name": "Sticker | apEX (Holo) | Rio 2022",
+    "nameId": 1094821
+  },
+  "Sticker | Spinx | Rio 2022": {
+    "name": "Sticker | Spinx | Rio 2022",
+    "nameId": 1094586
+  },
+  "Sticker | Spinx (Glitter) | Rio 2022": {
+    "name": "Sticker | Spinx (Glitter) | Rio 2022",
+    "nameId": 1094436
+  },
+  "Sticker | ZywOo | Rio 2022": {
+    "name": "Sticker | ZywOo | Rio 2022",
+    "nameId": 1094596
+  },
+  "Sticker | ZywOo (Glitter) | Rio 2022": {
+    "name": "Sticker | ZywOo (Glitter) | Rio 2022",
+    "nameId": 1094929
+  },
+  "Sticker | TACO | Rio 2022": {
+    "name": "Sticker | TACO | Rio 2022",
+    "nameId": 1094524
+  },
+  "Sticker | TACO (Glitter) | Rio 2022": {
+    "name": "Sticker | TACO (Glitter) | Rio 2022",
+    "nameId": 1094697
+  },
+  "Sticker | TACO (Holo) | Rio 2022": {
+    "name": "Sticker | TACO (Holo) | Rio 2022",
+    "nameId": 1095166
+  },
+  "Sticker | coldzera | Rio 2022": {
+    "name": "Sticker | coldzera | Rio 2022",
+    "nameId": 1094550
+  },
+  "Sticker | coldzera (Glitter) | Rio 2022": {
+    "name": "Sticker | coldzera (Glitter) | Rio 2022",
+    "nameId": 1094613
+  },
+  "Sticker | coldzera (Holo) | Rio 2022": {
+    "name": "Sticker | coldzera (Holo) | Rio 2022",
+    "nameId": 1094919
+  },
+  "Sticker | TRY | Rio 2022": {
+    "name": "Sticker | TRY | Rio 2022",
+    "nameId": 1094523
+  },
+  "Sticker | TRY (Glitter) | Rio 2022": {
+    "name": "Sticker | TRY (Glitter) | Rio 2022",
+    "nameId": 1094690
+  },
+  "Sticker | TRY (Holo) | Rio 2022": {
+    "name": "Sticker | TRY (Holo) | Rio 2022",
+    "nameId": 1094692
+  },
+  "Sticker | TRY (Gold) | Rio 2022": {
+    "name": "Sticker | TRY (Gold) | Rio 2022",
+    "nameId": 1098895
+  },
+  "Sticker | latto | Rio 2022": {
+    "name": "Sticker | latto | Rio 2022",
+    "nameId": 1094581
+  },
+  "Sticker | latto (Glitter) | Rio 2022": {
+    "name": "Sticker | latto (Glitter) | Rio 2022",
+    "nameId": 1094682
+  },
+  "Sticker | latto (Holo) | Rio 2022": {
+    "name": "Sticker | latto (Holo) | Rio 2022",
+    "nameId": 1095105
+  },
+  "Sticker | dumau | Rio 2022": {
+    "name": "Sticker | dumau | Rio 2022",
+    "nameId": 1094619
+  },
+  "Sticker | dumau (Glitter) | Rio 2022": {
+    "name": "Sticker | dumau (Glitter) | Rio 2022",
+    "nameId": 1094757
+  },
+  "Sticker | dumau (Holo) | Rio 2022": {
+    "name": "Sticker | dumau (Holo) | Rio 2022",
+    "nameId": 1095436
+  },
+  "Sticker | dumau (Gold) | Rio 2022": {
+    "name": "Sticker | dumau (Gold) | Rio 2022",
+    "nameId": 1095343
+  },
+  "Sticker | KRIMZ | Rio 2022": {
+    "name": "Sticker | KRIMZ | Rio 2022",
+    "nameId": 1094463
+  },
+  "Sticker | KRIMZ (Glitter) | Rio 2022": {
+    "name": "Sticker | KRIMZ (Glitter) | Rio 2022",
+    "nameId": 1094652
+  },
+  "Sticker | KRIMZ (Holo) | Rio 2022": {
+    "name": "Sticker | KRIMZ (Holo) | Rio 2022",
+    "nameId": 1096421
+  },
+  "Sticker | KRIMZ (Gold) | Rio 2022": {
+    "name": "Sticker | KRIMZ (Gold) | Rio 2022",
+    "nameId": 1095107
+  },
+  "Sticker | mezii | Rio 2022": {
+    "name": "Sticker | mezii | Rio 2022",
+    "nameId": 1094563
+  },
+  "Sticker | mezii (Glitter) | Rio 2022": {
+    "name": "Sticker | mezii (Glitter) | Rio 2022",
+    "nameId": 1094526
+  },
+  "Sticker | mezii (Holo) | Rio 2022": {
+    "name": "Sticker | mezii (Holo) | Rio 2022",
+    "nameId": 1095471
+  },
+  "Sticker | mezii (Gold) | Rio 2022": {
+    "name": "Sticker | mezii (Gold) | Rio 2022",
+    "nameId": 1096433
+  },
+  "Sticker | FASHR | Rio 2022": {
+    "name": "Sticker | FASHR | Rio 2022",
+    "nameId": 1094569
+  },
+  "Sticker | FASHR (Glitter) | Rio 2022": {
+    "name": "Sticker | FASHR (Glitter) | Rio 2022",
+    "nameId": 1094616
+  },
+  "Sticker | roeJ | Rio 2022": {
+    "name": "Sticker | roeJ | Rio 2022",
+    "nameId": 1094521
+  },
+  "Sticker | roeJ (Holo) | Rio 2022": {
+    "name": "Sticker | roeJ (Holo) | Rio 2022",
+    "nameId": 1095094
+  },
+  "Sticker | roeJ (Gold) | Rio 2022": {
+    "name": "Sticker | roeJ (Gold) | Rio 2022",
+    "nameId": 1095469
+  },
+  "Sticker | nicoodoz | Rio 2022": {
+    "name": "Sticker | nicoodoz | Rio 2022",
+    "nameId": 1094591
+  },
+  "Sticker | nicoodoz (Glitter) | Rio 2022": {
+    "name": "Sticker | nicoodoz (Glitter) | Rio 2022",
+    "nameId": 1094393
+  },
+  "Sticker | KSCERATO | Rio 2022": {
+    "name": "Sticker | KSCERATO | Rio 2022",
+    "nameId": 1094491
+  },
+  "Sticker | KSCERATO (Glitter) | Rio 2022": {
+    "name": "Sticker | KSCERATO (Glitter) | Rio 2022",
+    "nameId": 1094871
+  },
+  "Sticker | KSCERATO (Holo) | Rio 2022": {
+    "name": "Sticker | KSCERATO (Holo) | Rio 2022",
+    "nameId": 1094882
   }
 }
