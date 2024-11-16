@@ -36674,5 +36674,121 @@
   "Sticker | shox (Glitter) | Antwerp 2022": {
     "name": "Sticker | shox (Glitter) | Antwerp 2022",
     "nameId": 1091449
+  },
+  "P90 | Nostalgia (Factory New)": {
+    "name": "P90 | Nostalgia (Factory New)",
+    "nameId": 1073171
+  },
+  "P90 | Nostalgia (Minimal Wear)": {
+    "name": "P90 | Nostalgia (Minimal Wear)",
+    "nameId": 1073185
+  },
+  "P90 | Nostalgia (Field-Tested)": {
+    "name": "P90 | Nostalgia (Field-Tested)",
+    "nameId": 1073173
+  },
+  "P90 | Nostalgia (Well-Worn)": {
+    "name": "P90 | Nostalgia (Well-Worn)",
+    "nameId": 1073230
+  },
+  "P90 | Nostalgia (Battle-Scarred)": {
+    "name": "P90 | Nostalgia (Battle-Scarred)",
+    "nameId": 1073209
+  },
+  "StatTrak™ P90 | Nostalgia (Factory New)": {
+    "name": "StatTrak™ P90 | Nostalgia (Factory New)",
+    "nameId": 1073294
+  },
+  "StatTrak™ P90 | Nostalgia (Minimal Wear)": {
+    "name": "StatTrak™ P90 | Nostalgia (Minimal Wear)",
+    "nameId": 1073271
+  },
+  "StatTrak™ P90 | Nostalgia (Field-Tested)": {
+    "name": "StatTrak™ P90 | Nostalgia (Field-Tested)",
+    "nameId": 1073174
+  },
+  "Tec-9 | Fuel Injector (Field-Tested)": {
+    "name": "Tec-9 | Fuel Injector (Field-Tested)",
+    "nameId": 2606
+  },
+  "MP9 | Ruby Poison Dart (Field-Tested)": {
+    "name": "MP9 | Ruby Poison Dart (Field-Tested)",
+    "nameId": 1508
+  },
+  "MP9 | Ruby Poison Dart (Well-Worn)": {
+    "name": "MP9 | Ruby Poison Dart (Well-Worn)",
+    "nameId": 12737
+  },
+  "MP9 | Ruby Poison Dart (Battle-Scarred)": {
+    "name": "MP9 | Ruby Poison Dart (Battle-Scarred)",
+    "nameId": 20055
+  },
+  "StatTrak™ MP9 | Ruby Poison Dart (Factory New)": {
+    "name": "StatTrak™ MP9 | Ruby Poison Dart (Factory New)",
+    "nameId": 1283
+  },
+  "StatTrak™ MP9 | Ruby Poison Dart (Minimal Wear)": {
+    "name": "StatTrak™ MP9 | Ruby Poison Dart (Minimal Wear)",
+    "nameId": 3161
+  },
+  "StatTrak™ MP9 | Ruby Poison Dart (Field-Tested)": {
+    "name": "StatTrak™ MP9 | Ruby Poison Dart (Field-Tested)",
+    "nameId": 2155
+  },
+  "StatTrak™ MP9 | Ruby Poison Dart (Well-Worn)": {
+    "name": "StatTrak™ MP9 | Ruby Poison Dart (Well-Worn)",
+    "nameId": 691
+  },
+  "StatTrak™ MP9 | Ruby Poison Dart (Battle-Scarred)": {
+    "name": "StatTrak™ MP9 | Ruby Poison Dart (Battle-Scarred)",
+    "nameId": 4946
+  },
+  "MP9 | Bioleak (Factory New)": {
+    "name": "MP9 | Bioleak (Factory New)",
+    "nameId": 1053
+  },
+  "MP9 | Bioleak (Minimal Wear)": {
+    "name": "MP9 | Bioleak (Minimal Wear)",
+    "nameId": 1464
+  },
+  "MP9 | Bioleak (Field-Tested)": {
+    "name": "MP9 | Bioleak (Field-Tested)",
+    "nameId": 532
+  },
+  "MP9 | Bioleak (Well-Worn)": {
+    "name": "MP9 | Bioleak (Well-Worn)",
+    "nameId": 1891
+  },
+  "★ Flip Knife | Scorched (Well-Worn)": {
+    "name": "★ Flip Knife | Scorched (Well-Worn)",
+    "nameId": 1054
+  },
+  "★ StatTrak™ Flip Knife | Scorched (Minimal Wear)": {
+    "name": "★ StatTrak™ Flip Knife | Scorched (Minimal Wear)",
+    "nameId": 19234
+  },
+  "★ StatTrak™ Flip Knife | Scorched (Field-Tested)": {
+    "name": "★ StatTrak™ Flip Knife | Scorched (Field-Tested)",
+    "nameId": 1565
+  },
+  "★ StatTrak™ Nomad Knife | Case Hardened (Field-Tested)": {
+    "name": "★ StatTrak™ Nomad Knife | Case Hardened (Field-Tested)",
+    "nameId": 1075723
+  },
+  "★ Nomad Knife | Slaughter (Factory New)": {
+    "name": "★ Nomad Knife | Slaughter (Factory New)",
+    "nameId": 1074871
+  },
+  "★ Nomad Knife | Slaughter (Minimal Wear)": {
+    "name": "★ Nomad Knife | Slaughter (Minimal Wear)",
+    "nameId": 1074725
+  },
+  "★ Nomad Knife | Slaughter (Field-Tested)": {
+    "name": "★ Nomad Knife | Slaughter (Field-Tested)",
+    "nameId": 1074994
+  },
+  "★ StatTrak™ Nomad Knife | Slaughter (Factory New)": {
+    "name": "★ StatTrak™ Nomad Knife | Slaughter (Factory New)",
+    "nameId": 1075211
   }
 }
