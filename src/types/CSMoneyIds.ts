@@ -3,4 +3,4 @@ export type CSMoneyIds = {
         name: string;
         nameId: number;
     };
-}
+};

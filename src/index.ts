@@ -1,6 +1,8 @@
 import fs from 'node:fs';
 
-import { request, fetch } from 'undici'
+import { request, fetch } from 'undici';
+
+import slug from 'slug';
 
 import type { CSGOAPIResponse } from './types/CSGOAPIResponse.js';
 import type { CSMoneyIds } from './types/CSMoneyIds.js';
@@ -11,7 +13,9 @@ import type { Item as ItemMarket } from './types/CSMoneyMarket.response.js';
 const MAX_DOWNLOAD = 500;
 
 async function loadAllCS2Items() {
-    const response = await request('https://bymykel.github.io/CSGO-API/api/en/all.json').then((res) => res.body.json() as Promise<CSGOAPIResponse>);
+    const response = await request('https://bymykel.github.io/CSGO-API/api/en/all.json').then(
+        (res) => res.body.json() as Promise<CSGOAPIResponse>,
+    );
 
     return response;
 }
@@ -28,61 +32,117 @@ function writeCSMoneyIds(data: CSMoneyIds) {
 
 async function loadFromCSMoneyTrade(name: string) {
     return fetch(`https://cs.money/1.0/market/sell-orders?limit=60&offset=0&name=${name}`, {
-        "headers": {
-          "accept": "application/json, text/plain, */*",
-          "accept-language": "en-US,en-GB;q=0.9,en;q=0.8,pl-PL;q=0.7,pl;q=0.6",
-          "cache-control": "no-cache",
-          "pragma": "no-cache",
-          "priority": "u=1, i",
-          "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
-          "sec-ch-ua-mobile": "?0",
-          "sec-ch-ua-platform": "\"Windows\"",
-          "sec-fetch-dest": "empty",
-          "sec-fetch-mode": "cors",
-          "sec-fetch-site": "same-origin",
-          "x-client-app": "web",
-          "Referer": "https://cs.money/pl/market/buy/",
-          "Referrer-Policy": "strict-origin-when-cross-origin"
+        headers: {
+            accept: 'application/json, text/plain, */*',
+            'accept-language': 'en-US,en-GB;q=0.9,en;q=0.8,pl-PL;q=0.7,pl;q=0.6',
+            'cache-control': 'no-cache',
+            pragma: 'no-cache',
+            priority: 'u=1, i',
+            'sec-ch-ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Windows"',
+            'sec-fetch-dest': 'empty',
+            'sec-fetch-mode': 'cors',
+            'sec-fetch-site': 'same-origin',
+            'x-client-app': 'web',
+            Referer: 'https://cs.money/pl/market/buy/',
+            'Referrer-Policy': 'strict-origin-when-cross-origin',
         },
-        "body": null,
-        "method": "GET"
-      }).then((res) => res.json() as Promise<CSMoneyResponse>).catch((err) => {
-        console.log('loadFromCSMoneyTrade', err);
+        body: null,
+        method: 'GET',
+    })
+        .then((res) => res.json() as Promise<CSMoneyResponse>)
+        .catch((err) => {
+            console.log('loadFromCSMoneyTrade', err);
 
-        return Promise.resolve({
-          items: []
+            return Promise.resolve({
+                items: [],
+            });
         });
-      });
 }
 
 async function loadFromCSMoneyMarket(name: string) {
     return fetch(`https://cs.money/5.0/load_bots_inventory/730?limit=60&name=${name}&offset=0`, {
-        "headers": {
-          "accept": "application/json, text/plain, */*",
-          "accept-language": "en-US,en-GB;q=0.9,en;q=0.8,pl-PL;q=0.7,pl;q=0.6",
-          "cache-control": "no-cache",
-          "pragma": "no-cache",
-          "priority": "u=1, i",
-          "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
-          "sec-ch-ua-mobile": "?0",
-          "sec-ch-ua-platform": "\"Windows\"",
-          "sec-fetch-dest": "empty",
-          "sec-fetch-mode": "cors",
-          "sec-fetch-site": "same-origin",
-          "x-client-app": "web",
-          "Referer": "https://cs.money/csgo/trade/",
-          "Referrer-Policy": "strict-origin-when-cross-origin"
+        headers: {
+            accept: 'application/json, text/plain, */*',
+            'accept-language': 'en-US,en-GB;q=0.9,en;q=0.8,pl-PL;q=0.7,pl;q=0.6',
+            'cache-control': 'no-cache',
+            pragma: 'no-cache',
+            priority: 'u=1, i',
+            'sec-ch-ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Windows"',
+            'sec-fetch-dest': 'empty',
+            'sec-fetch-mode': 'cors',
+            'sec-fetch-site': 'same-origin',
+            'x-client-app': 'web',
+            Referer: 'https://cs.money/csgo/trade/',
+            'Referrer-Policy': 'strict-origin-when-cross-origin',
         },
-        "body": null,
-        "method": "GET"
-      }).then((res) => res.json() as Promise<CSMoneyMarketResponse>).catch((err) => {
-        console.log('loadFromCSMoneyMarket', err);
+        body: null,
+        method: 'GET',
+    })
+        .then((res) => res.json() as Promise<CSMoneyMarketResponse>)
+        .catch((err) => {
+            console.log('loadFromCSMoneyMarket', err);
 
-        return Promise.resolve({
-          items: []
+            return Promise.resolve({
+                items: [],
+            });
         });
-      });
-    }
+}
+
+async function loadFromCSMoneyPage(market_hash_name: string) {
+    const slugName = slug(market_hash_name);
+
+    return fetch(`https://cs.money/pl/csgo/${slugName}/`, {
+        headers: {
+            accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'accept-language': 'en-US,en-GB;q=0.9,en;q=0.8,pl-PL;q=0.7,pl;q=0.6',
+            'cache-control': 'no-cache',
+            pragma: 'no-cache',
+            priority: 'u=0, i',
+            'sec-ch-ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Windows"',
+            'sec-fetch-dest': 'document',
+            'sec-fetch-mode': 'navigate',
+            'sec-fetch-site': 'same-origin',
+            'sec-fetch-user': '?1',
+            'upgrade-insecure-requests': '1',
+        },
+        referrerPolicy: 'strict-origin-when-cross-origin',
+        body: null,
+        method: 'GET',
+    })
+        .then((res) => res.text() as Promise<string>)
+        .then((res) => {
+            const nameIdRegex = /"nameId":\s*(\d+)/;
+            const fullNameRegex = /"fullName":\s*"([^"]+)"/;
+
+            // Extract nameId
+            const nameIdMatch = nameIdRegex.exec(res);
+            const nameId = nameIdMatch ? nameIdMatch[1] : null;
+
+            // Extract fullName
+            const fullNameMatch = fullNameRegex.exec(res);
+            const fullName = fullNameMatch ? fullNameMatch[1] : null;
+
+            // Print results
+            console.log('Extracted nameId:', nameId);
+            console.log('Extracted fullName:', fullName);
+
+            return {
+                nameId: nameId,
+                fullName: fullName,
+            };
+        })
+        .catch((err) => {
+            console.log('loadItemFromCSMoneyPage', err);
+
+            return Promise.resolve(null);
+        });
+}
 
 function findItemTrade(name: string, items: ItemTrade[]) {
     return items.find((item) => item.asset.names.full === name);
@@ -95,7 +155,7 @@ function findItemMarket(name: string, items: ItemMarket[]) {
 async function loadItemFromCSMoneyTrade(market_hash_name: string) {
     const responseMoney = await loadFromCSMoneyTrade(market_hash_name);
 
-    if(!responseMoney || !responseMoney?.items || responseMoney?.items?.length === 0) {
+    if (!responseMoney || !responseMoney?.items || responseMoney?.items?.length === 0) {
         console.log(`Item ${market_hash_name} has no CSMoney sell orders`);
 
         return;
@@ -103,7 +163,7 @@ async function loadItemFromCSMoneyTrade(market_hash_name: string) {
 
     const itemMoney = findItemTrade(market_hash_name, responseMoney.items);
 
-    if(!itemMoney) {
+    if (!itemMoney) {
         console.log(`Item ${market_hash_name} has no CSMoney sell orders`);
 
         return;
@@ -115,7 +175,7 @@ async function loadItemFromCSMoneyTrade(market_hash_name: string) {
 async function loadItemFromCSMoneyMarket(market_hash_name: string) {
     const responseMoney = await loadFromCSMoneyMarket(market_hash_name);
 
-    if(!responseMoney || !responseMoney?.items || responseMoney?.items?.length === 0) {
+    if (!responseMoney || !responseMoney?.items || responseMoney?.items?.length === 0) {
         console.log(`Item ${market_hash_name} has no CSMoney market trade`);
 
         return;
@@ -123,7 +183,7 @@ async function loadItemFromCSMoneyMarket(market_hash_name: string) {
 
     const itemMoney = findItemMarket(market_hash_name, responseMoney.items);
 
-    if(!itemMoney) {
+    if (!itemMoney) {
         console.log(`Item ${market_hash_name} has no CSMoney market trade`);
 
         return;
@@ -132,9 +192,28 @@ async function loadItemFromCSMoneyMarket(market_hash_name: string) {
     return itemMoney.nameId;
 }
 
+async function loadItemFromCSMoneyPage(market_hash_name: string) {
+    const responseMoney = await loadFromCSMoneyPage(market_hash_name);
+
+    if (
+        !responseMoney ||
+        !responseMoney?.nameId ||
+        responseMoney?.fullName ||
+        responseMoney?.fullName !== market_hash_name
+    ) {
+        console.log(
+            `Item ${market_hash_name} has no CSMoney page ${responseMoney?.fullName} with nameId ${responseMoney?.nameId}`,
+        );
+
+        return;
+    }
+
+    return parseInt(responseMoney.nameId, 10);
+}
+
 async function main() {
     const allCS2Items = await loadAllCS2Items();
-    
+
     console.log('Loaded all CS2 items', Object.keys(allCS2Items).length);
 
     const csmoneyIds = loadCSMoneyIds();
@@ -148,15 +227,15 @@ async function main() {
     for (const item in allCS2Items) {
         const currentItem = allCS2Items[item];
 
-        if(!currentItem) {
+        if (!currentItem) {
             continue;
         }
 
-        if(!currentItem.market_hash_name) {
+        if (!currentItem.market_hash_name) {
             continue;
         }
 
-        if(csmoneyIdsKeys.includes(currentItem.market_hash_name)) {
+        if (csmoneyIdsKeys.includes(currentItem.market_hash_name)) {
             continue;
         }
 
@@ -170,25 +249,29 @@ async function main() {
     for (const item in allCS2Items) {
         const currentItem = allCS2Items[item];
 
-        if(!currentItem) {
+        if (!currentItem) {
             continue;
         }
 
-        if(!currentItem.market_hash_name) {
+        if (!currentItem.market_hash_name) {
             continue;
         }
 
-        if(csmoneyIdsKeys.includes(currentItem.market_hash_name)) {
+        if (csmoneyIdsKeys.includes(currentItem.market_hash_name)) {
             continue;
-        }   
+        }
 
         let itemMoneyId = await loadItemFromCSMoneyTrade(currentItem.market_hash_name);
 
-        if(!itemMoneyId) {
+        if (!itemMoneyId) {
             itemMoneyId = await loadItemFromCSMoneyMarket(currentItem.market_hash_name);
         }
 
-        if(!itemMoneyId) {
+        if (!itemMoneyId) {
+            itemMoneyId = await loadItemFromCSMoneyPage(currentItem.market_hash_name);
+        }
+
+        if (!itemMoneyId) {
             continue;
         }
 
@@ -196,14 +279,14 @@ async function main() {
 
         csmoneyIds[currentItem.market_hash_name] = {
             name: currentItem.market_hash_name,
-            nameId: itemMoneyId
+            nameId: itemMoneyId,
         };
 
         writeCSMoneyIds(csmoneyIds);
 
         downloaded++;
 
-        if(downloaded >= MAX_DOWNLOAD) {
+        if (downloaded >= MAX_DOWNLOAD) {
             break;
         }
     }
