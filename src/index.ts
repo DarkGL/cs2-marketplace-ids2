@@ -92,6 +92,9 @@ async function loadFromCSMoneyMarket(name: string) {
         });
 }
 
+const nameIdRegex = /"nameId":\s*(\d+)/;
+const fullNameRegex = /"fullName":\s*"([^"]+)"/;
+
 async function loadFromCSMoneyPage(market_hash_name: string) {
     const slugName = slug(market_hash_name);
 
@@ -117,9 +120,6 @@ async function loadFromCSMoneyPage(market_hash_name: string) {
     })
         .then((res) => res.text() as Promise<string>)
         .then((res) => {
-            const nameIdRegex = /"nameId":\s*(\d+)/;
-            const fullNameRegex = /"fullName":\s*"([^"]+)"/;
-
             // Extract nameId
             const nameIdMatch = nameIdRegex.exec(res);
             const nameId = nameIdMatch ? nameIdMatch[1] : null;
@@ -133,8 +133,8 @@ async function loadFromCSMoneyPage(market_hash_name: string) {
             console.log('Extracted fullName:', fullName);
 
             return {
-                nameId: nameId,
-                fullName: fullName,
+                nameId: nameId?.trim(),
+                fullName: fullName?.trim(),
             };
         })
         .catch((err) => {
@@ -198,7 +198,7 @@ async function loadItemFromCSMoneyPage(market_hash_name: string) {
     if (
         !responseMoney ||
         !responseMoney?.nameId ||
-        responseMoney?.fullName ||
+        !responseMoney?.fullName ||
         responseMoney?.fullName !== market_hash_name
     ) {
         console.log(
@@ -211,7 +211,7 @@ async function loadItemFromCSMoneyPage(market_hash_name: string) {
     return parseInt(responseMoney.nameId, 10);
 }
 
-async function main() {
+async function main() { 
     const allCS2Items = await loadAllCS2Items();
 
     console.log('Loaded all CS2 items', Object.keys(allCS2Items).length);

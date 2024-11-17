@@ -41494,5 +41494,589 @@
   "Sticker | NBK- (Foil) | Berlin 2019": {
     "name": "Sticker | NBK- (Foil) | Berlin 2019",
     "nameId": 874788
+  },
+  "DreamHack 2013 Souvenir Package": {
+    "name": "DreamHack 2013 Souvenir Package",
+    "nameId": 21844
+  },
+  "Sticker Capsule": {
+    "name": "Sticker Capsule",
+    "nameId": 3687
+  },
+  "EMS One 2014 Souvenir Package": {
+    "name": "EMS One 2014 Souvenir Package",
+    "nameId": 23078
+  },
+  "EMS Katowice 2014 Challengers": {
+    "name": "EMS Katowice 2014 Challengers",
+    "nameId": 21554
+  },
+  "EMS Katowice 2014 Legends": {
+    "name": "EMS Katowice 2014 Legends",
+    "nameId": 18364
+  },
+  "ESL One Cologne 2014 Inferno Souvenir Package": {
+    "name": "ESL One Cologne 2014 Inferno Souvenir Package",
+    "nameId": 21982
+  },
+  "ESL One Cologne 2014 Mirage Souvenir Package": {
+    "name": "ESL One Cologne 2014 Mirage Souvenir Package",
+    "nameId": 23905
+  },
+  "ESL One Cologne 2014 Nuke Souvenir Package": {
+    "name": "ESL One Cologne 2014 Nuke Souvenir Package",
+    "nameId": 22572
+  },
+  "ESL One Cologne 2014 Cache Souvenir Package": {
+    "name": "ESL One Cologne 2014 Cache Souvenir Package",
+    "nameId": 22266
+  },
+  "ESL One Cologne 2014 Cobblestone Souvenir Package": {
+    "name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+    "nameId": 21843
+  },
+  "ESL One Cologne 2014 Overpass Souvenir Package": {
+    "name": "ESL One Cologne 2014 Overpass Souvenir Package",
+    "nameId": 23077
+  },
+  "DreamHack 2014 Dust II Souvenir Package": {
+    "name": "DreamHack 2014 Dust II Souvenir Package",
+    "nameId": 19347
+  },
+  "DreamHack 2014 Inferno Souvenir Package": {
+    "name": "DreamHack 2014 Inferno Souvenir Package",
+    "nameId": 19345
+  },
+  "DreamHack 2014 Nuke Souvenir Package": {
+    "name": "DreamHack 2014 Nuke Souvenir Package",
+    "nameId": 19620
+  },
+  "DreamHack 2014 Cache Souvenir Package": {
+    "name": "DreamHack 2014 Cache Souvenir Package",
+    "nameId": 24691
+  },
+  "DreamHack 2014 Cobblestone Souvenir Package": {
+    "name": "DreamHack 2014 Cobblestone Souvenir Package",
+    "nameId": 28260
+  },
+  "DreamHack 2014 Overpass Souvenir Package": {
+    "name": "DreamHack 2014 Overpass Souvenir Package",
+    "nameId": 22931
+  },
+  "ESL One Katowice 2015 Dust II Souvenir Package": {
+    "name": "ESL One Katowice 2015 Dust II Souvenir Package",
+    "nameId": 10507
+  },
+  "ESL One Katowice 2015 Inferno Souvenir Package": {
+    "name": "ESL One Katowice 2015 Inferno Souvenir Package",
+    "nameId": 19793
+  },
+  "ESL One Katowice 2015 Mirage Souvenir Package": {
+    "name": "ESL One Katowice 2015 Mirage Souvenir Package",
+    "nameId": 19796
+  },
+  "ESL One Katowice 2015 Nuke Souvenir Package": {
+    "name": "ESL One Katowice 2015 Nuke Souvenir Package",
+    "nameId": 20896
+  },
+  "ESL One Cologne 2015 Legends (Foil)": {
+    "name": "ESL One Cologne 2015 Legends (Foil)",
+    "nameId": 16260
+  },
+  "Autograph Capsule | Group A (Foil) | Cologne 2015": {
+    "name": "Autograph Capsule | Group A (Foil) | Cologne 2015",
+    "nameId": 19787
+  },
+  "Autograph Capsule | Team eBettle | Cologne 2015": {
+    "name": "Autograph Capsule | Team eBettle | Cologne 2015",
+    "nameId": 19795
+  },
+  "ESL One Cologne 2015 Mirage Souvenir Package": {
+    "name": "ESL One Cologne 2015 Mirage Souvenir Package",
+    "nameId": 19674
+  },
+  "ESL One Cologne 2015 Cobblestone Souvenir Package": {
+    "name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
+    "nameId": 10173
+  },
+  "ESL One Cologne 2015 Overpass Souvenir Package": {
+    "name": "ESL One Cologne 2015 Overpass Souvenir Package",
+    "nameId": 22064
+  },
+  "ESL One Cologne 2015 Cache Souvenir Package": {
+    "name": "ESL One Cologne 2015 Cache Souvenir Package",
+    "nameId": 20902
+  },
+  "ESL One Cologne 2015 Train Souvenir Package": {
+    "name": "ESL One Cologne 2015 Train Souvenir Package",
+    "nameId": 19917
+  },
+  "Autograph Capsule | Ninjas in Pyjamas | Cluj-Napoca 2015": {
+    "name": "Autograph Capsule | Ninjas in Pyjamas | Cluj-Napoca 2015",
+    "nameId": 18960
+  },
+  "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package": {
+    "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
+    "nameId": 10168
+  },
+  "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package": {
+    "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
+    "nameId": 19711
+  },
+  "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package": {
+    "name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
+    "nameId": 10169
+  },
+  "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package": {
+    "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
+    "nameId": 19797
+  },
+  "DreamHack Cluj-Napoca 2015 Cache Souvenir Package": {
+    "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
+    "nameId": 10154
+  },
+  "Autograph Capsule | Challengers (Foil) | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Challengers (Foil) | MLG Columbus 2016",
+    "nameId": 19538
+  },
+  "Autograph Capsule | Legends (Foil) | MLG Columbus 2016": {
+    "name": "Autograph Capsule | Legends (Foil) | MLG Columbus 2016",
+    "nameId": 19179
+  },
+  "MLG Columbus 2016 Mirage Souvenir Package": {
+    "name": "MLG Columbus 2016 Mirage Souvenir Package",
+    "nameId": 19372
+  },
+  "MLG Columbus 2016 Cobblestone Souvenir Package": {
+    "name": "MLG Columbus 2016 Cobblestone Souvenir Package",
+    "nameId": 14341
+  },
+  "MLG Columbus 2016 Cache Souvenir Package": {
+    "name": "MLG Columbus 2016 Cache Souvenir Package",
+    "nameId": 7159
+  },
+  "Autograph Capsule | Flipsid3 Tactics | Cologne 2016": {
+    "name": "Autograph Capsule | Flipsid3 Tactics | Cologne 2016",
+    "nameId": 20109
+  },
+  "Autograph Capsule | Team Liquid | Cologne 2016": {
+    "name": "Autograph Capsule | Team Liquid | Cologne 2016",
+    "nameId": 18224
+  },
+  "Autograph Capsule | G2 Esports | Cologne 2016": {
+    "name": "Autograph Capsule | G2 Esports | Cologne 2016",
+    "nameId": 18633
+  },
+  "Cologne 2016 Mirage Souvenir Package": {
+    "name": "Cologne 2016 Mirage Souvenir Package",
+    "nameId": 20905
+  },
+  "Cologne 2016 Overpass Souvenir Package": {
+    "name": "Cologne 2016 Overpass Souvenir Package",
+    "nameId": 19713
+  },
+  "Cologne 2016 Cache Souvenir Package": {
+    "name": "Cologne 2016 Cache Souvenir Package",
+    "nameId": 19850
+  },
+  "Cologne 2016 Nuke Souvenir Package": {
+    "name": "Cologne 2016 Nuke Souvenir Package",
+    "nameId": 20895
+  },
+  "Perfect World Graffiti Box": {
+    "name": "Perfect World Graffiti Box",
+    "nameId": 13708
+  },
+  "Autograph Capsule | Legends (Foil) | Atlanta 2017": {
+    "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
+    "nameId": 18058
+  },
+  "Autograph Capsule | Team Liquid | Atlanta 2017": {
+    "name": "Autograph Capsule | Team Liquid | Atlanta 2017",
+    "nameId": 14660
+  },
+  "Atlanta 2017 Dust II Souvenir Package": {
+    "name": "Atlanta 2017 Dust II Souvenir Package",
+    "nameId": 12764
+  },
+  "Spectrum Case": {
+    "name": "Spectrum Case",
+    "nameId": 4
+  },
+  "Krakow 2017 Mirage Souvenir Package": {
+    "name": "Krakow 2017 Mirage Souvenir Package",
+    "nameId": 15754
+  },
+  "Krakow 2017 Train Souvenir Package": {
+    "name": "Krakow 2017 Train Souvenir Package",
+    "nameId": 18480
+  },
+  "Krakow 2017 Nuke Souvenir Package": {
+    "name": "Krakow 2017 Nuke Souvenir Package",
+    "nameId": 17844
+  },
+  "Perfect World Sticker Capsule 1": {
+    "name": "Perfect World Sticker Capsule 1",
+    "nameId": 16009
+  },
+  "Boston 2018 Legends Autograph Capsule": {
+    "name": "Boston 2018 Legends Autograph Capsule",
+    "nameId": 16217
+  },
+  "Boston 2018 Minor Challengers Autograph Capsule": {
+    "name": "Boston 2018 Minor Challengers Autograph Capsule",
+    "nameId": 18155
+  },
+  "Clutch Case": {
+    "name": "Clutch Case",
+    "nameId": 19553
+  },
+  "London 2018 Nuke Souvenir Package": {
+    "name": "London 2018 Nuke Souvenir Package",
+    "nameId": 168867
+  },
+  "Prisma Case": {
+    "name": "Prisma Case",
+    "nameId": 201751
+  },
+  "Berlin 2019 Train Souvenir Package": {
+    "name": "Berlin 2019 Train Souvenir Package",
+    "nameId": 1071511
+  },
+  "Battlefield 2042 Sticker Capsule": {
+    "name": "Battlefield 2042 Sticker Capsule",
+    "nameId": 1089323
+  },
+  "Sealed Graffiti | Drug War Veteran": {
+    "name": "Sealed Graffiti | Drug War Veteran",
+    "nameId": 3457
+  },
+  "Sealed Graffiti | Kawaii Killer CT": {
+    "name": "Sealed Graffiti | Kawaii Killer CT",
+    "nameId": 19054
+  },
+  "Sealed Graffiti | Real MVP": {
+    "name": "Sealed Graffiti | Real MVP",
+    "nameId": 15794
+  },
+  "Sealed Graffiti | Quickdraw (Bazooka Pink)": {
+    "name": "Sealed Graffiti | Quickdraw (Bazooka Pink)",
+    "nameId": 12664
+  },
+  "Sealed Graffiti | OpTic Gaming | Atlanta 2017": {
+    "name": "Sealed Graffiti | OpTic Gaming | Atlanta 2017",
+    "nameId": 1777
+  },
+  "Sealed Graffiti | Water Gun": {
+    "name": "Sealed Graffiti | Water Gun",
+    "nameId": 2683
+  },
+  "Sealed Graffiti | Gambit Esports | Boston 2018": {
+    "name": "Sealed Graffiti | Gambit Esports | Boston 2018",
+    "nameId": 3591
+  },
+  "Sealed Graffiti | Virtus.Pro | Boston 2018": {
+    "name": "Sealed Graffiti | Virtus.Pro | Boston 2018",
+    "nameId": 3669
+  },
+  "Sealed Graffiti | Flipsid3 Tactics | Boston 2018": {
+    "name": "Sealed Graffiti | Flipsid3 Tactics | Boston 2018",
+    "nameId": 3617
+  },
+  "Sealed Graffiti | Team Liquid | Boston 2018": {
+    "name": "Sealed Graffiti | Team Liquid | Boston 2018",
+    "nameId": 3657
+  },
+  "Sealed Graffiti | MIBR | London 2018": {
+    "name": "Sealed Graffiti | MIBR | London 2018",
+    "nameId": 60197
+  },
+  "Sealed Graffiti | BIG | London 2018": {
+    "name": "Sealed Graffiti | BIG | London 2018",
+    "nameId": 60174
+  },
+  "Sealed Graffiti | HellRaisers | London 2018": {
+    "name": "Sealed Graffiti | HellRaisers | London 2018",
+    "nameId": 60184
+  },
+  "Sealed Graffiti | OpTic Gaming | London 2018": {
+    "name": "Sealed Graffiti | OpTic Gaming | London 2018",
+    "nameId": 60202
+  },
+  "Sealed Graffiti | Team Spirit | London 2018": {
+    "name": "Sealed Graffiti | Team Spirit | London 2018",
+    "nameId": 60199
+  },
+  "Sealed Graffiti | 1G (Blood Red)": {
+    "name": "Sealed Graffiti | 1G (Blood Red)",
+    "nameId": 1074809
+  },
+  "Sealed Graffiti | 1G (Desert Amber)": {
+    "name": "Sealed Graffiti | 1G (Desert Amber)",
+    "nameId": 1074810
+  },
+  "Sealed Graffiti | 200 IQ (Brick Red)": {
+    "name": "Sealed Graffiti | 200 IQ (Brick Red)",
+    "nameId": 1073951
+  },
+  "Sealed Graffiti | 200 IQ (Blood Red)": {
+    "name": "Sealed Graffiti | 200 IQ (Blood Red)",
+    "nameId": 1074046
+  },
+  "Sealed Graffiti | 200 IQ (Dust Brown)": {
+    "name": "Sealed Graffiti | 200 IQ (Dust Brown)",
+    "nameId": 1073901
+  },
+  "Sealed Graffiti | 200 IQ (Monarch Blue)": {
+    "name": "Sealed Graffiti | 200 IQ (Monarch Blue)",
+    "nameId": 1074675
+  },
+  "Sealed Graffiti | 200 IQ (SWAT Blue)": {
+    "name": "Sealed Graffiti | 200 IQ (SWAT Blue)",
+    "nameId": 1074233
+  },
+  "Sealed Graffiti | 200 IQ (Princess Pink)": {
+    "name": "Sealed Graffiti | 200 IQ (Princess Pink)",
+    "nameId": 1074447
+  },
+  "Sealed Graffiti | Applause (Tiger Orange)": {
+    "name": "Sealed Graffiti | Applause (Tiger Orange)",
+    "nameId": 1074439
+  },
+  "Sealed Graffiti | Applause (Dust Brown)": {
+    "name": "Sealed Graffiti | Applause (Dust Brown)",
+    "nameId": 1074560
+  },
+  "Sealed Graffiti | Applause (Desert Amber)": {
+    "name": "Sealed Graffiti | Applause (Desert Amber)",
+    "nameId": 1074611
+  },
+  "Sealed Graffiti | Applause (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Applause (Tracer Yellow)",
+    "nameId": 1074866
+  },
+  "Sealed Graffiti | Applause (Battle Green)": {
+    "name": "Sealed Graffiti | Applause (Battle Green)",
+    "nameId": 1074600
+  },
+  "Sealed Graffiti | Applause (Cash Green)": {
+    "name": "Sealed Graffiti | Applause (Cash Green)",
+    "nameId": 1074383
+  },
+  "Sealed Graffiti | Applause (Monarch Blue)": {
+    "name": "Sealed Graffiti | Applause (Monarch Blue)",
+    "nameId": 1074334
+  },
+  "Sealed Graffiti | Applause (Monster Purple)": {
+    "name": "Sealed Graffiti | Applause (Monster Purple)",
+    "nameId": 1074659
+  },
+  "Sealed Graffiti | BEEP (Brick Red)": {
+    "name": "Sealed Graffiti | BEEP (Brick Red)",
+    "nameId": 1074255
+  },
+  "Sealed Graffiti | BEEP (Tiger Orange)": {
+    "name": "Sealed Graffiti | BEEP (Tiger Orange)",
+    "nameId": 1074076
+  },
+  "Sealed Graffiti | BEEP (Tracer Yellow)": {
+    "name": "Sealed Graffiti | BEEP (Tracer Yellow)",
+    "nameId": 1074353
+  },
+  "Sealed Graffiti | BEEP (Battle Green)": {
+    "name": "Sealed Graffiti | BEEP (Battle Green)",
+    "nameId": 1073947
+  },
+  "Sealed Graffiti | BOOM (Princess Pink)": {
+    "name": "Sealed Graffiti | BOOM (Princess Pink)",
+    "nameId": 1074413
+  },
+  "Sealed Graffiti | Shining Star (Jungle Green)": {
+    "name": "Sealed Graffiti | Shining Star (Jungle Green)",
+    "nameId": 1074615
+  },
+  "Sealed Graffiti | Shining Star (Frog Green)": {
+    "name": "Sealed Graffiti | Shining Star (Frog Green)",
+    "nameId": 1073995
+  },
+  "Sealed Graffiti | Shining Star (Monster Purple)": {
+    "name": "Sealed Graffiti | Shining Star (Monster Purple)",
+    "nameId": 1074674
+  },
+  "Sealed Graffiti | Shining Star (Princess Pink)": {
+    "name": "Sealed Graffiti | Shining Star (Princess Pink)",
+    "nameId": 1074119
+  },
+  "Sealed Graffiti | Broken Heart (Dust Brown)": {
+    "name": "Sealed Graffiti | Broken Heart (Dust Brown)",
+    "nameId": 1073943
+  },
+  "Sealed Graffiti | Broken Heart (Desert Amber)": {
+    "name": "Sealed Graffiti | Broken Heart (Desert Amber)",
+    "nameId": 1074855
+  },
+  "Sealed Graffiti | Broken Heart (Battle Green)": {
+    "name": "Sealed Graffiti | Broken Heart (Battle Green)",
+    "nameId": 1074173
+  },
+  "Sealed Graffiti | Broken Heart (Jungle Green)": {
+    "name": "Sealed Graffiti | Broken Heart (Jungle Green)",
+    "nameId": 1074298
+  },
+  "Sealed Graffiti | Broken Heart (Violent Violet)": {
+    "name": "Sealed Graffiti | Broken Heart (Violent Violet)",
+    "nameId": 1074045
+  },
+  "Sealed Graffiti | Broken Heart (Bazooka Pink)": {
+    "name": "Sealed Graffiti | Broken Heart (Bazooka Pink)",
+    "nameId": 1074396
+  },
+  "Sealed Graffiti | Denied (Brick Red)": {
+    "name": "Sealed Graffiti | Denied (Brick Red)",
+    "nameId": 1074221
+  },
+  "Sealed Graffiti | Denied (SWAT Blue)": {
+    "name": "Sealed Graffiti | Denied (SWAT Blue)",
+    "nameId": 1073966
+  },
+  "Sealed Graffiti | Denied (War Pig Pink)": {
+    "name": "Sealed Graffiti | Denied (War Pig Pink)",
+    "nameId": 1074250
+  },
+  "Sealed Graffiti | Chef Kiss (Tiger Orange)": {
+    "name": "Sealed Graffiti | Chef Kiss (Tiger Orange)",
+    "nameId": 1074244
+  },
+  "Sealed Graffiti | Chef Kiss (Desert Amber)": {
+    "name": "Sealed Graffiti | Chef Kiss (Desert Amber)",
+    "nameId": 1073964
+  },
+  "Sealed Graffiti | Chef Kiss (Battle Green)": {
+    "name": "Sealed Graffiti | Chef Kiss (Battle Green)",
+    "nameId": 1074670
+  },
+  "Sealed Graffiti | Chef Kiss (Jungle Green)": {
+    "name": "Sealed Graffiti | Chef Kiss (Jungle Green)",
+    "nameId": 1074623
+  },
+  "Sealed Graffiti | Chef Kiss (Cash Green)": {
+    "name": "Sealed Graffiti | Chef Kiss (Cash Green)",
+    "nameId": 1074246
+  },
+  "Sealed Graffiti | Chef Kiss (Wire Blue)": {
+    "name": "Sealed Graffiti | Chef Kiss (Wire Blue)",
+    "nameId": 1073930
+  },
+  "Sealed Graffiti | Chef Kiss (Monarch Blue)": {
+    "name": "Sealed Graffiti | Chef Kiss (Monarch Blue)",
+    "nameId": 1074512
+  },
+  "Sealed Graffiti | Chef Kiss (Monster Purple)": {
+    "name": "Sealed Graffiti | Chef Kiss (Monster Purple)",
+    "nameId": 1074505
+  },
+  "Sealed Graffiti | Little Bock (Desert Amber)": {
+    "name": "Sealed Graffiti | Little Bock (Desert Amber)",
+    "nameId": 1074500
+  },
+  "Sealed Graffiti | Little Bock (Frog Green)": {
+    "name": "Sealed Graffiti | Little Bock (Frog Green)",
+    "nameId": 1073985
+  },
+  "Sealed Graffiti | Little Bock (Cash Green)": {
+    "name": "Sealed Graffiti | Little Bock (Cash Green)",
+    "nameId": 1074403
+  },
+  "Sealed Graffiti | Choke (Brick Red)": {
+    "name": "Sealed Graffiti | Choke (Brick Red)",
+    "nameId": 1074506
+  },
+  "Sealed Graffiti | Choke (Blood Red)": {
+    "name": "Sealed Graffiti | Choke (Blood Red)",
+    "nameId": 1074593
+  },
+  "Sealed Graffiti | Choke (Frog Green)": {
+    "name": "Sealed Graffiti | Choke (Frog Green)",
+    "nameId": 1074564
+  },
+  "Sealed Graffiti | Choke (Violent Violet)": {
+    "name": "Sealed Graffiti | Choke (Violent Violet)",
+    "nameId": 1074059
+  },
+  "Sealed Graffiti | Bock Bock (Brick Red)": {
+    "name": "Sealed Graffiti | Bock Bock (Brick Red)",
+    "nameId": 1074495
+  },
+  "Sealed Graffiti | Bock Bock (Blood Red)": {
+    "name": "Sealed Graffiti | Bock Bock (Blood Red)",
+    "nameId": 1074223
+  },
+  "Sealed Graffiti | Bock Bock (Tracer Yellow)": {
+    "name": "Sealed Graffiti | Bock Bock (Tracer Yellow)",
+    "nameId": 1074548
+  },
+  "Sealed Graffiti | Bock Bock (Frog Green)": {
+    "name": "Sealed Graffiti | Bock Bock (Frog Green)",
+    "nameId": 1074188
+  },
+  "Sealed Graffiti | Bock Bock (Cash Green)": {
+    "name": "Sealed Graffiti | Bock Bock (Cash Green)",
+    "nameId": 1074829
+  },
+  "Sealed Graffiti | Bock Bock (Wire Blue)": {
+    "name": "Sealed Graffiti | Bock Bock (Wire Blue)",
+    "nameId": 1074533
+  },
+  "Sealed Graffiti | Bock Bock (War Pig Pink)": {
+    "name": "Sealed Graffiti | Bock Bock (War Pig Pink)",
+    "nameId": 1073940
+  },
+  "Sealed Graffiti | Dead Now (Blood Red)": {
+    "name": "Sealed Graffiti | Dead Now (Blood Red)",
+    "nameId": 1074422
+  },
+  "Sealed Graffiti | Dead Now (Jungle Green)": {
+    "name": "Sealed Graffiti | Dead Now (Jungle Green)",
+    "nameId": 1074494
+  },
+  "Sealed Graffiti | Fart (Blood Red)": {
+    "name": "Sealed Graffiti | Fart (Blood Red)",
+    "nameId": 1074067
+  },
+  "Sealed Graffiti | Fart (Dust Brown)": {
+    "name": "Sealed Graffiti | Fart (Dust Brown)",
+    "nameId": 1074459
+  },
+  "Sealed Graffiti | Fart (Cash Green)": {
+    "name": "Sealed Graffiti | Fart (Cash Green)",
+    "nameId": 1074321
+  },
+  "Sealed Graffiti | Fart (War Pig Pink)": {
+    "name": "Sealed Graffiti | Fart (War Pig Pink)",
+    "nameId": 1074118
+  },
+  "Sealed Graffiti | Fart (Shark White)": {
+    "name": "Sealed Graffiti | Fart (Shark White)",
+    "nameId": 1074541
+  },
+  "Sealed Graffiti | Goofy (Blood Red)": {
+    "name": "Sealed Graffiti | Goofy (Blood Red)",
+    "nameId": 1074767
+  },
+  "Sealed Graffiti | Grimace (Blood Red)": {
+    "name": "Sealed Graffiti | Grimace (Blood Red)",
+    "nameId": 1074196
+  },
+  "Sealed Graffiti | Grimace (Dust Brown)": {
+    "name": "Sealed Graffiti | Grimace (Dust Brown)",
+    "nameId": 1074460
+  },
+  "Sealed Graffiti | Grimace (Jungle Green)": {
+    "name": "Sealed Graffiti | Grimace (Jungle Green)",
+    "nameId": 1074702
+  },
+  "Sealed Graffiti | Grimace (Frog Green)": {
+    "name": "Sealed Graffiti | Grimace (Frog Green)",
+    "nameId": 1074521
   }
 }
