@@ -44078,5 +44078,2005 @@
   "★ Gut Knife | Night (Field-Tested)": {
     "name": "★ Gut Knife | Night (Field-Tested)",
     "nameId": 18
+  },
+  "Desert Eagle | Corinthian (Field-Tested)": {
+    "name": "Desert Eagle | Corinthian (Field-Tested)",
+    "nameId": 1081
+  },
+  "Desert Eagle | Oxide Blaze (Field-Tested)": {
+    "name": "Desert Eagle | Oxide Blaze (Field-Tested)",
+    "nameId": 2257
+  },
+  "Desert Eagle | Emerald Jörmungandr (Well-Worn)": {
+    "name": "Desert Eagle | Emerald Jörmungandr (Well-Worn)",
+    "nameId": 1074969
+  },
+  "Desert Eagle | Emerald Jörmungandr (Battle-Scarred)": {
+    "name": "Desert Eagle | Emerald Jörmungandr (Battle-Scarred)",
+    "nameId": 1075063
+  },
+  "Desert Eagle | Starcade (Well-Worn)": {
+    "name": "Desert Eagle | Starcade (Well-Worn)",
+    "nameId": 2598199
+  },
+  "Desert Eagle | Blue Ply (Field-Tested)": {
+    "name": "Desert Eagle | Blue Ply (Field-Tested)",
+    "nameId": 1079398
+  },
+  "Desert Eagle | Night Heist (Battle-Scarred)": {
+    "name": "Desert Eagle | Night Heist (Battle-Scarred)",
+    "nameId": 1083640
+  },
+  "P90 | Cold Blooded (Factory New)": {
+    "name": "P90 | Cold Blooded (Factory New)",
+    "nameId": 8779
+  },
+  "P90 | Cold Blooded (Minimal Wear)": {
+    "name": "P90 | Cold Blooded (Minimal Wear)",
+    "nameId": 3333
+  },
+  "StatTrak™ P90 | Cold Blooded (Factory New)": {
+    "name": "StatTrak™ P90 | Cold Blooded (Factory New)",
+    "nameId": 4155
+  },
+  "P90 | Storm (Factory New)": {
+    "name": "P90 | Storm (Factory New)",
+    "nameId": 1346
+  },
+  "P90 | Storm (Minimal Wear)": {
+    "name": "P90 | Storm (Minimal Wear)",
+    "nameId": 4804
+  },
+  "P90 | Storm (Field-Tested)": {
+    "name": "P90 | Storm (Field-Tested)",
+    "nameId": 12114
+  },
+  "P90 | Storm (Well-Worn)": {
+    "name": "P90 | Storm (Well-Worn)",
+    "nameId": 13245
+  },
+  "StatTrak™ P90 | Asiimov (Factory New)": {
+    "name": "StatTrak™ P90 | Asiimov (Factory New)",
+    "nameId": 2128
+  },
+  "StatTrak™ P90 | Asiimov (Minimal Wear)": {
+    "name": "StatTrak™ P90 | Asiimov (Minimal Wear)",
+    "nameId": 9277
+  },
+  "StatTrak™ P90 | Asiimov (Field-Tested)": {
+    "name": "StatTrak™ P90 | Asiimov (Field-Tested)",
+    "nameId": 351
+  },
+  "StatTrak™ P90 | Asiimov (Well-Worn)": {
+    "name": "StatTrak™ P90 | Asiimov (Well-Worn)",
+    "nameId": 7054
+  },
+  "StatTrak™ P90 | Asiimov (Battle-Scarred)": {
+    "name": "StatTrak™ P90 | Asiimov (Battle-Scarred)",
+    "nameId": 157
+  },
+  "P90 | Elite Build (Factory New)": {
+    "name": "P90 | Elite Build (Factory New)",
+    "nameId": 12678
+  },
+  "P90 | Elite Build (Minimal Wear)": {
+    "name": "P90 | Elite Build (Minimal Wear)",
+    "nameId": 7284
+  },
+  "P90 | Elite Build (Field-Tested)": {
+    "name": "P90 | Elite Build (Field-Tested)",
+    "nameId": 309
+  },
+  "P90 | Elite Build (Well-Worn)": {
+    "name": "P90 | Elite Build (Well-Worn)",
+    "nameId": 1048
+  },
+  "P90 | Elite Build (Battle-Scarred)": {
+    "name": "P90 | Elite Build (Battle-Scarred)",
+    "nameId": 6696
+  },
+  "StatTrak™ P90 | Shapewood (Minimal Wear)": {
+    "name": "StatTrak™ P90 | Shapewood (Minimal Wear)",
+    "nameId": 3636
+  },
+  "StatTrak™ P90 | Shapewood (Field-Tested)": {
+    "name": "StatTrak™ P90 | Shapewood (Field-Tested)",
+    "nameId": 2413
+  },
+  "P90 | Death Grip (Minimal Wear)": {
+    "name": "P90 | Death Grip (Minimal Wear)",
+    "nameId": 1794
+  },
+  "P90 | Death Grip (Field-Tested)": {
+    "name": "P90 | Death Grip (Field-Tested)",
+    "nameId": 3031
+  },
+  "P90 | Death Grip (Well-Worn)": {
+    "name": "P90 | Death Grip (Well-Worn)",
+    "nameId": 252
+  },
+  "P90 | Death Grip (Battle-Scarred)": {
+    "name": "P90 | Death Grip (Battle-Scarred)",
+    "nameId": 1522
+  },
+  "StatTrak™ P90 | Death Grip (Well-Worn)": {
+    "name": "StatTrak™ P90 | Death Grip (Well-Worn)",
+    "nameId": 7703
+  },
+  "StatTrak™ P90 | Death Grip (Battle-Scarred)": {
+    "name": "StatTrak™ P90 | Death Grip (Battle-Scarred)",
+    "nameId": 2711
+  },
+  "P90 | Traction (Factory New)": {
+    "name": "P90 | Traction (Factory New)",
+    "nameId": 38480
+  },
+  "P90 | Traction (Minimal Wear)": {
+    "name": "P90 | Traction (Minimal Wear)",
+    "nameId": 38439
+  },
+  "P90 | Traction (Field-Tested)": {
+    "name": "P90 | Traction (Field-Tested)",
+    "nameId": 38460
+  },
+  "P90 | Traction (Well-Worn)": {
+    "name": "P90 | Traction (Well-Worn)",
+    "nameId": 38476
+  },
+  "P90 | Traction (Battle-Scarred)": {
+    "name": "P90 | Traction (Battle-Scarred)",
+    "nameId": 38489
+  },
+  "StatTrak™ P90 | Traction (Minimal Wear)": {
+    "name": "StatTrak™ P90 | Traction (Minimal Wear)",
+    "nameId": 38484
+  },
+  "StatTrak™ P90 | Traction (Field-Tested)": {
+    "name": "StatTrak™ P90 | Traction (Field-Tested)",
+    "nameId": 38472
+  },
+  "P90 | Sunset Lily (Well-Worn)": {
+    "name": "P90 | Sunset Lily (Well-Worn)",
+    "nameId": 1074806
+  },
+  "P90 | Sunset Lily (Battle-Scarred)": {
+    "name": "P90 | Sunset Lily (Battle-Scarred)",
+    "nameId": 1074946
+  },
+  "P90 | Baroque Red (Minimal Wear)": {
+    "name": "P90 | Baroque Red (Minimal Wear)",
+    "nameId": 1074911
+  },
+  "P90 | Baroque Red (Field-Tested)": {
+    "name": "P90 | Baroque Red (Field-Tested)",
+    "nameId": 1074454
+  },
+  "P90 | Baroque Red (Well-Worn)": {
+    "name": "P90 | Baroque Red (Well-Worn)",
+    "nameId": 1075001
+  },
+  "P90 | Baroque Red (Battle-Scarred)": {
+    "name": "P90 | Baroque Red (Battle-Scarred)",
+    "nameId": 1075076
+  },
+  "P90 | Astral Jörmungandr (Factory New)": {
+    "name": "P90 | Astral Jörmungandr (Factory New)",
+    "nameId": 1074897
+  },
+  "P90 | Astral Jörmungandr (Minimal Wear)": {
+    "name": "P90 | Astral Jörmungandr (Minimal Wear)",
+    "nameId": 1074899
+  },
+  "P90 | Astral Jörmungandr (Field-Tested)": {
+    "name": "P90 | Astral Jörmungandr (Field-Tested)",
+    "nameId": 1074928
+  },
+  "P90 | Astral Jörmungandr (Well-Worn)": {
+    "name": "P90 | Astral Jörmungandr (Well-Worn)",
+    "nameId": 1075180
+  },
+  "P90 | Astral Jörmungandr (Battle-Scarred)": {
+    "name": "P90 | Astral Jörmungandr (Battle-Scarred)",
+    "nameId": 1075108
+  },
+  "PP-Bizon | Photic Zone (Minimal Wear)": {
+    "name": "PP-Bizon | Photic Zone (Minimal Wear)",
+    "nameId": 4891
+  },
+  "PP-Bizon | Photic Zone (Field-Tested)": {
+    "name": "PP-Bizon | Photic Zone (Field-Tested)",
+    "nameId": 8598
+  },
+  "PP-Bizon | Photic Zone (Well-Worn)": {
+    "name": "PP-Bizon | Photic Zone (Well-Worn)",
+    "nameId": 4928
+  },
+  "PP-Bizon | Photic Zone (Battle-Scarred)": {
+    "name": "PP-Bizon | Photic Zone (Battle-Scarred)",
+    "nameId": 6698
+  },
+  "StatTrak™ PP-Bizon | Photic Zone (Factory New)": {
+    "name": "StatTrak™ PP-Bizon | Photic Zone (Factory New)",
+    "nameId": 2703
+  },
+  "StatTrak™ PP-Bizon | Photic Zone (Minimal Wear)": {
+    "name": "StatTrak™ PP-Bizon | Photic Zone (Minimal Wear)",
+    "nameId": 3006
+  },
+  "StatTrak™ PP-Bizon | Photic Zone (Field-Tested)": {
+    "name": "StatTrak™ PP-Bizon | Photic Zone (Field-Tested)",
+    "nameId": 9045
+  },
+  "StatTrak™ PP-Bizon | Photic Zone (Well-Worn)": {
+    "name": "StatTrak™ PP-Bizon | Photic Zone (Well-Worn)",
+    "nameId": 250
+  },
+  "StatTrak™ PP-Bizon | Photic Zone (Battle-Scarred)": {
+    "name": "StatTrak™ PP-Bizon | Photic Zone (Battle-Scarred)",
+    "nameId": 425
+  },
+  "PP-Bizon | Judgement of Anubis (Factory New)": {
+    "name": "PP-Bizon | Judgement of Anubis (Factory New)",
+    "nameId": 1302
+  },
+  "PP-Bizon | Judgement of Anubis (Minimal Wear)": {
+    "name": "PP-Bizon | Judgement of Anubis (Minimal Wear)",
+    "nameId": 8725
+  },
+  "PP-Bizon | Judgement of Anubis (Field-Tested)": {
+    "name": "PP-Bizon | Judgement of Anubis (Field-Tested)",
+    "nameId": 3282
+  },
+  "Sawed-Off | Brake Light (Minimal Wear)": {
+    "name": "Sawed-Off | Brake Light (Minimal Wear)",
+    "nameId": 170573
+  },
+  "Souvenir Sawed-Off | Brake Light (Factory New)": {
+    "name": "Souvenir Sawed-Off | Brake Light (Factory New)",
+    "nameId": 168801
+  },
+  "Sawed-Off | Black Sand (Factory New)": {
+    "name": "Sawed-Off | Black Sand (Factory New)",
+    "nameId": 171534
+  },
+  "Sawed-Off | Black Sand (Minimal Wear)": {
+    "name": "Sawed-Off | Black Sand (Minimal Wear)",
+    "nameId": 171446
+  },
+  "Sawed-Off | Black Sand (Field-Tested)": {
+    "name": "Sawed-Off | Black Sand (Field-Tested)",
+    "nameId": 171437
+  },
+  "Sawed-Off | Black Sand (Well-Worn)": {
+    "name": "Sawed-Off | Black Sand (Well-Worn)",
+    "nameId": 171457
+  },
+  "Sawed-Off | Black Sand (Battle-Scarred)": {
+    "name": "Sawed-Off | Black Sand (Battle-Scarred)",
+    "nameId": 171436
+  },
+  "StatTrak™ Sawed-Off | Black Sand (Factory New)": {
+    "name": "StatTrak™ Sawed-Off | Black Sand (Factory New)",
+    "nameId": 171584
+  },
+  "StatTrak™ Sawed-Off | Black Sand (Minimal Wear)": {
+    "name": "StatTrak™ Sawed-Off | Black Sand (Minimal Wear)",
+    "nameId": 171476
+  },
+  "StatTrak™ Sawed-Off | Black Sand (Field-Tested)": {
+    "name": "StatTrak™ Sawed-Off | Black Sand (Field-Tested)",
+    "nameId": 171441
+  },
+  "StatTrak™ Sawed-Off | Black Sand (Well-Worn)": {
+    "name": "StatTrak™ Sawed-Off | Black Sand (Well-Worn)",
+    "nameId": 171538
+  },
+  "StatTrak™ Sawed-Off | Black Sand (Battle-Scarred)": {
+    "name": "StatTrak™ Sawed-Off | Black Sand (Battle-Scarred)",
+    "nameId": 171579
+  },
+  "Sawed-Off | Jungle Thicket (Factory New)": {
+    "name": "Sawed-Off | Jungle Thicket (Factory New)",
+    "nameId": 1073918
+  },
+  "Sawed-Off | Jungle Thicket (Minimal Wear)": {
+    "name": "Sawed-Off | Jungle Thicket (Minimal Wear)",
+    "nameId": 1073927
+  },
+  "Sawed-Off | Jungle Thicket (Field-Tested)": {
+    "name": "Sawed-Off | Jungle Thicket (Field-Tested)",
+    "nameId": 1073981
+  },
+  "Sawed-Off | Jungle Thicket (Well-Worn)": {
+    "name": "Sawed-Off | Jungle Thicket (Well-Worn)",
+    "nameId": 1074846
+  },
+  "Sawed-Off | Jungle Thicket (Battle-Scarred)": {
+    "name": "Sawed-Off | Jungle Thicket (Battle-Scarred)",
+    "nameId": 1074912
+  },
+  "Sawed-Off | Parched (Factory New)": {
+    "name": "Sawed-Off | Parched (Factory New)",
+    "nameId": 1086851
+  },
+  "Sawed-Off | Parched (Minimal Wear)": {
+    "name": "Sawed-Off | Parched (Minimal Wear)",
+    "nameId": 1086821
+  },
+  "Sawed-Off | Parched (Field-Tested)": {
+    "name": "Sawed-Off | Parched (Field-Tested)",
+    "nameId": 1086899
+  },
+  "Sawed-Off | Parched (Well-Worn)": {
+    "name": "Sawed-Off | Parched (Well-Worn)",
+    "nameId": 1087068
+  },
+  "Sawed-Off | Parched (Battle-Scarred)": {
+    "name": "Sawed-Off | Parched (Battle-Scarred)",
+    "nameId": 1087092
+  },
+  "Sawed-Off | Apocalypto (Factory New)": {
+    "name": "Sawed-Off | Apocalypto (Factory New)",
+    "nameId": 1079496
+  },
+  "Sawed-Off | Apocalypto (Minimal Wear)": {
+    "name": "Sawed-Off | Apocalypto (Minimal Wear)",
+    "nameId": 1079469
+  },
+  "StatTrak™ MP9 | Sand Scale (Well-Worn)": {
+    "name": "StatTrak™ MP9 | Sand Scale (Well-Worn)",
+    "nameId": 1490
+  },
+  "MP9 | Goo (Factory New)": {
+    "name": "MP9 | Goo (Factory New)",
+    "nameId": 3233
+  },
+  "MP9 | Goo (Minimal Wear)": {
+    "name": "MP9 | Goo (Minimal Wear)",
+    "nameId": 372
+  },
+  "MP9 | Goo (Field-Tested)": {
+    "name": "MP9 | Goo (Field-Tested)",
+    "nameId": 884
+  },
+  "MP9 | Goo (Well-Worn)": {
+    "name": "MP9 | Goo (Well-Worn)",
+    "nameId": 4878
+  },
+  "MP9 | Goo (Battle-Scarred)": {
+    "name": "MP9 | Goo (Battle-Scarred)",
+    "nameId": 1440
+  },
+  "StatTrak™ MP9 | Goo (Factory New)": {
+    "name": "StatTrak™ MP9 | Goo (Factory New)",
+    "nameId": 9262
+  },
+  "StatTrak™ MP9 | Goo (Minimal Wear)": {
+    "name": "StatTrak™ MP9 | Goo (Minimal Wear)",
+    "nameId": 9548
+  },
+  "StatTrak™ MP9 | Goo (Field-Tested)": {
+    "name": "StatTrak™ MP9 | Goo (Field-Tested)",
+    "nameId": 7746
+  },
+  "StatTrak™ MP9 | Goo (Well-Worn)": {
+    "name": "StatTrak™ MP9 | Goo (Well-Worn)",
+    "nameId": 13684
+  },
+  "StatTrak™ SCAR-20 | Fragments (Field-Tested)": {
+    "name": "StatTrak™ SCAR-20 | Fragments (Field-Tested)",
+    "nameId": 1159418
+  },
+  "StatTrak™ SCAR-20 | Fragments (Well-Worn)": {
+    "name": "StatTrak™ SCAR-20 | Fragments (Well-Worn)",
+    "nameId": 1164927
+  },
+  "StatTrak™ SCAR-20 | Fragments (Battle-Scarred)": {
+    "name": "StatTrak™ SCAR-20 | Fragments (Battle-Scarred)",
+    "nameId": 1159781
+  },
+  "SG 553 | Anodized Navy (Factory New)": {
+    "name": "SG 553 | Anodized Navy (Factory New)",
+    "nameId": 3770
+  },
+  "SG 553 | Anodized Navy (Minimal Wear)": {
+    "name": "SG 553 | Anodized Navy (Minimal Wear)",
+    "nameId": 9639
+  },
+  "SG 553 | Bulldozer (Factory New)": {
+    "name": "SG 553 | Bulldozer (Factory New)",
+    "nameId": 2096
+  },
+  "SG 553 | Bulldozer (Minimal Wear)": {
+    "name": "SG 553 | Bulldozer (Minimal Wear)",
+    "nameId": 12613
+  },
+  "SG 553 | Bulldozer (Field-Tested)": {
+    "name": "SG 553 | Bulldozer (Field-Tested)",
+    "nameId": 10445
+  },
+  "SG 553 | Bulldozer (Well-Worn)": {
+    "name": "SG 553 | Bulldozer (Well-Worn)",
+    "nameId": 1880
+  },
+  "SG 553 | Bulldozer (Battle-Scarred)": {
+    "name": "SG 553 | Bulldozer (Battle-Scarred)",
+    "nameId": 3085
+  },
+  "SG 553 | Hypnotic (Factory New)": {
+    "name": "SG 553 | Hypnotic (Factory New)",
+    "nameId": 1083639
+  },
+  "SG 553 | Hypnotic (Minimal Wear)": {
+    "name": "SG 553 | Hypnotic (Minimal Wear)",
+    "nameId": 1084020
+  },
+  "SG 553 | Ultraviolet (Factory New)": {
+    "name": "SG 553 | Ultraviolet (Factory New)",
+    "nameId": 3060
+  },
+  "SG 553 | Ultraviolet (Minimal Wear)": {
+    "name": "SG 553 | Ultraviolet (Minimal Wear)",
+    "nameId": 1068
+  },
+  "SG 553 | Ultraviolet (Field-Tested)": {
+    "name": "SG 553 | Ultraviolet (Field-Tested)",
+    "nameId": 10177
+  },
+  "SG 553 | Ultraviolet (Well-Worn)": {
+    "name": "SG 553 | Ultraviolet (Well-Worn)",
+    "nameId": 7230
+  },
+  "SG 553 | Ultraviolet (Battle-Scarred)": {
+    "name": "SG 553 | Ultraviolet (Battle-Scarred)",
+    "nameId": 3902
+  },
+  "StatTrak™ SG 553 | Ultraviolet (Minimal Wear)": {
+    "name": "StatTrak™ SG 553 | Ultraviolet (Minimal Wear)",
+    "nameId": 4057
+  },
+  "StatTrak™ SG 553 | Ultraviolet (Field-Tested)": {
+    "name": "StatTrak™ SG 553 | Ultraviolet (Field-Tested)",
+    "nameId": 2034
+  },
+  "StatTrak™ SG 553 | Ultraviolet (Well-Worn)": {
+    "name": "StatTrak™ SG 553 | Ultraviolet (Well-Worn)",
+    "nameId": 4935
+  },
+  "SG 553 | Tornado (Battle-Scarred)": {
+    "name": "SG 553 | Tornado (Battle-Scarred)",
+    "nameId": 19154
+  },
+  "SG 553 | Waves Perforated (Well-Worn)": {
+    "name": "SG 553 | Waves Perforated (Well-Worn)",
+    "nameId": 7602
+  },
+  "SG 553 | Waves Perforated (Battle-Scarred)": {
+    "name": "SG 553 | Waves Perforated (Battle-Scarred)",
+    "nameId": 7088
+  },
+  "StatTrak™ SSG 08 | Mainframe 001 (Minimal Wear)": {
+    "name": "StatTrak™ SSG 08 | Mainframe 001 (Minimal Wear)",
+    "nameId": 1081382
+  },
+  "StatTrak™ SSG 08 | Mainframe 001 (Field-Tested)": {
+    "name": "StatTrak™ SSG 08 | Mainframe 001 (Field-Tested)",
+    "nameId": 1081443
+  },
+  "StatTrak™ SSG 08 | Mainframe 001 (Well-Worn)": {
+    "name": "StatTrak™ SSG 08 | Mainframe 001 (Well-Worn)",
+    "nameId": 1081403
+  },
+  "StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred)": {
+    "name": "StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred)",
+    "nameId": 1081429
+  },
+  "SSG 08 | Parallax (Factory New)": {
+    "name": "SSG 08 | Parallax (Factory New)",
+    "nameId": 1083653
+  },
+  "SSG 08 | Parallax (Minimal Wear)": {
+    "name": "SSG 08 | Parallax (Minimal Wear)",
+    "nameId": 1083610
+  },
+  "SSG 08 | Threat Detected (Battle-Scarred)": {
+    "name": "SSG 08 | Threat Detected (Battle-Scarred)",
+    "nameId": 1083621
+  },
+  "SSG 08 | Death Strike (Factory New)": {
+    "name": "SSG 08 | Death Strike (Factory New)",
+    "nameId": 1087489
+  },
+  "SSG 08 | Death Strike (Minimal Wear)": {
+    "name": "SSG 08 | Death Strike (Minimal Wear)",
+    "nameId": 1087366
+  },
+  "SSG 08 | Death Strike (Field-Tested)": {
+    "name": "SSG 08 | Death Strike (Field-Tested)",
+    "nameId": 1087262
+  },
+  "★ Classic Knife | Night Stripe (Factory New)": {
+    "name": "★ Classic Knife | Night Stripe (Factory New)",
+    "nameId": 1073843
+  },
+  "★ Classic Knife | Night Stripe (Minimal Wear)": {
+    "name": "★ Classic Knife | Night Stripe (Minimal Wear)",
+    "nameId": 1073330
+  },
+  "★ Classic Knife | Night Stripe (Field-Tested)": {
+    "name": "★ Classic Knife | Night Stripe (Field-Tested)",
+    "nameId": 1073258
+  },
+  "★ Classic Knife | Night Stripe (Well-Worn)": {
+    "name": "★ Classic Knife | Night Stripe (Well-Worn)",
+    "nameId": 1073408
+  },
+  "★ Classic Knife | Night Stripe (Battle-Scarred)": {
+    "name": "★ Classic Knife | Night Stripe (Battle-Scarred)",
+    "nameId": 1073318
+  },
+  "★ StatTrak™ Classic Knife | Night Stripe (Field-Tested)": {
+    "name": "★ StatTrak™ Classic Knife | Night Stripe (Field-Tested)",
+    "nameId": 1073250
+  },
+  "★ Flip Knife | Forest DDPAT (Factory New)": {
+    "name": "★ Flip Knife | Forest DDPAT (Factory New)",
+    "nameId": 27090
+  },
+  "★ Flip Knife | Forest DDPAT (Minimal Wear)": {
+    "name": "★ Flip Knife | Forest DDPAT (Minimal Wear)",
+    "nameId": 1242
+  },
+  "★ Flip Knife | Forest DDPAT (Field-Tested)": {
+    "name": "★ Flip Knife | Forest DDPAT (Field-Tested)",
+    "nameId": 1679
+  },
+  "★ Flip Knife | Forest DDPAT (Well-Worn)": {
+    "name": "★ Flip Knife | Forest DDPAT (Well-Worn)",
+    "nameId": 3641
+  },
+  "★ Flip Knife | Forest DDPAT (Battle-Scarred)": {
+    "name": "★ Flip Knife | Forest DDPAT (Battle-Scarred)",
+    "nameId": 3633
+  },
+  "★ Gut Knife | Marble Fade (Factory New)": {
+    "name": "★ Gut Knife | Marble Fade (Factory New)",
+    "nameId": 11158
+  },
+  "★ Gut Knife | Marble Fade (Minimal Wear)": {
+    "name": "★ Gut Knife | Marble Fade (Minimal Wear)",
+    "nameId": 724
+  },
+  "★ StatTrak™ Gut Knife | Marble Fade (Factory New)": {
+    "name": "★ StatTrak™ Gut Knife | Marble Fade (Factory New)",
+    "nameId": 2879
+  },
+  "★ Gut Knife | Rust Coat (Battle-Scarred)": {
+    "name": "★ Gut Knife | Rust Coat (Battle-Scarred)",
+    "nameId": 14348
+  },
+  "★ Shadow Daggers | Forest DDPAT (Field-Tested)": {
+    "name": "★ Shadow Daggers | Forest DDPAT (Field-Tested)",
+    "nameId": 7095
+  },
+  "★ Shadow Daggers | Forest DDPAT (Well-Worn)": {
+    "name": "★ Shadow Daggers | Forest DDPAT (Well-Worn)",
+    "nameId": 5430
+  },
+  "★ Shadow Daggers | Forest DDPAT (Battle-Scarred)": {
+    "name": "★ Shadow Daggers | Forest DDPAT (Battle-Scarred)",
+    "nameId": 2019
+  },
+  "★ Shadow Daggers | Crimson Web (Factory New)": {
+    "name": "★ Shadow Daggers | Crimson Web (Factory New)",
+    "nameId": 1493
+  },
+  "★ Shadow Daggers | Crimson Web (Minimal Wear)": {
+    "name": "★ Shadow Daggers | Crimson Web (Minimal Wear)",
+    "nameId": 206
+  },
+  "★ Shadow Daggers | Crimson Web (Field-Tested)": {
+    "name": "★ Shadow Daggers | Crimson Web (Field-Tested)",
+    "nameId": 9552
+  },
+  "★ Shadow Daggers | Crimson Web (Well-Worn)": {
+    "name": "★ Shadow Daggers | Crimson Web (Well-Worn)",
+    "nameId": 13103
+  },
+  "★ Shadow Daggers | Crimson Web (Battle-Scarred)": {
+    "name": "★ Shadow Daggers | Crimson Web (Battle-Scarred)",
+    "nameId": 3470
+  },
+  "★ Shadow Daggers | Fade (Factory New)": {
+    "name": "★ Shadow Daggers | Fade (Factory New)",
+    "nameId": 9647
+  },
+  "★ Shadow Daggers | Fade (Minimal Wear)": {
+    "name": "★ Shadow Daggers | Fade (Minimal Wear)",
+    "nameId": 4021
+  },
+  "★ Shadow Daggers | Night (Factory New)": {
+    "name": "★ Shadow Daggers | Night (Factory New)",
+    "nameId": 21987
+  },
+  "★ Shadow Daggers | Night (Minimal Wear)": {
+    "name": "★ Shadow Daggers | Night (Minimal Wear)",
+    "nameId": 2286
+  },
+  "★ Shadow Daggers | Night (Field-Tested)": {
+    "name": "★ Shadow Daggers | Night (Field-Tested)",
+    "nameId": 312
+  },
+  "★ Shadow Daggers | Night (Well-Worn)": {
+    "name": "★ Shadow Daggers | Night (Well-Worn)",
+    "nameId": 1496
+  },
+  "★ Shadow Daggers | Night (Battle-Scarred)": {
+    "name": "★ Shadow Daggers | Night (Battle-Scarred)",
+    "nameId": 3957
+  },
+  "★ StatTrak™ Shadow Daggers | Night (Well-Worn)": {
+    "name": "★ StatTrak™ Shadow Daggers | Night (Well-Worn)",
+    "nameId": 21391
+  },
+  "★ Shadow Daggers | Blue Steel (Factory New)": {
+    "name": "★ Shadow Daggers | Blue Steel (Factory New)",
+    "nameId": 4133
+  },
+  "★ Shadow Daggers | Blue Steel (Minimal Wear)": {
+    "name": "★ Shadow Daggers | Blue Steel (Minimal Wear)",
+    "nameId": 3501
+  },
+  "★ Shadow Daggers | Blue Steel (Field-Tested)": {
+    "name": "★ Shadow Daggers | Blue Steel (Field-Tested)",
+    "nameId": 13650
+  },
+  "★ Shadow Daggers | Blue Steel (Well-Worn)": {
+    "name": "★ Shadow Daggers | Blue Steel (Well-Worn)",
+    "nameId": 14954
+  },
+  "★ Shadow Daggers | Blue Steel (Battle-Scarred)": {
+    "name": "★ Shadow Daggers | Blue Steel (Battle-Scarred)",
+    "nameId": 335
+  },
+  "★ Shadow Daggers | Stained (Factory New)": {
+    "name": "★ Shadow Daggers | Stained (Factory New)",
+    "nameId": 3620
+  },
+  "★ Shadow Daggers | Stained (Minimal Wear)": {
+    "name": "★ Shadow Daggers | Stained (Minimal Wear)",
+    "nameId": 1355
+  },
+  "★ Shadow Daggers | Stained (Field-Tested)": {
+    "name": "★ Shadow Daggers | Stained (Field-Tested)",
+    "nameId": 4010
+  },
+  "★ Shadow Daggers | Stained (Well-Worn)": {
+    "name": "★ Shadow Daggers | Stained (Well-Worn)",
+    "nameId": 1742
+  },
+  "★ Shadow Daggers | Stained (Battle-Scarred)": {
+    "name": "★ Shadow Daggers | Stained (Battle-Scarred)",
+    "nameId": 13400
+  },
+  "★ Shadow Daggers | Case Hardened (Factory New)": {
+    "name": "★ Shadow Daggers | Case Hardened (Factory New)",
+    "nameId": 300
+  },
+  "★ Shadow Daggers | Case Hardened (Minimal Wear)": {
+    "name": "★ Shadow Daggers | Case Hardened (Minimal Wear)",
+    "nameId": 1874
+  },
+  "★ Shadow Daggers | Case Hardened (Field-Tested)": {
+    "name": "★ Shadow Daggers | Case Hardened (Field-Tested)",
+    "nameId": 13641
+  },
+  "★ Shadow Daggers | Case Hardened (Well-Worn)": {
+    "name": "★ Shadow Daggers | Case Hardened (Well-Worn)",
+    "nameId": 12966
+  },
+  "★ Shadow Daggers | Case Hardened (Battle-Scarred)": {
+    "name": "★ Shadow Daggers | Case Hardened (Battle-Scarred)",
+    "nameId": 2007
+  },
+  "★ Shadow Daggers | Slaughter (Factory New)": {
+    "name": "★ Shadow Daggers | Slaughter (Factory New)",
+    "nameId": 9561
+  },
+  "★ Shadow Daggers | Slaughter (Minimal Wear)": {
+    "name": "★ Shadow Daggers | Slaughter (Minimal Wear)",
+    "nameId": 14977
+  },
+  "★ Shadow Daggers | Slaughter (Field-Tested)": {
+    "name": "★ Shadow Daggers | Slaughter (Field-Tested)",
+    "nameId": 11105
+  },
+  "★ Shadow Daggers | Safari Mesh (Factory New)": {
+    "name": "★ Shadow Daggers | Safari Mesh (Factory New)",
+    "nameId": 27162
+  },
+  "★ Shadow Daggers | Safari Mesh (Minimal Wear)": {
+    "name": "★ Shadow Daggers | Safari Mesh (Minimal Wear)",
+    "nameId": 1993
+  },
+  "★ Shadow Daggers | Safari Mesh (Field-Tested)": {
+    "name": "★ Shadow Daggers | Safari Mesh (Field-Tested)",
+    "nameId": 9359
+  },
+  "★ Kukri Knife | Urban Masked (Minimal Wear)": {
+    "name": "★ Kukri Knife | Urban Masked (Minimal Wear)",
+    "nameId": 2543983
+  },
+  "★ Kukri Knife | Urban Masked (Field-Tested)": {
+    "name": "★ Kukri Knife | Urban Masked (Field-Tested)",
+    "nameId": 2522683
+  },
+  "★ Kukri Knife | Urban Masked (Well-Worn)": {
+    "name": "★ Kukri Knife | Urban Masked (Well-Worn)",
+    "nameId": 2523701
+  },
+  "★ Kukri Knife | Urban Masked (Battle-Scarred)": {
+    "name": "★ Kukri Knife | Urban Masked (Battle-Scarred)",
+    "nameId": 2535341
+  },
+  "★ StatTrak™ Kukri Knife | Urban Masked (Minimal Wear)": {
+    "name": "★ StatTrak™ Kukri Knife | Urban Masked (Minimal Wear)",
+    "nameId": 2547545
+  },
+  "★ StatTrak™ Kukri Knife | Urban Masked (Field-Tested)": {
+    "name": "★ StatTrak™ Kukri Knife | Urban Masked (Field-Tested)",
+    "nameId": 2540873
+  },
+  "Sticker | Counter Logic Gaming (Foil) | Katowice 2015": {
+    "name": "Sticker | Counter Logic Gaming (Foil) | Katowice 2015",
+    "nameId": 13701
+  },
+  "Sticker | ESL One (Foil) | Katowice 2015": {
+    "name": "Sticker | ESL One (Foil) | Katowice 2015",
+    "nameId": 14475
+  },
+  "Sticker | Flipsid3 Tactics | Katowice 2015": {
+    "name": "Sticker | Flipsid3 Tactics | Katowice 2015",
+    "nameId": 3388
+  },
+  "Sticker | Flipsid3 Tactics (Holo) | Katowice 2015": {
+    "name": "Sticker | Flipsid3 Tactics (Holo) | Katowice 2015",
+    "nameId": 19188
+  },
+  "Sticker | Flipsid3 Tactics (Foil) | Katowice 2015": {
+    "name": "Sticker | Flipsid3 Tactics (Foil) | Katowice 2015",
+    "nameId": 13718
+  },
+  "Sticker | Fnatic | Katowice 2015": {
+    "name": "Sticker | Fnatic | Katowice 2015",
+    "nameId": 1869
+  },
+  "Sticker | Fnatic (Holo) | Katowice 2015": {
+    "name": "Sticker | Fnatic (Holo) | Katowice 2015",
+    "nameId": 14470
+  },
+  "Sticker | Fnatic (Foil) | Katowice 2015": {
+    "name": "Sticker | Fnatic (Foil) | Katowice 2015",
+    "nameId": 13713
+  },
+  "Sticker | HellRaisers | Katowice 2015": {
+    "name": "Sticker | HellRaisers | Katowice 2015",
+    "nameId": 2701
+  },
+  "Sticker | HellRaisers (Holo) | Katowice 2015": {
+    "name": "Sticker | HellRaisers (Holo) | Katowice 2015",
+    "nameId": 16017
+  },
+  "Sticker | HellRaisers (Foil) | Katowice 2015": {
+    "name": "Sticker | HellRaisers (Foil) | Katowice 2015",
+    "nameId": 9333
+  },
+  "Sticker | Keyd Stars | Katowice 2015": {
+    "name": "Sticker | Keyd Stars | Katowice 2015",
+    "nameId": 13696
+  },
+  "Sticker | Keyd Stars (Holo) | Katowice 2015": {
+    "name": "Sticker | Keyd Stars (Holo) | Katowice 2015",
+    "nameId": 18521
+  },
+  "Sticker | Keyd Stars (Foil) | Katowice 2015": {
+    "name": "Sticker | Keyd Stars (Foil) | Katowice 2015",
+    "nameId": 19190
+  },
+  "Sticker | LGB eSports | Katowice 2015": {
+    "name": "Sticker | LGB eSports | Katowice 2015",
+    "nameId": 13714
+  },
+  "Sticker | LGB eSports (Holo) | Katowice 2015": {
+    "name": "Sticker | LGB eSports (Holo) | Katowice 2015",
+    "nameId": 9474
+  },
+  "Sticker | LGB eSports (Foil) | Katowice 2015": {
+    "name": "Sticker | LGB eSports (Foil) | Katowice 2015",
+    "nameId": 16222
+  },
+  "Sticker | Natus Vincere | Katowice 2015": {
+    "name": "Sticker | Natus Vincere | Katowice 2015",
+    "nameId": 1090
+  },
+  "Sticker | Natus Vincere (Holo) | Katowice 2015": {
+    "name": "Sticker | Natus Vincere (Holo) | Katowice 2015",
+    "nameId": 16246
+  },
+  "Sticker | Natus Vincere (Foil) | Katowice 2015": {
+    "name": "Sticker | Natus Vincere (Foil) | Katowice 2015",
+    "nameId": 7079
+  },
+  "Sticker | Perfecto (Gold) | Stockholm 2021": {
+    "name": "Sticker | Perfecto (Gold) | Stockholm 2021",
+    "nameId": 1089106
+  },
+  "Sticker | Boombl4 | Stockholm 2021": {
+    "name": "Sticker | Boombl4 | Stockholm 2021",
+    "nameId": 1089083
+  },
+  "Sticker | Boombl4 (Holo) | Stockholm 2021": {
+    "name": "Sticker | Boombl4 (Holo) | Stockholm 2021",
+    "nameId": 1089086
+  },
+  "Sticker | Boombl4 (Gold) | Stockholm 2021": {
+    "name": "Sticker | Boombl4 (Gold) | Stockholm 2021",
+    "nameId": 1089112
+  },
+  "Sticker | b1t | Stockholm 2021": {
+    "name": "Sticker | b1t | Stockholm 2021",
+    "nameId": 1089082
+  },
+  "Sticker | b1t (Holo) | Stockholm 2021": {
+    "name": "Sticker | b1t (Holo) | Stockholm 2021",
+    "nameId": 1089081
+  },
+  "Sticker | b1t (Gold) | Stockholm 2021": {
+    "name": "Sticker | b1t (Gold) | Stockholm 2021",
+    "nameId": 1089170
+  },
+  "Sticker | electroNic | Stockholm 2021": {
+    "name": "Sticker | electroNic | Stockholm 2021",
+    "nameId": 1089085
+  },
+  "Sticker | electroNic (Holo) | Stockholm 2021": {
+    "name": "Sticker | electroNic (Holo) | Stockholm 2021",
+    "nameId": 1089084
+  },
+  "Sticker | electroNic (Gold) | Stockholm 2021": {
+    "name": "Sticker | electroNic (Gold) | Stockholm 2021",
+    "nameId": 1089188
+  },
+  "Sticker | NiKo | Stockholm 2021": {
+    "name": "Sticker | NiKo | Stockholm 2021",
+    "nameId": 1089143
+  },
+  "Sticker | NiKo (Holo) | Stockholm 2021": {
+    "name": "Sticker | NiKo (Holo) | Stockholm 2021",
+    "nameId": 1089154
+  },
+  "Sticker | NiKo (Gold) | Stockholm 2021": {
+    "name": "Sticker | NiKo (Gold) | Stockholm 2021",
+    "nameId": 1089175
+  },
+  "Sticker | nexa | Stockholm 2021": {
+    "name": "Sticker | nexa | Stockholm 2021",
+    "nameId": 1089122
+  },
+  "Sticker | nexa (Holo) | Stockholm 2021": {
+    "name": "Sticker | nexa (Holo) | Stockholm 2021",
+    "nameId": 1089151
+  },
+  "Sticker | nexa (Gold) | Stockholm 2021": {
+    "name": "Sticker | nexa (Gold) | Stockholm 2021",
+    "nameId": 1089195
+  },
+  "Sticker | huNter- | Stockholm 2021": {
+    "name": "Sticker | huNter- | Stockholm 2021",
+    "nameId": 1089135
+  },
+  "Sticker | huNter- (Holo) | Stockholm 2021": {
+    "name": "Sticker | huNter- (Holo) | Stockholm 2021",
+    "nameId": 1089119
+  },
+  "Sticker | huNter- (Gold) | Stockholm 2021": {
+    "name": "Sticker | huNter- (Gold) | Stockholm 2021",
+    "nameId": 1089208
+  },
+  "Sticker | JACKZ | Stockholm 2021": {
+    "name": "Sticker | JACKZ | Stockholm 2021",
+    "nameId": 1089129
+  },
+  "Sticker | JACKZ (Holo) | Stockholm 2021": {
+    "name": "Sticker | JACKZ (Holo) | Stockholm 2021",
+    "nameId": 1089115
+  },
+  "Sticker | JACKZ (Gold) | Stockholm 2021": {
+    "name": "Sticker | JACKZ (Gold) | Stockholm 2021",
+    "nameId": 1089185
+  },
+  "Sticker | AMANEK | Stockholm 2021": {
+    "name": "Sticker | AMANEK | Stockholm 2021",
+    "nameId": 1089149
+  },
+  "Sticker | AMANEK (Holo) | Stockholm 2021": {
+    "name": "Sticker | AMANEK (Holo) | Stockholm 2021",
+    "nameId": 1089167
+  },
+  "Sticker | AMANEK (Gold) | Stockholm 2021": {
+    "name": "Sticker | AMANEK (Gold) | Stockholm 2021",
+    "nameId": 1089200
+  },
+  "Sticker | TeSeS | Stockholm 2021": {
+    "name": "Sticker | TeSeS | Stockholm 2021",
+    "nameId": 1089108
+  },
+  "Sticker | TeSeS (Holo) | Stockholm 2021": {
+    "name": "Sticker | TeSeS (Holo) | Stockholm 2021",
+    "nameId": 1089140
+  },
+  "Sticker | TeSeS (Gold) | Stockholm 2021": {
+    "name": "Sticker | TeSeS (Gold) | Stockholm 2021",
+    "nameId": 1089211
+  },
+  "Sticker | stavn | Stockholm 2021": {
+    "name": "Sticker | stavn | Stockholm 2021",
+    "nameId": 1089114
+  },
+  "Sticker | stavn (Holo) | Stockholm 2021": {
+    "name": "Sticker | stavn (Holo) | Stockholm 2021",
+    "nameId": 1089168
+  },
+  "Sticker | stavn (Gold) | Stockholm 2021": {
+    "name": "Sticker | stavn (Gold) | Stockholm 2021",
+    "nameId": 1089212
+  },
+  "Sticker | sjuush | Stockholm 2021": {
+    "name": "Sticker | sjuush | Stockholm 2021",
+    "nameId": 1089126
+  },
+  "Sticker | sjuush (Holo) | Stockholm 2021": {
+    "name": "Sticker | sjuush (Holo) | Stockholm 2021",
+    "nameId": 1089153
+  },
+  "Sticker | sjuush (Gold) | Stockholm 2021": {
+    "name": "Sticker | sjuush (Gold) | Stockholm 2021",
+    "nameId": 1089202
+  },
+  "Sticker | refrezh | Stockholm 2021": {
+    "name": "Sticker | refrezh | Stockholm 2021",
+    "nameId": 1089147
+  },
+  "Sticker | refrezh (Holo) | Stockholm 2021": {
+    "name": "Sticker | refrezh (Holo) | Stockholm 2021",
+    "nameId": 1089134
+  },
+  "Sticker | refrezh (Gold) | Stockholm 2021": {
+    "name": "Sticker | refrezh (Gold) | Stockholm 2021",
+    "nameId": 1089201
+  },
+  "Sticker | cadiaN | Stockholm 2021": {
+    "name": "Sticker | cadiaN | Stockholm 2021",
+    "nameId": 1089157
+  },
+  "Sticker | cadiaN (Holo) | Stockholm 2021": {
+    "name": "Sticker | cadiaN (Holo) | Stockholm 2021",
+    "nameId": 1089156
+  },
+  "Sticker | cadiaN (Gold) | Stockholm 2021": {
+    "name": "Sticker | cadiaN (Gold) | Stockholm 2021",
+    "nameId": 1089163
+  },
+  "Sticker | nafany | Stockholm 2021": {
+    "name": "Sticker | nafany | Stockholm 2021",
+    "nameId": 1089109
+  },
+  "Sticker | nafany (Holo) | Stockholm 2021": {
+    "name": "Sticker | nafany (Holo) | Stockholm 2021",
+    "nameId": 1089179
+  },
+  "Sticker | nafany (Gold) | Stockholm 2021": {
+    "name": "Sticker | nafany (Gold) | Stockholm 2021",
+    "nameId": 1089171
+  },
+  "Sticker | Ax1Le | Stockholm 2021": {
+    "name": "Sticker | Ax1Le | Stockholm 2021",
+    "nameId": 1089117
+  },
+  "Sticker | Ax1Le (Holo) | Stockholm 2021": {
+    "name": "Sticker | Ax1Le (Holo) | Stockholm 2021",
+    "nameId": 1089139
+  },
+  "Sticker | Ax1Le (Gold) | Stockholm 2021": {
+    "name": "Sticker | Ax1Le (Gold) | Stockholm 2021",
+    "nameId": 1089193
+  },
+  "Sticker | interz | Stockholm 2021": {
+    "name": "Sticker | interz | Stockholm 2021",
+    "nameId": 1089121
+  },
+  "Sticker | interz (Holo) | Stockholm 2021": {
+    "name": "Sticker | interz (Holo) | Stockholm 2021",
+    "nameId": 1089182
+  },
+  "Sticker | interz (Gold) | Stockholm 2021": {
+    "name": "Sticker | interz (Gold) | Stockholm 2021",
+    "nameId": 1089213
+  },
+  "Sticker | sh1ro | Stockholm 2021": {
+    "name": "Sticker | sh1ro | Stockholm 2021",
+    "nameId": 1089094
+  },
+  "Sticker | sh1ro (Holo) | Stockholm 2021": {
+    "name": "Sticker | sh1ro (Holo) | Stockholm 2021",
+    "nameId": 1089103
+  },
+  "Sticker | sh1ro (Gold) | Stockholm 2021": {
+    "name": "Sticker | sh1ro (Gold) | Stockholm 2021",
+    "nameId": 1089191
+  },
+  "Sticker | HObbit | Stockholm 2021": {
+    "name": "Sticker | HObbit | Stockholm 2021",
+    "nameId": 1089146
+  },
+  "Sticker | HObbit (Holo) | Stockholm 2021": {
+    "name": "Sticker | HObbit (Holo) | Stockholm 2021",
+    "nameId": 1089180
+  },
+  "Sticker | HObbit (Gold) | Stockholm 2021": {
+    "name": "Sticker | HObbit (Gold) | Stockholm 2021",
+    "nameId": 1089194
+  },
+  "Sticker | drop | Stockholm 2021": {
+    "name": "Sticker | drop | Stockholm 2021",
+    "nameId": 1089155
+  },
+  "Sticker | drop (Holo) | Stockholm 2021": {
+    "name": "Sticker | drop (Holo) | Stockholm 2021",
+    "nameId": 1089183
+  },
+  "Sticker | drop (Gold) | Stockholm 2021": {
+    "name": "Sticker | drop (Gold) | Stockholm 2021",
+    "nameId": 1089203
+  },
+  "Sticker | KSCERATO | Stockholm 2021": {
+    "name": "Sticker | KSCERATO | Stockholm 2021",
+    "nameId": 1089158
+  },
+  "Sticker | KSCERATO (Holo) | Stockholm 2021": {
+    "name": "Sticker | KSCERATO (Holo) | Stockholm 2021",
+    "nameId": 1089136
+  },
+  "Sticker | KSCERATO (Gold) | Stockholm 2021": {
+    "name": "Sticker | KSCERATO (Gold) | Stockholm 2021",
+    "nameId": 1089196
+  },
+  "Sticker | VINI | Stockholm 2021": {
+    "name": "Sticker | VINI | Stockholm 2021",
+    "nameId": 1089113
+  },
+  "Sticker | VINI (Holo) | Stockholm 2021": {
+    "name": "Sticker | VINI (Holo) | Stockholm 2021",
+    "nameId": 1089165
+  },
+  "Sticker | VINI (Gold) | Stockholm 2021": {
+    "name": "Sticker | VINI (Gold) | Stockholm 2021",
+    "nameId": 1089184
+  },
+  "Sticker | arT | Stockholm 2021": {
+    "name": "Sticker | arT | Stockholm 2021",
+    "nameId": 1089107
+  },
+  "Sticker | arT (Holo) | Stockholm 2021": {
+    "name": "Sticker | arT (Holo) | Stockholm 2021",
+    "nameId": 1089160
+  },
+  "Sticker | arT (Gold) | Stockholm 2021": {
+    "name": "Sticker | arT (Gold) | Stockholm 2021",
+    "nameId": 1089178
+  },
+  "Sticker | yuurih | Stockholm 2021": {
+    "name": "Sticker | yuurih | Stockholm 2021",
+    "nameId": 1089116
+  },
+  "Sticker | yuurih (Holo) | Stockholm 2021": {
+    "name": "Sticker | yuurih (Holo) | Stockholm 2021",
+    "nameId": 1089177
+  },
+  "Sticker | yuurih (Gold) | Stockholm 2021": {
+    "name": "Sticker | yuurih (Gold) | Stockholm 2021",
+    "nameId": 1089173
+  },
+  "Sticker | Qikert | Stockholm 2021": {
+    "name": "Sticker | Qikert | Stockholm 2021",
+    "nameId": 1089127
+  },
+  "Sticker | Qikert (Holo) | Stockholm 2021": {
+    "name": "Sticker | Qikert (Holo) | Stockholm 2021",
+    "nameId": 1089166
+  },
+  "Sticker | Qikert (Gold) | Stockholm 2021": {
+    "name": "Sticker | Qikert (Gold) | Stockholm 2021",
+    "nameId": 1089186
+  },
+  "Sticker | buster | Stockholm 2021": {
+    "name": "Sticker | buster | Stockholm 2021",
+    "nameId": 1089133
+  },
+  "Sticker | YEKINDAR (Gold) | Stockholm 2021": {
+    "name": "Sticker | YEKINDAR (Gold) | Stockholm 2021",
+    "nameId": 1089209
+  },
+  "Sticker | device (Gold) | Stockholm 2021": {
+    "name": "Sticker | device (Gold) | Stockholm 2021",
+    "nameId": 1089197
+  },
+  "Sticker | Copenhagen Flames | Antwerp 2022": {
+    "name": "Sticker | Copenhagen Flames | Antwerp 2022",
+    "nameId": 1091110
+  },
+  "Sticker | Natus Vincere | Antwerp 2022": {
+    "name": "Sticker | Natus Vincere | Antwerp 2022",
+    "nameId": 1091123
+  },
+  "Sticker | G2 Esports (Gold) | Antwerp 2022": {
+    "name": "Sticker | G2 Esports (Gold) | Antwerp 2022",
+    "nameId": 1091476
+  },
+  "Sticker | Vitality (Gold) | Antwerp 2022": {
+    "name": "Sticker | Vitality (Gold) | Antwerp 2022",
+    "nameId": 1091280
+  },
+  "Sticker | PGL | Antwerp 2022": {
+    "name": "Sticker | PGL | Antwerp 2022",
+    "nameId": 1091100
+  },
+  "Sticker | cadiaN (Gold) | Antwerp 2022": {
+    "name": "Sticker | cadiaN (Gold) | Antwerp 2022",
+    "nameId": 1091611
+  },
+  "Sticker | TeSeS (Gold) | Antwerp 2022": {
+    "name": "Sticker | TeSeS (Gold) | Antwerp 2022",
+    "nameId": 1091514
+  },
+  "Sticker | sjuush (Gold) | Antwerp 2022": {
+    "name": "Sticker | sjuush (Gold) | Antwerp 2022",
+    "nameId": 1091623
+  },
+  "Sticker | roeJ (Glitter) | Antwerp 2022": {
+    "name": "Sticker | roeJ (Glitter) | Antwerp 2022",
+    "nameId": 1091433
+  },
+  "Sticker | roeJ (Gold) | Antwerp 2022": {
+    "name": "Sticker | roeJ (Gold) | Antwerp 2022",
+    "nameId": 1091498
+  },
+  "Sticker | jabbi (Gold) | Antwerp 2022": {
+    "name": "Sticker | jabbi (Gold) | Antwerp 2022",
+    "nameId": 1091358
+  },
+  "Sticker | interz (Gold) | Antwerp 2022": {
+    "name": "Sticker | interz (Gold) | Antwerp 2022",
+    "nameId": 1091667
+  },
+  "Sticker | drop (Gold) | Antwerp 2022": {
+    "name": "Sticker | drop (Gold) | Antwerp 2022",
+    "nameId": 1091635
+  },
+  "Sticker | rain | Antwerp 2022": {
+    "name": "Sticker | rain | Antwerp 2022",
+    "nameId": 1091234
+  },
+  "Sticker | Twistzz (Gold) | Antwerp 2022": {
+    "name": "Sticker | Twistzz (Gold) | Antwerp 2022",
+    "nameId": 1091607
+  },
+  "Sticker | broky (Gold) | Antwerp 2022": {
+    "name": "Sticker | broky (Gold) | Antwerp 2022",
+    "nameId": 1091660
+  },
+  "Sticker | ropz | Antwerp 2022": {
+    "name": "Sticker | ropz | Antwerp 2022",
+    "nameId": 1091239
+  },
+  "Sticker | ropz (Holo) | Antwerp 2022": {
+    "name": "Sticker | ropz (Holo) | Antwerp 2022",
+    "nameId": 1091533
+  },
+  "Sticker | ropz (Gold) | Antwerp 2022": {
+    "name": "Sticker | ropz (Gold) | Antwerp 2022",
+    "nameId": 1091603
+  },
+  "Sticker | REZ (Holo) | Antwerp 2022": {
+    "name": "Sticker | REZ (Holo) | Antwerp 2022",
+    "nameId": 1091351
+  },
+  "Sticker | es3tag (Gold) | Antwerp 2022": {
+    "name": "Sticker | es3tag (Gold) | Antwerp 2022",
+    "nameId": 1091651
+  },
+  "Sticker | electronic (Gold) | Antwerp 2022": {
+    "name": "Sticker | electronic (Gold) | Antwerp 2022",
+    "nameId": 1091655
+  },
+  "Sticker | b1t (Gold) | Antwerp 2022": {
+    "name": "Sticker | b1t (Gold) | Antwerp 2022",
+    "nameId": 1091706
+  },
+  "Sticker | maden (Glitter) | Antwerp 2022": {
+    "name": "Sticker | maden (Glitter) | Antwerp 2022",
+    "nameId": 1091328
+  },
+  "Sticker | maden (Holo) | Antwerp 2022": {
+    "name": "Sticker | maden (Holo) | Antwerp 2022",
+    "nameId": 1091423
+  },
+  "Sticker | huNter (Gold) | Antwerp 2022": {
+    "name": "Sticker | huNter (Gold) | Antwerp 2022",
+    "nameId": 1091466
+  },
+  "Sticker | JaCkz (Gold) | Antwerp 2022": {
+    "name": "Sticker | JaCkz (Gold) | Antwerp 2022",
+    "nameId": 1091597
+  },
+  "Sticker | Jerry (Gold) | Antwerp 2022": {
+    "name": "Sticker | Jerry (Gold) | Antwerp 2022",
+    "nameId": 1091116
+  },
+  "Sticker | KENSi (Gold) | Antwerp 2022": {
+    "name": "Sticker | KENSi (Gold) | Antwerp 2022",
+    "nameId": 1091659
+  },
+  "Sticker | Tuurtle (Holo) | Antwerp 2022": {
+    "name": "Sticker | Tuurtle (Holo) | Antwerp 2022",
+    "nameId": 1091391
+  },
+  "Sticker | exit | Antwerp 2022": {
+    "name": "Sticker | exit | Antwerp 2022",
+    "nameId": 1091108
+  },
+  "Sticker | JOTA (Holo) | Antwerp 2022": {
+    "name": "Sticker | JOTA (Holo) | Antwerp 2022",
+    "nameId": 1091524
+  },
+  "Sticker | boltz (Gold) | Antwerp 2022": {
+    "name": "Sticker | boltz (Gold) | Antwerp 2022",
+    "nameId": 1091631
+  },
+  "Sticker | juanflatroo (Gold) | Antwerp 2022": {
+    "name": "Sticker | juanflatroo (Gold) | Antwerp 2022",
+    "nameId": 1091663
+  },
+  "Sticker | imoRR (Gold) | Antwerp 2022": {
+    "name": "Sticker | imoRR (Gold) | Antwerp 2022",
+    "nameId": 1091619
+  },
+  "Sticker | magixx (Gold) | Antwerp 2022": {
+    "name": "Sticker | magixx (Gold) | Antwerp 2022",
+    "nameId": 1091653
+  },
+  "Sticker | degster (Gold) | Antwerp 2022": {
+    "name": "Sticker | degster (Gold) | Antwerp 2022",
+    "nameId": 1091569
+  },
+  "Sticker | Patsi (Gold) | Antwerp 2022": {
+    "name": "Sticker | Patsi (Gold) | Antwerp 2022",
+    "nameId": 1091704
+  },
+  "Sticker | Grim (Gold) | Antwerp 2022": {
+    "name": "Sticker | Grim (Gold) | Antwerp 2022",
+    "nameId": 1091555
+  },
+  "Sticker | junior (Gold) | Antwerp 2022": {
+    "name": "Sticker | junior (Gold) | Antwerp 2022",
+    "nameId": 1091673
+  },
+  "Sticker | kabal (Glitter) | Antwerp 2022": {
+    "name": "Sticker | kabal (Glitter) | Antwerp 2022",
+    "nameId": 1091348
+  },
+  "Sticker | sk0R (Gold) | Antwerp 2022": {
+    "name": "Sticker | sk0R (Gold) | Antwerp 2022",
+    "nameId": 1091649
+  },
+  "Sticker | sico (Glitter) | Antwerp 2022": {
+    "name": "Sticker | sico (Glitter) | Antwerp 2022",
+    "nameId": 1091137
+  },
+  "Sticker | hatz (Holo) | Antwerp 2022": {
+    "name": "Sticker | hatz (Holo) | Antwerp 2022",
+    "nameId": 1091605
+  },
+  "Sticker | EliGE (Glitter) | Antwerp 2022": {
+    "name": "Sticker | EliGE (Glitter) | Antwerp 2022",
+    "nameId": 1091511
+  },
+  "Sticker | oSee (Glitter) | Antwerp 2022": {
+    "name": "Sticker | oSee (Glitter) | Antwerp 2022",
+    "nameId": 1091599
+  },
+  "Sticker | oSee (Holo) | Antwerp 2022": {
+    "name": "Sticker | oSee (Holo) | Antwerp 2022",
+    "nameId": 1091584
+  },
+  "Sticker | nitr0 (Glitter) | Antwerp 2022": {
+    "name": "Sticker | nitr0 (Glitter) | Antwerp 2022",
+    "nameId": 1091497
+  },
+  "Sticker | ropz (Gold, Champion) | Antwerp 2022": {
+    "name": "Sticker | ropz (Gold, Champion) | Antwerp 2022",
+    "nameId": 1091828
+  },
+  "Sticker | Co Co Co": {
+    "name": "Sticker | Co Co Co",
+    "nameId": 1092752
+  },
+  "Sticker | GO": {
+    "name": "Sticker | GO",
+    "nameId": 1092728
+  },
+  "Sticker | Ninjas in Pyjamas (Gold) | Rio 2022": {
+    "name": "Sticker | Ninjas in Pyjamas (Gold) | Rio 2022",
+    "nameId": 1094979
+  },
+  "Sticker | Cloud9 | Rio 2022": {
+    "name": "Sticker | Cloud9 | Rio 2022",
+    "nameId": 1094375
+  },
+  "Sticker | Grayhound Gaming | Rio 2022": {
+    "name": "Sticker | Grayhound Gaming | Rio 2022",
+    "nameId": 1094429
+  },
+  "Sticker | Outsiders | Rio 2022": {
+    "name": "Sticker | Outsiders | Rio 2022",
+    "nameId": 1094458
+  },
+  "Sticker | Snappi (Glitter) | Rio 2022": {
+    "name": "Sticker | Snappi (Glitter) | Rio 2022",
+    "nameId": 1094501
+  },
+  "Sticker | v4lde (Holo) | Rio 2022": {
+    "name": "Sticker | v4lde (Holo) | Rio 2022",
+    "nameId": 1095077
+  },
+  "Sticker | SunPayus (Gold) | Rio 2022": {
+    "name": "Sticker | SunPayus (Gold) | Rio 2022",
+    "nameId": 1095088
+  },
+  "Sticker | karrigan (Gold) | Rio 2022": {
+    "name": "Sticker | karrigan (Gold) | Rio 2022",
+    "nameId": 1094965
+  },
+  "Sticker | rain (Gold) | Rio 2022": {
+    "name": "Sticker | rain (Gold) | Rio 2022",
+    "nameId": 1094897
+  },
+  "Sticker | Twistzz (Gold) | Rio 2022": {
+    "name": "Sticker | Twistzz (Gold) | Rio 2022",
+    "nameId": 1096555
+  },
+  "Sticker | ropz (Gold) | Rio 2022": {
+    "name": "Sticker | ropz (Gold) | Rio 2022",
+    "nameId": 1095661
+  },
+  "Sticker | TeSeS | Rio 2022": {
+    "name": "Sticker | TeSeS | Rio 2022",
+    "nameId": 1094388
+  },
+  "Sticker | TeSeS (Holo) | Rio 2022": {
+    "name": "Sticker | TeSeS (Holo) | Rio 2022",
+    "nameId": 1094990
+  },
+  "Sticker | TeSeS (Gold) | Rio 2022": {
+    "name": "Sticker | TeSeS (Gold) | Rio 2022",
+    "nameId": 1097723
+  },
+  "Sticker | stavn (Holo) | Rio 2022": {
+    "name": "Sticker | stavn (Holo) | Rio 2022",
+    "nameId": 1095235
+  },
+  "Sticker | stavn (Gold) | Rio 2022": {
+    "name": "Sticker | stavn (Gold) | Rio 2022",
+    "nameId": 1098477
+  },
+  "Sticker | electronic (Gold) | Rio 2022": {
+    "name": "Sticker | electronic (Gold) | Rio 2022",
+    "nameId": 1095714
+  },
+  "Sticker | Perfecto (Gold) | Rio 2022": {
+    "name": "Sticker | Perfecto (Gold) | Rio 2022",
+    "nameId": 1095040
+  },
+  "Sticker | s1mple (Glitter) | Rio 2022": {
+    "name": "Sticker | s1mple (Glitter) | Rio 2022",
+    "nameId": 1094642
+  },
+  "Sticker | s1mple (Gold) | Rio 2022": {
+    "name": "Sticker | s1mple (Gold) | Rio 2022",
+    "nameId": 1095175
+  },
+  "Sticker | es3tag (Gold) | Rio 2022": {
+    "name": "Sticker | es3tag (Gold) | Rio 2022",
+    "nameId": 1096248
+  },
+  "Sticker | Aleksib (Gold) | Rio 2022": {
+    "name": "Sticker | Aleksib (Gold) | Rio 2022",
+    "nameId": 1095368
+  },
+  "Sticker | hampus (Gold) | Rio 2022": {
+    "name": "Sticker | hampus (Gold) | Rio 2022",
+    "nameId": 1097054
+  },
+  "Sticker | Staehr (Gold) | Rio 2022": {
+    "name": "Sticker | Staehr (Gold) | Rio 2022",
+    "nameId": 1094934
+  },
+  "Sticker | Zyphon (Holo) | Rio 2022": {
+    "name": "Sticker | Zyphon (Holo) | Rio 2022",
+    "nameId": 1094856
+  },
+  "Sticker | nitr0 (Gold) | Rio 2022": {
+    "name": "Sticker | nitr0 (Gold) | Rio 2022",
+    "nameId": 1094633
+  },
+  "Sticker | EliGE (Gold) | Rio 2022": {
+    "name": "Sticker | EliGE (Gold) | Rio 2022",
+    "nameId": 1095372
+  },
+  "Sticker | chopper | Rio 2022": {
+    "name": "Sticker | chopper | Rio 2022",
+    "nameId": 1094473
+  },
+  "Sticker | w0nderful (Glitter) | Rio 2022": {
+    "name": "Sticker | w0nderful (Glitter) | Rio 2022",
+    "nameId": 1094560
+  },
+  "Sticker | max (Holo) | Rio 2022": {
+    "name": "Sticker | max (Holo) | Rio 2022",
+    "nameId": 1099577
+  },
+  "Sticker | dgt (Gold) | Rio 2022": {
+    "name": "Sticker | dgt (Gold) | Rio 2022",
+    "nameId": 1095431
+  },
+  "Sticker | BUDA (Gold) | Rio 2022": {
+    "name": "Sticker | BUDA (Gold) | Rio 2022",
+    "nameId": 1095712
+  },
+  "Sticker | gxx- (Gold) | Rio 2022": {
+    "name": "Sticker | gxx- (Gold) | Rio 2022",
+    "nameId": 1095393
+  },
+  "Sticker | SENER1 (Gold) | Rio 2022": {
+    "name": "Sticker | SENER1 (Gold) | Rio 2022",
+    "nameId": 1096782
+  },
+  "Sticker | juanflatroo (Holo) | Rio 2022": {
+    "name": "Sticker | juanflatroo (Holo) | Rio 2022",
+    "nameId": 1095257
+  },
+  "Sticker | juanflatroo (Gold) | Rio 2022": {
+    "name": "Sticker | juanflatroo (Gold) | Rio 2022",
+    "nameId": 1102201
+  },
+  "Sticker | rigoN (Gold) | Rio 2022": {
+    "name": "Sticker | rigoN (Gold) | Rio 2022",
+    "nameId": 1095394
+  },
+  "Sticker | faveN (Gold) | Rio 2022": {
+    "name": "Sticker | faveN (Gold) | Rio 2022",
+    "nameId": 1095404
+  },
+  "Sticker | tabseN (Gold) | Rio 2022": {
+    "name": "Sticker | tabseN (Gold) | Rio 2022",
+    "nameId": 1094440
+  },
+  "Sticker | syrsoN (Gold) | Rio 2022": {
+    "name": "Sticker | syrsoN (Gold) | Rio 2022",
+    "nameId": 1098775
+  },
+  "Sticker | Ax1Le (Gold) | Rio 2022": {
+    "name": "Sticker | Ax1Le (Gold) | Rio 2022",
+    "nameId": 1105385
+  },
+  "Sticker | interz (Holo) | Rio 2022": {
+    "name": "Sticker | interz (Holo) | Rio 2022",
+    "nameId": 1095124
+  },
+  "Sticker | autimatic (Gold) | Rio 2022": {
+    "name": "Sticker | autimatic (Gold) | Rio 2022",
+    "nameId": 1103925
+  },
+  "Sticker | neaLaN (Glitter) | Rio 2022": {
+    "name": "Sticker | neaLaN (Glitter) | Rio 2022",
+    "nameId": 1094414
+  },
+  "Sticker | neaLaN (Gold) | Rio 2022": {
+    "name": "Sticker | neaLaN (Gold) | Rio 2022",
+    "nameId": 1096032
+  },
+  "Sticker | Brehze (Gold) | Rio 2022": {
+    "name": "Sticker | Brehze (Gold) | Rio 2022",
+    "nameId": 1101141
+  },
+  "Sticker | HexT (Gold) | Rio 2022": {
+    "name": "Sticker | HexT (Gold) | Rio 2022",
+    "nameId": 1094918
+  },
+  "Sticker | CeRq (Glitter) | Rio 2022": {
+    "name": "Sticker | CeRq (Glitter) | Rio 2022",
+    "nameId": 1094741
+  },
+  "Sticker | CeRq (Gold) | Rio 2022": {
+    "name": "Sticker | CeRq (Gold) | Rio 2022",
+    "nameId": 1112964
+  },
+  "Sticker | frozen (Glitter) | Rio 2022": {
+    "name": "Sticker | frozen (Glitter) | Rio 2022",
+    "nameId": 1094957
+  },
+  "Sticker | frozen (Gold) | Rio 2022": {
+    "name": "Sticker | frozen (Gold) | Rio 2022",
+    "nameId": 1107284
+  },
+  "Sticker | dexter (Gold) | Rio 2022": {
+    "name": "Sticker | dexter (Gold) | Rio 2022",
+    "nameId": 1095820
+  },
+  "Sticker | torzsi (Gold) | Rio 2022": {
+    "name": "Sticker | torzsi (Gold) | Rio 2022",
+    "nameId": 1095150
+  },
+  "Sticker | xertioN (Holo) | Rio 2022": {
+    "name": "Sticker | xertioN (Holo) | Rio 2022",
+    "nameId": 1096060
+  },
+  "Sticker | NEOFRAG (Gold) | Rio 2022": {
+    "name": "Sticker | NEOFRAG (Gold) | Rio 2022",
+    "nameId": 1100220
+  },
+  "Sticker | FlameZ (Gold) | Rio 2022": {
+    "name": "Sticker | FlameZ (Gold) | Rio 2022",
+    "nameId": 1101345
+  },
+  "Sticker | F1KU | Rio 2022": {
+    "name": "Sticker | F1KU | Rio 2022",
+    "nameId": 1094597
+  },
+  "Sticker | F1KU (Glitter) | Rio 2022": {
+    "name": "Sticker | F1KU (Glitter) | Rio 2022",
+    "nameId": 1094674
+  },
+  "Sticker | F1KU (Gold) | Rio 2022": {
+    "name": "Sticker | F1KU (Gold) | Rio 2022",
+    "nameId": 1094984
+  },
+  "Sticker | dupreeh (Gold) | Rio 2022": {
+    "name": "Sticker | dupreeh (Gold) | Rio 2022",
+    "nameId": 1095136
+  },
+  "Sticker | Magisk (Gold) | Rio 2022": {
+    "name": "Sticker | Magisk (Gold) | Rio 2022",
+    "nameId": 1095316
+  },
+  "Sticker | apEX (Gold) | Rio 2022": {
+    "name": "Sticker | apEX (Gold) | Rio 2022",
+    "nameId": 1094743
+  },
+  "Sticker | Spinx (Gold) | Rio 2022": {
+    "name": "Sticker | Spinx (Gold) | Rio 2022",
+    "nameId": 1108372
+  },
+  "Sticker | ZywOo (Holo) | Rio 2022": {
+    "name": "Sticker | ZywOo (Holo) | Rio 2022",
+    "nameId": 1095029
+  },
+  "Sticker | ZywOo (Gold) | Rio 2022": {
+    "name": "Sticker | ZywOo (Gold) | Rio 2022",
+    "nameId": 1096951
+  },
+  "Sticker | TACO (Gold) | Rio 2022": {
+    "name": "Sticker | TACO (Gold) | Rio 2022",
+    "nameId": 1097297
+  },
+  "Sticker | coldzera (Gold) | Rio 2022": {
+    "name": "Sticker | coldzera (Gold) | Rio 2022",
+    "nameId": 1095330
+  },
+  "Sticker | latto (Gold) | Rio 2022": {
+    "name": "Sticker | latto (Gold) | Rio 2022",
+    "nameId": 1097868
+  },
+  "Sticker | FASHR (Holo) | Rio 2022": {
+    "name": "Sticker | FASHR (Holo) | Rio 2022",
+    "nameId": 1095398
+  },
+  "Sticker | FASHR (Gold) | Rio 2022": {
+    "name": "Sticker | FASHR (Gold) | Rio 2022",
+    "nameId": 1094917
+  },
+  "Sticker | roeJ (Glitter) | Rio 2022": {
+    "name": "Sticker | roeJ (Glitter) | Rio 2022",
+    "nameId": 1094880
+  },
+  "Sticker | nicoodoz (Holo) | Rio 2022": {
+    "name": "Sticker | nicoodoz (Holo) | Rio 2022",
+    "nameId": 1097244
+  },
+  "Sticker | nicoodoz (Gold) | Rio 2022": {
+    "name": "Sticker | nicoodoz (Gold) | Rio 2022",
+    "nameId": 1098431
+  },
+  "Sticker | KSCERATO (Gold) | Rio 2022": {
+    "name": "Sticker | KSCERATO (Gold) | Rio 2022",
+    "nameId": 1097433
+  },
+  "Sticker | yuurih (Glitter) | Rio 2022": {
+    "name": "Sticker | yuurih (Glitter) | Rio 2022",
+    "nameId": 1094709
+  },
+  "Sticker | saffee (Glitter) | Rio 2022": {
+    "name": "Sticker | saffee (Glitter) | Rio 2022",
+    "nameId": 1094671
+  },
+  "Sticker | saffee (Gold) | Rio 2022": {
+    "name": "Sticker | saffee (Gold) | Rio 2022",
+    "nameId": 1096064
+  },
+  "Sticker | acoR (Holo) | Rio 2022": {
+    "name": "Sticker | acoR (Holo) | Rio 2022",
+    "nameId": 1094439
+  },
+  "Sticker | iM | Rio 2022": {
+    "name": "Sticker | iM | Rio 2022",
+    "nameId": 1094490
+  },
+  "Sticker | iM (Holo) | Rio 2022": {
+    "name": "Sticker | iM (Holo) | Rio 2022",
+    "nameId": 1095170
+  },
+  "Sticker | iM (Gold) | Rio 2022": {
+    "name": "Sticker | iM (Gold) | Rio 2022",
+    "nameId": 1099431
+  },
+  "Sticker | vexite (Holo) | Rio 2022": {
+    "name": "Sticker | vexite (Holo) | Rio 2022",
+    "nameId": 1095518
+  },
+  "Sticker | Sico (Glitter) | Rio 2022": {
+    "name": "Sticker | Sico (Glitter) | Rio 2022",
+    "nameId": 1094623
+  },
+  "Sticker | Sico (Gold) | Rio 2022": {
+    "name": "Sticker | Sico (Gold) | Rio 2022",
+    "nameId": 1098796
+  },
+  "Sticker | aliStair (Holo) | Rio 2022": {
+    "name": "Sticker | aliStair (Holo) | Rio 2022",
+    "nameId": 1094725
+  },
+  "Sticker | Techno4K (Holo) | Rio 2022": {
+    "name": "Sticker | Techno4K (Holo) | Rio 2022",
+    "nameId": 1096437
+  },
+  "Sticker | Techno4K (Gold) | Rio 2022": {
+    "name": "Sticker | Techno4K (Gold) | Rio 2022",
+    "nameId": 1101609
+  },
+  "Sticker | kabal (Gold) | Rio 2022": {
+    "name": "Sticker | kabal (Gold) | Rio 2022",
+    "nameId": 1095095
+  },
+  "Sticker | ANNIHILATION | Rio 2022": {
+    "name": "Sticker | ANNIHILATION | Rio 2022",
+    "nameId": 1094487
+  },
+  "Sticker | ANNIHILATION (Gold) | Rio 2022": {
+    "name": "Sticker | ANNIHILATION (Gold) | Rio 2022",
+    "nameId": 1097304
+  },
+  "Sticker | FalleN (Gold) | Rio 2022": {
+    "name": "Sticker | FalleN (Gold) | Rio 2022",
+    "nameId": 1094912
+  },
+  "Sticker | fer (Gold) | Rio 2022": {
+    "name": "Sticker | fer (Gold) | Rio 2022",
+    "nameId": 1103139
+  },
+  "Sticker | VINI (Gold) | Rio 2022": {
+    "name": "Sticker | VINI (Gold) | Rio 2022",
+    "nameId": 1095016
+  },
+  "Sticker | FL1T (Gold) | Rio 2022": {
+    "name": "Sticker | FL1T (Gold) | Rio 2022",
+    "nameId": 1097349
+  },
+  "Sticker | n0rb3r7 (Holo) | Rio 2022": {
+    "name": "Sticker | n0rb3r7 (Holo) | Rio 2022",
+    "nameId": 1094489
+  },
+  "Sticker | n0rb3r7 (Gold) | Rio 2022": {
+    "name": "Sticker | n0rb3r7 (Gold) | Rio 2022",
+    "nameId": 1113572
+  },
+  "Sticker | qikert (Holo) | Rio 2022": {
+    "name": "Sticker | qikert (Holo) | Rio 2022",
+    "nameId": 1095879
+  },
+  "Sticker | fame (Gold) | Rio 2022": {
+    "name": "Sticker | fame (Gold) | Rio 2022",
+    "nameId": 1097289
+  },
+  "Sticker | Fnatic | Paris 2023": {
+    "name": "Sticker | Fnatic | Paris 2023",
+    "nameId": 1321673
+  },
+  "Sticker | Natus Vincere | Paris 2023": {
+    "name": "Sticker | Natus Vincere | Paris 2023",
+    "nameId": 1321666
+  },
+  "Sticker | FURIA | Paris 2023": {
+    "name": "Sticker | FURIA | Paris 2023",
+    "nameId": 1321669
+  },
+  "Sticker | Vitality | Paris 2023": {
+    "name": "Sticker | Vitality | Paris 2023",
+    "nameId": 1321664
+  },
+  "Sticker | Heroic | Paris 2023": {
+    "name": "Sticker | Heroic | Paris 2023",
+    "nameId": 1321670
+  },
+  "Sticker | Bad News Eagles | Paris 2023": {
+    "name": "Sticker | Bad News Eagles | Paris 2023",
+    "nameId": 1321665
+  },
+  "Sticker | Into The Breach | Paris 2023": {
+    "name": "Sticker | Into The Breach | Paris 2023",
+    "nameId": 1321663
+  },
+  "Sticker | 9INE | Paris 2023": {
+    "name": "Sticker | 9INE | Paris 2023",
+    "nameId": 1321672
+  },
+  "Sticker | G2 Esports | Paris 2023": {
+    "name": "Sticker | G2 Esports | Paris 2023",
+    "nameId": 1321684
+  },
+  "Sticker | forZe eSports | Paris 2023": {
+    "name": "Sticker | forZe eSports | Paris 2023",
+    "nameId": 1321689
+  },
+  "Sticker | paiN Gaming | Paris 2023": {
+    "name": "Sticker | paiN Gaming | Paris 2023",
+    "nameId": 1321687
+  },
+  "Sticker | Apeks | Paris 2023": {
+    "name": "Sticker | Apeks | Paris 2023",
+    "nameId": 1321679
+  },
+  "Sticker | Monte | Paris 2023": {
+    "name": "Sticker | Monte | Paris 2023",
+    "nameId": 1321755
+  },
+  "Sticker | Team Liquid | Paris 2023": {
+    "name": "Sticker | Team Liquid | Paris 2023",
+    "nameId": 1321652
+  },
+  "Sticker | FaZe Clan | Paris 2023": {
+    "name": "Sticker | FaZe Clan | Paris 2023",
+    "nameId": 1321654
+  },
+  "Sticker | ENCE | Paris 2023": {
+    "name": "Sticker | ENCE | Paris 2023",
+    "nameId": 1321685
+  },
+  "Sticker | Grayhound Gaming | Paris 2023": {
+    "name": "Sticker | Grayhound Gaming | Paris 2023",
+    "nameId": 1321655
+  },
+  "Sticker | MOUZ | Paris 2023": {
+    "name": "Sticker | MOUZ | Paris 2023",
+    "nameId": 1321680
+  },
+  "Sticker | Complexity Gaming | Paris 2023": {
+    "name": "Sticker | Complexity Gaming | Paris 2023",
+    "nameId": 1321678
+  },
+  "Sticker | Fluxo | Paris 2023": {
+    "name": "Sticker | Fluxo | Paris 2023",
+    "nameId": 1321691
+  },
+  "Sticker | The MongolZ | Paris 2023": {
+    "name": "Sticker | The MongolZ | Paris 2023",
+    "nameId": 1321651
+  },
+  "Sticker | BLAST.tv | Paris 2023": {
+    "name": "Sticker | BLAST.tv | Paris 2023",
+    "nameId": 1321671
+  },
+  "Sticker | electronic (Glitter) | Paris 2023": {
+    "name": "Sticker | electronic (Glitter) | Paris 2023",
+    "nameId": 1321948
+  },
+  "Sticker | arT | Paris 2023": {
+    "name": "Sticker | arT | Paris 2023",
+    "nameId": 1321780
+  },
+  "Sticker | drop (Gold) | Paris 2023": {
+    "name": "Sticker | drop (Gold) | Paris 2023",
+    "nameId": 1322138
+  },
+  "Sticker | Spinx | Paris 2023": {
+    "name": "Sticker | Spinx | Paris 2023",
+    "nameId": 1321746
+  },
+  "Sticker | ZywOo | Paris 2023": {
+    "name": "Sticker | ZywOo | Paris 2023",
+    "nameId": 1321736
+  },
+  "Sticker | cadiaN (Gold) | Paris 2023": {
+    "name": "Sticker | cadiaN (Gold) | Paris 2023",
+    "nameId": 1323081
+  },
+  "Sticker | jabbi (Glitter) | Paris 2023": {
+    "name": "Sticker | jabbi (Glitter) | Paris 2023",
+    "nameId": 1321947
+  },
+  "Sticker | Thomas (Gold) | Paris 2023": {
+    "name": "Sticker | Thomas (Gold) | Paris 2023",
+    "nameId": 1322739
+  },
+  "Sticker | Jerry (Gold) | Paris 2023": {
+    "name": "Sticker | Jerry (Gold) | Paris 2023",
+    "nameId": 1324088
+  },
+  "Sticker | r3salt (Glitter) | Paris 2023": {
+    "name": "Sticker | r3salt (Glitter) | Paris 2023",
+    "nameId": 1322092
+  },
+  "Sticker | iM (Glitter) | Paris 2023": {
+    "name": "Sticker | iM (Glitter) | Paris 2023",
+    "nameId": 1322094
+  },
+  "Sticker | YEKINDAR (Glitter) | Paris 2023": {
+    "name": "Sticker | YEKINDAR (Glitter) | Paris 2023",
+    "nameId": 1321969
+  },
+  "Sticker | Twistzz (Gold) | Paris 2023": {
+    "name": "Sticker | Twistzz (Gold) | Paris 2023",
+    "nameId": 1322226
+  },
+  "Sticker | v$m | Paris 2023": {
+    "name": "Sticker | v$m | Paris 2023",
+    "nameId": 1321884
+  },
+  "Sticker | v$m (Glitter) | Paris 2023": {
+    "name": "Sticker | v$m (Glitter) | Paris 2023",
+    "nameId": 1321963
+  },
+  "Sticker | v$m (Holo) | Paris 2023": {
+    "name": "Sticker | v$m (Holo) | Paris 2023",
+    "nameId": 1322158
+  },
+  "Sticker | v$m (Gold) | Paris 2023": {
+    "name": "Sticker | v$m (Gold) | Paris 2023",
+    "nameId": 1322191
+  },
+  "Sticker | ANNIHILATION (Holo) | Paris 2023": {
+    "name": "Sticker | ANNIHILATION (Holo) | Paris 2023",
+    "nameId": 1322194
+  },
+  "Sticker | Techno4K (Glitter) | Paris 2023": {
+    "name": "Sticker | Techno4K (Glitter) | Paris 2023",
+    "nameId": 1322040
+  },
+  "Sticker | Lit (Holo)": {
+    "name": "Sticker | Lit (Holo)",
+    "nameId": 2521215
+  },
+  "Sticker | Complexity Gaming (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Complexity Gaming (Gold) | Copenhagen 2024",
+    "nameId": 2596965
+  },
+  "Sticker | Cloud9 | Copenhagen 2024": {
+    "name": "Sticker | Cloud9 | Copenhagen 2024",
+    "nameId": 2596497
+  },
+  "Sticker | Cloud9 (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Cloud9 (Glitter) | Copenhagen 2024",
+    "nameId": 2596558
+  },
+  "Sticker | Cloud9 (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Cloud9 (Holo) | Copenhagen 2024",
+    "nameId": 2596774
+  },
+  "Sticker | Cloud9 (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Cloud9 (Gold) | Copenhagen 2024",
+    "nameId": 2596725
+  },
+  "Sticker | ENCE | Copenhagen 2024": {
+    "name": "Sticker | ENCE | Copenhagen 2024",
+    "nameId": 2596594
+  },
+  "Sticker | ENCE (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | ENCE (Glitter) | Copenhagen 2024",
+    "nameId": 2596676
+  },
+  "Sticker | ENCE (Holo) | Copenhagen 2024": {
+    "name": "Sticker | ENCE (Holo) | Copenhagen 2024",
+    "nameId": 2596880
+  },
+  "Sticker | ENCE (Gold) | Copenhagen 2024": {
+    "name": "Sticker | ENCE (Gold) | Copenhagen 2024",
+    "nameId": 2597003
+  },
+  "Sticker | FURIA | Copenhagen 2024": {
+    "name": "Sticker | FURIA | Copenhagen 2024",
+    "nameId": 2596616
+  },
+  "Sticker | FURIA (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | FURIA (Glitter) | Copenhagen 2024",
+    "nameId": 2596617
+  },
+  "Sticker | FURIA (Holo) | Copenhagen 2024": {
+    "name": "Sticker | FURIA (Holo) | Copenhagen 2024",
+    "nameId": 2596750
+  },
+  "Sticker | FURIA (Gold) | Copenhagen 2024": {
+    "name": "Sticker | FURIA (Gold) | Copenhagen 2024",
+    "nameId": 2596857
+  },
+  "Sticker | Heroic (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Heroic (Glitter) | Copenhagen 2024",
+    "nameId": 2596619
+  },
+  "Sticker | Heroic (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Heroic (Holo) | Copenhagen 2024",
+    "nameId": 2596808
+  },
+  "Sticker | Heroic (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Heroic (Gold) | Copenhagen 2024",
+    "nameId": 2596899
+  },
+  "Sticker | Eternal Fire (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Eternal Fire (Glitter) | Copenhagen 2024",
+    "nameId": 2596552
+  },
+  "Sticker | Eternal Fire (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Eternal Fire (Holo) | Copenhagen 2024",
+    "nameId": 2596777
+  },
+  "Sticker | Eternal Fire (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Eternal Fire (Gold) | Copenhagen 2024",
+    "nameId": 2597021
+  },
+  "Sticker | Apeks (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | Apeks (Glitter) | Copenhagen 2024",
+    "nameId": 2596553
+  },
+  "Sticker | Apeks (Holo) | Copenhagen 2024": {
+    "name": "Sticker | Apeks (Holo) | Copenhagen 2024",
+    "nameId": 2596580
+  },
+  "Sticker | Apeks (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Apeks (Gold) | Copenhagen 2024",
+    "nameId": 2596964
+  },
+  "Sticker | GamerLegion (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | GamerLegion (Glitter) | Copenhagen 2024",
+    "nameId": 2596618
+  },
+  "Sticker | GamerLegion (Holo) | Copenhagen 2024": {
+    "name": "Sticker | GamerLegion (Holo) | Copenhagen 2024",
+    "nameId": 2596879
+  },
+  "Sticker | GamerLegion (Gold) | Copenhagen 2024": {
+    "name": "Sticker | GamerLegion (Gold) | Copenhagen 2024",
+    "nameId": 2596994
+  },
+  "Sticker | SAW | Copenhagen 2024": {
+    "name": "Sticker | SAW | Copenhagen 2024",
+    "nameId": 2596508
   }
 }
