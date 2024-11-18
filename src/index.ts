@@ -208,10 +208,10 @@ async function loadItemFromCSMoneyPage(market_hash_name: string) {
         return;
     }
 
-    return parseInt(responseMoney.nameId, 10);
+    return Number.parseInt(responseMoney.nameId, 10);
 }
 
-async function main() { 
+async function main() {
     const allCS2Items = await loadAllCS2Items();
 
     console.log('Loaded all CS2 items', Object.keys(allCS2Items).length);
