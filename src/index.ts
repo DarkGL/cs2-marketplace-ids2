@@ -246,7 +246,11 @@ async function main() {
 
     let downloaded = 0;
 
-    for (const item in allCS2Items) {
+    const keys = Object.keys(allCS2Items);
+
+    const shuffledKeys = keys.sort(() => Math.random() - 0.5);
+
+    for (const item of shuffledKeys) {
         const currentItem = allCS2Items[item];
 
         if (!currentItem) {

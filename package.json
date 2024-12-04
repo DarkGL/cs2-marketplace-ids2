@@ -24,6 +24,6 @@
   "dependencies": {
     "@types/node": "^22.10.1",
     "slug": "^10.0.0",
-    "undici": "^7.0.0"
+    "undici": "^7.1.0"
   }
 }
