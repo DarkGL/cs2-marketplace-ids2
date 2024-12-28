@@ -60,8 +60,6 @@ jobs:
 
       - name: push
         uses: github-actions-x/commit@v2.9
-        ## prevents forked repos from comitting results in PRs
-        if: github.repository == 'DarkGL/cs2-marketplace-ids2'
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: main

@@ -31,6 +31,10 @@ function writeCSMoneyIds(data: CSMoneyIds) {
     fs.writeFileSync('./csmoney-ids.json', JSON.stringify(data, null, 2));
 }
 
+function writeMissingIds(data: Set<string>) {
+    fs.writeFileSync('./missing-ids.json', JSON.stringify(Array.from(data), null, 2));
+}
+
 async function loadFromCSMoneyTrade(name: string) {
     return fetch(`https://cs.money/1.0/market/sell-orders?limit=60&offset=0&name=${name}`, {
         headers: {
@@ -130,8 +134,7 @@ async function loadFromCSMoneyPage(market_hash_name: string) {
             const fullName = fullNameMatch ? fullNameMatch[1] : null;
 
             // Print results
-            logger.info({ nameId }, 'Extracted nameId:');
-            logger.info({ fullName }, 'Extracted fullName:');
+            logger.info({ nameId, fullName }, 'Extracted nameId and fullName');
 
             return {
                 nameId: nameId?.trim(),
@@ -221,6 +224,8 @@ async function main() {
 
     logger.info({ length: Object.keys(csmoneyIds).length }, 'Loaded CSMoney ids');
 
+    const missingIds = new Set<string>();
+
     let amountToDownload = 0;
 
     const csmoneyIdsKeys = Object.keys(csmoneyIds);
@@ -240,8 +245,12 @@ async function main() {
             continue;
         }
 
+        missingIds.add(currentItem.market_hash_name);
+
         amountToDownload++;
     }
+
+    writeMissingIds(missingIds);
 
     logger.info({ amountToDownload }, 'Amount of items to download');
 
@@ -289,7 +298,10 @@ async function main() {
             nameId: itemMoneyId,
         };
 
+        missingIds.delete(currentItem.market_hash_name);
+
         writeCSMoneyIds(csmoneyIds);
+        writeMissingIds(missingIds);
 
         downloaded++;
 
@@ -299,6 +311,7 @@ async function main() {
     }
 
     writeCSMoneyIds(csmoneyIds);
+    writeMissingIds(missingIds);
 }
 
 async function sleep(ms: number) {
