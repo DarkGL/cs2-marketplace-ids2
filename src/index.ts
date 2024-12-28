@@ -4,6 +4,7 @@ import { request, fetch } from 'undici';
 
 import slug from 'slug';
 
+import { logger } from './logger.js';
 import type { CSGOAPIResponse } from './types/CSGOAPIResponse.js';
 import type { CSMoneyIds } from './types/CSMoneyIds.js';
 import type { CSMoneyResponse, Item as ItemTrade } from './types/CSMoneyResponse.js';
@@ -53,7 +54,7 @@ async function loadFromCSMoneyTrade(name: string) {
     })
         .then((res) => res.json() as Promise<CSMoneyResponse>)
         .catch((err) => {
-            console.log('loadFromCSMoneyTrade', err);
+            logger.error({ err }, 'loadFromCSMoneyTrade');
 
             return Promise.resolve({
                 items: [],
@@ -84,7 +85,7 @@ async function loadFromCSMoneyMarket(name: string) {
     })
         .then((res) => res.json() as Promise<CSMoneyMarketResponse>)
         .catch((err) => {
-            console.log('loadFromCSMoneyMarket', err);
+            logger.error({ err },'loadFromCSMoneyMarket');
 
             return Promise.resolve({
                 items: [],
@@ -129,8 +130,8 @@ async function loadFromCSMoneyPage(market_hash_name: string) {
             const fullName = fullNameMatch ? fullNameMatch[1] : null;
 
             // Print results
-            console.log('Extracted nameId:', nameId);
-            console.log('Extracted fullName:', fullName);
+            logger.info({ nameId }, 'Extracted nameId:');
+            logger.info({ fullName }, 'Extracted fullName:');
 
             return {
                 nameId: nameId?.trim(),
@@ -138,7 +139,7 @@ async function loadFromCSMoneyPage(market_hash_name: string) {
             };
         })
         .catch((err) => {
-            console.log('loadItemFromCSMoneyPage', err);
+            logger.error({ err },'loadItemFromCSMoneyPage');
 
             return Promise.resolve(null);
         });
@@ -156,7 +157,7 @@ async function loadItemFromCSMoneyTrade(market_hash_name: string) {
     const responseMoney = await loadFromCSMoneyTrade(market_hash_name);
 
     if (!responseMoney || !responseMoney?.items || responseMoney?.items?.length === 0) {
-        console.log(`Item ${market_hash_name} has no CSMoney sell orders`);
+        logger.info(`Item ${market_hash_name} has no CSMoney sell orders`);
 
         return;
     }
@@ -164,7 +165,7 @@ async function loadItemFromCSMoneyTrade(market_hash_name: string) {
     const itemMoney = findItemTrade(market_hash_name, responseMoney.items);
 
     if (!itemMoney) {
-        console.log(`Item ${market_hash_name} has no CSMoney sell orders`);
+        logger.info(`Item ${market_hash_name} has no CSMoney sell orders`);
 
         return;
     }
@@ -176,7 +177,7 @@ async function loadItemFromCSMoneyMarket(market_hash_name: string) {
     const responseMoney = await loadFromCSMoneyMarket(market_hash_name);
 
     if (!responseMoney || !responseMoney?.items || responseMoney?.items?.length === 0) {
-        console.log(`Item ${market_hash_name} has no CSMoney market trade`);
+        logger.info(`Item ${market_hash_name} has no CSMoney market trade`);
 
         return;
     }
@@ -184,7 +185,7 @@ async function loadItemFromCSMoneyMarket(market_hash_name: string) {
     const itemMoney = findItemMarket(market_hash_name, responseMoney.items);
 
     if (!itemMoney) {
-        console.log(`Item ${market_hash_name} has no CSMoney market trade`);
+        logger.info(`Item ${market_hash_name} has no CSMoney market trade`);
 
         return;
     }
@@ -201,7 +202,7 @@ async function loadItemFromCSMoneyPage(market_hash_name: string) {
         !responseMoney?.fullName ||
         responseMoney?.fullName !== market_hash_name
     ) {
-        console.log(
+        logger.info(
             `Item ${market_hash_name} has no CSMoney page ${responseMoney?.fullName} with nameId ${responseMoney?.nameId}`,
         );
 
@@ -214,11 +215,11 @@ async function loadItemFromCSMoneyPage(market_hash_name: string) {
 async function main() {
     const allCS2Items = await loadAllCS2Items();
 
-    console.log('Loaded all CS2 items', Object.keys(allCS2Items).length);
+    logger.info({ length: Object.keys(allCS2Items).length }, 'Loaded all CS2 items');
 
     const csmoneyIds = loadCSMoneyIds();
 
-    console.log('Loaded CSMoney ids', Object.keys(csmoneyIds).length);
+    logger.info({length: Object.keys(csmoneyIds).length } ,'Loaded CSMoney ids');
 
     let amountToDownload = 0;
 
@@ -242,7 +243,7 @@ async function main() {
         amountToDownload++;
     }
 
-    console.log('Amount of items to download', amountToDownload);
+    logger.info({amountToDownload},'Amount of items to download');
 
     let downloaded = 0;
 
@@ -276,10 +277,12 @@ async function main() {
         }
 
         if (!itemMoneyId) {
+            await sleep(5000);
+
             continue;
         }
 
-        console.log(`Item ${currentItem.market_hash_name} is on CSMoney`, itemMoneyId);
+        logger.info({ itemMoneyId }, `Item ${currentItem.market_hash_name} is on CSMoney`);
 
         csmoneyIds[currentItem.market_hash_name] = {
             name: currentItem.market_hash_name,
@@ -296,6 +299,10 @@ async function main() {
     }
 
     writeCSMoneyIds(csmoneyIds);
+}
+
+async function sleep(ms: number) {
+    return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 main();

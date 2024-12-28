@@ -48,10 +48,10 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-      - name: npm install
+      - name: Install dependencies
         run: npm ci
 
-      - name: npm test
+      - name: Download items
         run: npm run start
 
         ## FIX: https://github.com/github-actions-x/commit/issues/16
