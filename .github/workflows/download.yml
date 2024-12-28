@@ -54,16 +54,14 @@ jobs:
       - name: Download items
         run: npm run start
 
-        ## FIX: https://github.com/github-actions-x/commit/issues/16
       - name: Expose git commit data
         uses: rlespinasse/git-commit-data-action@v1 ## https://github.com/rlespinasse/git-commit-data-action
 
       - name: push
-        uses: github-actions-x/commit@v2.9
+        uses: EndBug/add-and-commit@v9
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: main
-          commit-message: 'feat: ${{ matrix.node-version }} auto downloaded ids'
-          rebase: 'true'
-          name: ${{ env.GIT_COMMIT_AUTHOR_NAME }}   ## FIX: https://github.com/github-actions-x/commit/issues/16
-          email: ${{ env.GIT_COMMIT_AUTHOR_EMAIL }} ## FIX: https://github.com/github-actions-x/commit/issues/16
+          author_name: ${{ env.GIT_COMMIT_AUTHOR_NAME }}
+          author_email: ${{ env.GIT_COMMIT_AUTHOR_EMAIL }}
+          message: 'auto downloaded ids'
+          branch: main
+          push: true
