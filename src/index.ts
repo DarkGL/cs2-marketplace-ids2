@@ -85,7 +85,7 @@ async function loadFromCSMoneyMarket(name: string) {
     })
         .then((res) => res.json() as Promise<CSMoneyMarketResponse>)
         .catch((err) => {
-            logger.error({ err },'loadFromCSMoneyMarket');
+            logger.error({ err }, 'loadFromCSMoneyMarket');
 
             return Promise.resolve({
                 items: [],
@@ -139,7 +139,7 @@ async function loadFromCSMoneyPage(market_hash_name: string) {
             };
         })
         .catch((err) => {
-            logger.error({ err },'loadItemFromCSMoneyPage');
+            logger.error({ err }, 'loadItemFromCSMoneyPage');
 
             return Promise.resolve(null);
         });
@@ -219,7 +219,7 @@ async function main() {
 
     const csmoneyIds = loadCSMoneyIds();
 
-    logger.info({length: Object.keys(csmoneyIds).length } ,'Loaded CSMoney ids');
+    logger.info({ length: Object.keys(csmoneyIds).length }, 'Loaded CSMoney ids');
 
     let amountToDownload = 0;
 
@@ -243,7 +243,7 @@ async function main() {
         amountToDownload++;
     }
 
-    logger.info({amountToDownload},'Amount of items to download');
+    logger.info({ amountToDownload }, 'Amount of items to download');
 
     let downloaded = 0;
 
