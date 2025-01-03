@@ -85306,5 +85306,1005 @@
   "StatTrak™ XM1014 | XOXO (Battle-Scarred)": {
     "name": "StatTrak™ XM1014 | XOXO (Battle-Scarred)",
     "nameId": 1085575
+  },
+  "Sticker | 3DMAX | Katowice 2015": {
+    "name": "Sticker | 3DMAX | Katowice 2015",
+    "nameId": 13700
+  },
+  "★ Huntsman Knife | Fade (Factory New)": {
+    "name": "★ Huntsman Knife | Fade (Factory New)",
+    "nameId": 10172
+  },
+  "PP-Bizon | Embargo (Field-Tested)": {
+    "name": "PP-Bizon | Embargo (Field-Tested)",
+    "nameId": 1074308
+  },
+  "USP-S | Black Lotus (Battle-Scarred)": {
+    "name": "USP-S | Black Lotus (Battle-Scarred)",
+    "nameId": 1086879
+  },
+  "★ StatTrak™ Flip Knife | Night (Field-Tested)": {
+    "name": "★ StatTrak™ Flip Knife | Night (Field-Tested)",
+    "nameId": 13394
+  },
+  "Sticker | AdreN (Foil) | Cologne 2016": {
+    "name": "Sticker | AdreN (Foil) | Cologne 2016",
+    "nameId": 23516
+  },
+  "P90 | Schematic (Battle-Scarred)": {
+    "name": "P90 | Schematic (Battle-Scarred)",
+    "nameId": 1087612
+  },
+  "★ Stiletto Knife | Scorched (Factory New)": {
+    "name": "★ Stiletto Knife | Scorched (Factory New)",
+    "nameId": 188387
+  },
+  "StatTrak™ PP-Bizon | Space Cat (Factory New)": {
+    "name": "StatTrak™ PP-Bizon | Space Cat (Factory New)",
+    "nameId": 1090232
+  },
+  "StatTrak™ SG 553 | Aloha (Field-Tested)": {
+    "name": "StatTrak™ SG 553 | Aloha (Field-Tested)",
+    "nameId": 21004
+  },
+  "MAC-10 | Copper Borre (Factory New)": {
+    "name": "MAC-10 | Copper Borre (Factory New)",
+    "nameId": 1074745
+  },
+  "R8 Revolver | Inlay (Battle-Scarred)": {
+    "name": "R8 Revolver | Inlay (Battle-Scarred)",
+    "nameId": 1309776
+  },
+  "★ StatTrak™ Bayonet | Night (Field-Tested)": {
+    "name": "★ StatTrak™ Bayonet | Night (Field-Tested)",
+    "nameId": 1838
+  },
+  "StatTrak™ MP9 | Deadly Poison (Field-Tested)": {
+    "name": "StatTrak™ MP9 | Deadly Poison (Field-Tested)",
+    "nameId": 1921
+  },
+  "MP9 | Wild Lily (Factory New)": {
+    "name": "MP9 | Wild Lily (Factory New)",
+    "nameId": 1075111
+  },
+  "★ Flip Knife | Boreal Forest (Battle-Scarred)": {
+    "name": "★ Flip Knife | Boreal Forest (Battle-Scarred)",
+    "nameId": 1292
+  },
+  "★ StatTrak™ Butterfly Knife | Boreal Forest (Field-Tested)": {
+    "name": "★ StatTrak™ Butterfly Knife | Boreal Forest (Field-Tested)",
+    "nameId": 3507
+  },
+  "★ M9 Bayonet | Damascus Steel (Battle-Scarred)": {
+    "name": "★ M9 Bayonet | Damascus Steel (Battle-Scarred)",
+    "nameId": 3448
+  },
+  "★ Broken Fang Gloves | Jade (Minimal Wear)": {
+    "name": "★ Broken Fang Gloves | Jade (Minimal Wear)",
+    "nameId": 1083838
+  },
+  "★ Huntsman Knife | Lore (Field-Tested)": {
+    "name": "★ Huntsman Knife | Lore (Field-Tested)",
+    "nameId": 1087240
+  },
+  "MP5-SD | Nitro (Factory New)": {
+    "name": "MP5-SD | Nitro (Factory New)",
+    "nameId": 1083674
+  },
+  "★ Huntsman Knife | Case Hardened (Well-Worn)": {
+    "name": "★ Huntsman Knife | Case Hardened (Well-Worn)",
+    "nameId": 18515
+  },
+  "Galil AR | Tuxedo (Well-Worn)": {
+    "name": "Galil AR | Tuxedo (Well-Worn)",
+    "nameId": 548
+  },
+  "Nova | Modern Hunter (Battle-Scarred)": {
+    "name": "Nova | Modern Hunter (Battle-Scarred)",
+    "nameId": 21268
+  },
+  "MAC-10 | Whitefish (Factory New)": {
+    "name": "MAC-10 | Whitefish (Factory New)",
+    "nameId": 201832
+  },
+  "SCAR-20 | Green Marine (Field-Tested)": {
+    "name": "SCAR-20 | Green Marine (Field-Tested)",
+    "nameId": 3746
+  },
+  "★ StatTrak™ Bowie Knife | Autotronic (Well-Worn)": {
+    "name": "★ StatTrak™ Bowie Knife | Autotronic (Well-Worn)",
+    "nameId": 1088270
+  },
+  "★ StatTrak™ Ursus Knife | Urban Masked (Minimal Wear)": {
+    "name": "★ StatTrak™ Ursus Knife | Urban Masked (Minimal Wear)",
+    "nameId": 39104
+  },
+  "★ Sport Gloves | Pandora's Box (Field-Tested)": {
+    "name": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+    "nameId": 9458
+  },
+  "M4A1-S | Wash me plz (Well-Worn)": {
+    "name": "M4A1-S | Wash me plz (Well-Worn)",
+    "nameId": 2598130
+  },
+  "MP7 | Full Stop (Well-Worn)": {
+    "name": "MP7 | Full Stop (Well-Worn)",
+    "nameId": 4114
+  },
+  "Operation Breakout All Access Pass": {
+    "name": "Operation Breakout All Access Pass",
+    "nameId": 3955
+  },
+  "★ StatTrak™ Paracord Knife | Case Hardened (Factory New)": {
+    "name": "★ StatTrak™ Paracord Knife | Case Hardened (Factory New)",
+    "nameId": 1075173
+  },
+  "SSG 08 | Prey (Field-Tested)": {
+    "name": "SSG 08 | Prey (Field-Tested)",
+    "nameId": 1086842
+  },
+  "PP-Bizon | Jungle Slipstream (Minimal Wear)": {
+    "name": "PP-Bizon | Jungle Slipstream (Minimal Wear)",
+    "nameId": 3039
+  },
+  "StatTrak™ MAC-10 | Neon Rider (Factory New)": {
+    "name": "StatTrak™ MAC-10 | Neon Rider (Factory New)",
+    "nameId": 2157
+  },
+  "★ StatTrak™ Gut Knife | Stained (Well-Worn)": {
+    "name": "★ StatTrak™ Gut Knife | Stained (Well-Worn)",
+    "nameId": 2168
+  },
+  "MP9 | Bulldozer (Battle-Scarred)": {
+    "name": "MP9 | Bulldozer (Battle-Scarred)",
+    "nameId": 18179
+  },
+  "★ Broken Fang Gloves | Unhinged (Field-Tested)": {
+    "name": "★ Broken Fang Gloves | Unhinged (Field-Tested)",
+    "nameId": 1083783
+  },
+  "Sticker | Ramz1kBO$$ | Berlin 2019": {
+    "name": "Sticker | Ramz1kBO$$ | Berlin 2019",
+    "nameId": 874646
+  },
+  "MP7 | Mischief (Minimal Wear)": {
+    "name": "MP7 | Mischief (Minimal Wear)",
+    "nameId": 201892
+  },
+  "Sticker | erkaSt (Gold) | Berlin 2019": {
+    "name": "Sticker | erkaSt (Gold) | Berlin 2019",
+    "nameId": 891732
+  },
+  "Sticker | xccurate | London 2018": {
+    "name": "Sticker | xccurate | London 2018",
+    "nameId": 60210
+  },
+  "★ StatTrak™ Ursus Knife | Forest DDPAT (Battle-Scarred)": {
+    "name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Battle-Scarred)",
+    "nameId": 39097
+  },
+  "★ StatTrak™ Ursus Knife | Boreal Forest (Minimal Wear)": {
+    "name": "★ StatTrak™ Ursus Knife | Boreal Forest (Minimal Wear)",
+    "nameId": 39138
+  },
+  "★ Bloodhound Gloves | Charred (Minimal Wear)": {
+    "name": "★ Bloodhound Gloves | Charred (Minimal Wear)",
+    "nameId": 9564
+  },
+  "M249 | Shipping Forecast (Well-Worn)": {
+    "name": "M249 | Shipping Forecast (Well-Worn)",
+    "nameId": 8556
+  },
+  "StatTrak™ PP-Bizon | Lumen (Well-Worn)": {
+    "name": "StatTrak™ PP-Bizon | Lumen (Well-Worn)",
+    "nameId": 1087283
+  },
+  "★ Gut Knife | Autotronic (Field-Tested)": {
+    "name": "★ Gut Knife | Autotronic (Field-Tested)",
+    "nameId": 7128
+  },
+  "P90 | Module (Factory New)": {
+    "name": "P90 | Module (Factory New)",
+    "nameId": 5757
+  },
+  "Nova | Sobek's Bite (Well-Worn)": {
+    "name": "Nova | Sobek's Bite (Well-Worn)",
+    "nameId": 1309861
+  },
+  "CZ75-Auto | Poison Dart (Field-Tested)": {
+    "name": "CZ75-Auto | Poison Dart (Field-Tested)",
+    "nameId": 4065
+  },
+  "StatTrak™ USP-S | Cyrex (Field-Tested)": {
+    "name": "StatTrak™ USP-S | Cyrex (Field-Tested)",
+    "nameId": 4087
+  },
+  "★ Driver Gloves | King Snake (Field-Tested)": {
+    "name": "★ Driver Gloves | King Snake (Field-Tested)",
+    "nameId": 24374
+  },
+  "Souvenir Sawed-Off | Irradiated Alert (Battle-Scarred)": {
+    "name": "Souvenir Sawed-Off | Irradiated Alert (Battle-Scarred)",
+    "nameId": 7825
+  },
+  "P250 | Sand Dune (Battle-Scarred)": {
+    "name": "P250 | Sand Dune (Battle-Scarred)",
+    "nameId": 2580
+  },
+  "Sticker | NiKo (Glitter) | Shanghai 2024": {
+    "name": "Sticker | NiKo (Glitter) | Shanghai 2024",
+    "nameId": 2598463
+  },
+  "Sticker | jL | Shanghai 2024": {
+    "name": "Sticker | jL | Shanghai 2024",
+    "nameId": 2598333
+  },
+  "StatTrak™ P250 | See Ya Later (Factory New)": {
+    "name": "StatTrak™ P250 | See Ya Later (Factory New)",
+    "nameId": 15340
+  },
+  "Sticker | huNter- (Gold) | Copenhagen 2024": {
+    "name": "Sticker | huNter- (Gold) | Copenhagen 2024",
+    "nameId": 2596790
+  },
+  "Sticker | jkaem (Gold) | London 2018": {
+    "name": "Sticker | jkaem (Gold) | London 2018",
+    "nameId": 84855
+  },
+  "MP7 | Mischief (Battle-Scarred)": {
+    "name": "MP7 | Mischief (Battle-Scarred)",
+    "nameId": 201776
+  },
+  "Sticker | peet (Foil) | Cluj-Napoca 2015": {
+    "name": "Sticker | peet (Foil) | Cluj-Napoca 2015",
+    "nameId": 13884
+  },
+  "★ Bayonet | Damascus Steel (Battle-Scarred)": {
+    "name": "★ Bayonet | Damascus Steel (Battle-Scarred)",
+    "nameId": 1833
+  },
+  "Souvenir PP-Bizon | Irradiated Alert (Factory New)": {
+    "name": "Souvenir PP-Bizon | Irradiated Alert (Factory New)",
+    "nameId": 19193
+  },
+  "StatTrak™ UMP-45 | Metal Flowers (Battle-Scarred)": {
+    "name": "StatTrak™ UMP-45 | Metal Flowers (Battle-Scarred)",
+    "nameId": 3038
+  },
+  "P90 | Schematic (Well-Worn)": {
+    "name": "P90 | Schematic (Well-Worn)",
+    "nameId": 1087586
+  },
+  "Galil AR | Amber Fade (Well-Worn)": {
+    "name": "Galil AR | Amber Fade (Well-Worn)",
+    "nameId": 1087536
+  },
+  "MP9 | Deadly Poison (Well-Worn)": {
+    "name": "MP9 | Deadly Poison (Well-Worn)",
+    "nameId": 6707
+  },
+  "★ StatTrak™ Butterfly Knife | Blue Steel (Well-Worn)": {
+    "name": "★ StatTrak™ Butterfly Knife | Blue Steel (Well-Worn)",
+    "nameId": 14966
+  },
+  "MAC-10 | Monkeyflage (Battle-Scarred)": {
+    "name": "MAC-10 | Monkeyflage (Battle-Scarred)",
+    "nameId": 1092356
+  },
+  "MP5-SD | Acid Wash (Well-Worn)": {
+    "name": "MP5-SD | Acid Wash (Well-Worn)",
+    "nameId": 1074877
+  },
+  "StatTrak™ MAG-7 | Monster Call (Battle-Scarred)": {
+    "name": "StatTrak™ MAG-7 | Monster Call (Battle-Scarred)",
+    "nameId": 1081500
+  },
+  "Sticker | kioShiMa | Cologne 2016": {
+    "name": "Sticker | kioShiMa | Cologne 2016",
+    "nameId": 19210
+  },
+  "★ Huntsman Knife | Stained (Factory New)": {
+    "name": "★ Huntsman Knife | Stained (Factory New)",
+    "nameId": 25034
+  },
+  "Sticker | Aleksib (Gold) | Shanghai 2024": {
+    "name": "Sticker | Aleksib (Gold) | Shanghai 2024",
+    "nameId": 2598759
+  },
+  "Sticker | Heroic | Copenhagen 2024": {
+    "name": "Sticker | Heroic | Copenhagen 2024",
+    "nameId": 2596509
+  },
+  "Sticker | FaZe Clan (Glitter) | Shanghai 2024": {
+    "name": "Sticker | FaZe Clan (Glitter) | Shanghai 2024",
+    "nameId": 2598293
+  },
+  "MAC-10 | Tornado (Factory New)": {
+    "name": "MAC-10 | Tornado (Factory New)",
+    "nameId": 7136
+  },
+  "Souvenir SCAR-20 | Sand Mesh (Well-Worn)": {
+    "name": "Souvenir SCAR-20 | Sand Mesh (Well-Worn)",
+    "nameId": 19175
+  },
+  "MP5-SD | Bamboo Garden (Minimal Wear)": {
+    "name": "MP5-SD | Bamboo Garden (Minimal Wear)",
+    "nameId": 1073913
+  },
+  "★ StatTrak™ Survival Knife | Blue Steel (Factory New)": {
+    "name": "★ StatTrak™ Survival Knife | Blue Steel (Factory New)",
+    "nameId": 1078684
+  },
+  "StatTrak™ M4A4 | Desert-Strike (Well-Worn)": {
+    "name": "StatTrak™ M4A4 | Desert-Strike (Well-Worn)",
+    "nameId": 7178
+  },
+  "★ Huntsman Knife | Black Laminate (Minimal Wear)": {
+    "name": "★ Huntsman Knife | Black Laminate (Minimal Wear)",
+    "nameId": 1087524
+  },
+  "Sawed-Off | Clay Ambush (Well-Worn)": {
+    "name": "Sawed-Off | Clay Ambush (Well-Worn)",
+    "nameId": 1083578
+  },
+  "★ Karambit | Blue Steel (Battle-Scarred)": {
+    "name": "★ Karambit | Blue Steel (Battle-Scarred)",
+    "nameId": 1689
+  },
+  "★ StatTrak™ Bowie Knife | Crimson Web (Well-Worn)": {
+    "name": "★ StatTrak™ Bowie Knife | Crimson Web (Well-Worn)",
+    "nameId": 26723
+  },
+  "PP-Bizon | Runic (Well-Worn)": {
+    "name": "PP-Bizon | Runic (Well-Worn)",
+    "nameId": 1081392
+  },
+  "Sawed-Off | Irradiated Alert (Factory New)": {
+    "name": "Sawed-Off | Irradiated Alert (Factory New)",
+    "nameId": 8681
+  },
+  "Sticker | Xyp9x | Cologne 2016": {
+    "name": "Sticker | Xyp9x | Cologne 2016",
+    "nameId": 16289
+  },
+  "M4A4 | The Emperor (Well-Worn)": {
+    "name": "M4A4 | The Emperor (Well-Worn)",
+    "nameId": 203605
+  },
+  "XM1014 | XOXO (Well-Worn)": {
+    "name": "XM1014 | XOXO (Well-Worn)",
+    "nameId": 1085546
+  },
+  "★ Karambit | Safari Mesh (Well-Worn)": {
+    "name": "★ Karambit | Safari Mesh (Well-Worn)",
+    "nameId": 3651
+  },
+  "★ Sport Gloves | Scarlet Shamagh (Minimal Wear)": {
+    "name": "★ Sport Gloves | Scarlet Shamagh (Minimal Wear)",
+    "nameId": 1083789
+  },
+  "Sticker | FlameZ | Shanghai 2024": {
+    "name": "Sticker | FlameZ | Shanghai 2024",
+    "nameId": 2598349
+  },
+  "Sticker | torzsi | Shanghai 2024": {
+    "name": "Sticker | torzsi | Shanghai 2024",
+    "nameId": 2598325
+  },
+  "Sawed-Off | Sage Spray (Field-Tested)": {
+    "name": "Sawed-Off | Sage Spray (Field-Tested)",
+    "nameId": 3401
+  },
+  "Tec-9 | Re-Entry (Field-Tested)": {
+    "name": "Tec-9 | Re-Entry (Field-Tested)",
+    "nameId": 701
+  },
+  "StatTrak™ G3SG1 | Dream Glade (Battle-Scarred)": {
+    "name": "StatTrak™ G3SG1 | Dream Glade (Battle-Scarred)",
+    "nameId": 1090227
+  },
+  "Sticker | Flipsid3 Tactics | Cologne 2015": {
+    "name": "Sticker | Flipsid3 Tactics | Cologne 2015",
+    "nameId": 8483
+  },
+  "StatTrak™ MAC-10 | Stalker (Field-Tested)": {
+    "name": "StatTrak™ MAC-10 | Stalker (Field-Tested)",
+    "nameId": 1074828
+  },
+  "Sticker | Complexity Gaming (Holo) | Shanghai 2024": {
+    "name": "Sticker | Complexity Gaming (Holo) | Shanghai 2024",
+    "nameId": 2598656
+  },
+  "PP-Bizon | Forest Leaves (Field-Tested)": {
+    "name": "PP-Bizon | Forest Leaves (Field-Tested)",
+    "nameId": 2038
+  },
+  "Sticker | chopper (Foil) | London 2018": {
+    "name": "Sticker | chopper (Foil) | London 2018",
+    "nameId": 64018
+  },
+  "Sticker | BIG | Shanghai 2024": {
+    "name": "Sticker | BIG | Shanghai 2024",
+    "nameId": 2598337
+  },
+  "SG 553 | Traveler (Minimal Wear)": {
+    "name": "SG 553 | Traveler (Minimal Wear)",
+    "nameId": 174
+  },
+  "CZ75-Auto | Distressed (Battle-Scarred)": {
+    "name": "CZ75-Auto | Distressed (Battle-Scarred)",
+    "nameId": 1079430
+  },
+  "MAC-10 | Toybox (Factory New)": {
+    "name": "MAC-10 | Toybox (Factory New)",
+    "nameId": 1087451
+  },
+  "StatTrak™ USP-S | Black Lotus (Factory New)": {
+    "name": "StatTrak™ USP-S | Black Lotus (Factory New)",
+    "nameId": 1087442
+  },
+  "Sticker | jks | Shanghai 2024": {
+    "name": "Sticker | jks | Shanghai 2024",
+    "nameId": 2598565
+  },
+  "Sticker | flamie (Foil) | Atlanta 2017": {
+    "name": "Sticker | flamie (Foil) | Atlanta 2017",
+    "nameId": 20580
+  },
+  "Negev | Palm (Field-Tested)": {
+    "name": "Negev | Palm (Field-Tested)",
+    "nameId": 13677
+  },
+  "★ Navaja Knife | Boreal Forest (Factory New)": {
+    "name": "★ Navaja Knife | Boreal Forest (Factory New)",
+    "nameId": 170734
+  },
+  "★ Bayonet | Marble Fade (Minimal Wear)": {
+    "name": "★ Bayonet | Marble Fade (Minimal Wear)",
+    "nameId": 17054
+  },
+  "Sticker | Grim | Shanghai 2024": {
+    "name": "Sticker | Grim | Shanghai 2024",
+    "nameId": 2598566
+  },
+  "Souvenir USP-S | Purple DDPAT (Well-Worn)": {
+    "name": "Souvenir USP-S | Purple DDPAT (Well-Worn)",
+    "nameId": 1088679
+  },
+  "★ Stiletto Knife | Forest DDPAT (Battle-Scarred)": {
+    "name": "★ Stiletto Knife | Forest DDPAT (Battle-Scarred)",
+    "nameId": 38713
+  },
+  "★ Bayonet | Stained (Well-Worn)": {
+    "name": "★ Bayonet | Stained (Well-Worn)",
+    "nameId": 9229
+  },
+  "StatTrak™ SSG 08 | Bloodshot (Well-Worn)": {
+    "name": "StatTrak™ SSG 08 | Bloodshot (Well-Worn)",
+    "nameId": 1075025
+  },
+  "★ Gut Knife | Night (Well-Worn)": {
+    "name": "★ Gut Knife | Night (Well-Worn)",
+    "nameId": 9169
+  },
+  "Souvenir Nova | Sobek's Bite (Well-Worn)": {
+    "name": "Souvenir Nova | Sobek's Bite (Well-Worn)",
+    "nameId": 1333770
+  },
+  "Souvenir Nova | Interlock (Minimal Wear)": {
+    "name": "Souvenir Nova | Interlock (Minimal Wear)",
+    "nameId": 1088606
+  },
+  "CZ75-Auto | Chalice (Minimal Wear)": {
+    "name": "CZ75-Auto | Chalice (Minimal Wear)",
+    "nameId": 3369
+  },
+  "Sticker | FalleN | Cluj-Napoca 2015": {
+    "name": "Sticker | FalleN | Cluj-Napoca 2015",
+    "nameId": 18519
+  },
+  "★ Bowie Knife | Blue Steel (Factory New)": {
+    "name": "★ Bowie Knife | Blue Steel (Factory New)",
+    "nameId": 21185
+  },
+  "Sticker | denis (Foil) | Cluj-Napoca 2015": {
+    "name": "Sticker | denis (Foil) | Cluj-Napoca 2015",
+    "nameId": 22421
+  },
+  "SG 553 | Ol' Rusty (Factory New)": {
+    "name": "SG 553 | Ol' Rusty (Factory New)",
+    "nameId": 1081393
+  },
+  "MP5-SD | Necro Jr. (Field-Tested)": {
+    "name": "MP5-SD | Necro Jr. (Field-Tested)",
+    "nameId": 1090108
+  },
+  "★ Falchion Knife | Autotronic (Field-Tested)": {
+    "name": "★ Falchion Knife | Autotronic (Field-Tested)",
+    "nameId": 1087440
+  },
+  "★ M9 Bayonet | Crimson Web (Minimal Wear)": {
+    "name": "★ M9 Bayonet | Crimson Web (Minimal Wear)",
+    "nameId": 4070
+  },
+  "★ StatTrak™ Paracord Knife | Case Hardened (Well-Worn)": {
+    "name": "★ StatTrak™ Paracord Knife | Case Hardened (Well-Worn)",
+    "nameId": 1075189
+  },
+  "MP5-SD | Necro Jr. (Well-Worn)": {
+    "name": "MP5-SD | Necro Jr. (Well-Worn)",
+    "nameId": 1090081
+  },
+  "Sticker | MATYS | Shanghai 2024": {
+    "name": "Sticker | MATYS | Shanghai 2024",
+    "nameId": 2598607
+  },
+  "M4A1-S | Emphorosaur-S (Battle-Scarred)": {
+    "name": "M4A1-S | Emphorosaur-S (Battle-Scarred)",
+    "nameId": 1159026
+  },
+  "Galil AR | Tuxedo (Minimal Wear)": {
+    "name": "Galil AR | Tuxedo (Minimal Wear)",
+    "nameId": 1872
+  },
+  "★ Ursus Knife | Damascus Steel (Factory New)": {
+    "name": "★ Ursus Knife | Damascus Steel (Factory New)",
+    "nameId": 203462
+  },
+  "★ Sport Gloves | Vice (Field-Tested)": {
+    "name": "★ Sport Gloves | Vice (Field-Tested)",
+    "nameId": 23220
+  },
+  "MAG-7 | Rust Coat (Minimal Wear)": {
+    "name": "MAG-7 | Rust Coat (Minimal Wear)",
+    "nameId": 170489
+  },
+  "M4A1-S | Fizzy POP (Battle-Scarred)": {
+    "name": "M4A1-S | Fizzy POP (Battle-Scarred)",
+    "nameId": 1086988
+  },
+  "Sticker | Tyloo (Holo) | Stockholm 2021": {
+    "name": "Sticker | Tyloo (Holo) | Stockholm 2021",
+    "nameId": 1088394
+  },
+  "Sticker | rain (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | rain (Foil) | MLG Columbus 2016",
+    "nameId": 19250
+  },
+  "Sticker | yay (Gold) | London 2018": {
+    "name": "Sticker | yay (Gold) | London 2018",
+    "nameId": 167768
+  },
+  "Negev | CaliCamo (Factory New)": {
+    "name": "Negev | CaliCamo (Factory New)",
+    "nameId": 3378
+  },
+  "P250 | Hive (Minimal Wear)": {
+    "name": "P250 | Hive (Minimal Wear)",
+    "nameId": 4846
+  },
+  "CZ75-Auto | Indigo (Well-Worn)": {
+    "name": "CZ75-Auto | Indigo (Well-Worn)",
+    "nameId": 1074148
+  },
+  "Sticker | blameF | Shanghai 2024": {
+    "name": "Sticker | blameF | Shanghai 2024",
+    "nameId": 2598586
+  },
+  "Sticker | syrsoN (Glitter) | Shanghai 2024": {
+    "name": "Sticker | syrsoN (Glitter) | Shanghai 2024",
+    "nameId": 2598724
+  },
+  "Sticker | sjuush (Glitter) | Shanghai 2024": {
+    "name": "Sticker | sjuush (Glitter) | Shanghai 2024",
+    "nameId": 2598356
+  },
+  "G3SG1 | Orange Crash (Battle-Scarred)": {
+    "name": "G3SG1 | Orange Crash (Battle-Scarred)",
+    "nameId": 15897
+  },
+  "★ Karambit | Ultraviolet (Factory New)": {
+    "name": "★ Karambit | Ultraviolet (Factory New)",
+    "nameId": 392
+  },
+  "Sticker | coldzera | Cluj-Napoca 2015": {
+    "name": "Sticker | coldzera | Cluj-Napoca 2015",
+    "nameId": 13887
+  },
+  "Sticker | ScreaM | Cluj-Napoca 2015": {
+    "name": "Sticker | ScreaM | Cluj-Napoca 2015",
+    "nameId": 18936
+  },
+  "Sticker | Sharks Esports | Stockholm 2021": {
+    "name": "Sticker | Sharks Esports | Stockholm 2021",
+    "nameId": 1088376
+  },
+  "Sticker | zeRRoFIX (Glitter) | Shanghai 2024": {
+    "name": "Sticker | zeRRoFIX (Glitter) | Shanghai 2024",
+    "nameId": 2598655
+  },
+  "Souvenir Tec-9 | Mummy's Rot (Field-Tested)": {
+    "name": "Souvenir Tec-9 | Mummy's Rot (Field-Tested)",
+    "nameId": 1331486
+  },
+  "Galil AR | VariCamo (Battle-Scarred)": {
+    "name": "Galil AR | VariCamo (Battle-Scarred)",
+    "nameId": 11069
+  },
+  "Galil AR | CAUTION! (Battle-Scarred)": {
+    "name": "Galil AR | CAUTION! (Battle-Scarred)",
+    "nameId": 1087617
+  },
+  "StatTrak™ Sawed-Off | Spirit Board (Well-Worn)": {
+    "name": "StatTrak™ Sawed-Off | Spirit Board (Well-Worn)",
+    "nameId": 1090103
+  },
+  "M4A4 | Red DDPAT (Minimal Wear)": {
+    "name": "M4A4 | Red DDPAT (Minimal Wear)",
+    "nameId": 1087146
+  },
+  "StatTrak™ PP-Bizon | Runic (Minimal Wear)": {
+    "name": "StatTrak™ PP-Bizon | Runic (Minimal Wear)",
+    "nameId": 1081402
+  },
+  "Souvenir R8 Revolver | Nitro (Well-Worn)": {
+    "name": "Souvenir R8 Revolver | Nitro (Well-Worn)",
+    "nameId": 168850
+  },
+  "Sticker | phzy (Glitter) | Shanghai 2024": {
+    "name": "Sticker | phzy (Glitter) | Shanghai 2024",
+    "nameId": 2598457
+  },
+  "Sticker | rain (Glitter) | Copenhagen 2024": {
+    "name": "Sticker | rain (Glitter) | Copenhagen 2024",
+    "nameId": 2596756
+  },
+  "Sticker | stanislaw (Gold) | Shanghai 2024": {
+    "name": "Sticker | stanislaw (Gold) | Shanghai 2024",
+    "nameId": 2598621
+  },
+  "StatTrak™ M4A1-S | Emphorosaur-S (Well-Worn)": {
+    "name": "StatTrak™ M4A1-S | Emphorosaur-S (Well-Worn)",
+    "nameId": 1164780
+  },
+  "Sticker | paiN Gaming | Copenhagen 2024": {
+    "name": "Sticker | paiN Gaming | Copenhagen 2024",
+    "nameId": 2596537
+  },
+  "P250 | Digital Architect (Field-Tested)": {
+    "name": "P250 | Digital Architect (Field-Tested)",
+    "nameId": 1087471
+  },
+  "G3SG1 | Ventilator (Factory New)": {
+    "name": "G3SG1 | Ventilator (Factory New)",
+    "nameId": 5018
+  },
+  "★ StatTrak™ Skeleton Knife | Boreal Forest (Field-Tested)": {
+    "name": "★ StatTrak™ Skeleton Knife | Boreal Forest (Field-Tested)",
+    "nameId": 1075459
+  },
+  "Sticker | NiKo (Foil) | Cologne 2016": {
+    "name": "Sticker | NiKo (Foil) | Cologne 2016",
+    "nameId": 19693
+  },
+  "Sticker | FaZe Clan (Holo) | Stockholm 2021": {
+    "name": "Sticker | FaZe Clan (Holo) | Stockholm 2021",
+    "nameId": 1088425
+  },
+  "StatTrak™ MAG-7 | BI83 Spectrum (Minimal Wear)": {
+    "name": "StatTrak™ MAG-7 | BI83 Spectrum (Minimal Wear)",
+    "nameId": 1087241
+  },
+  "Sticker | lux | Shanghai 2024": {
+    "name": "Sticker | lux | Shanghai 2024",
+    "nameId": 2598491
+  },
+  "Sticker | device (Foil) | Cluj-Napoca 2015": {
+    "name": "Sticker | device (Foil) | Cluj-Napoca 2015",
+    "nameId": 19536
+  },
+  "Sticker | DeadFox (Gold) | Berlin 2019": {
+    "name": "Sticker | DeadFox (Gold) | Berlin 2019",
+    "nameId": 876775
+  },
+  "★ Bowie Knife | Black Laminate (Minimal Wear)": {
+    "name": "★ Bowie Knife | Black Laminate (Minimal Wear)",
+    "nameId": 1087658
+  },
+  "Sticker | Jame (Gold) | Copenhagen 2024": {
+    "name": "Sticker | Jame (Gold) | Copenhagen 2024",
+    "nameId": 2597096
+  },
+  "★ StatTrak™ Survival Knife | Blue Steel (Well-Worn)": {
+    "name": "★ StatTrak™ Survival Knife | Blue Steel (Well-Worn)",
+    "nameId": 1077826
+  },
+  "MAG-7 | Navy Sheen (Battle-Scarred)": {
+    "name": "MAG-7 | Navy Sheen (Battle-Scarred)",
+    "nameId": 1086930
+  },
+  "Souvenir Negev | CaliCamo (Factory New)": {
+    "name": "Souvenir Negev | CaliCamo (Factory New)",
+    "nameId": 1911
+  },
+  "Sticker | AMKAL ESPORTS (Gold) | Copenhagen 2024": {
+    "name": "Sticker | AMKAL ESPORTS (Gold) | Copenhagen 2024",
+    "nameId": 2596822
+  },
+  "★ Stiletto Knife | Blue Steel (Well-Worn)": {
+    "name": "★ Stiletto Knife | Blue Steel (Well-Worn)",
+    "nameId": 38841
+  },
+  "M4A1-S | Mecha Industries (Factory New)": {
+    "name": "M4A1-S | Mecha Industries (Factory New)",
+    "nameId": 1449
+  },
+  "MP7 | Fade (Minimal Wear)": {
+    "name": "MP7 | Fade (Minimal Wear)",
+    "nameId": 170522
+  },
+  "Sticker | degster | Shanghai 2024": {
+    "name": "Sticker | degster | Shanghai 2024",
+    "nameId": 2598310
+  },
+  "MAG-7 | Wildwood (Well-Worn)": {
+    "name": "MAG-7 | Wildwood (Well-Worn)",
+    "nameId": 2598057
+  },
+  "★ StatTrak™ Skeleton Knife | Blue Steel (Field-Tested)": {
+    "name": "★ StatTrak™ Skeleton Knife | Blue Steel (Field-Tested)",
+    "nameId": 1074985
+  },
+  "MP9 | Deadly Poison (Field-Tested)": {
+    "name": "MP9 | Deadly Poison (Field-Tested)",
+    "nameId": 3858
+  },
+  "Sticker | Wildcard (Glitter) | Shanghai 2024": {
+    "name": "Sticker | Wildcard (Glitter) | Shanghai 2024",
+    "nameId": 2598422
+  },
+  "R8 Revolver | Reboot (Well-Worn)": {
+    "name": "R8 Revolver | Reboot (Well-Worn)",
+    "nameId": 2238
+  },
+  "★ StatTrak™ Navaja Knife | Fade (Factory New)": {
+    "name": "★ StatTrak™ Navaja Knife | Fade (Factory New)",
+    "nameId": 38993
+  },
+  "★ Classic Knife | Safari Mesh (Factory New)": {
+    "name": "★ Classic Knife | Safari Mesh (Factory New)",
+    "nameId": 1073794
+  },
+  "StatTrak™ Galil AR | Chromatic Aberration (Factory New)": {
+    "name": "StatTrak™ Galil AR | Chromatic Aberration (Factory New)",
+    "nameId": 1085597
+  },
+  "M249 | Hypnosis (Field-Tested)": {
+    "name": "M249 | Hypnosis (Field-Tested)",
+    "nameId": 2597838
+  },
+  "Negev | Palm (Factory New)": {
+    "name": "Negev | Palm (Factory New)",
+    "nameId": 1839
+  },
+  "Sticker | reltuC | MLG Columbus 2016": {
+    "name": "Sticker | reltuC | MLG Columbus 2016",
+    "nameId": 19720
+  },
+  "StatTrak™ M4A4 | Magnesium (Minimal Wear)": {
+    "name": "StatTrak™ M4A4 | Magnesium (Minimal Wear)",
+    "nameId": 171524
+  },
+  "Sticker | Perfecto (Glitter) | Shanghai 2024": {
+    "name": "Sticker | Perfecto (Glitter) | Shanghai 2024",
+    "nameId": 2598589
+  },
+  "Tec-9 | Urban DDPAT (Field-Tested)": {
+    "name": "Tec-9 | Urban DDPAT (Field-Tested)",
+    "nameId": 3938
+  },
+  "★ Bayonet | Forest DDPAT (Battle-Scarred)": {
+    "name": "★ Bayonet | Forest DDPAT (Battle-Scarred)",
+    "nameId": 7275
+  },
+  "★ Driver Gloves | Crimson Weave (Minimal Wear)": {
+    "name": "★ Driver Gloves | Crimson Weave (Minimal Wear)",
+    "nameId": 1609
+  },
+  "Souvenir CZ75-Auto | Nitro (Factory New)": {
+    "name": "Souvenir CZ75-Auto | Nitro (Factory New)",
+    "nameId": 4720
+  },
+  "★ Kukri Knife | Crimson Web (Field-Tested)": {
+    "name": "★ Kukri Knife | Crimson Web (Field-Tested)",
+    "nameId": 2523188
+  },
+  "Galil AR | Kami (Minimal Wear)": {
+    "name": "Galil AR | Kami (Minimal Wear)",
+    "nameId": 1629
+  },
+  "Sawed-Off | Zander (Field-Tested)": {
+    "name": "Sawed-Off | Zander (Field-Tested)",
+    "nameId": 7721
+  },
+  "Sticker | nitr0 (Gold) | London 2018": {
+    "name": "Sticker | nitr0 (Gold) | London 2018",
+    "nameId": 168955
+  },
+  "CZ75-Auto | Twist (Well-Worn)": {
+    "name": "CZ75-Auto | Twist (Well-Worn)",
+    "nameId": 1219
+  },
+  "Sticker | frozen (Holo) | Shanghai 2024": {
+    "name": "Sticker | frozen (Holo) | Shanghai 2024",
+    "nameId": 2598531
+  },
+  "★ Falchion Knife | Tiger Tooth (Minimal Wear)": {
+    "name": "★ Falchion Knife | Tiger Tooth (Minimal Wear)",
+    "nameId": 18650
+  },
+  "★ StatTrak™ Stiletto Knife | Crimson Web (Battle-Scarred)": {
+    "name": "★ StatTrak™ Stiletto Knife | Crimson Web (Battle-Scarred)",
+    "nameId": 170021
+  },
+  "★ Falchion Knife | Forest DDPAT (Factory New)": {
+    "name": "★ Falchion Knife | Forest DDPAT (Factory New)",
+    "nameId": 716
+  },
+  "Sticker | KRIMZ | Shanghai 2024": {
+    "name": "Sticker | KRIMZ | Shanghai 2024",
+    "nameId": 2598413
+  },
+  "★ Navaja Knife | Slaughter (Minimal Wear)": {
+    "name": "★ Navaja Knife | Slaughter (Minimal Wear)",
+    "nameId": 38699
+  },
+  "Souvenir P90 | Sand Spray (Well-Worn)": {
+    "name": "Souvenir P90 | Sand Spray (Well-Worn)",
+    "nameId": 3078
+  },
+  "Sticker | 3DMAX (Gold) | Shanghai 2024": {
+    "name": "Sticker | 3DMAX (Gold) | Shanghai 2024",
+    "nameId": 2598598
+  },
+  "SCAR-20 | Sand Mesh (Battle-Scarred)": {
+    "name": "SCAR-20 | Sand Mesh (Battle-Scarred)",
+    "nameId": 5752
+  },
+  "Sticker | susp | Shanghai 2024": {
+    "name": "Sticker | susp | Shanghai 2024",
+    "nameId": 2598486
+  },
+  "CZ75-Auto | Twist (Factory New)": {
+    "name": "CZ75-Auto | Twist (Factory New)",
+    "nameId": 7240
+  },
+  "MAG-7 | Cinquedea (Minimal Wear)": {
+    "name": "MAG-7 | Cinquedea (Minimal Wear)",
+    "nameId": 1074935
+  },
+  "Souvenir Sawed-Off | Irradiated Alert (Field-Tested)": {
+    "name": "Souvenir Sawed-Off | Irradiated Alert (Field-Tested)",
+    "nameId": 7824
+  },
+  "★ Huntsman Knife | Scorched (Field-Tested)": {
+    "name": "★ Huntsman Knife | Scorched (Field-Tested)",
+    "nameId": 7083
+  },
+  "SG 553 | Hazard Pay (Well-Worn)": {
+    "name": "SG 553 | Hazard Pay (Well-Worn)",
+    "nameId": 1087657
+  },
+  "Souvenir SG 553 | Lush Ruins (Well-Worn)": {
+    "name": "Souvenir SG 553 | Lush Ruins (Well-Worn)",
+    "nameId": 1088669
+  },
+  "Souvenir XM1014 | VariCamo Blue (Field-Tested)": {
+    "name": "Souvenir XM1014 | VariCamo Blue (Field-Tested)",
+    "nameId": 1780
+  },
+  "StatTrak™ P2000 | Woodsman (Minimal Wear)": {
+    "name": "StatTrak™ P2000 | Woodsman (Minimal Wear)",
+    "nameId": 5464
+  },
+  "Sticker | aNdu | Shanghai 2024": {
+    "name": "Sticker | aNdu | Shanghai 2024",
+    "nameId": 2598516
+  },
+  "Souvenir Nova | Interlock (Field-Tested)": {
+    "name": "Souvenir Nova | Interlock (Field-Tested)",
+    "nameId": 1088647
+  },
+  "Sticker | COLDYY1 (Gold) | London 2018": {
+    "name": "Sticker | COLDYY1 (Gold) | London 2018",
+    "nameId": 167742
+  },
+  "Sticker | Pandamonium": {
+    "name": "Sticker | Pandamonium",
+    "nameId": 11175
+  },
+  "PP-Bizon | Embargo (Factory New)": {
+    "name": "PP-Bizon | Embargo (Factory New)",
+    "nameId": 1074773
+  },
+  "Sticker | BnTeT | London 2018": {
+    "name": "Sticker | BnTeT | London 2018",
+    "nameId": 60211
+  },
+  "StatTrak™ MAC-10 | Toybox (Battle-Scarred)": {
+    "name": "StatTrak™ MAC-10 | Toybox (Battle-Scarred)",
+    "nameId": 1087323
+  },
+  "★ StatTrak™ Stiletto Knife | Crimson Web (Field-Tested)": {
+    "name": "★ StatTrak™ Stiletto Knife | Crimson Web (Field-Tested)",
+    "nameId": 39001
+  },
+  "M4A1-S | Vaporwave (Battle-Scarred)": {
+    "name": "M4A1-S | Vaporwave (Battle-Scarred)",
+    "nameId": 2597933
+  },
+  "Sticker | Team Spirit (Holo) | Stockholm 2021": {
+    "name": "Sticker | Team Spirit (Holo) | Stockholm 2021",
+    "nameId": 1088351
+  },
+  "MAC-10 | Gold Brick (Minimal Wear)": {
+    "name": "MAC-10 | Gold Brick (Minimal Wear)",
+    "nameId": 1083773
+  },
+  "★ StatTrak™ Bowie Knife | Safari Mesh (Minimal Wear)": {
+    "name": "★ StatTrak™ Bowie Knife | Safari Mesh (Minimal Wear)",
+    "nameId": 138
+  },
+  "Sticker | kauez | Shanghai 2024": {
+    "name": "Sticker | kauez | Shanghai 2024",
+    "nameId": 2598493
+  },
+  "Souvenir M4A4 | Mainframe (Battle-Scarred)": {
+    "name": "Souvenir M4A4 | Mainframe (Battle-Scarred)",
+    "nameId": 169004
+  },
+  "StatTrak™ Sawed-Off | Origami (Well-Worn)": {
+    "name": "StatTrak™ Sawed-Off | Origami (Well-Worn)",
+    "nameId": 178
+  },
+  "StatTrak™ MP5-SD | Desert Strike (Battle-Scarred)": {
+    "name": "StatTrak™ MP5-SD | Desert Strike (Battle-Scarred)",
+    "nameId": 1079506
+  },
+  "StatTrak™ MAG-7 | Popdog (Minimal Wear)": {
+    "name": "StatTrak™ MAG-7 | Popdog (Minimal Wear)",
+    "nameId": 1073154
+  },
+  "★ M9 Bayonet | Blue Steel (Well-Worn)": {
+    "name": "★ M9 Bayonet | Blue Steel (Well-Worn)",
+    "nameId": 4067
+  },
+  "Sticker | electronic (Gold) | London 2018": {
+    "name": "Sticker | electronic (Gold) | London 2018",
+    "nameId": 145190
+  },
+  "★ StatTrak™ Flip Knife | Blue Steel (Field-Tested)": {
+    "name": "★ StatTrak™ Flip Knife | Blue Steel (Field-Tested)",
+    "nameId": 19495
+  },
+  "Sticker | pashaBiceps | Cologne 2015": {
+    "name": "Sticker | pashaBiceps | Cologne 2015",
+    "nameId": 7681
+  },
+  "Sticker | v4lde (Foil) | London 2018": {
+    "name": "Sticker | v4lde (Foil) | London 2018",
+    "nameId": 67216
+  },
+  "★ Gut Knife | Autotronic (Battle-Scarred)": {
+    "name": "★ Gut Knife | Autotronic (Battle-Scarred)",
+    "nameId": 12735
+  },
+  "Souvenir UMP-45 | Gunsmoke (Minimal Wear)": {
+    "name": "Souvenir UMP-45 | Gunsmoke (Minimal Wear)",
+    "nameId": 19846
+  },
+  "Sticker | aliStair (Glitter) | Shanghai 2024": {
+    "name": "Sticker | aliStair (Glitter) | Shanghai 2024",
+    "nameId": 2598620
   }
 }
