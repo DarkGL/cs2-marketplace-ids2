@@ -11,7 +11,7 @@ import type { CSMoneyResponse, Item as ItemTrade } from './types/CSMoneyResponse
 import type { CSMoneyMarketResponse } from './types/CSMoneyMarket.response.js';
 import type { Item as ItemMarket } from './types/CSMoneyMarket.response.js';
 
-const MAX_DOWNLOAD = 250;
+const MAX_DOWNLOAD = 500;
 
 async function loadAllCS2Items() {
     const response = await request('https://bymykel.github.io/CSGO-API/api/en/all.json').then(
