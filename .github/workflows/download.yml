@@ -54,9 +54,6 @@ jobs:
       - name: Download items
         run: npm run start
 
-      - name: Expose git commit data
-        uses: rlespinasse/git-commit-data-action@v1 ## https://github.com/rlespinasse/git-commit-data-action
-
       - name: push
         uses: EndBug/add-and-commit@v9
         with:
