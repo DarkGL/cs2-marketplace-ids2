@@ -87462,5 +87462,361 @@
   "MP9 | Wild Lily (Battle-Scarred)": {
     "name": "MP9 | Wild Lily (Battle-Scarred)",
     "nameId": 1075059
+  },
+  "Galil AR | Hunting Blind (Battle-Scarred)": {
+    "name": "Galil AR | Hunting Blind (Battle-Scarred)",
+    "nameId": 19156
+  },
+  "StatTrak™ Music Kit | Sean Murray, A*D*8": {
+    "name": "StatTrak™ Music Kit | Sean Murray, A*D*8",
+    "nameId": 9332
+  },
+  "P90 | Schematic (Field-Tested)": {
+    "name": "P90 | Schematic (Field-Tested)",
+    "nameId": 1087295
+  },
+  "UMP-45 | Minotaur's Labyrinth (Minimal Wear)": {
+    "name": "UMP-45 | Minotaur's Labyrinth (Minimal Wear)",
+    "nameId": 62
+  },
+  "MAC-10 | Gold Brick (Well-Worn)": {
+    "name": "MAC-10 | Gold Brick (Well-Worn)",
+    "nameId": 1083778
+  },
+  "Sticker | gob b (Foil) | Cologne 2015": {
+    "name": "Sticker | gob b (Foil) | Cologne 2015",
+    "nameId": 19562
+  },
+  "UMP-45 | Day Lily (Battle-Scarred)": {
+    "name": "UMP-45 | Day Lily (Battle-Scarred)",
+    "nameId": 1075015
+  },
+  "Sticker | TACO (Gold) | Berlin 2019": {
+    "name": "Sticker | TACO (Gold) | Berlin 2019",
+    "nameId": 874887
+  },
+  "Sticker | hazed (Foil) | Cologne 2015": {
+    "name": "Sticker | hazed (Foil) | Cologne 2015",
+    "nameId": 19964
+  },
+  "Tec-9 | Rust Leaf (Battle-Scarred)": {
+    "name": "Tec-9 | Rust Leaf (Battle-Scarred)",
+    "nameId": 1074879
+  },
+  "MP9 | Green Plaid (Well-Worn)": {
+    "name": "MP9 | Green Plaid (Well-Worn)",
+    "nameId": 16301
+  },
+  "Sticker | olofmeister (Foil) | Atlanta 2017": {
+    "name": "Sticker | olofmeister (Foil) | Atlanta 2017",
+    "nameId": 19938
+  },
+  "Sticker | TENZKI | Cologne 2016": {
+    "name": "Sticker | TENZKI | Cologne 2016",
+    "nameId": 15748
+  },
+  "Sawed-Off | Mosaico (Factory New)": {
+    "name": "Sawed-Off | Mosaico (Factory New)",
+    "nameId": 15339
+  },
+  "Sticker | DAVEY | MLG Columbus 2016": {
+    "name": "Sticker | DAVEY | MLG Columbus 2016",
+    "nameId": 18097
+  },
+  "Sticker | GuardiaN (Gold) | Katowice 2019": {
+    "name": "Sticker | GuardiaN (Gold) | Katowice 2019",
+    "nameId": 195145
+  },
+  "★ M9 Bayonet | Safari Mesh (Minimal Wear)": {
+    "name": "★ M9 Bayonet | Safari Mesh (Minimal Wear)",
+    "nameId": 2956
+  },
+  "Sticker | kioShiMa (Foil) | Atlanta 2017": {
+    "name": "Sticker | kioShiMa (Foil) | Atlanta 2017",
+    "nameId": 20145
+  },
+  "Sticker | markeloff (Foil) | Cluj-Napoca 2015": {
+    "name": "Sticker | markeloff (Foil) | Cluj-Napoca 2015",
+    "nameId": 16748
+  },
+  "Sticker | SmithZz (Foil) | Cologne 2016": {
+    "name": "Sticker | SmithZz (Foil) | Cologne 2016",
+    "nameId": 21073
+  },
+  "Sticker | pashaBiceps (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | pashaBiceps (Foil) | MLG Columbus 2016",
+    "nameId": 9574
+  },
+  "Sticker | Magisk (Foil) | London 2018": {
+    "name": "Sticker | Magisk (Foil) | London 2018",
+    "nameId": 60731
+  },
+  "SSG 08 | Detour (Well-Worn)": {
+    "name": "SSG 08 | Detour (Well-Worn)",
+    "nameId": 2358
+  },
+  "MP9 | Stained Glass (Well-Worn)": {
+    "name": "MP9 | Stained Glass (Well-Worn)",
+    "nameId": 1075016
+  },
+  "Sticker | Pimp (Foil) | Cluj-Napoca 2015": {
+    "name": "Sticker | Pimp (Foil) | Cluj-Napoca 2015",
+    "nameId": 20191
+  },
+  "Sticker | Ex6TenZ | MLG Columbus 2016": {
+    "name": "Sticker | Ex6TenZ | MLG Columbus 2016",
+    "nameId": 13510
+  },
+  "Sticker | magixx (Gold) | Copenhagen 2024": {
+    "name": "Sticker | magixx (Gold) | Copenhagen 2024",
+    "nameId": 2597020
+  },
+  "★ StatTrak™ Ursus Knife | Scorched (Well-Worn)": {
+    "name": "★ StatTrak™ Ursus Knife | Scorched (Well-Worn)",
+    "nameId": 39092
+  },
+  "Sticker | Hiko (Foil) | London 2018": {
+    "name": "Sticker | Hiko (Foil) | London 2018",
+    "nameId": 61734
+  },
+  "Sticker | koosta (Foil) | Cologne 2016": {
+    "name": "Sticker | koosta (Foil) | Cologne 2016",
+    "nameId": 19767
+  },
+  "Sticker | chelo (Gold) | Berlin 2019": {
+    "name": "Sticker | chelo (Gold) | Berlin 2019",
+    "nameId": 1071358
+  },
+  "MAG-7 | Cinquedea (Field-Tested)": {
+    "name": "MAG-7 | Cinquedea (Field-Tested)",
+    "nameId": 1074944
+  },
+  "P2000 | Silver (Minimal Wear)": {
+    "name": "P2000 | Silver (Minimal Wear)",
+    "nameId": 8117
+  },
+  "★ StatTrak™ Stiletto Knife | Forest DDPAT (Field-Tested)": {
+    "name": "★ StatTrak™ Stiletto Knife | Forest DDPAT (Field-Tested)",
+    "nameId": 38747
+  },
+  "★ Talon Knife | Stained (Factory New)": {
+    "name": "★ Talon Knife | Stained (Factory New)",
+    "nameId": 39066
+  },
+  "Sticker | tenzki | Cluj-Napoca 2015": {
+    "name": "Sticker | tenzki | Cluj-Napoca 2015",
+    "nameId": 19936
+  },
+  "Sticker | Team Liquid (Foil) | Cologne 2016": {
+    "name": "Sticker | Team Liquid (Foil) | Cologne 2016",
+    "nameId": 12895
+  },
+  "★ Driver Gloves | Convoy (Factory New)": {
+    "name": "★ Driver Gloves | Convoy (Factory New)",
+    "nameId": 1790
+  },
+  "★ Hydra Gloves | Rattler (Factory New)": {
+    "name": "★ Hydra Gloves | Rattler (Factory New)",
+    "nameId": 30062
+  },
+  "★ Specialist Gloves | Foundation (Factory New)": {
+    "name": "★ Specialist Gloves | Foundation (Factory New)",
+    "nameId": 20451
+  },
+  "MAG-7 | Hazard (Battle-Scarred)": {
+    "name": "MAG-7 | Hazard (Battle-Scarred)",
+    "nameId": 18785
+  },
+  "Sticker | rain (Gold) | London 2018": {
+    "name": "Sticker | rain (Gold) | London 2018",
+    "nameId": 134837
+  },
+  "Sticker | zeRRoFIX (Holo) | Shanghai 2024": {
+    "name": "Sticker | zeRRoFIX (Holo) | Shanghai 2024",
+    "nameId": 2598581
+  },
+  "Sticker | Titan (Foil) | Katowice 2015": {
+    "name": "Sticker | Titan (Foil) | Katowice 2015",
+    "nameId": 9829
+  },
+  "★ Broken Fang Gloves | Unhinged (Factory New)": {
+    "name": "★ Broken Fang Gloves | Unhinged (Factory New)",
+    "nameId": 1084180
+  },
+  "SCAR-20 | Stone Mosaico (Battle-Scarred)": {
+    "name": "SCAR-20 | Stone Mosaico (Battle-Scarred)",
+    "nameId": 1074750
+  },
+  "Sticker | bondik (Foil) | Cluj-Napoca 2015": {
+    "name": "Sticker | bondik (Foil) | Cluj-Napoca 2015",
+    "nameId": 21549
+  },
+  "Sticker | KRIMZ (Foil) | Cologne 2015": {
+    "name": "Sticker | KRIMZ (Foil) | Cologne 2015",
+    "nameId": 1923
+  },
+  "Sticker | Snax (Gold) | Shanghai 2024": {
+    "name": "Sticker | Snax (Gold) | Shanghai 2024",
+    "nameId": 2598695
+  },
+  "Sticker | Snappi (Gold) | London 2018": {
+    "name": "Sticker | Snappi (Gold) | London 2018",
+    "nameId": 167775
+  },
+  "Nova | Blaze Orange (Factory New)": {
+    "name": "Nova | Blaze Orange (Factory New)",
+    "nameId": 19511
+  },
+  "Sticker | frozen (Gold) | Copenhagen 2024": {
+    "name": "Sticker | frozen (Gold) | Copenhagen 2024",
+    "nameId": 2597065
+  },
+  "★ StatTrak™ Ursus Knife | Marble Fade (Minimal Wear)": {
+    "name": "★ StatTrak™ Ursus Knife | Marble Fade (Minimal Wear)",
+    "nameId": 550072
+  },
+  "Sticker | bondik | MLG Columbus 2016": {
+    "name": "Sticker | bondik | MLG Columbus 2016",
+    "nameId": 3886
+  },
+  "StatTrak™ M249 | Emerald Poison Dart (Well-Worn)": {
+    "name": "StatTrak™ M249 | Emerald Poison Dart (Well-Worn)",
+    "nameId": 213
+  },
+  "Sticker | speed4k (Gold) | Berlin 2019": {
+    "name": "Sticker | speed4k (Gold) | Berlin 2019",
+    "nameId": 1071377
+  },
+  "Sticker | rallen (Foil) | Cologne 2015": {
+    "name": "Sticker | rallen (Foil) | Cologne 2015",
+    "nameId": 19470
+  },
+  "MAG-7 | Cinquedea (Battle-Scarred)": {
+    "name": "MAG-7 | Cinquedea (Battle-Scarred)",
+    "nameId": 1075003
+  },
+  "★ StatTrak™ Gut Knife | Case Hardened (Minimal Wear)": {
+    "name": "★ StatTrak™ Gut Knife | Case Hardened (Minimal Wear)",
+    "nameId": 1849
+  },
+  "★ Falchion Knife | Stained (Minimal Wear)": {
+    "name": "★ Falchion Knife | Stained (Minimal Wear)",
+    "nameId": 4918
+  },
+  "MAG-7 | Storm (Factory New)": {
+    "name": "MAG-7 | Storm (Factory New)",
+    "nameId": 388
+  },
+  "Sticker | S0tF1k | London 2018": {
+    "name": "Sticker | S0tF1k | London 2018",
+    "nameId": 60735
+  },
+  "★ Falchion Knife | Ultraviolet (Well-Worn)": {
+    "name": "★ Falchion Knife | Ultraviolet (Well-Worn)",
+    "nameId": 10950
+  },
+  "Sticker | DD (Gold) | London 2018": {
+    "name": "Sticker | DD (Gold) | London 2018",
+    "nameId": 155547
+  },
+  "Sticker | Hyper | Cluj-Napoca 2015": {
+    "name": "Sticker | Hyper | Cluj-Napoca 2015",
+    "nameId": 19436
+  },
+  "★ Bowie Knife | Forest DDPAT (Factory New)": {
+    "name": "★ Bowie Knife | Forest DDPAT (Factory New)",
+    "nameId": 20943
+  },
+  "Sticker | lux (Glitter) | Shanghai 2024": {
+    "name": "Sticker | lux (Glitter) | Shanghai 2024",
+    "nameId": 2598644
+  },
+  "★ StatTrak™ Gut Knife | Damascus Steel (Battle-Scarred)": {
+    "name": "★ StatTrak™ Gut Knife | Damascus Steel (Battle-Scarred)",
+    "nameId": 20942
+  },
+  "Sticker | FalleN (Foil) | Atlanta 2017": {
+    "name": "Sticker | FalleN (Foil) | Atlanta 2017",
+    "nameId": 18750
+  },
+  "★ Falchion Knife | Lore (Well-Worn)": {
+    "name": "★ Falchion Knife | Lore (Well-Worn)",
+    "nameId": 1087742
+  },
+  "Sticker | apEX (Foil) | Cluj-Napoca 2015": {
+    "name": "Sticker | apEX (Foil) | Cluj-Napoca 2015",
+    "nameId": 19273
+  },
+  "Sticker | n0rb3r7 (Glitter) | Shanghai 2024": {
+    "name": "Sticker | n0rb3r7 (Glitter) | Shanghai 2024",
+    "nameId": 2598774
+  },
+  "Sticker | Snax (Foil) | Cologne 2016": {
+    "name": "Sticker | Snax (Foil) | Cologne 2016",
+    "nameId": 19044
+  },
+  "Sticker | jdm64 (Foil) | Atlanta 2017": {
+    "name": "Sticker | jdm64 (Foil) | Atlanta 2017",
+    "nameId": 19549
+  },
+  "Sawed-Off | First Class (Field-Tested)": {
+    "name": "Sawed-Off | First Class (Field-Tested)",
+    "nameId": 2969
+  },
+  "Sticker | DavCost (Gold) | Katowice 2019": {
+    "name": "Sticker | DavCost (Gold) | Katowice 2019",
+    "nameId": 195695
+  },
+  "★ StatTrak™ Survival Knife | Night Stripe (Minimal Wear)": {
+    "name": "★ StatTrak™ Survival Knife | Night Stripe (Minimal Wear)",
+    "nameId": 1077819
+  },
+  "★ Karambit | Urban Masked (Factory New)": {
+    "name": "★ Karambit | Urban Masked (Factory New)",
+    "nameId": 7671
+  },
+  "Sticker | North (Holo) | Atlanta 2017": {
+    "name": "Sticker | North (Holo) | Atlanta 2017",
+    "nameId": 15751
+  },
+  "★ Karambit | Safari Mesh (Battle-Scarred)": {
+    "name": "★ Karambit | Safari Mesh (Battle-Scarred)",
+    "nameId": 4137
+  },
+  "Sticker | gade (Foil) | London 2018": {
+    "name": "Sticker | gade (Foil) | London 2018",
+    "nameId": 62194
+  },
+  "★ Gut Knife | Damascus Steel (Battle-Scarred)": {
+    "name": "★ Gut Knife | Damascus Steel (Battle-Scarred)",
+    "nameId": 3355
+  },
+  "Galil AR | Shattered (Battle-Scarred)": {
+    "name": "Galil AR | Shattered (Battle-Scarred)",
+    "nameId": 7170
+  },
+  "Sticker | kennyS (Foil) | Cologne 2016": {
+    "name": "Sticker | kennyS (Foil) | Cologne 2016",
+    "nameId": 16253
+  },
+  "Nova | Rising Skull (Well-Worn)": {
+    "name": "Nova | Rising Skull (Well-Worn)",
+    "nameId": 19168
+  },
+  "★ Butterfly Knife | Black Laminate (Well-Worn)": {
+    "name": "★ Butterfly Knife | Black Laminate (Well-Worn)",
+    "nameId": 1087568
+  },
+  "Sticker | B1ad3 | MLG Columbus 2016": {
+    "name": "Sticker | B1ad3 | MLG Columbus 2016",
+    "nameId": 8758
+  },
+  "★ Shadow Daggers | Bright Water (Battle-Scarred)": {
+    "name": "★ Shadow Daggers | Bright Water (Battle-Scarred)",
+    "nameId": 1087644
+  },
+  "Sticker | Zero (Foil) | Atlanta 2017": {
+    "name": "Sticker | Zero (Foil) | Atlanta 2017",
+    "nameId": 14445
   }
 }
