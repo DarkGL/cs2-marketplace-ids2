@@ -263,13 +263,18 @@ async function main() {
     for (const item of shuffledKeys) {
         const currentItem = allCS2Items[item];
 
-        if (!currentItem || !currentItem.market_hash_name || csmoneyIdsKeys.includes(currentItem.market_hash_name)) {
+        if (
+            !currentItem ||
+            !currentItem.market_hash_name ||
+            csmoneyIdsKeys.includes(currentItem.market_hash_name)
+        ) {
             continue;
         }
 
-        const itemMoneyId = await loadItemFromCSMoneyTrade(currentItem.market_hash_name) 
-            ?? await loadItemFromCSMoneyMarket(currentItem.market_hash_name)
-            ?? await loadItemFromCSMoneyPage(currentItem.market_hash_name);
+        const itemMoneyId =
+            (await loadItemFromCSMoneyTrade(currentItem.market_hash_name)) ??
+            (await loadItemFromCSMoneyMarket(currentItem.market_hash_name)) ??
+            (await loadItemFromCSMoneyPage(currentItem.market_hash_name));
 
         if (!itemMoneyId) {
             await sleep(5000);
