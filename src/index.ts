@@ -263,27 +263,13 @@ async function main() {
     for (const item of shuffledKeys) {
         const currentItem = allCS2Items[item];
 
-        if (!currentItem) {
+        if (!currentItem || !currentItem.market_hash_name || csmoneyIdsKeys.includes(currentItem.market_hash_name)) {
             continue;
         }
 
-        if (!currentItem.market_hash_name) {
-            continue;
-        }
-
-        if (csmoneyIdsKeys.includes(currentItem.market_hash_name)) {
-            continue;
-        }
-
-        let itemMoneyId = await loadItemFromCSMoneyTrade(currentItem.market_hash_name);
-
-        if (!itemMoneyId) {
-            itemMoneyId = await loadItemFromCSMoneyMarket(currentItem.market_hash_name);
-        }
-
-        if (!itemMoneyId) {
-            itemMoneyId = await loadItemFromCSMoneyPage(currentItem.market_hash_name);
-        }
+        const itemMoneyId = await loadItemFromCSMoneyTrade(currentItem.market_hash_name) 
+            ?? await loadItemFromCSMoneyMarket(currentItem.market_hash_name)
+            ?? await loadItemFromCSMoneyPage(currentItem.market_hash_name);
 
         if (!itemMoneyId) {
             await sleep(5000);
