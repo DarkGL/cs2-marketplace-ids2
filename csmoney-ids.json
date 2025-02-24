@@ -90834,5 +90834,169 @@
   "★ StatTrak™ Bayonet | Autotronic (Well-Worn)": {
     "name": "★ StatTrak™ Bayonet | Autotronic (Well-Worn)",
     "nameId": 25209
+  },
+  "MAC-10 | Red Filigree (Battle-Scarred)": {
+    "name": "MAC-10 | Red Filigree (Battle-Scarred)",
+    "nameId": 1074982
+  },
+  "★ StatTrak™ Flip Knife | Bright Water (Well-Worn)": {
+    "name": "★ StatTrak™ Flip Knife | Bright Water (Well-Worn)",
+    "nameId": 26677
+  },
+  "Souvenir P90 | Storm (Factory New)": {
+    "name": "Souvenir P90 | Storm (Factory New)",
+    "nameId": 8788
+  },
+  "★ StatTrak™ Stiletto Knife | Crimson Web (Well-Worn)": {
+    "name": "★ StatTrak™ Stiletto Knife | Crimson Web (Well-Worn)",
+    "nameId": 60073
+  },
+  "★ StatTrak™ Butterfly Knife | Slaughter (Minimal Wear)": {
+    "name": "★ StatTrak™ Butterfly Knife | Slaughter (Minimal Wear)",
+    "nameId": 13642
+  },
+  "Sticker | hazed (Foil) | MLG Columbus 2016": {
+    "name": "Sticker | hazed (Foil) | MLG Columbus 2016",
+    "nameId": 22550
+  },
+  "★ StatTrak™ Navaja Knife | Case Hardened (Battle-Scarred)": {
+    "name": "★ StatTrak™ Navaja Knife | Case Hardened (Battle-Scarred)",
+    "nameId": 170390
+  },
+  "★ StatTrak™ Skeleton Knife | Stained (Minimal Wear)": {
+    "name": "★ StatTrak™ Skeleton Knife | Stained (Minimal Wear)",
+    "nameId": 1077388
+  },
+  "★ StatTrak™ M9 Bayonet | Black Laminate (Well-Worn)": {
+    "name": "★ StatTrak™ M9 Bayonet | Black Laminate (Well-Worn)",
+    "nameId": 19639
+  },
+  "★ StatTrak™ Kukri Knife | Safari Mesh (Factory New)": {
+    "name": "★ StatTrak™ Kukri Knife | Safari Mesh (Factory New)",
+    "nameId": 2597674
+  },
+  "StatTrak™ XM1014 | Tranquility (Battle-Scarred)": {
+    "name": "StatTrak™ XM1014 | Tranquility (Battle-Scarred)",
+    "nameId": 342
+  },
+  "★ StatTrak™ Huntsman Knife | Case Hardened (Well-Worn)": {
+    "name": "★ StatTrak™ Huntsman Knife | Case Hardened (Well-Worn)",
+    "nameId": 16242
+  },
+  "★ StatTrak™ Classic Knife | Blue Steel (Field-Tested)": {
+    "name": "★ StatTrak™ Classic Knife | Blue Steel (Field-Tested)",
+    "nameId": 1073325
+  },
+  "★ StatTrak™ Butterfly Knife | Case Hardened (Well-Worn)": {
+    "name": "★ StatTrak™ Butterfly Knife | Case Hardened (Well-Worn)",
+    "nameId": 7767
+  },
+  "Souvenir M4A1-S | Imminent Danger (Battle-Scarred)": {
+    "name": "Souvenir M4A1-S | Imminent Danger (Battle-Scarred)",
+    "nameId": 1088999
+  },
+  "Sticker | JT (Gold) | Shanghai 2024": {
+    "name": "Sticker | JT (Gold) | Shanghai 2024",
+    "nameId": 2598867
+  },
+  "★ StatTrak™ Talon Knife | Blue Steel (Field-Tested)": {
+    "name": "★ StatTrak™ Talon Knife | Blue Steel (Field-Tested)",
+    "nameId": 39065
+  },
+  "Sticker | bodyy (Gold) | Shanghai 2024": {
+    "name": "Sticker | bodyy (Gold) | Shanghai 2024",
+    "nameId": 2598754
+  },
+  "★ StatTrak™ Talon Knife | Boreal Forest (Battle-Scarred)": {
+    "name": "★ StatTrak™ Talon Knife | Boreal Forest (Battle-Scarred)",
+    "nameId": 39177
+  },
+  "★ StatTrak™ Stiletto Knife | Blue Steel (Factory New)": {
+    "name": "★ StatTrak™ Stiletto Knife | Blue Steel (Factory New)",
+    "nameId": 170813
+  },
+  "StatTrak™ M249 | Magma (Well-Worn)": {
+    "name": "StatTrak™ M249 | Magma (Well-Worn)",
+    "nameId": 1517
+  },
+  "★ StatTrak™ Huntsman Knife | Scorched (Battle-Scarred)": {
+    "name": "★ StatTrak™ Huntsman Knife | Scorched (Battle-Scarred)",
+    "nameId": 22964
+  },
+  "Sticker | device (Foil) | Cologne 2016": {
+    "name": "Sticker | device (Foil) | Cologne 2016",
+    "nameId": 14676
+  },
+  "Sticker | Liazz (Gold) | Shanghai 2024": {
+    "name": "Sticker | Liazz (Gold) | Shanghai 2024",
+    "nameId": 2598678
+  },
+  "★ StatTrak™ Butterfly Knife | Crimson Web (Minimal Wear)": {
+    "name": "★ StatTrak™ Butterfly Knife | Crimson Web (Minimal Wear)",
+    "nameId": 20561
+  },
+  "Souvenir Dual Berettas | Twin Turbo (Factory New)": {
+    "name": "Souvenir Dual Berettas | Twin Turbo (Factory New)",
+    "nameId": 169029
+  },
+  "★ StatTrak™ Flip Knife | Urban Masked (Battle-Scarred)": {
+    "name": "★ StatTrak™ Flip Knife | Urban Masked (Battle-Scarred)",
+    "nameId": 26924
+  },
+  "StatTrak™ Galil AR | Orange DDPAT (Factory New)": {
+    "name": "StatTrak™ Galil AR | Orange DDPAT (Factory New)",
+    "nameId": 19219
+  },
+  "★ StatTrak™ Falchion Knife | Crimson Web (Battle-Scarred)": {
+    "name": "★ StatTrak™ Falchion Knife | Crimson Web (Battle-Scarred)",
+    "nameId": 3459
+  },
+  "P250 | Modern Hunter (Battle-Scarred)": {
+    "name": "P250 | Modern Hunter (Battle-Scarred)",
+    "nameId": 19740
+  },
+  "StatTrak™ AWP | Oni Taiji (Battle-Scarred)": {
+    "name": "StatTrak™ AWP | Oni Taiji (Battle-Scarred)",
+    "nameId": 21670
+  },
+  "★ StatTrak™ M9 Bayonet | Stained (Field-Tested)": {
+    "name": "★ StatTrak™ M9 Bayonet | Stained (Field-Tested)",
+    "nameId": 5722
+  },
+  "★ StatTrak™ Butterfly Knife | Damascus Steel (Minimal Wear)": {
+    "name": "★ StatTrak™ Butterfly Knife | Damascus Steel (Minimal Wear)",
+    "nameId": 17584
+  },
+  "P90 | Emerald Dragon (Factory New)": {
+    "name": "P90 | Emerald Dragon (Factory New)",
+    "nameId": 2105
+  },
+  "Souvenir USP-S | Forest Leaves (Minimal Wear)": {
+    "name": "Souvenir USP-S | Forest Leaves (Minimal Wear)",
+    "nameId": 19776
+  },
+  "★ StatTrak™ Skeleton Knife | Stained (Factory New)": {
+    "name": "★ StatTrak™ Skeleton Knife | Stained (Factory New)",
+    "nameId": 1079006
+  },
+  "Souvenir M4A1-S | Control Panel (Factory New)": {
+    "name": "Souvenir M4A1-S | Control Panel (Factory New)",
+    "nameId": 171652
+  },
+  "Souvenir Galil AR | VariCamo (Battle-Scarred)": {
+    "name": "Souvenir Galil AR | VariCamo (Battle-Scarred)",
+    "nameId": 24976
+  },
+  "★ StatTrak™ Falchion Knife | Damascus Steel (Factory New)": {
+    "name": "★ StatTrak™ Falchion Knife | Damascus Steel (Factory New)",
+    "nameId": 2153
+  },
+  "★ StatTrak™ Talon Knife | Urban Masked (Well-Worn)": {
+    "name": "★ StatTrak™ Talon Knife | Urban Masked (Well-Worn)",
+    "nameId": 171150
+  },
+  "StatTrak™ Tec-9 | Titanium Bit (Field-Tested)": {
+    "name": "StatTrak™ Tec-9 | Titanium Bit (Field-Tested)",
+    "nameId": 19741
   }
 }
